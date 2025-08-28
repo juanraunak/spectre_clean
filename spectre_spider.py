@@ -1152,6 +1152,7 @@ def save_json(data: Any, path: str) -> None:
         print(f"💾 Saved JSON to {path}")
     except Exception as e:
         print(f"❌ Failed to save JSON to {path}: {e}")
+
 async def run_spectre_spider_with_config(config: Dict[str, Any]) -> Dict[str, Any]:
     """
     Function interface for orchestrator integration

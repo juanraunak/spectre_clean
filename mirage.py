@@ -588,16 +588,12 @@ Rules:
 
 
 # =============================================================================
-# Step 2: Target Profile Building (STRICT, GPT-only, no fallbacks)
+# Step 2: Target Profile Building (FIXED VERSION)
 # =============================================================================
 
 class TargetProfileBuilder:
     """
-    STRICT mode:
-    - One GPT call per employee.
-    - Requires exact JSON object with required fields.
-    - No department inference, no experience parsing, no skill cleanup.
-    - If schema wrong or values null/empty -> skip profile (log warning).
+    IMPROVED version with better error handling and fallback parsing
     """
 
     _DEPT_ENUM = {
@@ -607,7 +603,7 @@ class TargetProfileBuilder:
 
     def __init__(self, gpt_client: AzureGPTClient):
         self.gpt = gpt_client
-        logger.info("TargetProfileBuilder initialized (STRICT, GPT-only)")
+        logger.info("TargetProfileBuilder initialized (IMPROVED with fallbacks)")
 
     async def build_target_profiles(self, employee_data: List[Dict]) -> List[TargetEmployeeProfile]:
         logger.info("STEP 2: TARGET PROFILE BUILDING")
@@ -618,20 +614,23 @@ class TargetProfileBuilder:
 
         logger.info(f"Building profiles for {len(employee_data)} employees")
 
-        batch_size = 5
         all_profiles: List[TargetEmployeeProfile] = []
 
-        for i in range(0, len(employee_data), batch_size):
-            batch = employee_data[i:i+batch_size]
-            logger.info(f"   Processing batch {i//batch_size + 1}/{(len(employee_data)-1)//batch_size + 1}")
-            tasks = [self._build_single_profile(emp) for emp in batch]
-            results = await asyncio.gather(*tasks, return_exceptions=True)
-            for r in results:
-                if isinstance(r, TargetEmployeeProfile):
-                    all_profiles.append(r)
-                elif isinstance(r, Exception):
-                    logger.warning(f"Profile building failed: {r}")
-            await asyncio.sleep(0.25)
+        for emp in employee_data:
+            try:
+                profile = await self._build_single_profile(emp)
+                if profile:
+                    all_profiles.append(profile)
+                else:
+                    # Try fallback method if GPT fails
+                    fallback_profile = self._create_fallback_profile(emp)
+                    if fallback_profile:
+                        all_profiles.append(fallback_profile)
+            except Exception as e:
+                logger.warning(f"Profile building failed for employee: {e}")
+                fallback_profile = self._create_fallback_profile(emp)
+                if fallback_profile:
+                    all_profiles.append(fallback_profile)
 
         logger.info(f"Built {len(all_profiles)} target profiles")
         return all_profiles
@@ -641,88 +640,147 @@ class TargetProfileBuilder:
         if not raw.get("name"):
             return None
 
-        system_prompt = """You are an HR analyst.
+        system_prompt = """You are an HR analyst. Extract information from the provided employee data.
 
-Return EXACTLY one JSON object (no prose, no code fences) with this schema:
-
+Return a JSON object with this structure:
 {
   "name": "Full Name",
   "title": "Job Title",
-  "department": "Engineering|Sales|Marketing|Finance|Operations|Product|Data|Design|HR|Legal|Support|Other",
-  "experience_years": 0.0,
-  "key_skills": ["skill1","skill2","skill3"],
+  "department": "Department",
+  "experience_years": 5.0,
+  "key_skills": ["skill1", "skill2", "skill3"],
   "company": "Company Name"
 }
 
-STRICT RULES:
-- All fields are REQUIRED and must be non-null.
-- "experience_years" MUST be a number (int/float), not a string.
-- "key_skills" MUST be a JSON array of 3–7 short strings (no null/empty).
-- "department" MUST be exactly one of the enumerated values above.
-- No extra fields anywhere.
-- If you cannot comply EXACTLY, return the literal string SCHEMA_ERROR."""
+Guidelines:
+- If information is missing, make reasonable inferences
+- For department, choose from: Engineering, Sales, Marketing, Finance, Operations, Product, Data, Design, HR, Legal, Support, Other
+- For experience_years, estimate based on title (entry-level: 1-3, mid-level: 4-7, senior: 8+)
+- For key_skills, suggest 3-5 relevant skills based on the role
+- Keep responses concise and accurate"""
 
-        user_prompt = f"""Input:
-Name: {raw.get('name','')}
-Title: {raw.get('title','')}
-Company: {raw.get('company','')}
-Location: {raw.get('location','')}"""
+        user_prompt = f"""Please analyze this employee profile:
 
-        logger.debug("Making GPT request (temp=0.1)")
+Name: {raw.get('name','Unknown')}
+Title: {raw.get('title','Not specified')}
+Company: {raw.get('company','Not specified')}
+Location: {raw.get('location','Not specified')}
+
+Provide the JSON analysis:"""
+
         try:
             content = await self.gpt.chat_completion(system_prompt, user_prompt, temperature=0.1, max_tokens=500)
+            
+            if not content:
+                return None
+
+            # Try to extract JSON from response
+            json_match = re.search(r'\{.*\}', content, re.DOTALL)
+            if json_match:
+                content = json_match.group(0)
+            
+            data = safe_json_parse(content)
+            if not data:
+                return None
+
+            # Validate required fields with fallbacks
+            name = data.get("name") or raw.get("name") or "Unknown"
+            title = data.get("title") or raw.get("title") or "Unknown Position"
+            company = data.get("company") or raw.get("company") or "Unknown Company"
+            
+            # Department with validation
+            dept = data.get("department", "").strip()
+            if dept not in self._DEPT_ENUM:
+                dept = self._infer_department(title)
+            
+            # Experience with validation
+            try:
+                exp = float(data.get("experience_years", 5.0))
+            except (ValueError, TypeError):
+                exp = self._estimate_experience(title)
+            
+            # Skills with validation
+            skills = data.get("key_skills", [])
+            if not skills or not isinstance(skills, list):
+                skills = self._suggest_skills(title, dept)
+            
+            return TargetEmployeeProfile(
+                name=name.strip(),
+                title=title.strip(),
+                department=dept,
+                experience_years=exp,
+                key_skills=[s.strip() for s in skills if s and isinstance(s, str)],
+                company=company.strip()
+            )
+            
         except Exception as e:
-            raise e
-
-        if not content or content.strip() == "SCHEMA_ERROR":
-            logger.warning("Profile JSON: SCHEMA_ERROR or empty")
+            logger.warning(f"GPT profile analysis failed: {e}")
             return None
 
-        data = safe_json_parse(content)
-        if not isinstance(data, dict):
-            logger.warning("Profile JSON is not an object")
+    def _create_fallback_profile(self, employee: Dict) -> Optional[TargetEmployeeProfile]:
+        """Create a basic profile when GPT analysis fails"""
+        raw = self._extract_employee_data(employee)
+        if not raw.get("name"):
             return None
 
-        # Ensure exactly the required keys
-        if set(data.keys()) != {"name","title","department","experience_years","key_skills","company"}:
-            logger.warning("Profile JSON has unexpected keys")
-            return None
-
-        name = data.get("name")
-        title = data.get("title")
-        dept = data.get("department")
-        exp = data.get("experience_years")
-        skills = data.get("key_skills")
-        company = data.get("company")
-
-        # Strict type checks (no coercion)
-        if not (isinstance(name, str) and name.strip()):
-            logger.warning("Invalid name")
-            return None
-        if not (isinstance(title, str) and title.strip()):
-            logger.warning("Invalid title")
-            return None
-        if not (isinstance(dept, str) and dept in self._DEPT_ENUM):
-            logger.warning("Invalid department")
-            return None
-        if not (isinstance(exp, (int, float)) and float(exp) >= 0.0):
-            logger.warning("Invalid experience_years")
-            return None
-        if not (isinstance(skills, list) and 3 <= len(skills) <= 7 and all(isinstance(s, str) and s.strip() for s in skills)):
-            logger.warning("Invalid key_skills")
-            return None
-        if not (isinstance(company, str) and company.strip()):
-            logger.warning("Invalid company")
-            return None
-
+        name = raw.get("name", "Unknown Employee")
+        title = raw.get("title", "Unknown Position")
+        company = raw.get("company", "Unknown Company")
+        
         return TargetEmployeeProfile(
-            name=name.strip(),
-            title=title.strip(),
-            department=dept,
-            experience_years=float(exp),
-            key_skills=[s.strip() for s in skills],
-            company=company.strip()
+            name=name,
+            title=title,
+            department=self._infer_department(title),
+            experience_years=self._estimate_experience(title),
+            key_skills=self._suggest_skills(title, self._infer_department(title)),
+            company=company
         )
+
+    def _infer_department(self, title: str) -> str:
+        """Infer department from job title"""
+        title_lower = title.lower()
+        if any(x in title_lower for x in ["engineer", "developer", "tech"]):
+            return "Engineering"
+        elif any(x in title_lower for x in ["sale", "account", "business development"]):
+            return "Sales"
+        elif any(x in title_lower for x in ["market", "growth", "digital"]):
+            return "Marketing"
+        elif any(x in title_lower for x in ["data", "analyst", "scientist"]):
+            return "Data"
+        elif any(x in title_lower for x in ["product", "pm", "owner"]):
+            return "Product"
+        elif any(x in title_lower for x in ["design", "ux", "ui"]):
+            return "Design"
+        elif any(x in title_lower for x in ["finance", "accounting", "cfo"]):
+            return "Finance"
+        else:
+            return "Other"
+
+    def _estimate_experience(self, title: str) -> float:
+        """Estimate experience based on title"""
+        title_lower = title.lower()
+        if any(x in title_lower for x in ["junior", "entry", "associate"]):
+            return 2.0
+        elif any(x in title_lower for x in ["senior", "lead", "principal", "manager"]):
+            return 8.0
+        elif any(x in title_lower for x in ["director", "head", "vp", "vice president"]):
+            return 12.0
+        else:
+            return 5.0
+
+    def _suggest_skills(self, title: str, department: str) -> List[str]:
+        """Suggest skills based on title and department"""
+        skills_map = {
+            "Engineering": ["Python", "JavaScript", "AWS", "Docker", "Kubernetes"],
+            "Sales": ["CRM", "Negotiation", "Relationship Building", "Salesforce"],
+            "Marketing": ["SEO", "Content Marketing", "Social Media", "Analytics"],
+            "Data": ["Python", "SQL", "Machine Learning", "Data Visualization"],
+            "Product": ["Product Strategy", "Roadmapping", "User Research", "Agile"],
+            "Design": ["Figma", "UI/UX Design", "Prototyping", "User Research"],
+            "Finance": ["Financial Analysis", "Excel", "Accounting", "Financial Modeling"],
+            "Other": ["Communication", "Project Management", "Problem Solving"]
+        }
+        return skills_map.get(department, ["Communication", "Problem Solving", "Teamwork"])
 
     def _extract_employee_data(self, employee: Dict) -> Dict:
         basic = employee.get("basic_info", {}) or {}
@@ -733,7 +791,7 @@ Location: {raw.get('location','')}"""
             "company": (employee.get("company") or basic.get("company") or "").strip(),
             "location": (employee.get("location") or basic.get("location") or "").strip(),
         }
-
+    
 # =============================================================================
 # Step 3: Competitor Employee Search
 # =============================================================================
