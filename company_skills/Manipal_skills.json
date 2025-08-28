@@ -1,0 +1,60 @@
+{
+  "company_name": "Manipal",
+  "employees": [
+    {
+      "name": "Puja Abhishek Singh",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anuj Arora",
+      "position": "CFO at Manipal Fintech",
+      "employee_id": "Man_002",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Leadership",
+        "Financial Reporting",
+        "Corporate Finance",
+        "Team Management",
+        "Investment Strategies",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Rahul Virmani",
+      "position": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+      "employee_id": "Man_003",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Strategic Planning",
+        "Negotiation",
+        "Financial Services",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Ankur Mathur",
+      "position": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+      "employee_id": "Man_004",
+      "skills": [
+        "HR Partnering",
+        "HR Strategy",
+        "People Management"
+      ]
+    }
+  ]
+}

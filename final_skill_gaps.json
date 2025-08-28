@@ -1,0 +1,57 @@
+[
+  {
+    "manipal_employee": "Rahul Virmani",
+    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+    "missing_skills": [
+      "account management",
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales strategy",
+      "strategic planning",
+      "team leadership"
+    ]
+  },
+  {
+    "manipal_employee": "Ankur Mathur",
+    "role": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+    "missing_skills": [
+      "budgeting",
+      "chartered accountancy",
+      "cost management",
+      "data analysis",
+      "excel",
+      "financial auditing",
+      "financial planning and analysis",
+      "financial reporting",
+      "forecasting",
+      "internal controls",
+      "risk assessment",
+      "strategic planning",
+      "variance analysis"
+    ]
+  },
+  {
+    "manipal_employee": "Anuj Arora",
+    "role": "CFO at Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ]
+  },
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python"
+    ]
+  }
+]

@@ -1,0 +1,607 @@
+{
+  "company_name": "Mobikwik",
+  "employees": [
+    {
+      "name": "Kunal Gaur",
+      "position": "Senior Data Scientist @ Carsome | Mentor | Expertise in Machine Learning and AWS",
+      "employee_id": "Mob_001",
+      "skills": [
+        "Machine Learning",
+        "AWS",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Tushar Gagerna‏",
+      "position": "‏AI-driven Growth",
+      "employee_id": "Mob_002",
+      "skills": [
+        "AI-driven Growth",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Dr. Harsh Kubavat‏",
+      "position": "‏Post Merger Integration",
+      "employee_id": "Mob_003",
+      "skills": [
+        "Post Merger Integration",
+        "Strategic Planning",
+        "Change Management",
+        "Financial Analysis",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Business Process Improvement",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "‏Nikhil Joshi‏",
+      "position": "‏Looking for Forex Partners IB (Introducing Brokers ...",
+      "employee_id": "Mob_004",
+      "skills": [
+        "Forex Trading",
+        "Introducing Brokers",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Acquisition",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "‏CA Chahat Arora‏",
+      "position": "‏Chartered Accountant",
+      "employee_id": "Mob_005",
+      "skills": [
+        "Financial Analysis",
+        "Taxation",
+        "Auditing",
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Compliance",
+        "Risk Management",
+        "Excel",
+        "SAP",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "‏Santosh Jha‏",
+      "position": "‏Manager at Noon IIEX-OLAII‏",
+      "employee_id": "Mob_006",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "‏CHIBUEZE NWANKWO‏",
+      "position": "‏Project Planning Engineer‏",
+      "employee_id": "Mob_007",
+      "skills": [
+        "Project Planning",
+        "Engineering",
+        "Project Management",
+        "Scheduling",
+        "Resource Allocation",
+        "Risk Assessment",
+        "Cost Control",
+        "Budgeting",
+        "Technical Analysis",
+        "Communication",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "‏Wardah Awan‏",
+      "position": "‏Product Management",
+      "employee_id": "Mob_008",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Research",
+        "Project Management",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills",
+        "Agile Methodologies",
+        "Customer Insights",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "‏Nayan Sharma‏",
+      "position": "‏ General Counsel",
+      "employee_id": "Mob_009",
+      "skills": [
+        "Legal Research",
+        "Contract Negotiation",
+        "Compliance",
+        "Risk Management",
+        "Corporate Governance",
+        "Litigation",
+        "Regulatory Affairs",
+        "Intellectual Property",
+        "Employment Law",
+        "Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "‏Varun Kalia‏",
+      "position": "‏Vice President at Dana Insurance Brokers LLC‏",
+      "employee_id": "Mob_010",
+      "skills": [
+        "Insurance Brokerage",
+        "Risk Management",
+        "Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "‏Oiendrila Das‏",
+      "position": "‏Corporate Sales Manager @fnp.ae‏",
+      "employee_id": "Mob_011",
+      "skills": [
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Revenue Growth",
+        "Business Development",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "‏Saarthak Vats‏",
+      "position": "‏barq‏",
+      "employee_id": "Mob_012",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vipin Chaudhary",
+      "position": "",
+      "employee_id": "Mob_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Krishnachand N K K‏",
+      "position": "‏Flutter",
+      "employee_id": "Mob_014",
+      "skills": [
+        "Flutter",
+        "Mobile App Development",
+        "Dart",
+        "UI/UX Design",
+        "API Integration",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "‏Aniruddh Pahwa‏",
+      "position": "‏On a mission to catalyse growth",
+      "employee_id": "Mob_015",
+      "skills": [
+        "Growth Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Project Management",
+        "Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sarthak Monga",
+      "position": "MBA Candidate at Insead | Ex E&Y Consultant",
+      "employee_id": "Mob_016",
+      "skills": [
+        "Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "‏Ritika Jain‏",
+      "position": "‏noon‏",
+      "employee_id": "Mob_017",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Avishek Tripathi",
+      "position": "Branding Manager",
+      "employee_id": "Mob_018",
+      "skills": [
+        "Branding",
+        "Marketing Strategy",
+        "Social Media Management",
+        "Content Creation",
+        "Market Research",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Cathy Sun",
+      "position": "Sales Engineer",
+      "employee_id": "Mob_019",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Technical Presentations",
+        "Product Demonstrations",
+        "Market Analysis",
+        "Negotiation",
+        "Technical Support",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "‏Devika Mathur‏",
+      "position": "‏Growth and Partnerships, Digital Marketer‏",
+      "employee_id": "Mob_020",
+      "skills": [
+        "Digital Marketing",
+        "Growth Strategies",
+        "Partnership Development",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "‏Siddhesh Pimple‏",
+      "position": "‏Heading Food Safety & Quality Assurance ...",
+      "employee_id": "Mob_021",
+      "skills": [
+        "Food Safety",
+        "Quality Assurance",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Process Improvement",
+        "Risk Management",
+        "Project Management",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "‏Afsana Ansari‏",
+      "position": "‏Razorpay‏",
+      "employee_id": "Mob_022",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Martha Madalina‏",
+      "position": "‏Duty Manager at Emirates Palace‏",
+      "employee_id": "Mob_023",
+      "skills": [
+        "Team Leadership",
+        "Customer Service",
+        "Conflict Resolution",
+        "Staff Management",
+        "Event Coordination",
+        "Hospitality Management",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Robert Lagane",
+      "position": "Sales Manager at IBL",
+      "employee_id": "Mob_024",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Account Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "‏Dheeraj Malik‏",
+      "position": "‏Associate Director at MakeMyTrip‏",
+      "employee_id": "Mob_025",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Client Relations",
+        "Negotiation",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "‏Namal Siddiqui‏",
+      "position": "‏Literary Curator",
+      "employee_id": "Mob_026",
+      "skills": [
+        "Literary Analysis",
+        "Content Curation",
+        "Research",
+        "Editing",
+        "Writing",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "‏Sid Choudhary‏",
+      "position": "‏noon",
+      "employee_id": "Mob_027",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurabh Bais",
+      "position": "Key Accounts Sales Executive",
+      "employee_id": "Mob_028",
+      "skills": [
+        "Sales Strategy",
+        "Account Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Chloe Tyack",
+      "position": "at",
+      "employee_id": "Mob_029",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Naman Seth‏",
+      "position": "‏Head-Dubai Representative Office‏",
+      "employee_id": "Mob_030",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relations",
+        "Market Analysis",
+        "Team Management",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "‏sunil Kumar‏",
+      "position": "‏Senior Credit Controller at Budget Rent a Car, Bahrain ...",
+      "employee_id": "Mob_031",
+      "skills": [
+        "Credit Control",
+        "Financial Management",
+        "Risk Assessment",
+        "Debt Recovery",
+        "Customer Relations",
+        "Accounts Receivable"
+      ]
+    },
+    {
+      "name": "‏Hasan sabbah‏",
+      "position": "‏Restaurant Manager at Le Méridien Hotels ...",
+      "employee_id": "Mob_032",
+      "skills": [
+        "Restaurant Management",
+        "Customer Service",
+        "Team Leadership",
+        "Inventory Management",
+        "Staff Training",
+        "Scheduling",
+        "Budgeting",
+        "Event Planning",
+        "Conflict Resolution",
+        "Food Safety",
+        "Quality Control"
+      ]
+    },
+    {
+      "name": "‏MOHAMMAD ARIF KHAN‏",
+      "position": "‏Sales Manager in Blue Starz Enterprises ...",
+      "employee_id": "Mob_033",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ankit Jain",
+      "position": "Head Lending Strategy @ UnionDigital Bank| Credit Underwriting, Data Analyst",
+      "employee_id": "Mob_034",
+      "skills": [
+        "Credit Underwriting",
+        "Data Analysis",
+        "Lending Strategy"
+      ]
+    },
+    {
+      "name": "Gaurav Kumar, FRM",
+      "position": "",
+      "employee_id": "Mob_035",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Nikhat Siddique‏",
+      "position": "‏Head Of Product",
+      "employee_id": "Mob_036",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Research",
+        "Agile Methodologies",
+        "Product Development",
+        "User Experience (UX)",
+        "Project Management",
+        "Stakeholder Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Anuraag Parashar",
+      "position": "ESCP MiM '26",
+      "employee_id": "Mob_037",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "‏Nicolas Jarrosson‏",
+      "position": "‏الإمارات العربية المتحدة‏",
+      "employee_id": "Mob_038",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "KHUSHBOO KHOJA",
+      "position": "Senior FP&A Analyst | Financial Auditor | Chartered Accountant |",
+      "employee_id": "Mob_039",
+      "skills": [
+        "Financial Planning and Analysis",
+        "Financial Auditing",
+        "Chartered Accountancy",
+        "Budgeting",
+        "Forecasting",
+        "Variance Analysis",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning",
+        "Cost Management",
+        "Risk Assessment",
+        "Internal Controls"
+      ]
+    },
+    {
+      "name": "Aparna P. – CAMS, AML & CTF Senior Analyst @Klarna",
+      "position": "",
+      "employee_id": "Mob_040",
+      "skills": [
+        "Anti-Money Laundering (AML)",
+        "Counter-Terrorism Financing (CTF)",
+        "Data Analysis",
+        "Risk Management",
+        "Compliance",
+        "Financial Regulations"
+      ]
+    },
+    {
+      "name": "Vaibhav Gupta",
+      "position": "Head of Strategy and Presales, Western Europe at Wipro | Ex-CFO Southern Europe, Wipro | MBA | CFA Level 3",
+      "employee_id": "Mob_041",
+      "skills": [
+        "Strategy Development",
+        "Presales",
+        "Financial Management",
+        "Leadership",
+        "Business Analysis",
+        "Market Research",
+        "Client Relations",
+        "Team Management",
+        "MBA",
+        "CFA Level 3"
+      ]
+    },
+    {
+      "name": "‏Siddhi Shah, CFA‏",
+      "position": "‏Investor Relations",
+      "employee_id": "Mob_042",
+      "skills": [
+        "Investor Relations",
+        "Financial Analysis",
+        "Communication Skills",
+        "Stakeholder Management",
+        "CFA"
+      ]
+    },
+    {
+      "name": "‏Sreya Marimganti‏",
+      "position": "‏Director - IT Squad Leader at Fidelity ...",
+      "employee_id": "Mob_043",
+      "skills": [
+        "IT Squad Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Strategic Planning",
+        "Problem Solving",
+        "Technical Expertise"
+      ]
+    }
+  ]
+}

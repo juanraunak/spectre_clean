@@ -1,0 +1,33 @@
+{
+  "company_name": "Manipal fintech",
+  "spectre_n": 4,
+  "intelligence_report_path": "C:\\Users\\juanr\\OneDrive\\Desktop\\spectre_full\\runs\\manipal-fintech-1756395607\\data\\manipal_fintech_complete_intelligence_report.json",
+  "spectre_employees": [
+    {
+      "name": "Puja Abhishek Singh - Manipal Fintech",
+      "linkedin_url": "https://in.linkedin.com/in/pujasingh27",
+      "company": "Manipal fintech",
+      "snippet": "Feb 20, 2015 ... \"Good business leaders create a vision, articulate the vision, passionately own the… · Experience: Manipal Fintech · Education: Narsee ..."
+    },
+    {
+      "name": "Anuj Arora - CFO at Manipal Fintech",
+      "linkedin_url": "https://in.linkedin.com/in/anarora",
+      "company": "Manipal fintech",
+      "snippet": "CFO at Manipal Fintech · Experience: Manipal Fintech · Education: Indian Institute of Management Bangalore · Location: Gurugram · 500+ connections on ..."
+    },
+    {
+      "name": "Rahul Virmani",
+      "linkedin_url": "https://in.linkedin.com/in/rahul-virmani-656a0420b",
+      "company": "Manipal fintech",
+      "snippet": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company) · Rahul is a seasoned Sales & Marketing, ..."
+    },
+    {
+      "name": "Ankur Mathur",
+      "linkedin_url": "https://in.linkedin.com/in/ankurmathur1984",
+      "company": "Manipal fintech",
+      "snippet": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow | · Experience: Manipal ..."
+    }
+  ],
+  "company_data_available": true,
+  "shade_status": "ok"
+}

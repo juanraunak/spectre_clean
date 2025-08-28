@@ -57,7 +57,7 @@ class Config:
     OUTPUT_FILE = "final_skill_gaps.json"
 
     # Company focus
-    SPECTRE_COMPANY = "ibm"                 # primary company key (lowercase)
+    SPECTRE_COMPANY = "Manipal Fintech"                 # primary company key (lowercase)
 
     # Analysis toggles
     USE_LLM_FOR_SKILLS = True                  # LLM for reasoning summaries
