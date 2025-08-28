@@ -483,3 +483,228 @@
 2025-08-28 20:28:25,617 - MIRAGE - INFO - [mirage.py:1665] - SHADE scraper enabled? True
 2025-08-28 20:28:25,618 - MIRAGE - ERROR - [mirage.py:1702] - MIRAGE analysis failed after 123.85s: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
 2025-08-28 20:28:25,618 - MIRAGE - ERROR - [mirage.py:2061] - Analysis failed: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
+2025-08-28 20:51:20,026 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:51:20,028 - MIRAGE - INFO - [mirage.py:1640] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:51:20,028 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:51:20,028 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:51:20,028 - MIRAGE - INFO - [mirage.py:606] - TargetProfileBuilder initialized (IMPROVED with fallbacks)
+2025-08-28 20:51:20,028 - MIRAGE - INFO - [mirage.py:813] - CompetitorEmployeeFinder initialized
+2025-08-28 20:51:20,029 - MIRAGE - INFO - [mirage.py:1010] - ProfileMatcher initialized
+2025-08-28 20:51:20,029 - MIRAGE - INFO - [mirage.py:1654] - MIRAGE system initialized successfully
+2025-08-28 20:51:50,423 - MIRAGE - INFO - [mirage.py:1675] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:51:50,423 - MIRAGE - INFO - [mirage.py:1680] - Phase 1: Competitor Detection
+2025-08-28 20:51:50,423 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:51:50,423 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:51:50,423 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:51:50,424 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:51:50,424 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:52:11,513 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:52:11,514 - MIRAGE - WARNING - [mirage.py:563] - Empty response from GPT for competitors
+2025-08-28 20:52:11,514 - MIRAGE - INFO - [mirage.py:377] - Detected 0 competitors:
+2025-08-28 20:52:11,514 - MIRAGE - ERROR - [mirage.py:1760] - MIRAGE analysis failed after 21.09s: No competitors detected
+2025-08-28 20:52:11,514 - MIRAGE - ERROR - [mirage.py:2119] - Analysis failed: No competitors detected
+2025-08-28 20:52:27,262 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:52:27,263 - MIRAGE - INFO - [mirage.py:1640] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:52:27,263 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:52:27,264 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:52:27,264 - MIRAGE - INFO - [mirage.py:606] - TargetProfileBuilder initialized (IMPROVED with fallbacks)
+2025-08-28 20:52:27,264 - MIRAGE - INFO - [mirage.py:813] - CompetitorEmployeeFinder initialized
+2025-08-28 20:52:27,264 - MIRAGE - INFO - [mirage.py:1010] - ProfileMatcher initialized
+2025-08-28 20:52:27,264 - MIRAGE - INFO - [mirage.py:1654] - MIRAGE system initialized successfully
+2025-08-28 20:52:30,945 - MIRAGE - INFO - [mirage.py:1675] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:52:30,945 - MIRAGE - INFO - [mirage.py:1680] - Phase 1: Competitor Detection
+2025-08-28 20:52:30,946 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:52:30,946 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:52:30,946 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:52:30,946 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:52:30,946 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:52:32,897 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:52:32,898 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 20:52:32,898 - MIRAGE - INFO - [mirage.py:383] -    1. ZestMoney (Score: 0.0)
+2025-08-28 20:52:32,898 - MIRAGE - INFO - [mirage.py:1689] - Phase 2: Target Profile Building
+2025-08-28 20:52:32,898 - MIRAGE - INFO - [mirage.py:1774] - Found 1 employees in intelligence data
+2025-08-28 20:52:32,899 - MIRAGE - INFO - [mirage.py:609] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:52:32,899 - MIRAGE - INFO - [mirage.py:615] - Building profiles for 1 employees
+2025-08-28 20:52:32,899 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:52:34,019 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:52:34,020 - MIRAGE - INFO - [mirage.py:635] - Built 1 target profiles
+2025-08-28 20:52:34,020 - MIRAGE - INFO - [mirage.py:1698] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:52:34,020 - MIRAGE - INFO - [mirage.py:818] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:52:34,020 - MIRAGE - INFO - [mirage.py:829] - Processing 1 companies in parallel
+2025-08-28 20:52:34,021 - MIRAGE - INFO - [mirage.py:849] - Searching employees at ZestMoney
+2025-08-28 20:52:34,021 - MIRAGE - DEBUG - [mirage.py:857] -    Searching Other at ZestMoney
+2025-08-28 20:52:34,021 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:52:36,464 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:52:36,464 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "ZestMoney" "Other" -jobs -hiring -recr...
+2025-08-28 20:52:38,015 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "ZestMoney" "Miscellaneous" -jobs -hiri...
+2025-08-28 20:57:04,644 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:57:04,645 - BrightDataForMirage - INFO - [mirage.py:1532] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:57:04,645 - BrightDataForMirage - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:57:04,646 - BrightDataForMirage - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:57:04,646 - BrightDataForMirage - INFO - [mirage.py:606] - TargetProfileBuilder initialized (IMPROVED with fallbacks)
+2025-08-28 20:57:04,646 - BrightDataForMirage - INFO - [mirage.py:813] - CompetitorEmployeeFinder initialized
+2025-08-28 20:57:04,646 - BrightDataForMirage - INFO - [mirage.py:1010] - ProfileMatcher initialized
+2025-08-28 20:57:04,646 - BrightDataForMirage - INFO - [mirage.py:1546] - MIRAGE system initialized successfully
+2025-08-28 20:57:35,958 - BrightDataForMirage - INFO - [mirage.py:1567] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:57:35,958 - BrightDataForMirage - INFO - [mirage.py:1572] - Phase 1: Competitor Detection
+2025-08-28 20:57:35,959 - BrightDataForMirage - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:57:35,959 - BrightDataForMirage - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:57:35,959 - BrightDataForMirage - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:57:35,959 - BrightDataForMirage - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:57:35,959 - BrightDataForMirage - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:57:36,973 - BrightDataForMirage - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:57:36,974 - BrightDataForMirage - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 20:57:36,974 - BrightDataForMirage - INFO - [mirage.py:383] -    1. ZestMoney (Score: 0.0)
+2025-08-28 20:57:36,974 - BrightDataForMirage - INFO - [mirage.py:1581] - Phase 2: Target Profile Building
+2025-08-28 20:57:36,975 - BrightDataForMirage - INFO - [mirage.py:1668] - Found 1 employees in intelligence data
+2025-08-28 20:57:36,975 - BrightDataForMirage - INFO - [mirage.py:609] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:57:36,975 - BrightDataForMirage - INFO - [mirage.py:615] - Building profiles for 1 employees
+2025-08-28 20:57:36,975 - BrightDataForMirage - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:57:38,115 - BrightDataForMirage - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:57:38,115 - BrightDataForMirage - INFO - [mirage.py:635] - Built 1 target profiles
+2025-08-28 20:57:38,115 - BrightDataForMirage - INFO - [mirage.py:1590] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:57:38,115 - BrightDataForMirage - INFO - [mirage.py:818] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:57:38,116 - BrightDataForMirage - INFO - [mirage.py:829] - Processing 1 companies in parallel
+2025-08-28 20:57:38,116 - BrightDataForMirage - INFO - [mirage.py:849] - Searching employees at ZestMoney
+2025-08-28 20:57:38,116 - BrightDataForMirage - DEBUG - [mirage.py:857] -    Searching Other at ZestMoney
+2025-08-28 20:57:38,116 - BrightDataForMirage - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:57:59,160 - BrightDataForMirage - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:58:00,174 - BrightDataForMirage - INFO - [mirage.py:867] -    Found 0 employees at ZestMoney
+2025-08-28 20:58:00,174 - BrightDataForMirage - INFO - [mirage.py:842] - Total employees found: 0
+2025-08-28 20:58:00,174 - BrightDataForMirage - INFO - [mirage.py:1015] - STEP 4: PROFILE MATCHING
+2025-08-28 20:58:00,175 - BrightDataForMirage - INFO - [mirage.py:1023] - Processing 1 companies in parallel
+2025-08-28 20:58:00,175 - BrightDataForMirage - INFO - [mirage.py:1046] - Matching against ZestMoney (0 employees)
+2025-08-28 20:58:00,175 - BrightDataForMirage - INFO - [mirage.py:1059] -    0 quality matches for ZestMoney
+2025-08-28 20:58:00,175 - BrightDataForMirage - INFO - [mirage.py:1039] - Total matches generated: 0
+2025-08-28 20:58:00,175 - BrightDataForMirage - INFO - [mirage.py:1605] - Phase 4.5: Scraping matched LinkedIn profiles with Bright Data (parallel per company)
+2025-08-28 20:58:00,176 - BrightDataForMirage - WARNING - [mirage.py:1345] - BrightDataScraper is disabled (missing API key / collector_id or endpoint).
+2025-08-28 20:58:00,176 - BrightDataForMirage - WARNING - [mirage.py:1616] - BrightDataScraper not enabled (missing API key / collector/endpoint) — skipping profile scraping
+2025-08-28 20:58:00,176 - BrightDataForMirage - INFO - [mirage.py:1632] - Bright Data scraping complete. Profiles scraped: 0
+2025-08-28 20:58:00,176 - BrightDataForMirage - INFO - [mirage.py:1637] - Phase 5: Output Generation
+2025-08-28 20:58:00,176 - BrightDataForMirage - INFO - [mirage.py:1195] - Writing spectre_matches.json
+2025-08-28 20:58:00,177 - BrightDataForMirage - INFO - [mirage.py:1232] - Wrote spectre_matches.json
+2025-08-28 20:58:00,177 - BrightDataForMirage - INFO - [mirage.py:1243] - Writing employee reports
+2025-08-28 20:58:00,178 - BrightDataForMirage - INFO - [mirage.py:1298] - Wrote employee_data\zestmoney_report.json
+2025-08-28 20:58:00,179 - BrightDataForMirage - INFO - [mirage.py:1300] - All reports written to employee_data
+2025-08-28 20:58:00,180 - BrightDataForMirage - ERROR - [mirage.py:2013] - Analysis failed: MIRAGE returned no results
+2025-08-28 21:02:05,156 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 21:02:05,158 - MIRAGE - INFO - [mirage.py:1508] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 21:02:05,159 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 21:02:05,159 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 21:02:05,159 - MIRAGE - INFO - [mirage.py:606] - TargetProfileBuilder initialized (IMPROVED with fallbacks)
+2025-08-28 21:02:05,159 - MIRAGE - INFO - [mirage.py:813] - CompetitorEmployeeFinder initialized
+2025-08-28 21:02:05,160 - MIRAGE - INFO - [mirage.py:1010] - ProfileMatcher initialized
+2025-08-28 21:02:05,160 - MIRAGE - INFO - [mirage.py:1522] - MIRAGE system initialized successfully
+2025-08-28 21:02:06,914 - MIRAGE - INFO - [mirage.py:1543] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 21:02:06,914 - MIRAGE - INFO - [mirage.py:1548] - Phase 1: Competitor Detection
+2025-08-28 21:02:06,916 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 21:02:06,916 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 21:02:06,916 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 21:02:06,916 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 21:02:06,916 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 21:02:11,044 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:02:11,044 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 21:02:11,045 - MIRAGE - INFO - [mirage.py:383] -    1. Paytm (Score: 0.0)
+2025-08-28 21:02:11,045 - MIRAGE - INFO - [mirage.py:1557] - Phase 2: Target Profile Building
+2025-08-28 21:02:11,045 - MIRAGE - INFO - [mirage.py:1640] - Found 1 employees in intelligence data
+2025-08-28 21:02:11,045 - MIRAGE - INFO - [mirage.py:609] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 21:02:11,045 - MIRAGE - INFO - [mirage.py:615] - Building profiles for 1 employees
+2025-08-28 21:02:11,046 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:02:27,202 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:02:27,203 - MIRAGE - INFO - [mirage.py:635] - Built 1 target profiles
+2025-08-28 21:02:27,203 - MIRAGE - INFO - [mirage.py:1566] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 21:02:27,203 - MIRAGE - INFO - [mirage.py:818] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 21:02:27,204 - MIRAGE - INFO - [mirage.py:829] - Processing 1 companies in parallel
+2025-08-28 21:02:27,204 - MIRAGE - INFO - [mirage.py:849] - Searching employees at Paytm
+2025-08-28 21:02:27,204 - MIRAGE - DEBUG - [mirage.py:857] -    Searching Other at Paytm
+2025-08-28 21:02:27,204 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 21:02:43,380 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:02:43,380 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "Paytm" "Other" -jobs -hiring -recruite...
+2025-08-28 21:02:46,685 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "Paytm" "Miscellaneous" -jobs -hiring -...
+2025-08-28 21:02:51,042 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "Paytm" "General" -jobs -hiring -recrui...
+2025-08-28 21:02:57,935 - MIRAGE - INFO - [mirage.py:867] -    Found 14 employees at Paytm
+2025-08-28 21:02:57,935 - MIRAGE - INFO - [mirage.py:842] - Total employees found: 14
+2025-08-28 21:02:57,935 - MIRAGE - INFO - [mirage.py:1015] - STEP 4: PROFILE MATCHING
+2025-08-28 21:02:57,936 - MIRAGE - INFO - [mirage.py:1023] - Processing 1 companies in parallel
+2025-08-28 21:02:57,936 - MIRAGE - INFO - [mirage.py:1046] - Matching against Paytm (14 employees)
+2025-08-28 21:02:57,936 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:03:00,106 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:03:00,416 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:03:16,907 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:03:17,210 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:03:21,335 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:03:21,642 - MIRAGE - INFO - [mirage.py:1059] -    0 quality matches for Paytm
+2025-08-28 21:03:21,642 - MIRAGE - INFO - [mirage.py:1039] - Total matches generated: 0
+2025-08-28 21:03:21,642 - BrightDataForMirage - INFO - [mirage.py:1581] - Phase 4.5: Scraping matched LinkedIn profiles with Bright Data (parallel per company)
+2025-08-28 21:03:21,643 - BrightDataForMirage - INFO - [mirage.py:1604] - Bright Data scraping complete. Profiles scraped: 0
+2025-08-28 21:03:21,643 - MIRAGE - INFO - [mirage.py:1609] - Phase 5: Output Generation
+2025-08-28 21:03:21,644 - MIRAGE - INFO - [mirage.py:1195] - Writing spectre_matches.json
+2025-08-28 21:03:21,645 - MIRAGE - INFO - [mirage.py:1232] - Wrote spectre_matches.json
+2025-08-28 21:03:21,645 - MIRAGE - INFO - [mirage.py:1243] - Writing employee reports
+2025-08-28 21:03:21,646 - MIRAGE - INFO - [mirage.py:1298] - Wrote employee_data\paytm_report.json
+2025-08-28 21:03:21,647 - MIRAGE - INFO - [mirage.py:1300] - All reports written to employee_data
+2025-08-28 21:03:21,647 - MIRAGE - ERROR - [mirage.py:1985] - Analysis failed: MIRAGE returned no results
+2025-08-28 21:04:23,692 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:1508] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:606] - TargetProfileBuilder initialized (IMPROVED with fallbacks)
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:813] - CompetitorEmployeeFinder initialized
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:1010] - ProfileMatcher initialized
+2025-08-28 21:04:23,693 - MIRAGE - INFO - [mirage.py:1522] - MIRAGE system initialized successfully
+2025-08-28 21:04:28,225 - MIRAGE - INFO - [mirage.py:1543] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 21:04:28,225 - MIRAGE - INFO - [mirage.py:1548] - Phase 1: Competitor Detection
+2025-08-28 21:04:28,225 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 21:04:28,225 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 21:04:28,225 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 21:04:28,226 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 21:04:28,226 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 21:04:29,043 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:04:29,043 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 21:04:29,044 - MIRAGE - INFO - [mirage.py:383] -    1. ZestMoney (Score: 0.0)
+2025-08-28 21:04:29,044 - MIRAGE - INFO - [mirage.py:1557] - Phase 2: Target Profile Building
+2025-08-28 21:04:29,044 - MIRAGE - INFO - [mirage.py:1640] - Found 1 employees in intelligence data
+2025-08-28 21:04:29,044 - MIRAGE - INFO - [mirage.py:609] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 21:04:29,044 - MIRAGE - INFO - [mirage.py:615] - Building profiles for 1 employees
+2025-08-28 21:04:29,044 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:04:30,465 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:04:30,466 - MIRAGE - INFO - [mirage.py:635] - Built 1 target profiles
+2025-08-28 21:04:30,466 - MIRAGE - INFO - [mirage.py:1566] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 21:04:30,466 - MIRAGE - INFO - [mirage.py:818] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 21:04:30,466 - MIRAGE - INFO - [mirage.py:829] - Processing 1 companies in parallel
+2025-08-28 21:04:30,467 - MIRAGE - INFO - [mirage.py:849] - Searching employees at ZestMoney
+2025-08-28 21:04:30,467 - MIRAGE - DEBUG - [mirage.py:857] -    Searching Other at ZestMoney
+2025-08-28 21:04:30,467 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 21:04:31,365 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:04:31,365 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "ZestMoney" "Other" -jobs -hiring -recr...
+2025-08-28 21:04:32,881 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "ZestMoney" "Miscellaneous" -jobs -hiri...
+2025-08-28 21:04:34,308 - MIRAGE - DEBUG - [mirage.py:907] - Search: site:linkedin.com/in "ZestMoney" "Various" -jobs -hiring -re...
+2025-08-28 21:04:36,805 - MIRAGE - INFO - [mirage.py:867] -    Found 8 employees at ZestMoney
+2025-08-28 21:04:36,805 - MIRAGE - INFO - [mirage.py:842] - Total employees found: 8
+2025-08-28 21:04:36,806 - MIRAGE - INFO - [mirage.py:1015] - STEP 4: PROFILE MATCHING
+2025-08-28 21:04:36,806 - MIRAGE - INFO - [mirage.py:1023] - Processing 1 companies in parallel
+2025-08-28 21:04:36,806 - MIRAGE - INFO - [mirage.py:1046] - Matching against ZestMoney (8 employees)
+2025-08-28 21:04:36,806 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:04:38,093 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:04:38,398 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 21:04:38,925 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 21:04:39,227 - MIRAGE - INFO - [mirage.py:1059] -    1 quality matches for ZestMoney
+2025-08-28 21:04:39,227 - MIRAGE - INFO - [mirage.py:1039] - Total matches generated: 1
+2025-08-28 21:04:39,227 - BrightDataForMirage - INFO - [mirage.py:1581] - Phase 4.5: Scraping matched LinkedIn profiles with Bright Data (parallel per company)
+2025-08-28 21:04:39,229 - urllib3.connectionpool - DEBUG - [connectionpool.py:1049] - Starting new HTTPS connection (1): api.brightdata.com:443
+2025-08-28 21:04:40,412 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "POST /datasets/v3/trigger?dataset_id=gd_l1viktl72bvl7bjuj0&include_errors=true HTTP/1.1" 200 37
+2025-08-28 21:04:40,651 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "GET /datasets/v3/progress/s_mevkeg7w3z63c2b09 HTTP/1.1" 200 93
+2025-08-28 21:04:50,896 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "GET /datasets/v3/progress/s_mevkeg7w3z63c2b09 HTTP/1.1" 200 93
+2025-08-28 21:05:01,138 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "GET /datasets/v3/progress/s_mevkeg7w3z63c2b09 HTTP/1.1" 200 93
+2025-08-28 21:05:11,388 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "GET /datasets/v3/progress/s_mevkeg7w3z63c2b09 HTTP/1.1" 200 142
+2025-08-28 21:05:11,949 - urllib3.connectionpool - DEBUG - [connectionpool.py:544] - https://api.brightdata.com:443 "GET /datasets/v3/snapshot/s_mevkeg7w3z63c2b09 HTTP/1.1" 200 32251
+2025-08-28 21:05:11,965 - charset_normalizer - DEBUG - [api.py:461] - Encoding detection: utf_8 is most likely the one.
+2025-08-28 21:05:11,966 - BrightDataForMirage - INFO - [mirage.py:1400] - ZestMoney: scraped 1 profiles
+2025-08-28 21:05:11,966 - BrightDataForMirage - INFO - [mirage.py:1604] - Bright Data scraping complete. Profiles scraped: 1
+2025-08-28 21:05:11,966 - MIRAGE - INFO - [mirage.py:1609] - Phase 5: Output Generation
+2025-08-28 21:05:11,966 - MIRAGE - INFO - [mirage.py:1195] - Writing spectre_matches.json
+2025-08-28 21:05:11,967 - MIRAGE - INFO - [mirage.py:1232] - Wrote spectre_matches.json
+2025-08-28 21:05:11,967 - MIRAGE - INFO - [mirage.py:1243] - Writing employee reports
+2025-08-28 21:05:11,970 - MIRAGE - INFO - [mirage.py:1298] - Wrote employee_data\zestmoney_report.json
+2025-08-28 21:05:11,970 - MIRAGE - INFO - [mirage.py:1300] - All reports written to employee_data
+2025-08-28 21:05:11,975 - MIRAGE - ERROR - [mirage.py:1985] - Analysis failed: MIRAGE returned no results

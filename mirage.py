@@ -1303,324 +1303,192 @@ class OutputWriter:
 # =============================================================================
 # Bright Data Scraper
 # =============================================================================
+# === Bright Data scraper (independent, parallel-per-company; SHADE-compatible dataset flow) ===
+import os, json, time, asyncio, logging, requests
+from typing import Dict, List, Any, Tuple
 
-# =============================================================================
-# Bright Data Scraper - Optimized for Per-Company Parallel Snapshots
-# =============================================================================
-
-# =============================================================================
-# Bright Data Scraper - Optimized for Per-Company Parallel Snapshots
-# =============================================================================
+bd_logger = logging.getLogger("BrightDataForMirage")
 
 class BrightDataScraper:
     """
-    Optimized Bright Data scraper that:
-    - Creates one snapshot per company with ALL URLs for that company
-    - Runs company snapshots in parallel
-    - No URL chunking - sends complete employee list per snapshot
+    Independent Bright Data scraper for MIRAGE.
+
+    • Uses Bright Data Dataset Trigger API (same as SHADE): 
+      - POST /datasets/v3/trigger?dataset_id=...&include_errors=true
+      - GET  /datasets/v3/progress/<snapshot_id>
+      - GET  /datasets/v3/snapshot/<snapshot_id>   (NDJSON)
+    • ONE snapshot per company with ALL its URLs (no chunking)
+    • Companies run in parallel (configurable via semaphore)
+    • Returns: { company: { url: profile_dict } }
+    • Env vars (mirrors SHADE): 
+        BRIGHT_DATA_API_KEY, BRIGHT_DATA_DATASET_ID
     """
 
     def __init__(self):
+        # Align with SHADE’s env usage
         self.api_key = os.getenv("BRIGHT_DATA_API_KEY")
-        self.collector_id = os.getenv("BRIGHT_DATA_COLLECTOR_ID")
-        self.endpoint = os.getenv("BRIGHT_DATA_ENDPOINT")
+        self.dataset_id = os.getenv("BRIGHT_DATA_DATASET_ID")
+
+        # Endpoints (same as SHADE)
+        self.trigger_url = f"https://api.brightdata.com/datasets/v3/trigger?dataset_id={self.dataset_id}&include_errors=true"
+        self.progress_base = "https://api.brightdata.com/datasets/v3/progress/"
+        self.snapshot_base = "https://api.brightdata.com/datasets/v3/snapshot/"
+
         self.session = requests.Session()
         if self.api_key:
-            self.session.headers.update({"Authorization": f"Bearer {self.api_key}"})
-        self.enabled = bool(self.api_key and (self.collector_id or self.endpoint))
+            self.session.headers.update({"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"})
 
-    def _prepare_urls(self, urls: List[str]) -> List[str]:
-        """Clean and deduplicate LinkedIn profile URLs"""
-        cleaned = []
-        seen = set()
-        
-        for url in urls:
-            if not url:
-                continue
-            url = url.strip().rstrip("/")
-            if ("linkedin.com/in" in url or "linkedin.com/pub" in url) and url not in seen:
-                seen.add(url)
-                cleaned.append(url)
-        
-        return cleaned
+        self.enabled = bool(self.api_key and self.dataset_id)
+        if not self.enabled:
+            bd_logger.warning("BrightDataScraper is disabled (need BRIGHT_DATA_API_KEY and BRIGHT_DATA_DATASET_ID).")
 
+    # ------------ public: per-company parallel ------------
     async def scrape_profiles_per_company_parallel(
         self,
         urls_by_company: Dict[str, List[str]],
         max_company_parallel: int = 3,
-        timeout_sec: int = 900
+        timeout_sec: int = 900,
     ) -> Dict[str, Dict[str, Any]]:
         """
-        Main entry point: scrape profiles with one snapshot per company, run in parallel
-        
         Args:
-            urls_by_company: {company_name: [list_of_urls]}
-            max_company_parallel: Max companies to process simultaneously
-            timeout_sec: Timeout for each snapshot
-            
+            urls_by_company: { company: [linkedin profile urls] }
         Returns:
-            {company_name: {url: profile_data}}
+            { company: { url: profile_dict } }
         """
         if not self.enabled:
-            logging.warning("BrightDataScraper disabled (missing API key/endpoint)")
             return {}
 
-        # Create semaphore to limit parallel company processing
-        semaphore = asyncio.Semaphore(max_company_parallel)
-        
-        async def _process_company(company: str, urls: List[str]):
-            async with semaphore:
+        sem = asyncio.Semaphore(max_company_parallel)
+
+        async def _run_one(company: str, urls: List[str]) -> Tuple[str, Dict[str, Any]]:
+            async with sem:
                 return await self._scrape_company_snapshot(company, urls, timeout_sec)
 
-        # Launch all company tasks in parallel
-        tasks = [
-            _process_company(company, urls) 
-            for company, urls in urls_by_company.items() 
-            if urls  # Only process companies with URLs
-        ]
-        
+        tasks = [_run_one(c, u) for c, u in (urls_by_company or {}).items() if u]
         if not tasks:
-            logging.warning("No companies with URLs to process")
             return {}
 
-        logging.info(f"Starting {len(tasks)} company snapshots in parallel (max {max_company_parallel} concurrent)")
-        
-        # Execute all company snapshots in parallel
         results = await asyncio.gather(*tasks, return_exceptions=True)
-        
-        # Collect successful results
-        final_results = {}
-        company_names = [comp for comp, urls in urls_by_company.items() if urls]
-        
-        for i, result in enumerate(results):
-            company_name = company_names[i] if i < len(company_names) else f"Company_{i}"
-            
-            if isinstance(result, tuple) and len(result) == 2:
-                company, url_profiles = result
-                final_results[company] = url_profiles
-                logging.info(f"✅ {company}: {len(url_profiles)} profiles scraped")
-            elif isinstance(result, Exception):
-                logging.error(f"❌ {company_name} failed: {result}")
-                final_results[company_name] = {}
+        out: Dict[str, Dict[str, Any]] = {}
+        for r in results:
+            if isinstance(r, tuple) and len(r) == 2:
+                c, urlmap = r
+                out[c] = urlmap
             else:
-                logging.warning(f"⚠️ {company_name}: unexpected result format")
-                final_results[company_name] = {}
+                bd_logger.error(f"Company task failed: {r}")
+        return out
 
-        total_scraped = sum(len(profiles) for profiles in final_results.values())
-        logging.info(f"Scraping complete: {total_scraped} total profiles across {len(final_results)} companies")
-        
-        return final_results
-
-    async def _scrape_company_snapshot(
-        self, 
-        company: str, 
-        urls: List[str], 
-        timeout_sec: int
-    ) -> tuple[str, Dict[str, Any]]:
-        """
-        Create and execute a single Bright Data snapshot for one company with ALL its URLs
-        
-        Returns:
-            (company_name, {url: profile_data})
-        """
+    # ------------ internal: single company ------------
+    async def _scrape_company_snapshot(self, company: str, urls: List[str], timeout_sec: int) -> Tuple[str, Dict[str, Any]]:
         urls = self._prepare_urls(urls)
         if not urls:
-            logging.warning(f"No valid URLs for {company}")
+            bd_logger.warning(f"{company}: no valid LinkedIn URLs after cleaning")
             return company, {}
-
-        logging.info(f"Creating snapshot for {company}: {len(urls)} URLs")
 
         try:
-            # Run the snapshot (sync operation) in a thread to avoid blocking
-            profiles = await asyncio.to_thread(
-                self._execute_snapshot_sync, urls, timeout_sec
-            )
-            
-            # Convert list of profiles to URL-keyed dict
-            url_map = {}
-            for profile in profiles or []:
-                profile_url = (profile.get("url") or profile.get("profile_url") or "").strip().rstrip("/")
-                if profile_url:
-                    url_map[profile_url] = profile
-            
-            logging.info(f"{company}: snapshot completed, {len(url_map)} profiles returned")
-            return company, url_map
-            
+            profiles = await asyncio.to_thread(self._dataset_snapshot_sync, urls, timeout_sec)
         except Exception as e:
-            logging.error(f"{company}: snapshot failed - {e}")
+            bd_logger.error(f"{company}: snapshot failed: {e}")
             return company, {}
 
-    def _execute_snapshot_sync(self, urls: List[str], timeout_sec: int) -> List[Dict[str, Any]]:
-        """
-        Execute a single Bright Data snapshot synchronously
-        This method handles the actual API interaction
-        """
-        if self.collector_id:
-            return self._collector_snapshot(urls, timeout_sec)
-        elif self.endpoint:
-            return self._endpoint_snapshot(urls, timeout_sec)
-        else:
-            raise ValueError("No collector_id or endpoint configured")
+        # normalize to {url: profile}
+        url_map: Dict[str, Any] = {}
+        for p in profiles or []:
+            u = (p.get("url") or p.get("profile_url") or "").strip().rstrip("/")
+            if u:
+                url_map[u] = p
+        bd_logger.info(f"{company}: scraped {len(url_map)} profiles")
+        return company, url_map
 
-    def _collector_snapshot(self, urls: List[str], timeout_sec: int) -> List[Dict[str, Any]]:
-        """Execute snapshot using Bright Data Collector API"""
-        # Start the collector run
-        start_url = f"https://api.brightdata.com/collectors/{self.collector_id}/start"
-        payload = {"start_urls": [{"url": url} for url in urls]}
-        
-        logging.debug(f"Starting collector with {len(urls)} URLs")
-        response = self.session.post(start_url, json=payload, timeout=60)
-        response.raise_for_status()
-        
-        data = response.json()
-        status_url = data.get("status_url") or data.get("url")
-        
-        if not status_url:
-            logging.error("No status URL returned from collector start")
+    # ------------ dataset trigger/progress/snapshot (sync) ------------
+    def _dataset_snapshot_sync(self, urls: List[str], timeout_sec: int) -> List[Dict[str, Any]]:
+        snapshot_id = self._trigger(urls)
+        if not snapshot_id:
+            return []
+        if not self._wait_ready(snapshot_id, timeout_sec=timeout_sec, interval=10):
+            return []
+        return self._fetch(snapshot_id)
+
+    def _trigger(self, urls: List[str]) -> str | None:
+        payload = [{"url": u} for u in urls]
+        try:
+            r = self.session.post(self.trigger_url, json=payload, timeout=60)
+            if r.ok:
+                js = r.json()
+                sid = js.get("snapshot_id") or js.get("snapshot") or js.get("id")
+                if not sid:
+                    bd_logger.error(f"Trigger missing snapshot id: {js}")
+                return sid
+            bd_logger.error(f"Trigger error {r.status_code}: {r.text}")
+        except Exception as e:
+            bd_logger.error(f"Trigger failed: {e}")
+        return None
+
+    def _wait_ready(self, snapshot_id: str, timeout_sec: int, interval: int = 10) -> bool:
+        elapsed = 0
+        while elapsed <= timeout_sec:
+            try:
+                r = self.session.get(self.progress_base + snapshot_id, timeout=30)
+                if r.ok:
+                    js = r.json()
+                    status = (js.get("status") or js.get("state") or "").lower()
+                    if status == "ready":
+                        return True
+                    if status == "error":
+                        bd_logger.error(f"Snapshot error: {js}")
+                        return False
+            except Exception as e:
+                bd_logger.warning(f"Progress poll error: {e}")
+            time.sleep(interval)
+            elapsed += interval
+        bd_logger.error("Snapshot timed out")
+        return False
+
+    def _fetch(self, snapshot_id: str) -> List[Dict[str, Any]]:
+        try:
+            r = self.session.get(self.snapshot_base + snapshot_id, timeout=120)
+            if not r.ok:
+                bd_logger.error(f"Snapshot fetch error {r.status_code}: {r.text}")
+                return []
+            lines = [ln for ln in r.text.splitlines() if ln.strip()]
+            out: List[Dict[str, Any]] = []
+            for ln in lines:
+                try:
+                    obj = json.loads(ln)
+                    if "url" not in obj and "profile_url" in obj:
+                        obj["url"] = obj["profile_url"]
+                    out.append(obj)
+                except Exception:
+                    pass
+            return out
+        except Exception as e:
+            bd_logger.error(f"Snapshot fetch failed: {e}")
             return []
 
-        # Poll for results with exponential backoff
-        poll_interval = 3
-        max_polls = timeout_sec // poll_interval
-        
-        for attempt in range(max_polls):
-            try:
-                status_response = self.session.get(status_url, timeout=60)
-                
-                if status_response.status_code == 200:
-                    result_data = status_response.json()
-                    items = result_data.get("items") or result_data.get("results") or []
-                    
-                    if items:
-                        # Normalize profile data
-                        normalized = []
-                        for item in items:
-                            if item and isinstance(item, dict):
-                                # Ensure URL field exists
-                                if "url" not in item and "profile_url" in item:
-                                    item["url"] = item["profile_url"]
-                                normalized.append(item)
-                        
-                        logging.debug(f"Collector returned {len(normalized)} profiles")
-                        return normalized
-                    
-                    # Check if still processing
-                    status = result_data.get("status", "").lower()
-                    if status in ["completed", "finished", "done"]:
-                        logging.warning("Collector completed but returned no items")
-                        return []
-                
-                # Wait before next poll, with exponential backoff
-                wait_time = min(poll_interval * (1.2 ** (attempt // 5)), 30)
-                time.sleep(wait_time)
-                
-            except Exception as e:
-                logging.warning(f"Polling attempt {attempt + 1} failed: {e}")
-                time.sleep(poll_interval)
+    # ------------ utils ------------
+    def _prepare_urls(self, urls: List[str]) -> List[str]:
+        cleaned, seen = [], set()
+        for u in urls or []:
+            if not u:
+                continue
+            u2 = u.strip().rstrip("/")
+            if ("linkedin.com/in" in u2 or "linkedin.com/pub" in u2) and u2 not in seen:
+                seen.add(u2); cleaned.append(u2)
+        return cleaned
 
-        logging.error(f"Collector timeout after {timeout_sec}s")
-        return []
 
-    def _endpoint_snapshot(self, urls: List[str], timeout_sec: int) -> List[Dict[str, Any]]:
-        """Execute snapshot using direct endpoint"""
-        payload = {"urls": urls}
-        
-        logging.debug(f"Sending {len(urls)} URLs to endpoint")
-        response = self.session.post(self.endpoint, json=payload, timeout=timeout_sec)
-        response.raise_for_status()
-        
-        data = response.json()
-        items = data.get("items") or data.get("results") or []
-        
-        # Normalize profile data
-        normalized = []
-        for item in items:
-            if item and isinstance(item, dict):
-                # Ensure URL field exists
-                if "url" not in item and "profile_url" in item:
-                    item["url"] = item["profile_url"]
-                normalized.append(item)
-        
-        logging.debug(f"Endpoint returned {len(normalized)} profiles")
-        return normalized
-
-# =============================================================================
-# Updated helper function for the main pipeline
-# =============================================================================
-
+# === Mirage-facing helper (keeps Mirage call-sites unchanged) ===
 async def scrape_matched_profiles_per_company_parallel(
     shade_scraper: BrightDataScraper,
     matched_urls_per_company: Dict[str, List[str]],
-    **kwargs  # Accept any extra params but ignore them
+    **kwargs
 ) -> Dict[str, Dict[str, Dict]]:
-    """
-    Updated interface that uses the new per-company snapshot approach
-    
-    Args:
-        shade_scraper: BrightDataScraper instance
-        matched_urls_per_company: {company: [urls]}
-        **kwargs: Ignored (for backward compatibility)
-    
-    Returns:
-        {company: {url: profile_data}}
-    """
     return await shade_scraper.scrape_profiles_per_company_parallel(
         matched_urls_per_company,
-        max_company_parallel=3,  # Can be made configurable
-        timeout_sec=900
+        max_company_parallel=int(kwargs.get("max_company_parallel", 3)),
+        timeout_sec=int(kwargs.get("timeout_sec", 900)),
     )
 
-# Also add the old method name for backward compatibility
-class BrightDataScraperCompat(BrightDataScraper):
-    """Compatibility wrapper that maintains the old interface"""
-    
-    def scrape_profiles_in_batches(self, urls: List[str], batch_size: int = 10, 
-                                   timeout_sec: int = 900) -> List[Dict[str, Any]]:
-        """Legacy sync method - converts to async and runs single company"""
-        import asyncio
-        try:
-            loop = asyncio.get_event_loop()
-        except RuntimeError:
-            loop = asyncio.new_event_loop()
-            asyncio.set_event_loop(loop)
-        
-        # Run as single company
-        company_data = {"single_company": urls}
-        result = loop.run_until_complete(
-            self.scrape_profiles_per_company_parallel(company_data, timeout_sec=timeout_sec)
-        )
-        
-        # Return flat list for compatibility
-        profiles = []
-        for company_profiles in result.values():
-            profiles.extend(company_profiles.values())
-        return profiles
-
-# =============================================================================
-# Updated helper function for the main pipeline
-# =============================================================================
-
-async def scrape_matched_profiles_per_company_parallel(
-    shade_scraper: BrightDataScraper,
-    matched_urls_per_company: Dict[str, List[str]],
-    **kwargs  # Accept any extra params but ignore them
-) -> Dict[str, Dict[str, Dict]]:
-    """
-    Updated interface that uses the new per-company snapshot approach
-    
-    Args:
-        shade_scraper: BrightDataScraper instance
-        matched_urls_per_company: {company: [urls]}
-        **kwargs: Ignored (for backward compatibility)
-    
-    Returns:
-        {company: {url: profile_data}}
-    """
-    return await shade_scraper.scrape_profiles_per_company_parallel(
-        matched_urls_per_company,
-        max_company_parallel=3,  # Can be made configurable
-        timeout_sec=900
-    )
 # =============================================================================
 # Main MIRAGE System
 # =============================================================================
@@ -1710,32 +1578,30 @@ class MirageSystem:
                     target_profiles, competitor_employees
                 )
             # === Phase 4.5: Scrape matched LinkedIn profiles using SHADE Bright scraper (PARALLEL PER COMPANY) ===
-            logger.info("Phase 4.5: Scraping matched LinkedIn profiles with SHADE Bright scraper (parallel per company)")
-            matched_urls_per_company = collect_matched_linkedin_urls(profile_matches)
+            bd_logger.info("Phase 4.5: Scraping matched LinkedIn profiles with Bright Data (parallel per company)")
 
+            matched_urls_per_company = collect_matched_linkedin_urls(profile_matches)
             scraped_by_company: Dict[str, Dict[str, Any]] = {}
             total_scraped = 0
 
-            if ShadeBrightScraper is None:
-                logger.warning("SHADE scraper not importable — skipping matched profile scraping")
-            else:
-                shade_scraper = ShadeBrightScraper()
-                logger.info("SHADE scraper enabled? True")
+            try:
+                scraper = BrightDataScraper()
+                if scraper.enabled:
+                    scraped_by_company = await scrape_matched_profiles_per_company_parallel(
+                        scraper,
+                        matched_urls_per_company,
+                        max_company_parallel=3,
+                        timeout_sec=900,
+                    )
+                    total_scraped = sum(len(v or {}) for v in scraped_by_company.values())
+                else:
+                    bd_logger.warning("BrightDataScraper not enabled (set BRIGHT_DATA_API_KEY and BRIGHT_DATA_DATASET_ID)")
+            except Exception as e:
+                bd_logger.error(f"Bright Data scraping failed: {e}")
+                scraped_by_company = {}
+                total_scraped = 0
 
-                # Fire multiple Bright Data snapshots in parallel PER company,
-                # auto-splitting each company’s list into ≤100-url chunks
-                scraped_by_company = await scrape_matched_profiles_per_company_parallel(
-                    shade_scraper,
-                    matched_urls_per_company,
-                    per_snapshot_cap=100,       # Bright Data cap
-                    shade_batch_size=8,         # your existing value
-                    timeout_sec=900,
-                    max_company_parallel=3      # tune if you hit rate limits
-                )
-
-                total_scraped = sum(len(v or {}) for v in scraped_by_company.values())
-
-            logger.info(f"SHADE scraping complete. Profiles scraped: {total_scraped}")
+            bd_logger.info(f"Bright Data scraping complete. Profiles scraped: {total_scraped}")
 
 
 

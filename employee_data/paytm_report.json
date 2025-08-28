@@ -1,0 +1,214 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_PAYTM",
+    "target_company": "Paytm",
+    "mission_timestamp": "2025-08-28T15:33:21.645180",
+    "completion_timestamp": "2025-08-28T15:33:21.645180",
+    "mission_status": "COMPLETED"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_employees_found": 14,
+      "detailed_profiles_scraped": 0,
+      "scraping_success_rate": 0.0
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Gaurav Sharma | Ex",
+          "linkedin_url": "https://nl.linkedin.com/in/gauravsharmatpm",
+          "company": "Paytm",
+          "search_snippet": "Leading Paytm's Cybersecurity team across India and Canada. • Program Manager for Paytm e-commerce, digital banking, travel and several other domains. • Working ...",
+          "title": "Grab"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Roshni S Nair Jain‏",
+          "linkedin_url": "https://ae.linkedin.com/in/roshnisnairjain",
+          "company": "Paytm",
+          "search_snippet": "... other businesses. As the Vice President of AI Sales at Yubi, I lead the sales ... Paytm Travel, and Region Head for Paytm Brands. At Paytm, I built a ...",
+          "title": "‏Vice President, Yubi"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Rakshit Bansal‏",
+          "linkedin_url": "https://ae.linkedin.com/in/rakshit-bansal",
+          "company": "Paytm",
+          "search_snippet": "... other key… عرض المزيد. • Core member of the team who launched Firstcry in GCC ... Paytm.com. أبريل ٢٠١٤ - أغسطس ٢٠١٤ 5 شهر. Noida Area, India. • Brought in ...",
+          "title": ""
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Dia Nainika Nair‏",
+          "linkedin_url": "https://sa.linkedin.com/in/dianainikanair",
+          "company": "Paytm",
+          "search_snippet": "مارس ٢٠٢٥⁦ ⁩ - الحالي 6 شهر. Riyadh, Saudi Arabia. Paytm. 3 عام 6 ... Among other duties, I have rescued injured/abandoned animals and taken them ...",
+          "title": "‏Consulting"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Tannishk Sharma‏",
+          "linkedin_url": "https://ae.linkedin.com/in/tannishk",
+          "company": "Paytm",
+          "search_snippet": "Intranet Chat. -. In this project i made an intranet chat which facilitate people to talk to each other over the LAN using socket programming and GUI was ...",
+          "title": "‏Kotak Mahindra Bank‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Priyanka Shrivastava‏",
+          "linkedin_url": "https://ae.linkedin.com/in/priyanka-shrivastava-10997415",
+          "company": "Paytm",
+          "search_snippet": "Assistant General ... Currently working with India's leading Gaming app \"First Games by Paytm\" in RMG category as Senior Manager - Media & Partnerships.",
+          "title": "‏Assistant General Manager - Media‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Prince Raj Anand‏",
+          "linkedin_url": "https://ae.linkedin.com/in/princerajanand",
+          "company": "Paytm",
+          "search_snippet": "... Paytm, India's largest digital payment gateway platform. Instrumental ... Deputy General Manager, Product. Paytm. أبريل ٢٠١٩ - أكتوبر ٢٠٢٠ 1 عام واحد 7 ...",
+          "title": "‏AVP, Product & Partnerships at Paytm (Middle ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Rajiv Bhattacharjee‏",
+          "linkedin_url": "https://ae.linkedin.com/in/rajiv-bhattacharjee-68317072",
+          "company": "Paytm",
+          "search_snippet": "Currently serving as General Manager of Global Distribution at Air Arabia, leveraging…‏ · الخبرة: ‏Air Arabia‏ · التعليم: ‏Delhi University‏ · الموقع: ‏دبي‏ ...",
+          "title": "‏Air Arabia‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Sabina Kamal‏",
+          "linkedin_url": "https://ae.linkedin.com/in/sabina-kamal-a9033140",
+          "company": "Paytm",
+          "search_snippet": "Rajan Mathews, Director General, COAI; Mr. B.D,Khurana, Newgen Holdings & Group Companies; Padamshree Dr. Ashok Jhunjhunwala, IIT Madras; Mr. Mahesh Vaidya ...",
+          "title": "‏Pathfinder Phygital AI‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Rajat Gupta‏",
+          "linkedin_url": "https://ae.linkedin.com/in/rajatgupta14",
+          "company": "Paytm",
+          "search_snippet": "Sr. Group PM @ Paytm | PhonePe | ISB | IIT-D | Fintech‏ · ‏Fintech professional with 9+ years of experience across Product & Business functions.",
+          "title": "‏Sr. Group PM @ Paytm"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Samarth Jha‏",
+          "linkedin_url": "https://ae.linkedin.com/in/samarth-jha-2a9283103",
+          "company": "Paytm",
+          "search_snippet": "الخبرة ; Front Office Manager. crystal plaza hotel,sharjah. يونيو ٢٠١٥ ; Customer Service Representative. Paytm. مايو ٢٠١٥ ; Food And Beverage Assistant. Sheraton ...",
+          "title": "‏.‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Digvijay Singh Pangti | Ex Noon, Paytm",
+          "linkedin_url": "https://lu.linkedin.com/in/digvijay-singh-pangti-84575346",
+          "company": "Paytm",
+          "search_snippet": "Snr. Forecasting Manager, Amazon | Ex Noon, Paytm | IIT Delhi | Analytics, Insights, Planning & Forecasting · Expérience : Amazon · Formation : Indian ...",
+          "title": "LinkedIn Luxembourg"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Anjali Bhagat‏",
+          "linkedin_url": "https://ae.linkedin.com/in/anjali-bhagat-1a5bb6145",
+          "company": "Paytm",
+          "search_snippet": "Accountant @ PNS International General Trading LLC/ Accounts Expert‏ · ‏As an accountant at PNS International General Trading LLC, a leading trading company ...",
+          "title": "‏Accountant @ PNS International General Trading ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Naveen U.‏",
+          "linkedin_url": "https://ae.linkedin.com/in/naveen-u-76612210",
+          "company": "Paytm",
+          "search_snippet": "رسم بياني Paytm. General Manager - Head of Engineering. Paytm. فبراير ٢٠١٧ - ٢٠١٩ 2 عام. New Delhi Area, India. Heading engineering for 125 bright engineers as ...",
+          "title": "‏Generative AI"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      }
+    ]
+  }
+}
