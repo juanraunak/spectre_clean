@@ -1,255 +1,42 @@
 {
-  "paytm": [
-    {
-      "manipal_name": "Anuj Arora",
-      "manipal_role": "CFO",
-      "matches": [
-        {
-          "company": "paytm",
-          "name": "Syed Waqas Qadri",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Abby Yun Zhuang",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Tarun Pant",
-          "role": "Unknown Role",
-          "similarity": 60.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Kosmas Savvidis",
-          "role": "Unknown Role",
-          "similarity": 60.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Ricardo Piqueras Bonet",
-          "role": "Unknown Role",
-          "similarity": 50.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Joan Alexis Pamintuan",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Samiksha Sharma",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Deepti Kumar",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    },
-    {
-      "manipal_name": "Rahul Virmani",
-      "manipal_role": "Vice President & National Sales Head",
-      "matches": [
-        {
-          "company": "paytm",
-          "name": "‏Roshni S Nair Jain‏",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "paytm",
-          "name": "Mayank Batra",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    },
+  "razorpay": [
     {
       "manipal_name": "Puja Abhishek Singh",
       "manipal_role": "Unknown",
       "matches": [
         {
-          "company": "paytm",
-          "name": "Gaurav Sharma | Ex",
+          "company": "razorpay",
+          "name": "Pooja Khakhar",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "paytm",
-          "name": "Samiksha Sharma",
+          "company": "razorpay",
+          "name": "Mohammad Hasiff",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "paytm",
-          "name": "Gopibalu Subramanian",
+          "company": "razorpay",
+          "name": "Umeysh Baskaran",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "paytm",
-          "name": "Rishabh Mahawar",
+          "company": "razorpay",
+          "name": "Rajesh E – Driving Innovation",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "paytm",
-          "name": "Kosmas Savvidis",
+          "company": "razorpay",
+          "name": "Tarven murugarajan",
           "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    }
-  ],
-  "mobikwik": [
-    {
-      "manipal_name": "Anuj Arora",
-      "manipal_role": "CFO",
-      "matches": [
-        {
-          "company": "mobikwik",
-          "name": "KHUSHBOO KHOJA",
-          "role": "Unknown Role",
-          "similarity": 85.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Vaibhav Gupta",
-          "role": "Unknown Role",
-          "similarity": 85.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Ankit Jain",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Gaurav Kumar, FRM",
-          "role": "Unknown Role",
-          "similarity": 65.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Avishek Tripathi",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    },
-    {
-      "manipal_name": "Rahul Virmani",
-      "manipal_role": "Vice President & National Sales Head",
-      "matches": [
-        {
-          "company": "mobikwik",
-          "name": "Avishek Tripathi",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Robert Lagane",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Saurabh Bais",
-          "role": "Unknown Role",
-          "similarity": 75.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "KHUSHBOO KHOJA",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    },
-    {
-      "manipal_name": "Puja Abhishek Singh",
-      "manipal_role": "Unknown",
-      "matches": [
-        {
-          "company": "mobikwik",
-          "name": "Kunal Gaur",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Vipin Chaudhary",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Sarthak Monga",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "Ankit Jain",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        },
-        {
-          "company": "mobikwik",
-          "name": "KHUSHBOO KHOJA",
-          "role": "Unknown Role",
-          "similarity": 45.0,
-          "via": "llm"
-        }
-      ]
-    },
-    {
-      "manipal_name": "Ankur Mathur",
-      "manipal_role": "Head HR",
-      "matches": [
-        {
-          "company": "mobikwik",
-          "name": "KHUSHBOO KHOJA",
-          "role": "Unknown Role",
-          "similarity": 45.0,
+          "similarity": 40.0,
           "via": "llm"
         }
       ]

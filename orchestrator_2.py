@@ -1,19 +1,36 @@
 #!/usr/bin/env python3
 """
-SHADE + MIRAGE + CIPHER Orchestrator (interactive, keeps your inputs)
-=====================================================================
+SHADE + MIRAGE + CIPHER + FRACTAL Orchestrator (interactive)
+============================================================
+
 Flow:
   1) Run SHADE for a company (asks for company + n).
   2) Optionally run MIRAGE on the SHADE report (asks yes/no + competitors).
-  3) Optionally run CIPHER (asks yes/no). Feeds:
-        - main company report (from SHADE)
-        - all competitor reports (from MIRAGE, or a hint dir you provide)
+  3) Export:
+        - SHADE main report and all MIRAGE competitor reports
+        - into ./employee_data/ as timestamped JSONs
+  4) Optionally run CIPHER (Agent 3):
+        - Reads from ./employee_data/
+        - Writes to ./company_skills/ (root, not nested)
+  5) Automatically run FRACTAL (Agent 4) AFTER Agent 3:
+        - Reads from:
+            - ./employee_data/
+            - ./company_skills/
+            - ./spectre_matches.json (Mirage matches file, project root)
+        - Writes summary files to project root
 
-New: After MIRAGE finishes, copy the SHADE main report and all MIRAGE
-competitor reports into ./employee_data/ as timestamped JSON files.
+Resilience:
+  - MIRAGE errors never stop the flow; we continue to export + CIPHER.
+  - FRACTAL only runs immediately after Agent 3 (if Agent 3 was run).
+
+Requirements:
+  - shade.run(ctx_dict) -> dict (may include "intelligence_report_path")
+  - mirage.run(ctx_dict) -> dict (safe: should not raise; but we wrap anyway)
+  - cipher.run_sync(ctx_dict) -> None (expects {"inputs": {...}})
+  - fractal.run_sync(ctx_dict) -> None (expects {"inputs": {...}})
 """
 
-import os, sys, json, time, shutil, logging, glob
+import os, sys, json, shutil, logging
 from datetime import datetime
 from typing import Dict, Any, Optional, List
 from pathlib import Path
@@ -41,7 +58,7 @@ except Exception as e:
 try:
     from mirage import run as mirage_run
     MIRAGE_AVAILABLE = True
-    logger.info("MIRAGE runner imported successfully")
+    logger.info("MIRAGE runner (mirage.run) imported successfully")
 except Exception as e:
     MIRAGE_AVAILABLE = False
     logger.warning(f"MIRAGE not available: {e}")
@@ -56,6 +73,17 @@ try:
 except Exception as e:
     CIPHER_AVAILABLE = False
     logger.warning(f"CIPHER not available: {e}")
+
+try:
+    import fractal  # Agent 4 — must expose run_sync(context)
+    FRACTAL_AVAILABLE = hasattr(fractal, "run_sync")
+    if FRACTAL_AVAILABLE:
+        logger.info("FRACTAL (Agent 4) module (run_sync) imported successfully")
+    else:
+        logger.warning("FRACTAL module imported, but run_sync not found")
+except Exception as e:
+    FRACTAL_AVAILABLE = False
+    logger.warning(f"FRACTAL (Agent 4) not available: {e}")
 
 # -----------------------------
 # Helpers
@@ -86,7 +114,7 @@ def _copy_if_exists(src: str | Path, dst: Path) -> Optional[Path]:
     return None
 
 def _harvest_competitor_json_paths(mirage_result: Dict[str, Any]) -> List[str]:
-    """Tries multiple common shapes to find competitor report JSONs in MIRAGE output."""
+    """Try multiple shapes to find competitor report JSONs in MIRAGE output."""
     paths: List[str] = []
     if not isinstance(mirage_result, dict):
         return paths
@@ -133,61 +161,44 @@ def _harvest_competitor_json_paths(mirage_result: Dict[str, Any]) -> List[str]:
 
     return paths
 
-def _glob_recent_jsons(root: Path, since_seconds: int = 3600) -> List[str]:
-    cutoff = time.time() - since_seconds
-    out: List[str] = []
-    for p in root.rglob("*.json"):
-        try:
-            if p.stat().st_mtime >= cutoff:
-                out.append(str(p.resolve()))
-        except Exception:
-            pass
-    return out
-
-def _prepare_cipher_directory(
-    base_output: Path,
+def _export_employee_data(
     company_name: str,
     shade_report_path: str,
     mirage_result: Optional[Dict[str, Any]],
-    mirage_reports_dir_hint: Optional[str] = None,
-) -> Path:
-    """Create a folder with main + competitor JSONs for CIPHER."""
+    dest_dir: Path = Path("employee_data")
+) -> int:
+    """
+    Copies the SHADE main report and all MIRAGE competitor report JSONs
+    into ./employee_data as uniquely named, timestamped files.
+    Returns number of files copied.
+    """
+    dest_dir.mkdir(parents=True, exist_ok=True)
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    data_dir = base_output / "cipher_input" / f"{_slug(company_name)}_{ts}"
-    data_dir.mkdir(parents=True, exist_ok=True)
-    logger.info(f"Preparing CIPHER input at {data_dir}")
+    copied = 0
 
-    # Main company report
-    main_dst = data_dir / f"{_slug(company_name)}_report.json"
-    if not _copy_if_exists(shade_report_path, main_dst):
-        # last resort: try to re-open and rewrite
+    # SHADE main (Spectre company) report
+    shade_dst = dest_dir / f"{_slug(company_name)}__main__{ts}.json"
+    if not _copy_if_exists(shade_report_path, shade_dst):
+        # last resort: open+rewrite if copy failed
         try:
             with open(shade_report_path, "r", encoding="utf-8") as f:
-                _write_json(json.load(f), main_dst)
-        except Exception:
-            logger.warning("Could not copy/write main SHADE report for CIPHER")
-
-    # Competitors from MIRAGE
-    comp_paths: List[str] = _harvest_competitor_json_paths(mirage_result) if mirage_result else []
-
-    # Optional hint directory
-    if not comp_paths and mirage_reports_dir_hint:
-        hint = Path(mirage_reports_dir_hint)
-        if hint.exists():
-            comp_paths.extend([str(p.resolve()) for p in hint.glob("*.json")])
-
-    # Fallback: recent JSONs in CWD
-    if not comp_paths:
-        logger.info("No competitor paths found in MIRAGE; globbing recent *.json near CWD")
-        comp_paths = _glob_recent_jsons(Path.cwd(), since_seconds=3600)
-
-    copied = 0
-    for p in comp_paths:
-        name = Path(p).stem
-        if _copy_if_exists(p, data_dir / f"{name}.json"):
+                _write_json(json.load(f), shade_dst)
             copied += 1
-    logger.info(f"Copied {copied} competitor JSONs for CIPHER")
-    return data_dir
+        except Exception as e:
+            logger.warning(f"Could not export SHADE report to employee_data: {e}")
+    else:
+        copied += 1
+
+    # MIRAGE competitor reports (if present)
+    comp_paths: List[str] = _harvest_competitor_json_paths(mirage_result) if mirage_result else []
+    for idx, p in enumerate(comp_paths, start=1):
+        stem = Path(p).stem
+        dst = dest_dir / f"{_slug(company_name)}__competitor_{idx:02d}__{stem}__{ts}.json"
+        if _copy_if_exists(p, dst):
+            copied += 1
+
+    logger.info(f"[employee_data] Exported {copied} report(s) to {dest_dir.resolve()}")
+    return copied
 
 def _print_mirage_summary(result: Dict[str, Any]):
     try:
@@ -201,52 +212,16 @@ def _print_mirage_summary(result: Dict[str, Any]):
     except Exception:
         pass
 
-# === NEW: export SHADE + MIRAGE reports into ./employee_data ==================
-def _export_employee_data(
-    company_name: str,
-    shade_report_path: str,
-    mirage_result: Optional[Dict[str, Any]],
-    dest_dir: Path = Path("employee_data")
-) -> int:
-    """
-    Copies the SHADE main report and all MIRAGE competitor report JSONs
-    into ./employee_data as uniquely named files. Returns number of files copied.
-    """
-    dest_dir.mkdir(parents=True, exist_ok=True)
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    copied = 0
-
-    # 1) Copy SHADE main (Spectre company) report
-    shade_dst = dest_dir / f"{_slug(company_name)}__main__{ts}.json"
-    if not _copy_if_exists(shade_report_path, shade_dst):
-        # last resort: open+rewrite if copy failed
-        try:
-            with open(shade_report_path, "r", encoding="utf-8") as f:
-                _write_json(json.load(f), shade_dst)
-            copied += 1
-        except Exception as e:
-            logger.warning(f"Could not export SHADE report to employee_data: {e}")
-    else:
-        copied += 1
-
-    # 2) Copy MIRAGE competitor reports (if present)
-    comp_paths: List[str] = _harvest_competitor_json_paths(mirage_result) if mirage_result else []
-    for idx, p in enumerate(comp_paths, start=1):
-        stem = Path(p).stem
-        dst = dest_dir / f"{_slug(company_name)}__competitor_{idx:02d}__{stem}__{ts}.json"
-        if _copy_if_exists(p, dst):
-            copied += 1
-
-    logger.info(f"[employee_data] Exported {copied} report(s) to {dest_dir.resolve()}")
-    return copied
-# ==============================================================================
-
 # -----------------------------
 # Main (interactive)
 # -----------------------------
 def main():
-    base_output = Path("output")
-    base_output.mkdir(parents=True, exist_ok=True)
+    # Root-level directories
+    employee_data_dir = Path("employee_data")
+    company_skills_dir = Path("company_skills")
+
+    # Ensure outputs root exists
+    company_skills_dir.mkdir(parents=True, exist_ok=True)
 
     while True:
         company = input("\nEnter company name (or 'quit'): ").strip()
@@ -261,15 +236,17 @@ def main():
         shade_ctx = {"company_name": company, "spectre_n": num_employees}
         shade_res = shade_run(shade_ctx)
 
-        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-        shade_fname = f"{_slug(company)}_{ts}_shade_result.json"
-        shade_out = base_output / shade_fname
-        _write_json(shade_res, shade_out)
-        logger.info(f"Saved SHADE report to {shade_out}")
+        # The SHADE report path: prefer explicit path from SHADE, else dump full result
+        report_path = shade_res.get("intelligence_report_path")
+        if not report_path:
+            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+            shade_dump = Path("output") / f"{_slug(company)}_{ts}_shade_result.json"
+            shade_dump.parent.mkdir(parents=True, exist_ok=True)
+            _write_json(shade_res, shade_dump)
+            logger.info(f"Saved SHADE full result to {shade_dump}")
+            report_path = str(shade_dump)
 
-        report_path = shade_res.get("intelligence_report_path") or str(shade_out)
-
-        # ==== 2) MIRAGE (optional) ====
+        # ==== 2) MIRAGE (optional, non-blocking) ====
         mirage_res: Optional[Dict[str, Any]] = None
         if MIRAGE_AVAILABLE:
             choice = input("Run MIRAGE on this report? (y/n): ").strip().lower()
@@ -278,51 +255,91 @@ def main():
                 competitors = int(c) if c.isdigit() else 10
                 ctx = {"inputs": {"intelligence_report_path": report_path, "num_competitors": competitors}}
                 logger.info("Running MIRAGE...")
-                mirage_res = mirage_run(ctx)
-                if isinstance(mirage_res, dict):
-                    _print_mirage_summary(mirage_res)
-                else:
-                    logger.warning("MIRAGE returned a non-dict result")
+                try:
+                    tmp_res = mirage_run(ctx)
+                    if not isinstance(tmp_res, dict):
+                        logger.warning("MIRAGE returned non-dict; coercing to {}")
+                        mirage_res = {}
+                    else:
+                        mirage_res = tmp_res
+                    if isinstance(mirage_res, dict):
+                        _print_mirage_summary(mirage_res)
+                except Exception as e:
+                    logger.error(f"MIRAGE errored but continuing: {e}", exc_info=True)
+                    mirage_res = {}
         else:
             logger.warning("MIRAGE not available; skipping competitor analysis")
 
-        # === NEW: Export SHADE + MIRAGE reports to ./employee_data ============
+        # ==== 3) EXPORT to ./employee_data (always do this) ====
         try:
-            _export_employee_data(company_name=company, shade_report_path=report_path, mirage_result=mirage_res)
+            employee_data_dir.mkdir(parents=True, exist_ok=True)
+            _ = _export_employee_data(
+                company_name=company,
+                shade_report_path=report_path,
+                mirage_result=mirage_res,
+                dest_dir=employee_data_dir
+            )
+            logger.info("All reports written to employee_data")
         except Exception as e:
             logger.error(f"Failed exporting reports to employee_data: {e}")
-        # =====================================================================
 
-        # ==== 3) CIPHER (optional) ====
+        # ==== 4) CIPHER (optional) — reads ./employee_data, writes ./company_skills ====
+        ran_cipher = False
         if CIPHER_AVAILABLE:
             run_cipher = input("Run CIPHER (skills extraction) now? (y/n): ").strip().lower()
             if run_cipher in ("y", "yes"):
-                hint = input("If MIRAGE reports are in a folder, enter path (or leave blank): ").strip() or None
-                out_override = input("CIPHER output dir [blank = ./output/company_skills]: ").strip() or None
-                test_ping = input("Test Azure/OpenAI connection first? (y/n): ").strip().lower() in ("y", "yes")
-
-                data_dir = _prepare_cipher_directory(
-                    base_output=base_output,
-                    company_name=company,
-                    shade_report_path=report_path,
-                    mirage_result=mirage_res,
-                    mirage_reports_dir_hint=hint,
-                )
-
                 cipher_inputs = {
-                    "data_directory": str(data_dir),
-                    "output_dir": out_override or str(base_output / "company_skills"),
-                    "test_connection": bool(test_ping),
+                    "data_directory": str(employee_data_dir.resolve()),
+                    "output_dir": str(company_skills_dir.resolve()),
+                    "test_connection": False,  # set True if you want a ping first
                 }
                 logger.info(f"Running CIPHER with inputs: {cipher_inputs}")
                 try:
                     ctx = {"inputs": cipher_inputs}
                     cipher.run_sync(ctx)
+                    ran_cipher = True
                     logger.info("CIPHER finished.")
                 except Exception as e:
-                    logger.error(f"CIPHER errored: {e}")
+                    logger.error(f"CIPHER errored: {e}", exc_info=True)
         else:
             logger.warning("CIPHER not available; skipping skills extraction")
+
+        # ==== 5) FRACTAL (Agent 4) — auto-run ONLY if Agent 3 ran ====
+        if ran_cipher and FRACTAL_AVAILABLE:
+            try:
+                spectre_matches_path = "spectre_matches.json"
+                if not Path(spectre_matches_path).exists():
+                    logger.warning(f"Missing {spectre_matches_path}; Agent 4 will skip.")
+                else:
+                    agent4_ctx = {
+                        "inputs": {
+                            # strict IO: only these two dirs + this one file
+                            "skills_dir": str(company_skills_dir.resolve()),
+                            "raw_dir": str(employee_data_dir.resolve()),
+                            "spectre_path": spectre_matches_path,
+
+                            # keep name aligned with user input
+                            "spectre_company": company,
+
+                            # set to True if you want GPT blurbs in outputs
+                            "use_llm": False,
+
+                            # filenames for outputs (root)
+                            "outputs": {
+                                "step1_detailed": "step1_missing_skills.json",
+                                "step1_basic": "step1_missing_skills_basic.json",
+                                "step2_detailed": "final_skill_gaps_detailed_gpt.json",
+                                "final_summary": "final_skill_gaps.json",
+                            },
+                        }
+                    }
+                    logger.info("Running Agent 4 (FRACTAL) for skill-gap analysis…")
+                    fractal.run_sync(agent4_ctx)
+                    logger.info("Agent 4 (FRACTAL) finished. Files written to project root.")
+            except Exception as e:
+                logger.error(f"FRACTAL (Agent 4) errored: {e}", exc_info=True)
+        elif ran_cipher and not FRACTAL_AVAILABLE:
+            logger.warning("FRACTAL (Agent 4) not available; skipping skill-gap analysis")
 
 if __name__ == "__main__":
     main()

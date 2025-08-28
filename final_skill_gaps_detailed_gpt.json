@@ -1,188 +1,92 @@
 [
   {
-    "manipal_employee": "Rahul Virmani",
-    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
-    "missing_skills": [
-      "account management",
-      "business development",
-      "communication skills",
-      "customer relationship management",
-      "market analysis",
-      "negotiation",
-      "project management",
-      "sales strategy",
-      "strategic planning",
-      "team leadership"
-    ],
-    "skill_importance": {
-      "account management": "Nice-to-have",
-      "business development": "Critical",
-      "communication skills": "Critical",
-      "customer relationship management": "Nice-to-have",
-      "market analysis": "Nice-to-have",
-      "negotiation": "Nice-to-have",
-      "project management": "Nice-to-have",
-      "sales strategy": "Nice-to-have",
-      "strategic planning": "Nice-to-have",
-      "team leadership": "Nice-to-have"
-    },
-    "gap_reasoning": {
-      "account management": "Present in 2/6 competitors; examples: mobikwik",
-      "business development": "Present in 3/6 competitors; examples: mobikwik, paytm",
-      "communication skills": "Present in 3/6 competitors; examples: mobikwik",
-      "customer relationship management": "Present in 2/6 competitors; examples: mobikwik",
-      "market analysis": "Present in 2/6 competitors; examples: mobikwik",
-      "negotiation": "Present in 2/6 competitors; examples: mobikwik",
-      "project management": "Present in 2/6 competitors; examples: mobikwik, paytm",
-      "sales strategy": "Present in 2/6 competitors; examples: mobikwik",
-      "strategic planning": "Present in 2/6 competitors; examples: mobikwik, paytm",
-      "team leadership": "Present in 2/6 competitors; examples: mobikwik"
-    },
-    "overall_assessment": "Found 10 priority gaps from 6 matched competitors",
-    "recommendations": [
-      "🚨 PRIORITY: Focus on business development, communication skills",
-      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
-    ],
-    "competitor_companies": [
-      "mobikwik",
-      "paytm"
-    ],
-    "competitor_count": 6,
-    "evidence_flags": {
-      "used_llm": false,
-      "confidence_score": 0.95,
-      "top2_covered": 2
-    }
-  },
-  {
-    "manipal_employee": "Ankur Mathur",
-    "role": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
-    "missing_skills": [
-      "budgeting",
-      "chartered accountancy",
-      "cost management",
-      "data analysis",
-      "excel",
-      "financial auditing",
-      "financial planning and analysis",
-      "financial reporting",
-      "forecasting",
-      "internal controls",
-      "risk assessment",
-      "strategic planning",
-      "variance analysis"
-    ],
-    "skill_importance": {
-      "budgeting": "Critical",
-      "chartered accountancy": "Critical",
-      "cost management": "Critical",
-      "data analysis": "Critical",
-      "excel": "Critical",
-      "financial auditing": "Critical",
-      "financial planning and analysis": "Critical",
-      "financial reporting": "Critical",
-      "forecasting": "Critical",
-      "internal controls": "Critical",
-      "risk assessment": "Critical",
-      "strategic planning": "Critical",
-      "variance analysis": "Critical"
-    },
-    "gap_reasoning": {
-      "budgeting": "Present in 1/1 competitors; examples: mobikwik",
-      "chartered accountancy": "Present in 1/1 competitors; examples: mobikwik",
-      "cost management": "Present in 1/1 competitors; examples: mobikwik",
-      "data analysis": "Present in 1/1 competitors; examples: mobikwik",
-      "excel": "Present in 1/1 competitors; examples: mobikwik",
-      "financial auditing": "Present in 1/1 competitors; examples: mobikwik",
-      "financial planning and analysis": "Present in 1/1 competitors; examples: mobikwik",
-      "financial reporting": "Present in 1/1 competitors; examples: mobikwik",
-      "forecasting": "Present in 1/1 competitors; examples: mobikwik",
-      "internal controls": "Present in 1/1 competitors; examples: mobikwik",
-      "risk assessment": "Present in 1/1 competitors; examples: mobikwik",
-      "strategic planning": "Present in 1/1 competitors; examples: mobikwik",
-      "variance analysis": "Present in 1/1 competitors; examples: mobikwik"
-    },
-    "overall_assessment": "Found 13 priority gaps from 1 matched competitors",
-    "recommendations": [
-      "🚨 PRIORITY: Focus on budgeting, chartered accountancy",
-      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
-    ],
-    "competitor_companies": [
-      "mobikwik"
-    ],
-    "competitor_count": 1,
-    "evidence_flags": {
-      "used_llm": false,
-      "confidence_score": 0.7,
-      "top2_covered": 2
-    }
-  },
-  {
-    "manipal_employee": "Anuj Arora",
-    "role": "CFO at Manipal Fintech",
-    "missing_skills": [
-      "data analysis",
-      "risk management",
-      "strategic planning",
-      "team leadership"
-    ],
-    "skill_importance": {
-      "data analysis": "Critical",
-      "risk management": "Critical",
-      "strategic planning": "Nice-to-have",
-      "team leadership": "Nice-to-have"
-    },
-    "gap_reasoning": {
-      "data analysis": "Present in 5/13 competitors; examples: mobikwik, paytm",
-      "risk management": "Present in 5/13 competitors; examples: mobikwik, paytm",
-      "strategic planning": "Present in 4/13 competitors; examples: mobikwik, paytm",
-      "team leadership": "Present in 4/13 competitors; examples: mobikwik, paytm"
-    },
-    "overall_assessment": "Found 4 priority gaps from 13 matched competitors",
-    "recommendations": [
-      "🚨 PRIORITY: Focus on data analysis, risk management"
-    ],
-    "competitor_companies": [
-      "mobikwik",
-      "paytm"
-    ],
-    "competitor_count": 13,
-    "evidence_flags": {
-      "used_llm": false,
-      "confidence_score": 0.95,
-      "top2_covered": 2
-    }
-  },
-  {
     "manipal_employee": "Puja Abhishek Singh",
     "role": "",
     "missing_skills": [
+      "business strategy",
+      "client management",
+      "communication skills",
       "data analysis",
+      "demand planning",
+      "excel",
       "financial modeling",
+      "financial technology",
+      "forecasting",
+      "inventory management",
+      "okr practitioner",
+      "payment solutions",
+      "problem solving",
+      "process improvement",
       "project management",
-      "python"
+      "python",
+      "risk management",
+      "sap",
+      "solution consulting",
+      "stakeholder management",
+      "supply chain management",
+      "team leadership",
+      "technical support"
     ],
     "skill_importance": {
+      "business strategy": "Nice-to-have",
+      "client management": "Nice-to-have",
+      "communication skills": "Nice-to-have",
       "data analysis": "Critical",
+      "demand planning": "Nice-to-have",
+      "excel": "Nice-to-have",
       "financial modeling": "Nice-to-have",
-      "project management": "Nice-to-have",
-      "python": "Critical"
+      "financial technology": "Nice-to-have",
+      "forecasting": "Nice-to-have",
+      "inventory management": "Nice-to-have",
+      "okr practitioner": "Nice-to-have",
+      "payment solutions": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "sap": "Nice-to-have",
+      "solution consulting": "Nice-to-have",
+      "stakeholder management": "Nice-to-have",
+      "supply chain management": "Nice-to-have",
+      "team leadership": "Important",
+      "technical support": "Nice-to-have"
     },
     "gap_reasoning": {
-      "data analysis": "Present in 6/9 competitors; examples: mobikwik, paytm",
-      "financial modeling": "Present in 3/9 competitors; examples: mobikwik, paytm",
-      "project management": "Present in 3/9 competitors; examples: mobikwik, paytm",
-      "python": "Present in 3/9 competitors; examples: mobikwik, paytm"
+      "business strategy": "Present in 1/4 competitors; examples: razorpay",
+      "client management": "Present in 1/4 competitors; examples: razorpay",
+      "communication skills": "Present in 1/4 competitors; examples: razorpay",
+      "data analysis": "Present in 2/4 competitors; examples: razorpay",
+      "demand planning": "Present in 1/4 competitors; examples: razorpay",
+      "excel": "Present in 1/4 competitors; examples: razorpay",
+      "financial modeling": "Present in 1/4 competitors; examples: razorpay",
+      "financial technology": "Present in 1/4 competitors; examples: razorpay",
+      "forecasting": "Present in 1/4 competitors; examples: razorpay",
+      "inventory management": "Present in 1/4 competitors; examples: razorpay",
+      "okr practitioner": "Present in 1/4 competitors; examples: razorpay",
+      "payment solutions": "Present in 1/4 competitors; examples: razorpay",
+      "problem solving": "Present in 1/4 competitors; examples: razorpay",
+      "process improvement": "Present in 1/4 competitors; examples: razorpay",
+      "project management": "Present in 2/4 competitors; examples: razorpay",
+      "python": "Present in 1/4 competitors; examples: razorpay",
+      "risk management": "Present in 1/4 competitors; examples: razorpay",
+      "sap": "Present in 1/4 competitors; examples: razorpay",
+      "solution consulting": "Present in 1/4 competitors; examples: razorpay",
+      "stakeholder management": "Present in 1/4 competitors; examples: razorpay",
+      "supply chain management": "Present in 1/4 competitors; examples: razorpay",
+      "team leadership": "Present in 2/4 competitors; examples: razorpay",
+      "technical support": "Present in 1/4 competitors; examples: razorpay"
     },
-    "overall_assessment": "Found 4 priority gaps from 9 matched competitors",
+    "overall_assessment": "Found 23 priority gaps from 4 matched competitors",
     "recommendations": [
-      "🚨 PRIORITY: Focus on data analysis, python"
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
     ],
     "competitor_companies": [
-      "mobikwik",
-      "paytm"
+      "razorpay"
     ],
-    "competitor_count": 9,
+    "competitor_count": 4,
     "evidence_flags": {
       "used_llm": false,
       "confidence_score": 0.95,

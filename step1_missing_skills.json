@@ -1,73 +1,35 @@
 [
   {
-    "employee_name": "Rahul Virmani",
-    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
-    "current_skills": [],
-    "missing_skills": [
-      "account management",
-      "business development",
-      "communication skills",
-      "customer relationship management",
-      "market analysis",
-      "negotiation",
-      "project management",
-      "sales strategy",
-      "strategic planning",
-      "team leadership"
-    ],
-    "competitor_count": 6,
-    "gap_reasoning": "Found 10 priority gaps from 6 matched competitors",
-    "confidence_score": 0.95
-  },
-  {
-    "employee_name": "Ankur Mathur",
-    "role": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
-    "current_skills": [],
-    "missing_skills": [
-      "budgeting",
-      "chartered accountancy",
-      "cost management",
-      "data analysis",
-      "excel",
-      "financial auditing",
-      "financial planning and analysis",
-      "financial reporting",
-      "forecasting",
-      "internal controls",
-      "risk assessment",
-      "strategic planning",
-      "variance analysis"
-    ],
-    "competitor_count": 1,
-    "gap_reasoning": "Found 13 priority gaps from 1 matched competitors",
-    "confidence_score": 0.7
-  },
-  {
-    "employee_name": "Anuj Arora",
-    "role": "CFO at Manipal Fintech",
-    "current_skills": [],
-    "missing_skills": [
-      "data analysis",
-      "risk management",
-      "strategic planning",
-      "team leadership"
-    ],
-    "competitor_count": 13,
-    "gap_reasoning": "Found 4 priority gaps from 13 matched competitors",
-    "confidence_score": 0.95
-  },
-  {
     "employee_name": "Puja Abhishek Singh",
     "role": "",
     "current_skills": [],
     "missing_skills": [
+      "business strategy",
+      "client management",
+      "communication skills",
       "data analysis",
+      "demand planning",
+      "excel",
       "financial modeling",
+      "financial technology",
+      "forecasting",
+      "inventory management",
+      "okr practitioner",
+      "payment solutions",
+      "problem solving",
+      "process improvement",
       "project management",
-      "python"
+      "python",
+      "risk management",
+      "sap",
+      "solution consulting",
+      "stakeholder management",
+      "supply chain management",
+      "team leadership",
+      "technical support"
     ],
-    "competitor_count": 9,
-    "gap_reasoning": "Found 4 priority gaps from 9 matched competitors",
+    "competitor_count": 4,
+    "gap_reasoning": "Found 23 priority gaps from 4 matched competitors",
     "confidence_score": 0.95
   }
 ]

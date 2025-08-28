@@ -1,0 +1,272 @@
+{
+  "company_name": "Razorpay",
+  "employees": [
+    {
+      "name": "Aditya Patil",
+      "position": "Business Transformation at Clearstream",
+      "employee_id": "Raz_001",
+      "skills": [
+        "Business Transformation",
+        "Project Management",
+        "Change Management",
+        "Stakeholder Engagement",
+        "Process Improvement",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Nadzmi Hisham",
+      "position": "Marketing Manager at Curlec by Razorpay",
+      "employee_id": "Raz_002",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Mahira Maniarasu",
+      "position": "Senior Manager, Business Development at ...",
+      "employee_id": "Raz_003",
+      "skills": [
+        "Business Development",
+        "Strategic Planning",
+        "Market Analysis",
+        "Sales Management",
+        "Client Relations",
+        "Team Leadership",
+        "Negotiation",
+        "Project Management",
+        "Revenue Growth",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Pooja Khakhar",
+      "position": "Business Partner | Project Manager | Certified OKR practitioner",
+      "employee_id": "Raz_004",
+      "skills": [
+        "Project Management",
+        "OKR Practitioner",
+        "Business Strategy",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Rickson Wong",
+      "position": "Senior Engineer - Solutions (Integrations)",
+      "employee_id": "Raz_005",
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "API Integration",
+        "Cloud Computing",
+        "Microservices",
+        "Agile Methodologies",
+        "Project Management",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "‏Abdul Rashid‏",
+      "position": "‏Key Account Manager at Majid Al Futtaim Category ...",
+      "employee_id": "Raz_006",
+      "skills": [
+        "Key Account Management",
+        "Client Relations",
+        "Sales Strategy",
+        "Business Development",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Mohammad Hasiff",
+      "position": "Senior Demand Planning Executive",
+      "employee_id": "Raz_007",
+      "skills": [
+        "Demand Planning",
+        "Forecasting",
+        "Supply Chain Management",
+        "Inventory Management",
+        "Data Analysis",
+        "Excel",
+        "SAP",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sanjana Sachdev",
+      "position": "International Arbitration Trainee, Clyde & Co ...",
+      "employee_id": "Raz_008",
+      "skills": [
+        "International Arbitration",
+        "Legal Research",
+        "Contract Drafting",
+        "Dispute Resolution",
+        "Client Communication",
+        "Case Management",
+        "Legal Writing"
+      ]
+    },
+    {
+      "name": "Natasha Ashiqeen",
+      "position": "Office Manager",
+      "employee_id": "Raz_009",
+      "skills": [
+        "Office Management",
+        "Team Leadership",
+        "Scheduling",
+        "Administrative Support",
+        "Budgeting",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office",
+        "Project Coordination"
+      ]
+    },
+    {
+      "name": "Aliessa Azemi",
+      "position": "Tax Associate of Deloitte",
+      "employee_id": "Raz_010",
+      "skills": [
+        "Tax Preparation",
+        "Financial Analysis",
+        "Accounting",
+        "Tax Law",
+        "Client Communication",
+        "Microsoft Excel",
+        "Tax Compliance",
+        "Problem Solving",
+        "Attention to Detail",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "‏Jithin P V‏",
+      "position": "‏Project Engineer at Subsea 7‏",
+      "employee_id": "Raz_011",
+      "skills": [
+        "Project Management",
+        "Subsea Engineering",
+        "Team Leadership",
+        "Problem Solving",
+        "Technical Documentation",
+        "Client Communication",
+        "Budget Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Roshna Francis",
+      "position": "Fintech Strategist",
+      "employee_id": "Raz_012",
+      "skills": [
+        "Fintech Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Risk Management",
+        "Data Analytics",
+        "Project Management",
+        "Regulatory Compliance",
+        "Blockchain Technology"
+      ]
+    },
+    {
+      "name": "Aaron Raj",
+      "position": "QA Engineer at Curlec by Razorpay",
+      "employee_id": "Raz_013",
+      "skills": [
+        "Quality Assurance",
+        "Software Testing",
+        "Automation Testing",
+        "Test Planning",
+        "Test Case Development",
+        "Bug Tracking",
+        "Regression Testing",
+        "Agile Methodologies",
+        "Selenium",
+        "JIRA",
+        "API Testing",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Robin Raj Jamjogli‏",
+      "position": "‏Solutions Engineering @ Whatfix",
+      "employee_id": "Raz_014",
+      "skills": [
+        "Solutions Engineering"
+      ]
+    },
+    {
+      "name": "Umeysh Baskaran",
+      "position": "Solution Consultant | Razorpay Curlec",
+      "employee_id": "Raz_015",
+      "skills": [
+        "Solution Consulting",
+        "Payment Solutions",
+        "Client Management",
+        "Technical Support",
+        "Project Management",
+        "Financial Technology"
+      ]
+    },
+    {
+      "name": "‏Ranjith Kumar M‏",
+      "position": "‏Jazeera Airways‏",
+      "employee_id": "Raz_016",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajesh E",
+      "position": "🚀 Driving Innovation | Tech Visionary with 15+ Years of Excellence",
+      "employee_id": "Raz_017",
+      "skills": [
+        "Innovation",
+        "Tech Visionary",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Technology Strategy",
+        "Product Development",
+        "Team Building",
+        "Problem Solving",
+        "Communication",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Tarven murugarajan",
+      "position": "Student at Ungku Omar Polytechnic",
+      "employee_id": "Raz_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    }
+  ]
+}

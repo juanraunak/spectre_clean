@@ -1,0 +1,16 @@
+{
+  "company_name": "Manipal  Main  20250828 225735",
+  "employees": [
+    {
+      "name": "Puja Abhishek Singh",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    }
+  ]
+}
