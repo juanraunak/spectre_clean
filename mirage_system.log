@@ -1,0 +1,485 @@
+2025-08-28 20:13:07,214 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:13:07,216 - MIRAGE - INFO - [mirage.py:1524] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:13:07,216 - MIRAGE - INFO - [mirage.py:306] - Azure GPT Client initialized
+2025-08-28 20:13:07,217 - MIRAGE - INFO - [mirage.py:363] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:13:07,217 - MIRAGE - INFO - [mirage.py:616] - TargetProfileBuilder initialized (STRICT, GPT-only)
+2025-08-28 20:13:07,217 - MIRAGE - INFO - [mirage.py:761] - CompetitorEmployeeFinder initialized
+2025-08-28 20:13:07,218 - MIRAGE - INFO - [mirage.py:958] - ProfileMatcher initialized
+2025-08-28 20:13:07,218 - MIRAGE - INFO - [mirage.py:1538] - MIRAGE system initialized successfully
+2025-08-28 20:13:30,268 - MIRAGE - INFO - [mirage.py:1559] - === MIRAGE ANALYSIS STARTED (competitors=3) ===
+2025-08-28 20:13:30,268 - MIRAGE - INFO - [mirage.py:1564] - Phase 1: Competitor Detection
+2025-08-28 20:13:30,268 - MIRAGE - INFO - [mirage.py:370] - STEP 1: COMPETITOR DETECTION (limit=3)
+2025-08-28 20:13:30,269 - MIRAGE - INFO - [mirage.py:375] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:13:30,269 - MIRAGE - INFO - [mirage.py:376] - Industry: Fintech
+2025-08-28 20:13:30,269 - MIRAGE - DEBUG - [mirage.py:560] - Requesting GPT competitor analysis
+2025-08-28 20:13:30,269 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:13:35,293 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:13:35,294 - MIRAGE - INFO - [mirage.py:383] - Detected 3 competitors:
+2025-08-28 20:13:35,294 - MIRAGE - INFO - [mirage.py:389] -    1. Paytm (Score: 0.9)
+2025-08-28 20:13:35,294 - MIRAGE - INFO - [mirage.py:389] -    2. PhonePe (Score: 0.8)
+2025-08-28 20:13:35,295 - MIRAGE - INFO - [mirage.py:389] -    3. MobiKwik (Score: 0.8)
+2025-08-28 20:13:35,295 - MIRAGE - INFO - [mirage.py:1573] - Phase 2: Target Profile Building
+2025-08-28 20:13:35,295 - MIRAGE - INFO - [mirage.py:1658] - Found 1 employees in intelligence data
+2025-08-28 20:13:35,295 - MIRAGE - INFO - [mirage.py:619] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:13:35,296 - MIRAGE - INFO - [mirage.py:625] - Building profiles for 1 employees
+2025-08-28 20:13:35,296 - MIRAGE - INFO - [mirage.py:632] -    Processing batch 1/1
+2025-08-28 20:13:35,296 - MIRAGE - DEBUG - [mirage.py:677] - Making GPT request (temp=0.1)
+2025-08-28 20:13:35,296 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:13:56,348 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:13:56,349 - MIRAGE - WARNING - [mirage.py:684] - Profile JSON: SCHEMA_ERROR or empty
+2025-08-28 20:13:56,602 - MIRAGE - INFO - [mirage.py:642] - Built 0 target profiles
+2025-08-28 20:13:56,602 - MIRAGE - WARNING - [mirage.py:1578] - No target profiles built, using mock data
+2025-08-28 20:13:56,603 - MIRAGE - INFO - [mirage.py:1582] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:13:56,603 - MIRAGE - INFO - [mirage.py:766] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:13:56,604 - MIRAGE - INFO - [mirage.py:777] - Processing 3 companies in parallel
+2025-08-28 20:13:56,604 - MIRAGE - INFO - [mirage.py:797] - Searching employees at Paytm
+2025-08-28 20:13:56,604 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Engineering at Paytm
+2025-08-28 20:13:56,604 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:13:56,605 - MIRAGE - INFO - [mirage.py:797] - Searching employees at PhonePe
+2025-08-28 20:13:56,605 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Engineering at PhonePe
+2025-08-28 20:13:56,605 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:13:56,606 - MIRAGE - INFO - [mirage.py:797] - Searching employees at MobiKwik
+2025-08-28 20:13:56,606 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Engineering at MobiKwik
+2025-08-28 20:13:56,606 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:13:57,562 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:13:57,563 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" Engineering -jobs -hiring -recr...
+2025-08-28 20:13:57,642 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:13:57,643 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Engineering -jobs -hiring -r...
+2025-08-28 20:13:59,478 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" Software Engineer -jobs -hiring...
+2025-08-28 20:14:00,565 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Software Engineer -jobs -hir...
+2025-08-28 20:14:05,749 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Engineering Manager -jobs -h...
+2025-08-28 20:14:06,327 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" Mechanical Engineer -jobs -hiri...
+2025-08-28 20:14:13,200 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Product at Paytm
+2025-08-28 20:14:13,200 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:17,655 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:14:18,670 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Product at PhonePe
+2025-08-28 20:14:18,670 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:32,650 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Product at MobiKwik
+2025-08-28 20:14:32,650 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:33,719 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:14:33,720 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Product -jobs -hiring -recru...
+2025-08-28 20:14:34,306 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:14:34,721 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:14:34,722 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" "Product" -jobs -hiring -recr...
+2025-08-28 20:14:35,319 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Data at Paytm
+2025-08-28 20:14:35,319 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:35,350 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Product Manager -jobs -hirin...
+2025-08-28 20:14:36,461 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" "Product Manager" -jobs -hiri...
+2025-08-28 20:14:37,069 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Product Development -jobs -h...
+2025-08-28 20:14:37,914 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:14:37,915 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" "Data Analyst" -jobs -hiring -r...
+2025-08-28 20:14:38,423 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" "Product Development" -jobs -...
+2025-08-28 20:14:39,684 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" "Data Scientist" -jobs -hiring ...
+2025-08-28 20:14:39,730 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Data at MobiKwik
+2025-08-28 20:14:39,730 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:41,091 - MIRAGE - DEBUG - [mirage.py:805] -    Searching Data at PhonePe
+2025-08-28 20:14:41,091 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.2)
+2025-08-28 20:14:41,187 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:14:41,188 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Data -jobs -hiring -recruite...
+2025-08-28 20:14:43,991 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "Paytm" "Data Engineer" -jobs -hiring -...
+2025-08-28 20:14:44,101 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Data Analyst -jobs -hiring -...
+2025-08-28 20:14:47,197 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "MobiKwik" Data Scientist -jobs -hiring...
+2025-08-28 20:14:48,192 - MIRAGE - INFO - [mirage.py:815] -    Found 48 employees at Paytm
+2025-08-28 20:14:56,731 - MIRAGE - INFO - [mirage.py:815] -    Found 33 employees at MobiKwik
+2025-08-28 20:14:57,022 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:14:57,023 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" Data -jobs -hiring -recruiter...
+2025-08-28 20:14:58,479 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" Data Analyst -jobs -hiring -r...
+2025-08-28 20:15:04,079 - MIRAGE - DEBUG - [mirage.py:855] - Search: site:linkedin.com/in "PhonePe" Data Scientist -jobs -hiring ...
+2025-08-28 20:15:06,854 - MIRAGE - INFO - [mirage.py:815] -    Found 42 employees at PhonePe
+2025-08-28 20:15:06,855 - MIRAGE - INFO - [mirage.py:790] - Total employees found: 123
+2025-08-28 20:15:06,855 - MIRAGE - INFO - [mirage.py:963] - STEP 4: PROFILE MATCHING
+2025-08-28 20:15:06,856 - MIRAGE - INFO - [mirage.py:971] - Processing 3 companies in parallel
+2025-08-28 20:15:06,856 - MIRAGE - INFO - [mirage.py:994] - Matching against Paytm (48 employees)
+2025-08-28 20:15:06,857 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:06,858 - MIRAGE - INFO - [mirage.py:994] - Matching against PhonePe (42 employees)
+2025-08-28 20:15:06,858 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:06,859 - MIRAGE - INFO - [mirage.py:994] - Matching against MobiKwik (33 employees)
+2025-08-28 20:15:06,859 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:07,401 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:07,715 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:08,082 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:08,386 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:08,792 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:09,104 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:10,585 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:10,896 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:11,210 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:11,519 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:15,290 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:15,601 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:21,455 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:21,767 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:22,427 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:22,729 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:31,927 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:15:32,238 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:33,881 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:34,197 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:36,339 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:36,647 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:36,648 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:15:36,958 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:38,828 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:39,129 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:40,714 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:41,023 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:41,768 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:42,082 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:43,220 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:43,529 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:43,778 - MIRAGE - ERROR - [mirage.py:346] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:15:43,839 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:44,090 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:44,153 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:15:45,776 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:15:46,085 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:00,486 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:00,543 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:00,800 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:00,852 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:02,521 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:02,648 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:02,837 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:02,946 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:03,581 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:03,896 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:04,391 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:04,703 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:05,234 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:05,542 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:05,676 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:05,724 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:05,993 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:06,040 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:07,558 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:07,616 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:07,863 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:07,880 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:07,926 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:08,190 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:08,375 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:08,689 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:09,345 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:09,657 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:10,050 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:10,355 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:10,915 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:11,229 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:11,684 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:11,995 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:12,260 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:12,488 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:12,561 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:12,561 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:12,804 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:12,851 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:14,090 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:14,403 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:15,232 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:15,539 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:17,156 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:17,450 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:17,938 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:18,243 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:18,539 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:18,853 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:19,322 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:19,631 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:20,580 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:20,880 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:21,795 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:22,060 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:22,102 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:22,369 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:23,237 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:23,542 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:23,590 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:23,900 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:24,450 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:24,764 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:25,397 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:25,680 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:25,715 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:25,980 - MIRAGE - INFO - [mirage.py:1007] -    9 quality matches for MobiKwik
+2025-08-28 20:16:26,132 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:26,436 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:27,697 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:28,002 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:28,003 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:28,323 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:29,167 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:29,479 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:30,844 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:31,158 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:33,745 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:34,048 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:35,014 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:35,322 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:35,768 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:35,958 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:36,058 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:36,264 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:36,776 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:36,892 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:37,094 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:37,177 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:38,299 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:38,607 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:39,954 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:40,259 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:40,865 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:41,167 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:41,602 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:41,904 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:42,892 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:43,192 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:44,471 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:44,778 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:45,199 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:45,501 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:47,172 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:47,477 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:47,628 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:47,944 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:49,198 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:49,508 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:49,802 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:50,117 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:51,146 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:51,457 - MIRAGE - INFO - [mirage.py:1007] -    18 quality matches for Paytm
+2025-08-28 20:16:52,305 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:52,614 - MIRAGE - DEBUG - [mirage.py:329] - Making GPT request (temp=0.1)
+2025-08-28 20:16:53,761 - MIRAGE - DEBUG - [mirage.py:336] - GPT request successful
+2025-08-28 20:16:54,065 - MIRAGE - INFO - [mirage.py:1007] -    28 quality matches for PhonePe
+2025-08-28 20:16:54,065 - MIRAGE - INFO - [mirage.py:987] - Total matches generated: 39
+2025-08-28 20:16:54,065 - MIRAGE - INFO - [mirage.py:1597] - Phase 4.5: Scraping matched LinkedIn profiles with SHADE Bright scraper (parallel per company)
+2025-08-28 20:16:54,066 - MIRAGE - INFO - [mirage.py:1607] - SHADE scraper enabled? True
+2025-08-28 20:16:54,066 - MIRAGE - ERROR - [mirage.py:1644] - MIRAGE analysis failed after 203.80s: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
+2025-08-28 20:16:54,066 - MIRAGE - ERROR - [mirage.py:2003] - Analysis failed: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
+2025-08-28 20:21:52,041 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:21:52,042 - MIRAGE - INFO - [mirage.py:1582] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:21:52,042 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:21:52,042 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:21:52,043 - MIRAGE - INFO - [mirage.py:610] - TargetProfileBuilder initialized (STRICT, GPT-only)
+2025-08-28 20:21:52,043 - MIRAGE - INFO - [mirage.py:755] - CompetitorEmployeeFinder initialized
+2025-08-28 20:21:52,043 - MIRAGE - INFO - [mirage.py:952] - ProfileMatcher initialized
+2025-08-28 20:21:52,043 - MIRAGE - INFO - [mirage.py:1596] - MIRAGE system initialized successfully
+2025-08-28 20:21:55,316 - MIRAGE - INFO - [mirage.py:1617] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:21:55,316 - MIRAGE - INFO - [mirage.py:1622] - Phase 1: Competitor Detection
+2025-08-28 20:21:55,316 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:21:55,316 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:21:55,316 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:21:55,316 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:21:55,317 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:21:56,293 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:21:56,293 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 20:21:56,293 - MIRAGE - INFO - [mirage.py:383] -    1. Paytm (Score: 0.0)
+2025-08-28 20:21:56,293 - MIRAGE - INFO - [mirage.py:1631] - Phase 2: Target Profile Building
+2025-08-28 20:21:56,293 - MIRAGE - INFO - [mirage.py:1716] - Found 1 employees in intelligence data
+2025-08-28 20:21:56,294 - MIRAGE - INFO - [mirage.py:613] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:21:56,294 - MIRAGE - INFO - [mirage.py:619] - Building profiles for 1 employees
+2025-08-28 20:21:56,294 - MIRAGE - INFO - [mirage.py:626] -    Processing batch 1/1
+2025-08-28 20:21:56,294 - MIRAGE - DEBUG - [mirage.py:671] - Making GPT request (temp=0.1)
+2025-08-28 20:21:56,294 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:22:17,331 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:22:17,331 - MIRAGE - WARNING - [mirage.py:678] - Profile JSON: SCHEMA_ERROR or empty
+2025-08-28 20:22:17,596 - MIRAGE - INFO - [mirage.py:636] - Built 0 target profiles
+2025-08-28 20:22:17,596 - MIRAGE - WARNING - [mirage.py:1636] - No target profiles built, using mock data
+2025-08-28 20:22:17,596 - MIRAGE - INFO - [mirage.py:1640] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:22:17,596 - MIRAGE - INFO - [mirage.py:760] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:22:17,597 - MIRAGE - INFO - [mirage.py:771] - Processing 1 companies in parallel
+2025-08-28 20:22:17,597 - MIRAGE - INFO - [mirage.py:791] - Searching employees at Paytm
+2025-08-28 20:22:17,597 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Engineering at Paytm
+2025-08-28 20:22:17,597 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:22:19,759 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:22:19,760 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Engineering -jobs -hiring -recr...
+2025-08-28 20:22:21,668 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Software Engineer -jobs -hiring...
+2025-08-28 20:22:23,528 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Mechanical Engineer -jobs -hiri...
+2025-08-28 20:22:26,322 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Data at Paytm
+2025-08-28 20:22:26,322 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:22:27,561 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:22:27,562 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data -jobs -hiring -recruiter...
+2025-08-28 20:22:29,724 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data Analyst -jobs -hiring -rec...
+2025-08-28 20:22:31,534 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data Scientist -jobs -hiring -r...
+2025-08-28 20:22:35,097 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Product at Paytm
+2025-08-28 20:22:35,097 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:22:39,534 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:22:39,535 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product -jobs -hiring -recruite...
+2025-08-28 20:22:46,082 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product Manager -jobs -hiring -...
+2025-08-28 20:22:49,229 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product Development -jobs -hiri...
+2025-08-28 20:22:55,864 - MIRAGE - INFO - [mirage.py:809] -    Found 51 employees at Paytm
+2025-08-28 20:22:55,864 - MIRAGE - INFO - [mirage.py:784] - Total employees found: 51
+2025-08-28 20:22:55,864 - MIRAGE - INFO - [mirage.py:957] - STEP 4: PROFILE MATCHING
+2025-08-28 20:22:55,865 - MIRAGE - INFO - [mirage.py:965] - Processing 1 companies in parallel
+2025-08-28 20:22:55,865 - MIRAGE - INFO - [mirage.py:988] - Matching against Paytm (51 employees)
+2025-08-28 20:22:55,865 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:23:16,932 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:23:17,242 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:23:18,650 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:18,966 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:23:33,925 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:23:33,927 - MIRAGE - INFO - [mirage.py:1582] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:23:33,927 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:23:33,927 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:23:33,927 - MIRAGE - INFO - [mirage.py:610] - TargetProfileBuilder initialized (STRICT, GPT-only)
+2025-08-28 20:23:33,928 - MIRAGE - INFO - [mirage.py:755] - CompetitorEmployeeFinder initialized
+2025-08-28 20:23:33,928 - MIRAGE - INFO - [mirage.py:952] - ProfileMatcher initialized
+2025-08-28 20:23:33,928 - MIRAGE - INFO - [mirage.py:1596] - MIRAGE system initialized successfully
+2025-08-28 20:23:36,525 - MIRAGE - INFO - [mirage.py:1617] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:23:36,525 - MIRAGE - INFO - [mirage.py:1622] - Phase 1: Competitor Detection
+2025-08-28 20:23:36,525 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:23:36,525 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:23:36,525 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:23:36,525 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:23:36,525 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:23:37,461 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:37,461 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 20:23:37,462 - MIRAGE - INFO - [mirage.py:383] -    1. ZestMoney (Score: 0.0)
+2025-08-28 20:23:37,462 - MIRAGE - INFO - [mirage.py:1631] - Phase 2: Target Profile Building
+2025-08-28 20:23:37,462 - MIRAGE - INFO - [mirage.py:1716] - Found 1 employees in intelligence data
+2025-08-28 20:23:37,462 - MIRAGE - INFO - [mirage.py:613] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:23:37,462 - MIRAGE - INFO - [mirage.py:619] - Building profiles for 1 employees
+2025-08-28 20:23:37,463 - MIRAGE - INFO - [mirage.py:626] -    Processing batch 1/1
+2025-08-28 20:23:37,463 - MIRAGE - DEBUG - [mirage.py:671] - Making GPT request (temp=0.1)
+2025-08-28 20:23:37,463 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:23:37,914 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:37,914 - MIRAGE - WARNING - [mirage.py:678] - Profile JSON: SCHEMA_ERROR or empty
+2025-08-28 20:23:38,167 - MIRAGE - INFO - [mirage.py:636] - Built 0 target profiles
+2025-08-28 20:23:38,168 - MIRAGE - WARNING - [mirage.py:1636] - No target profiles built, using mock data
+2025-08-28 20:23:38,168 - MIRAGE - INFO - [mirage.py:1640] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:23:38,168 - MIRAGE - INFO - [mirage.py:760] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:23:38,169 - MIRAGE - INFO - [mirage.py:771] - Processing 1 companies in parallel
+2025-08-28 20:23:38,169 - MIRAGE - INFO - [mirage.py:791] - Searching employees at ZestMoney
+2025-08-28 20:23:38,169 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Product at ZestMoney
+2025-08-28 20:23:38,169 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:23:40,767 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:40,768 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Product -jobs -hiring -recr...
+2025-08-28 20:23:42,271 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Product Manager -jobs -hiri...
+2025-08-28 20:23:43,762 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Product Development -jobs -...
+2025-08-28 20:23:46,263 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Engineering at ZestMoney
+2025-08-28 20:23:46,263 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:23:47,622 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:47,622 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Engineering -jobs -hiring -...
+2025-08-28 20:23:49,150 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Software Engineer -jobs -hi...
+2025-08-28 20:23:50,882 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Mechanical Engineer -jobs -...
+2025-08-28 20:23:53,660 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Data at ZestMoney
+2025-08-28 20:23:53,660 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:23:54,537 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:23:54,538 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Data -jobs -hiring -recruit...
+2025-08-28 20:23:56,077 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Data Analyst -jobs -hiring ...
+2025-08-28 20:24:02,083 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "ZestMoney" Data Scientist -jobs -hirin...
+2025-08-28 20:24:04,897 - MIRAGE - INFO - [mirage.py:809] -    Found 26 employees at ZestMoney
+2025-08-28 20:24:04,897 - MIRAGE - INFO - [mirage.py:784] - Total employees found: 26
+2025-08-28 20:24:04,897 - MIRAGE - INFO - [mirage.py:957] - STEP 4: PROFILE MATCHING
+2025-08-28 20:24:04,898 - MIRAGE - INFO - [mirage.py:965] - Processing 1 companies in parallel
+2025-08-28 20:24:04,898 - MIRAGE - INFO - [mirage.py:988] - Matching against ZestMoney (26 employees)
+2025-08-28 20:24:04,899 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:24:05,397 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:24:05,710 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:24:06,773 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:24:07,084 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:24:08,802 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:24:09,103 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:24:30,150 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:24:30,461 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:26:17,328 - asyncio - DEBUG - [proactor_events.py:633] - Using proactor: IocpProactor
+2025-08-28 20:26:17,329 - MIRAGE - INFO - [mirage.py:1582] - === MIRAGE SYSTEM INITIALIZATION ===
+2025-08-28 20:26:17,329 - MIRAGE - INFO - [mirage.py:300] - Azure GPT Client initialized
+2025-08-28 20:26:17,329 - MIRAGE - INFO - [mirage.py:357] - CompetitorDetector initialized (GPT-only, tolerant)
+2025-08-28 20:26:17,329 - MIRAGE - INFO - [mirage.py:610] - TargetProfileBuilder initialized (STRICT, GPT-only)
+2025-08-28 20:26:17,330 - MIRAGE - INFO - [mirage.py:755] - CompetitorEmployeeFinder initialized
+2025-08-28 20:26:17,330 - MIRAGE - INFO - [mirage.py:952] - ProfileMatcher initialized
+2025-08-28 20:26:17,330 - MIRAGE - INFO - [mirage.py:1596] - MIRAGE system initialized successfully
+2025-08-28 20:26:21,773 - MIRAGE - INFO - [mirage.py:1617] - === MIRAGE ANALYSIS STARTED (competitors=1) ===
+2025-08-28 20:26:21,773 - MIRAGE - INFO - [mirage.py:1622] - Phase 1: Competitor Detection
+2025-08-28 20:26:21,774 - MIRAGE - INFO - [mirage.py:364] - STEP 1: COMPETITOR DETECTION (limit=1)
+2025-08-28 20:26:21,774 - MIRAGE - INFO - [mirage.py:369] - Analyzing competitors for: Manipal Fintech
+2025-08-28 20:26:21,774 - MIRAGE - INFO - [mirage.py:370] - Industry: Fintech
+2025-08-28 20:26:21,774 - MIRAGE - DEBUG - [mirage.py:554] - Requesting GPT competitor analysis
+2025-08-28 20:26:21,774 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:26:37,876 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:26:37,876 - MIRAGE - INFO - [mirage.py:377] - Detected 1 competitors:
+2025-08-28 20:26:37,876 - MIRAGE - INFO - [mirage.py:383] -    1. Paytm (Score: 0.0)
+2025-08-28 20:26:37,876 - MIRAGE - INFO - [mirage.py:1631] - Phase 2: Target Profile Building
+2025-08-28 20:26:37,877 - MIRAGE - INFO - [mirage.py:1716] - Found 1 employees in intelligence data
+2025-08-28 20:26:37,877 - MIRAGE - INFO - [mirage.py:613] - STEP 2: TARGET PROFILE BUILDING
+2025-08-28 20:26:37,877 - MIRAGE - INFO - [mirage.py:619] - Building profiles for 1 employees
+2025-08-28 20:26:37,877 - MIRAGE - INFO - [mirage.py:626] -    Processing batch 1/1
+2025-08-28 20:26:37,877 - MIRAGE - DEBUG - [mirage.py:671] - Making GPT request (temp=0.1)
+2025-08-28 20:26:37,877 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:26:39,334 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:26:39,334 - MIRAGE - WARNING - [mirage.py:678] - Profile JSON: SCHEMA_ERROR or empty
+2025-08-28 20:26:39,600 - MIRAGE - INFO - [mirage.py:636] - Built 0 target profiles
+2025-08-28 20:26:39,600 - MIRAGE - WARNING - [mirage.py:1636] - No target profiles built, using mock data
+2025-08-28 20:26:39,600 - MIRAGE - INFO - [mirage.py:1640] - Phase 3 & 4: Employee Search and Matching (parallel)
+2025-08-28 20:26:39,601 - MIRAGE - INFO - [mirage.py:760] - STEP 3: COMPETITOR EMPLOYEE SEARCH
+2025-08-28 20:26:39,601 - MIRAGE - INFO - [mirage.py:771] - Processing 1 companies in parallel
+2025-08-28 20:26:39,601 - MIRAGE - INFO - [mirage.py:791] - Searching employees at Paytm
+2025-08-28 20:26:39,601 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Data at Paytm
+2025-08-28 20:26:39,601 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:26:40,706 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:26:40,707 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data -jobs -hiring -recruiter...
+2025-08-28 20:26:42,606 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data Analyst -jobs -hiring -rec...
+2025-08-28 20:26:44,373 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Data Scientist -jobs -hiring -r...
+2025-08-28 20:26:46,852 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Product at Paytm
+2025-08-28 20:26:46,852 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:26:48,305 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:26:48,305 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product -jobs -hiring -recruite...
+2025-08-28 20:26:50,062 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product Manager -jobs -hiring -...
+2025-08-28 20:26:51,580 - MIRAGE - DEBUG - [mirage.py:849] - Search: site:linkedin.com/in "Paytm" Product Development -jobs -hiri...
+2025-08-28 20:26:56,613 - MIRAGE - DEBUG - [mirage.py:799] -    Searching Engineering at Paytm
+2025-08-28 20:26:56,613 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.2)
+2025-08-28 20:27:17,654 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:27:18,669 - MIRAGE - INFO - [mirage.py:809] -    Found 34 employees at Paytm
+2025-08-28 20:27:18,669 - MIRAGE - INFO - [mirage.py:784] - Total employees found: 34
+2025-08-28 20:27:18,670 - MIRAGE - INFO - [mirage.py:957] - STEP 4: PROFILE MATCHING
+2025-08-28 20:27:18,670 - MIRAGE - INFO - [mirage.py:965] - Processing 1 companies in parallel
+2025-08-28 20:27:18,670 - MIRAGE - INFO - [mirage.py:988] - Matching against Paytm (34 employees)
+2025-08-28 20:27:18,670 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:39,746 - MIRAGE - ERROR - [mirage.py:340] - GPT request failed: Cannot connect to host notedai.openai.azure.com:443 ssl:default [The semaphore timeout period has expired]
+2025-08-28 20:27:40,060 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:41,357 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:41,666 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:43,446 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:43,763 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:46,383 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:46,695 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:47,170 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:47,483 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:55,000 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:55,303 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:56,812 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:57,118 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:27:59,229 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:27:59,530 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:03,769 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:04,075 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:05,295 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:05,606 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:06,965 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:07,278 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:09,607 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:09,908 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:13,158 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:13,466 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:14,824 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:15,131 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:16,954 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:17,257 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:18,708 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:19,016 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:20,895 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:21,202 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:22,270 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:22,572 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:23,669 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:23,973 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:24,513 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:24,824 - MIRAGE - DEBUG - [mirage.py:323] - Making GPT request (temp=0.1)
+2025-08-28 20:28:25,307 - MIRAGE - DEBUG - [mirage.py:330] - GPT request successful
+2025-08-28 20:28:25,617 - MIRAGE - INFO - [mirage.py:1001] -    15 quality matches for Paytm
+2025-08-28 20:28:25,617 - MIRAGE - INFO - [mirage.py:981] - Total matches generated: 15
+2025-08-28 20:28:25,617 - MIRAGE - INFO - [mirage.py:1655] - Phase 4.5: Scraping matched LinkedIn profiles with SHADE Bright scraper (parallel per company)
+2025-08-28 20:28:25,617 - MIRAGE - INFO - [mirage.py:1665] - SHADE scraper enabled? True
+2025-08-28 20:28:25,618 - MIRAGE - ERROR - [mirage.py:1702] - MIRAGE analysis failed after 123.85s: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
+2025-08-28 20:28:25,618 - MIRAGE - ERROR - [mirage.py:2061] - Analysis failed: 'BrightDataScraper' object has no attribute 'scrape_profiles_per_company_parallel'
