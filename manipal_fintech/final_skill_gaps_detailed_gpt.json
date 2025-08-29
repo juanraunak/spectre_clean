@@ -1,0 +1,130 @@
+[
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "",
+    "missing_skills": [
+      "financial analysis",
+      "forecasting"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "forecasting": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 4/9 competitors; examples: paytm, phonepe",
+      "forecasting": "Present in 3/9 competitors; examples: paytm, phonepe"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, forecasting"
+    ],
+    "competitor_companies": [
+      "paytm",
+      "phonepe"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Anuj Arora",
+    "role": "CFO at Manipal Fintech",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "forecasting",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "excel": "Nice-to-have",
+      "financial analysis": "Critical",
+      "financial reporting": "Nice-to-have",
+      "forecasting": "Critical",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 4/11 competitors; examples: paytm, phonepe",
+      "data analysis": "Present in 3/11 competitors; examples: paytm, phonepe",
+      "excel": "Present in 4/11 competitors; examples: paytm, phonepe",
+      "financial analysis": "Present in 6/11 competitors; examples: paytm, phonepe",
+      "financial reporting": "Present in 3/11 competitors; examples: paytm, phonepe",
+      "forecasting": "Present in 5/11 competitors; examples: paytm, phonepe",
+      "risk management": "Present in 4/11 competitors; examples: paytm, phonepe",
+      "strategic planning": "Present in 4/11 competitors; examples: paytm, phonepe",
+      "team leadership": "Present in 3/11 competitors; examples: paytm"
+    },
+    "overall_assessment": "Found 9 priority gaps from 11 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, forecasting",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "paytm",
+      "phonepe"
+    ],
+    "competitor_count": 11,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rahul Virmani",
+    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+    "missing_skills": [
+      "business development",
+      "innovation",
+      "market analysis",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "innovation": "Critical",
+      "market analysis": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 2/6 competitors; examples: phonepe",
+      "innovation": "Present in 2/6 competitors; examples: paytm, phonepe",
+      "market analysis": "Present in 2/6 competitors; examples: phonepe",
+      "project management": "Present in 2/6 competitors; examples: paytm, phonepe",
+      "sales management": "Present in 2/6 competitors; examples: phonepe",
+      "strategic planning": "Present in 2/6 competitors; examples: phonepe",
+      "team leadership": "Present in 2/6 competitors; examples: phonepe"
+    },
+    "overall_assessment": "Found 7 priority gaps from 6 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, innovation",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "paytm",
+      "phonepe"
+    ],
+    "competitor_count": 6,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  }
+]

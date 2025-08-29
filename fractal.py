@@ -717,7 +717,8 @@ async def run(context: Dict[str, Any]) -> Dict[str, Any]:
     Config.RAW_DIR = inputs.get("raw_dir", Config.RAW_DIR)
     Config.SPECTRE_PATH = inputs.get("spectre_path", Config.SPECTRE_PATH)
     Config.SPECTRE_COMPANY = (inputs.get("spectre_company") or Config.SPECTRE_COMPANY).lower()
-    Config.USE_LLM_FOR_SKILLS = bool(inputs.get("use_llm", Config.USE_LLM_FOR_SKILLS))
+    Config.USE_LLM_FOR_SKILLS = True   # always force LLM
+
     max_employees = inputs.get("max_employees", Config.MAX_EMPLOYEES_TO_ANALYZE)
 
     outs = inputs.get("outputs", {}) or {}

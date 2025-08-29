@@ -1,42 +1,249 @@
 {
-  "razorpay": [
+  "paytm": [
+    {
+      "manipal_name": "Anuj Arora",
+      "manipal_role": "CFO",
+      "matches": [
+        {
+          "company": "paytm",
+          "name": "Anna Urbanska",
+          "role": "Unknown Role",
+          "similarity": 75.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Syed Waqas Qadri",
+          "role": "Unknown Role",
+          "similarity": 75.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "‏Githin James, ACMA‏",
+          "role": "Unknown Role",
+          "similarity": 75.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Kosmas Savvidis",
+          "role": "Unknown Role",
+          "similarity": 65.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Tarun Pant",
+          "role": "Unknown Role",
+          "similarity": 60.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Digvijay Singh Pangti",
+          "role": "Unknown Role",
+          "similarity": 50.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Suminder Pal Singh – Senior Manager",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        }
+      ]
+    },
     {
       "manipal_name": "Puja Abhishek Singh",
       "manipal_role": "Unknown",
       "matches": [
         {
-          "company": "razorpay",
-          "name": "Pooja Khakhar",
+          "company": "paytm",
+          "name": "Gaurav Sharma | Ex",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "razorpay",
-          "name": "Mohammad Hasiff",
+          "company": "paytm",
+          "name": "Gopibalu Subramanian",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "razorpay",
-          "name": "Umeysh Baskaran",
+          "company": "paytm",
+          "name": "Anna Urbanska",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "razorpay",
-          "name": "Rajesh E – Driving Innovation",
+          "company": "paytm",
+          "name": "Ricardo Piqueras Bonet",
           "role": "Unknown Role",
           "similarity": 45.0,
           "via": "llm"
         },
         {
-          "company": "razorpay",
-          "name": "Tarven murugarajan",
+          "company": "paytm",
+          "name": "Digvijay Singh Pangti",
           "role": "Unknown Role",
-          "similarity": 40.0,
+          "similarity": 45.0,
+          "via": "llm"
+        }
+      ]
+    },
+    {
+      "manipal_name": "Rahul Virmani",
+      "manipal_role": "Vice President & National Sales Head",
+      "matches": [
+        {
+          "company": "paytm",
+          "name": "Mayank Batra",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Suminder Pal Singh – Senior Manager",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "paytm",
+          "name": "Ricardo Piqueras Bonet",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        }
+      ]
+    }
+  ],
+  "phonepe": [
+    {
+      "manipal_name": "Anuj Arora",
+      "manipal_role": "CFO",
+      "matches": [
+        {
+          "company": "phonepe",
+          "name": "Radhika Patil",
+          "role": "Unknown Role",
+          "similarity": 75.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Pawan Kumar",
+          "role": "Unknown Role",
+          "similarity": 70.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Ishita Bansal",
+          "role": "Unknown Role",
+          "similarity": 65.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Wanshdeep Singh",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "ZUBAIR K",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        }
+      ]
+    },
+    {
+      "manipal_name": "Rahul Virmani",
+      "manipal_role": "Vice President & National Sales Head",
+      "matches": [
+        {
+          "company": "phonepe",
+          "name": "Divya Berlia",
+          "role": "Unknown Role",
+          "similarity": 75.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Saurabh Biswal",
+          "role": "Unknown Role",
+          "similarity": 65.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "‏Prajosh Mohan C‏",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Ishita Bansal",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        }
+      ]
+    },
+    {
+      "manipal_name": "Puja Abhishek Singh",
+      "manipal_role": "Unknown",
+      "matches": [
+        {
+          "company": "phonepe",
+          "name": "Wanshdeep Singh",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Nikshubha Kumar – Data Scientist, Rystad Energy",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Sourabh Bose",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Radhika Patil",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Ishita Bansal",
+          "role": "Unknown Role",
+          "similarity": 45.0,
+          "via": "llm"
+        },
+        {
+          "company": "phonepe",
+          "name": "Divya Berlia",
+          "role": "Unknown Role",
+          "similarity": 45.0,
           "via": "llm"
         }
       ]

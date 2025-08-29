@@ -47,7 +47,43 @@ SPECIFIC_EMPLOYEES = [
 
 INPUT_JSON = os.getenv("INPUT_JSON", "final_skill_gaps_detailed_gpt.json")
 
-SKILLS_FILE = os.getenv("SKILLS_FILE", "Xto10X_skills.json")  # Direct skills file path
+import os
+import glob
+
+# Base folder for skills files
+SKILLS_DIR = "company_skills"
+
+def find_company_skills_file(spectre_company: str, skills_dir: str = SKILLS_DIR) -> str:
+    """
+    Search for a skills file in `skills_dir` that contains the spectre_company name.
+    Case-insensitive substring match.
+    Returns the first matching file or raises FileNotFoundError.
+    """
+    if not spectre_company:
+        raise ValueError("SPECTRE_COMPANY is not set. Please provide a company name.")
+
+    pattern = os.path.join(skills_dir, "*.json")
+    files = glob.glob(pattern)
+
+    spectre_lower = spectre_company.lower()
+    for f in files:
+        if spectre_lower in os.path.basename(f).lower():
+            return f
+
+    raise FileNotFoundError(f"No skills file found in {skills_dir} for company containing: {spectre_company}")
+
+# ---- FIX: ensure SPECTRE_COMPANY always has a value ----
+SPECTRE_COMPANY = "Main"
+
+# Now safely resolve skills file
+SKILLS_FILE = find_company_skills_file(SPECTRE_COMPANY)
+
+# Update config
+class Config:
+    SKILLS_FILE = SKILLS_FILE
+    SPECTRE_COMPANY = SPECTRE_COMPANY
+
+  # Direct skills file path
 OUTPUT_JSON = os.getenv("OUTPUT_JSON", "spectre_courses.json")
 
 REQUIRED_ENVS = [

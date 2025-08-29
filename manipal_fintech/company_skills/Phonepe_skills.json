@@ -1,0 +1,689 @@
+{
+  "company_name": "Phonepe",
+  "employees": [
+    {
+      "name": "Shravanth Vijayakumar",
+      "position": "8+ yrs as a business journalist and ...",
+      "employee_id": "Pho_001",
+      "skills": [
+        "Business Journalism",
+        "Writing",
+        "Editing",
+        "Research",
+        "Interviewing",
+        "Storytelling",
+        "Content Creation",
+        "Media Relations",
+        "SEO",
+        "Social Media Management"
+      ]
+    },
+    {
+      "name": "Wanshdeep Singh",
+      "position": "EY Luxembourg | Assurance Senior | Wealth & Asset Management & Other Assurance",
+      "employee_id": "Pho_002",
+      "skills": [
+        "Assurance",
+        "Wealth & Asset Management",
+        "Financial Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ram Rastogi",
+      "position": "Spice Money",
+      "employee_id": "Pho_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurabh Biswal",
+      "position": "SVP - Fintech & Digital Banking Builder at Scale 🚀 | From PhonePe’s First Moves to Allo Bank’s Next Big Leap | 0 to 1 Builder and 1 to 10 Scaler",
+      "employee_id": "Pho_004",
+      "skills": [
+        "Fintech",
+        "Digital Banking",
+        "0 to 1 Builder",
+        "1 to 10 Scaler",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Innovation",
+        "Product Development",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Shashank Arunkumar",
+      "position": "Optique quantique, photonique intégrée et ...",
+      "employee_id": "Pho_005",
+      "skills": [
+        "Optique quantique",
+        "Photonique intégrée"
+      ]
+    },
+    {
+      "name": "‏Mahboob Kadavath‏",
+      "position": "‏Experienced Retail Shop Manager, driving ...",
+      "employee_id": "Pho_006",
+      "skills": [
+        "Retail Management",
+        "Customer Service",
+        "Inventory Control",
+        "Staff Training",
+        "Sales Strategy",
+        "Budgeting",
+        "Team Leadership",
+        "Vendor Relations",
+        "Merchandising",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nikshubha Kumar",
+      "position": "Data Scientist, Rystad Energy",
+      "employee_id": "Pho_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "R",
+        "Big Data",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "‏Dr. Harsh Kubavat‏",
+      "position": "‏Post Merger Integration",
+      "employee_id": "Pho_008",
+      "skills": [
+        "Post Merger Integration",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Change Management",
+        "Stakeholder Engagement",
+        "Operational Efficiency",
+        "Business Transformation"
+      ]
+    },
+    {
+      "name": "‏Shoaib Narpali‏",
+      "position": "‏Senior Contract Specialist, Legal Desk",
+      "employee_id": "Pho_009",
+      "skills": [
+        "Contract Management",
+        "Legal Compliance",
+        "Negotiation",
+        "Risk Assessment",
+        "Documentation",
+        "Stakeholder Management",
+        "Regulatory Knowledge",
+        "Problem Solving",
+        "Communication Skills",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Ram Rastogi",
+      "position": "Spice Money",
+      "employee_id": "Pho_010",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Umesh Prajapat‏",
+      "position": "‏Retail, Marketing, Entrepreneurship, Strategy ...",
+      "employee_id": "Pho_011",
+      "skills": [
+        "Retail",
+        "Marketing",
+        "Entrepreneurship",
+        "Strategy"
+      ]
+    },
+    {
+      "name": "‏Mayank Limkar‏",
+      "position": "‏Associate Manager - Product Ops",
+      "employee_id": "Pho_012",
+      "skills": [
+        "Product Management",
+        "Operations Management",
+        "Data Analysis",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "‏Rajat Gupta‏",
+      "position": "‏Sr. Group PM @ Paytm",
+      "employee_id": "Pho_013",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Business Development",
+        "Financial Analysis",
+        "Customer Insights"
+      ]
+    },
+    {
+      "name": "Vimal Raj Manickam",
+      "position": "Envoy General Trading",
+      "employee_id": "Pho_014",
+      "skills": [
+        "Trading",
+        "Business Development",
+        "Market Analysis",
+        "Client Relations",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "‏Debjani Dutta‏",
+      "position": "‏Client Director - Corporate General Broking at Burns ...",
+      "employee_id": "Pho_015",
+      "skills": [
+        "Client Management",
+        "Corporate General Broking",
+        "Risk Assessment",
+        "Insurance Solutions",
+        "Business Development",
+        "Strategic Planning",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "‏Sabari Thampi‏",
+      "position": "‏General Manager - Fire & Life Safety‏",
+      "employee_id": "Pho_016",
+      "skills": [
+        "Fire Safety",
+        "Life Safety",
+        "General Management",
+        "Risk Assessment",
+        "Emergency Planning",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "‏Vijith T‏",
+      "position": "‏IT Engineer at Ghantoot Transport & General Contracting ...",
+      "employee_id": "Pho_017",
+      "skills": [
+        "IT Engineering",
+        "Transport Systems",
+        "General Contracting"
+      ]
+    },
+    {
+      "name": "‏DEVIKA ASHOK‏",
+      "position": "‏General Insurance Claims, DIP CII, AIII‏",
+      "employee_id": "Pho_018",
+      "skills": [
+        "General Insurance Claims",
+        "DIP CII",
+        "AIII"
+      ]
+    },
+    {
+      "name": "Sourabh Bose",
+      "position": "Senior Technical Product Manager @ Amazon | Bachelors in computer science engineering | Masters in general management",
+      "employee_id": "Pho_019",
+      "skills": [
+        "Technical Product Management",
+        "Computer Science",
+        "General Management",
+        "Project Management",
+        "Product Development",
+        "Team Leadership",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "‏Pranav Agarwal‏",
+      "position": "‏Web3 Investor & Head - Foundership Ventures ...",
+      "employee_id": "Pho_020",
+      "skills": [
+        "Web3",
+        "Investing",
+        "Leadership",
+        "Venture Capital"
+      ]
+    },
+    {
+      "name": "Prajosh Mohan C",
+      "position": "Area Sales Manager",
+      "employee_id": "Pho_021",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Forecasting",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "‏Maya Ninan‏",
+      "position": "‏GT",
+      "employee_id": "Pho_022",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Radhika Patil",
+      "position": "Finance Professional",
+      "employee_id": "Pho_023",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Accounting",
+        "Taxation",
+        "Compliance",
+        "Risk Assessment",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pawan Kumar",
+      "position": "Economist in Finance",
+      "employee_id": "Pho_024",
+      "skills": [
+        "Economics",
+        "Finance",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Statistical Analysis",
+        "Quantitative Research"
+      ]
+    },
+    {
+      "name": "‏Dimple Sabhnani‏",
+      "position": "‏Manager, Valuations at Deloitte Middle East",
+      "employee_id": "Pho_025",
+      "skills": [
+        "Valuations",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Client Relations",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "‏Munyaradzi Matimba (B Comm)(FCCA)‏",
+      "position": "‏Corporate Finance Director ...",
+      "employee_id": "Pho_026",
+      "skills": [
+        "Corporate Finance",
+        "Financial Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Forecasting",
+        "Mergers and Acquisitions",
+        "Due Diligence",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "‏Ravi Narayanasamy‏",
+      "position": "‏burjeel holdings‏",
+      "employee_id": "Pho_027",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Budgeting",
+        "Stakeholder Management",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Ishita Bansal",
+      "position": "Investments Manager, Europe FCs",
+      "employee_id": "Pho_028",
+      "skills": [
+        "Investment Strategy",
+        "Portfolio Management",
+        "Financial Analysis",
+        "Market Research",
+        "Risk Assessment",
+        "Client Relations",
+        "Asset Allocation",
+        "Economic Forecasting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "‏SRINIVAS KUKKALA‏",
+      "position": "‏Senior Executive in Accounts‏",
+      "employee_id": "Pho_029",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Taxation",
+        "Budgeting",
+        "Auditing",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Analysis",
+        "Microsoft Excel",
+        "SAP",
+        "QuickBooks",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "‏Shahbaz Shah‏",
+      "position": "‏Manager-Middle office operations, Valuations, IPV ...",
+      "employee_id": "Pho_030",
+      "skills": [
+        "Middle office operations",
+        "Valuations",
+        "IPV"
+      ]
+    },
+    {
+      "name": "‏Ikhtedar Khan‏",
+      "position": "‏Financial Analyst",
+      "employee_id": "Pho_031",
+      "skills": [
+        "Financial Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "Accounting",
+        "Budgeting",
+        "Forecasting",
+        "Variance Analysis",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Sai Lokesh Movva",
+      "position": "ESSEC",
+      "employee_id": "Pho_032",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "‏Sayan Mukherjee‏",
+      "position": "‏Chief Business Officer @ League Sports Co ...",
+      "employee_id": "Pho_033",
+      "skills": [
+        "Business Strategy",
+        "Leadership",
+        "Team Management",
+        "Sports Management",
+        "Negotiation",
+        "Financial Planning",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "‏Abdul Azeez KK, CAMS‏",
+      "position": "‏AML & Compliance Specialist / CDD ...",
+      "employee_id": "Pho_034",
+      "skills": [
+        "AML",
+        "Compliance",
+        "CDD"
+      ]
+    },
+    {
+      "name": "‏Saharsh Ajmere‏",
+      "position": "‏ISB Co'25‏",
+      "employee_id": "Pho_035",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Aditya Menon‏",
+      "position": "‏Associate at Lunate‏",
+      "employee_id": "Pho_036",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Muhammad Zaid, CFA‏",
+      "position": "‏Vice President @ Public Investment Fund ...",
+      "employee_id": "Pho_037",
+      "skills": [
+        "Financial Analysis",
+        "Investment Management",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Strategic Planning",
+        "Market Research",
+        "Valuation",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Divya Berlia",
+      "position": "🌟 Passionate Sales Leader | Driving Revenue Growth & Client Success 🌟 👔 Sales Manager | Business Development | Key Account Management | SaaS, B2B and B2C 🚀 Elevating Sales Performance to New Heights",
+      "employee_id": "Pho_038",
+      "skills": [
+        "Sales Management",
+        "Business Development",
+        "Key Account Management",
+        "SaaS",
+        "B2B",
+        "B2C",
+        "Revenue Growth",
+        "Client Success"
+      ]
+    },
+    {
+      "name": "‏Swithin Samson‏",
+      "position": "‏Sales Consultant ‏",
+      "employee_id": "Pho_039",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Product Knowledge",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "‏Mohammed Riaj‏",
+      "position": "‏Sales Manager @ GITEX Europe",
+      "employee_id": "Pho_040",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "‏Akash Srivastava‏",
+      "position": "‏Seasoned IT Sales Professional",
+      "employee_id": "Pho_041",
+      "skills": [
+        "IT Sales",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "‏vikas kasera‏",
+      "position": "‏Sales Coordinator at Dana Kitchen Manufacturing ...",
+      "employee_id": "Pho_042",
+      "skills": [
+        "Sales Coordination",
+        "Customer Service",
+        "Inventory Management",
+        "Order Processing",
+        "Communication Skills",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "‏DARSHAN RAVI‏",
+      "position": "‏Brand Manager‏",
+      "employee_id": "Pho_043",
+      "skills": [
+        "Brand Management",
+        "Marketing Strategy",
+        "Market Research",
+        "Digital Marketing",
+        "Social Media Management",
+        "Content Creation",
+        "SEO",
+        "Advertising",
+        "Public Relations",
+        "Project Management",
+        "Team Leadership",
+        "Budget Management",
+        "Analytics",
+        "Customer Insights"
+      ]
+    },
+    {
+      "name": "‏Sheikh Imran‏",
+      "position": "‏Administrative Professional",
+      "employee_id": "Pho_044",
+      "skills": [
+        "Office Management",
+        "Scheduling",
+        "Customer Service",
+        "Data Entry",
+        "Communication",
+        "Time Management",
+        "Microsoft Office",
+        "Problem Solving",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "‏Himanshu Dhyani‏",
+      "position": "‏Retail Store Manager at Landmark Group ...",
+      "employee_id": "Pho_045",
+      "skills": [
+        "Retail Management",
+        "Customer Service",
+        "Inventory Control",
+        "Sales Strategies",
+        "Team Leadership",
+        "Merchandising",
+        "Store Operations",
+        "Budgeting",
+        "Staff Training",
+        "Loss Prevention"
+      ]
+    },
+    {
+      "name": "‏Supreet Kaur‏",
+      "position": "‏Xalts‏",
+      "employee_id": "Pho_046",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Richy Varghese‏",
+      "position": "‏MSc",
+      "employee_id": "Pho_047",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "ZUBAIR K",
+      "position": "Present works for karundanews as a Chief executive officer",
+      "employee_id": "Pho_048",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Team Management",
+        "Financial Management",
+        "Communication Skills"
+      ]
+    }
+  ]
+}

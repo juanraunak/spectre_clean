@@ -1,0 +1,49 @@
+{
+  "company_name": "Manipal  Main  20250829 175334",
+  "employees": [
+    {
+      "name": "Puja Abhishek Singh",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anuj Arora",
+      "position": "CFO at Manipal Fintech",
+      "employee_id": "Man_002",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Budgeting",
+        "Leadership",
+        "Financial Reporting",
+        "Investment Management",
+        "Corporate Finance",
+        "Team Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Rahul Virmani",
+      "position": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+      "employee_id": "Man_003",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Financial Services",
+        "Negotiation",
+        "Revenue Growth",
+        "Strategic Planning"
+      ]
+    }
+  ]
+}

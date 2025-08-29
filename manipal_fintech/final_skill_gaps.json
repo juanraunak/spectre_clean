@@ -1,0 +1,38 @@
+[
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "",
+    "missing_skills": [
+      "financial analysis",
+      "forecasting"
+    ]
+  },
+  {
+    "manipal_employee": "Anuj Arora",
+    "role": "CFO at Manipal Fintech",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "forecasting",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ]
+  },
+  {
+    "manipal_employee": "Rahul Virmani",
+    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+    "missing_skills": [
+      "business development",
+      "innovation",
+      "market analysis",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ]
+  }
+]
