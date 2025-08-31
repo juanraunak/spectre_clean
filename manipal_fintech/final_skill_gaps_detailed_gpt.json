@@ -1,28 +1,1010 @@
 [
   {
-    "manipal_employee": "Puja Abhishek Singh",
-    "role": "",
+    "manipal_employee": "Sajeesh ko",
+    "role": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+    "missing_skills": [
+      "communication",
+      "financial analysis",
+      "problem solving",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication": "Critical",
+      "financial analysis": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 3/10 competitors; examples: cred, rupeek",
+      "financial analysis": "Present in 3/10 competitors; examples: cred, flexiloans, rupeek",
+      "problem solving": "Present in 3/10 competitors; examples: cred, rupeek",
+      "team leadership": "Present in 4/10 competitors; examples: cred, flexiloans, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication, team leadership"
+    ],
+    "competitor_companies": [
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Debjit Roy",
+    "role": "Area Head, Government Business at IDFC FIRST Bank",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, cred, flexiloans",
+      "data analysis": "Present in 3/10 competitors; examples: kreditbee, neogrowth, zestmoney",
+      "financial analysis": "Present in 5/10 competitors; examples: cashe, cred, flexiloans",
+      "financial modeling": "Present in 3/10 competitors; examples: kreditbee, neogrowth, zestmoney",
+      "project management": "Present in 3/10 competitors; examples: cred, kreditbee, zestmoney",
+      "python": "Present in 3/10 competitors; examples: kreditbee, neogrowth, zestmoney",
+      "risk management": "Present in 4/10 competitors; examples: flexiloans, kreditbee, neogrowth",
+      "strategic planning": "Present in 4/10 competitors; examples: cred, flexiloans, kreditbee",
+      "team leadership": "Present in 3/10 competitors; examples: cred, flexiloans, kreditbee"
+    },
+    "overall_assessment": "Found 9 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, python",
+      "📈 STRATEGIC: Develop risk management, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Urmil Badami",
+    "role": "Business Lending for Maharashtra Region",
     "missing_skills": [
       "financial analysis",
-      "forecasting"
+      "financial modeling",
+      "risk management",
+      "strategic planning"
     ],
     "skill_importance": {
       "financial analysis": "Critical",
-      "forecasting": "Critical"
+      "financial modeling": "Nice-to-have",
+      "risk management": "Important",
+      "strategic planning": "Critical"
     },
     "gap_reasoning": {
-      "financial analysis": "Present in 4/9 competitors; examples: paytm, phonepe",
-      "forecasting": "Present in 3/9 competitors; examples: paytm, phonepe"
+      "financial analysis": "Present in 4/9 competitors; examples: cred, flexiloans",
+      "financial modeling": "Present in 3/9 competitors; examples: cred, neogrowth",
+      "risk management": "Present in 4/9 competitors; examples: cred, flexiloans",
+      "strategic planning": "Present in 5/9 competitors; examples: cred, flexiloans, lendingkart"
+    },
+    "overall_assessment": "Found 4 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning",
+      "📈 STRATEGIC: Develop risk management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Himanshu Matta",
+    "role": "Deputy Vice President II at Indusind Bank Limited",
+    "missing_skills": [
+      "financial analysis",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "risk management": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans",
+      "risk management": "Present in 3/10 competitors; examples: flexiloans, lendingkart, zestmoney",
+      "strategic planning": "Present in 3/10 competitors; examples: cashe, flexiloans, lendingkart"
+    },
+    "overall_assessment": "Found 3 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Manish Baghel",
+    "role": "Tha Manipal Group",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/10 competitors; examples: flexiloans, lendingkart, zestmoney",
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans, zestmoney",
+      "financial modeling": "Present in 4/10 competitors; examples: flexiloans, lendingkart, zestmoney",
+      "risk management": "Present in 5/10 competitors; examples: flexiloans, lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Girish Gaikwad",
+    "role": "Gold Loan and Financial services",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "project management",
+      "risk assessment",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk assessment": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, flexiloans",
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans, zestmoney",
+      "project management": "Present in 3/10 competitors; examples: cashe, kreditbee, lendingkart",
+      "risk assessment": "Present in 3/10 competitors; examples: cashe, neogrowth, zestmoney",
+      "strategic planning": "Present in 5/10 competitors; examples: cashe, flexiloans, kreditbee",
+      "team leadership": "Present in 4/10 competitors; examples: cashe, flexiloans, kreditbee"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sanjay Raghuraman",
+    "role": "",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "communication": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 2/8 competitors; examples: rupeek",
+      "data analysis": "Present in 4/8 competitors; examples: rupeek",
+      "financial modeling": "Present in 4/8 competitors; examples: neogrowth, rupeek",
+      "python": "Present in 4/8 competitors; examples: rupeek",
+      "risk management": "Present in 3/8 competitors; examples: rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling"
+    ],
+    "competitor_companies": [
+      "loantap",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Nikhil Mehta",
+    "role": "Payments & Fintech Expert with focus on solving Customer needs through Digital Payments, Financial Services & Commerce",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Important",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/8 competitors; examples: earlysalary, kreditbee, lendingkart",
+      "financial modeling": "Present in 5/8 competitors; examples: earlysalary, kreditbee, lendingkart",
+      "project management": "Present in 4/8 competitors; examples: cred, kreditbee, neogrowth",
+      "python": "Present in 4/8 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "risk management": "Present in 5/8 competitors; examples: earlysalary, kreditbee, lendingkart",
+      "strategic planning": "Present in 2/8 competitors; examples: kreditbee, neogrowth"
+    },
+    "overall_assessment": "Found 6 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, project management, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "earlysalary",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jyotika Satija",
+    "role": "",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "problem solving",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "communication": "Critical",
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 3/8 competitors; examples: cred, rupeek",
+      "data analysis": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "financial analysis": "Present in 3/8 competitors; examples: cred, rupeek",
+      "financial modeling": "Present in 2/8 competitors; examples: kreditbee, rupeek",
+      "problem solving": "Present in 3/8 competitors; examples: cred, rupeek",
+      "python": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "risk management": "Present in 2/8 competitors; examples: kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 7 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sylvester Domingo",
+    "role": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "leadership",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "leadership": "Critical",
+      "project management": "Nice-to-have",
+      "python": "Nice-to-have",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 2/8 competitors; examples: rupeek, zestmoney",
+      "financial modeling": "Present in 2/8 competitors; examples: rupeek, zestmoney",
+      "leadership": "Present in 3/8 competitors; examples: indiagold, rupeek",
+      "project management": "Present in 2/8 competitors; examples: rupeek, zestmoney",
+      "python": "Present in 2/8 competitors; examples: rupeek, zestmoney",
+      "risk management": "Present in 3/8 competitors; examples: rupeek, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on leadership, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "flexiloans",
+      "indiagold",
+      "lendingkart",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "ANIL SEN",
+    "role": "Relationship Executive Gold Loan at Manipal Fintech Pvt Ltd",
+    "missing_skills": [
+      "business development",
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/10 competitors; examples: cred, lendingkart",
+      "data analysis": "Present in 3/10 competitors; examples: cred, earlysalary, zestmoney",
+      "financial modeling": "Present in 3/10 competitors; examples: cred, earlysalary, zestmoney",
+      "python": "Present in 3/10 competitors; examples: cred, earlysalary, zestmoney",
+      "risk management": "Present in 4/10 competitors; examples: cred, earlysalary, neogrowth"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "earlysalary",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "kapil kamath",
+    "role": "Manager - Marketing at JKPL Utility Packaging Solutions Pvt Ltd",
+    "missing_skills": [
+      "project management"
+    ],
+    "skill_importance": {
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "project management": "Present in 4/10 competitors; examples: cashe, neogrowth, zestmoney"
+    },
+    "overall_assessment": "Found 1 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 1
+    }
+  },
+  {
+    "manipal_employee": "Sumeet Dhillon",
+    "role": "Strategic alliances and partnership head with expertise into fintech NBFC banking and FMCG segment",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/10 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "financial modeling": "Present in 3/10 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "python": "Present in 3/10 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "risk management": "Present in 5/10 competitors; examples: cred, earlysalary, kreditbee",
+      "strategic planning": "Present in 3/10 competitors; examples: kreditbee, lendingkart, neogrowth",
+      "team leadership": "Present in 3/10 competitors; examples: cred, kreditbee, neogrowth"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "earlysalary",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Dilpreet Singh Banga",
+    "role": "Banking at American Express",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "risk management"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "financial reporting": "Nice-to-have",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, flexiloans",
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans",
+      "financial modeling": "Present in 3/10 competitors; examples: lendingkart, zestmoney",
+      "financial reporting": "Present in 3/10 competitors; examples: cashe, flexiloans",
+      "risk management": "Present in 4/10 competitors; examples: flexiloans, lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on budgeting, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vinod Kulkarni",
+    "role": "E-commerce Executive | Chief of Staff | Business Restructuring | Data Analytics | CPG | Engineering R&D",
+    "missing_skills": [
+      "data analysis",
+      "data warehousing"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "data warehousing": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 2/7 competitors; examples: kreditbee, lendingkart",
+      "data warehousing": "Present in 2/7 competitors; examples: kreditbee, neogrowth"
+    },
+    "overall_assessment": "Found 2 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, data warehousing"
+    ],
+    "competitor_companies": [
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sudipta Bose",
+    "role": "--",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/9 competitors; examples: kreditbee, neogrowth, rupeek",
+      "financial modeling": "Present in 3/9 competitors; examples: neogrowth, rupeek",
+      "python": "Present in 3/9 competitors; examples: neogrowth, rupeek",
+      "risk management": "Present in 3/9 competitors; examples: neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "flexiloans",
+      "kreditbee",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Mahima Singh Chauhan",
+    "role": "Product Manager || Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/9 competitors; examples: cashe, kreditbee, rupeek",
+      "financial modeling": "Present in 3/9 competitors; examples: cashe, kreditbee, rupeek",
+      "project management": "Present in 3/9 competitors; examples: kreditbee, rupeek, zestmoney",
+      "python": "Present in 3/9 competitors; examples: cashe, kreditbee, rupeek",
+      "risk management": "Present in 3/9 competitors; examples: cashe, kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Puneet Sharma",
+    "role": "DVP - Software Development at Manipal Fintech Services Pvt. Ltd.",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "java",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "java": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/8 competitors; examples: rupeek, zestmoney",
+      "financial modeling": "Present in 3/8 competitors; examples: rupeek, zestmoney",
+      "java": "Present in 2/8 competitors; examples: indiagold, lendingkart",
+      "project management": "Present in 4/8 competitors; examples: faircent, kreditbee, rupeek",
+      "python": "Present in 5/8 competitors; examples: indiagold, lendingkart, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: rupeek, zestmoney",
+      "sql": "Present in 3/8 competitors; examples: indiagold, lendingkart, rupeek"
+    },
+    "overall_assessment": "Found 7 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "faircent",
+      "indiagold",
+      "kreditbee",
+      "lendingkart",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Umesha Mulappa",
+    "role": "Vice President & Business Head - Primacy Industries Ltd.",
+    "missing_skills": [
+      "business development",
+      "financial analysis",
+      "leadership",
+      "marketing",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "leadership": "Critical",
+      "marketing": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 2/8 competitors; examples: kreditbee, lendingkart",
+      "financial analysis": "Present in 2/8 competitors; examples: cashe, zestmoney",
+      "leadership": "Present in 3/8 competitors; examples: lendingkart, rupeek, zestmoney",
+      "marketing": "Present in 2/8 competitors; examples: lendingkart",
+      "project management": "Present in 3/8 competitors; examples: lendingkart, rupeek, zestmoney",
+      "strategic planning": "Present in 3/8 competitors; examples: lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on leadership, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Animesh Kumar",
+    "role": "Sales & Operations Leader",
+    "missing_skills": [
+      "business development",
+      "commercial strategy"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/9 competitors; examples: cred",
+      "commercial strategy": "Present in 3/9 competitors; examples: cred, zestmoney"
     },
     "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
     "recommendations": [
-      "🚨 PRIORITY: Focus on financial analysis, forecasting"
+      "🚨 PRIORITY: Focus on business development, commercial strategy"
     ],
     "competitor_companies": [
-      "paytm",
-      "phonepe"
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
     ],
     "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Quentin Passanha",
+    "role": "Senior Executive - Human Resource @ Manipal Technologies Limited",
+    "missing_skills": [
+      "client relations",
+      "negotiation",
+      "project management"
+    ],
+    "skill_importance": {
+      "client relations": "Critical",
+      "negotiation": "Nice-to-have",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "client relations": "Present in 3/10 competitors; examples: cashe, faircent",
+      "negotiation": "Present in 3/10 competitors; examples: cashe, faircent",
+      "project management": "Present in 6/10 competitors; examples: cashe, cred, faircent"
+    },
+    "overall_assessment": "Found 3 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on client relations, project management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "faircent",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "SUJIT SINGH RAJAWAT",
+    "role": "Cluster Head @Manipal Fintech | Executive Team, Direct Sales",
+    "missing_skills": [
+      "business development",
+      "commercial strategy",
+      "market analysis",
+      "negotiation"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Nice-to-have",
+      "market analysis": "Critical",
+      "negotiation": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/10 competitors; examples: cred",
+      "commercial strategy": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "market analysis": "Present in 4/10 competitors; examples: cred",
+      "negotiation": "Present in 3/10 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, market analysis"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Narendra Singh",
+    "role": "Sr. Manager - HDFC Bank | Fintech | Financial Inclusion | Rural Markets",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/9 competitors; examples: earlysalary, kreditbee",
+      "financial analysis": "Present in 3/9 competitors; examples: cashe, cred, flexiloans",
+      "financial modeling": "Present in 4/9 competitors; examples: earlysalary, kreditbee, neogrowth",
+      "project management": "Present in 3/9 competitors; examples: cred, kreditbee",
+      "python": "Present in 3/9 competitors; examples: earlysalary, kreditbee",
+      "risk management": "Present in 5/9 competitors; examples: cred, earlysalary, flexiloans",
+      "strategic planning": "Present in 4/9 competitors; examples: cred, flexiloans, kreditbee",
+      "team leadership": "Present in 3/9 competitors; examples: cred, flexiloans, kreditbee"
+    },
+    "overall_assessment": "Found 8 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management",
+      "📈 STRATEGIC: Develop financial modeling, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "earlysalary",
+      "flexiloans",
+      "kreditbee",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Neha Kumari",
+    "role": "HR Professional ।। HR Operations, Employee Relation, Employee Engagement, Recruitment, Payroll Management and Compliance",
+    "missing_skills": [
+      "data analysis",
+      "project management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/10 competitors; examples: kreditbee, neogrowth, rupeek",
+      "project management": "Present in 6/10 competitors; examples: cred, faircent, kreditbee"
+    },
+    "overall_assessment": "Found 2 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "faircent",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
     "evidence_flags": {
       "used_llm": false,
       "confidence_score": 0.95,
@@ -34,47 +1016,1408 @@
     "role": "CFO at Manipal Fintech",
     "missing_skills": [
       "budgeting",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "financial reporting": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "financial modeling": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "financial reporting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "risk management": "Present in 5/10 competitors; examples: cred, flexiloans, neogrowth",
+      "strategic planning": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on budgeting, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vaishali Bhat",
+    "role": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+    "missing_skills": [
+      "market analysis",
+      "negotiation"
+    ],
+    "skill_importance": {
+      "market analysis": "Critical",
+      "negotiation": "Critical"
+    },
+    "gap_reasoning": {
+      "market analysis": "Present in 3/10 competitors; examples: cashe, cred, neogrowth",
+      "negotiation": "Present in 3/10 competitors; examples: cashe, cred, neogrowth"
+    },
+    "overall_assessment": "Found 2 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on market analysis, negotiation"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Manish Dhoundiyal",
+    "role": "Sr. Trainer at Manipal Fintech",
+    "missing_skills": [
+      "communication",
       "data analysis",
-      "excel",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "communication": "Important",
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 4/9 competitors; examples: cred, rupeek",
+      "data analysis": "Present in 3/9 competitors; examples: neogrowth, rupeek",
+      "financial modeling": "Present in 3/9 competitors; examples: neogrowth, rupeek",
+      "project management": "Present in 5/9 competitors; examples: cred, rupeek, zestmoney",
+      "python": "Present in 3/9 competitors; examples: neogrowth, rupeek",
+      "risk management": "Present in 3/9 competitors; examples: neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 6 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "📈 STRATEGIC: Develop communication",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Matholiya",
+    "role": "",
+    "missing_skills": [
+      "business development",
+      "css",
+      "data analysis",
+      "git",
+      "html",
+      "javascript",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "css": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "git": "Nice-to-have",
+      "html": "Nice-to-have",
+      "javascript": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 2/7 competitors; examples: cred",
+      "css": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "data analysis": "Present in 2/7 competitors; examples: rupeek",
+      "git": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "html": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "javascript": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "python": "Present in 3/7 competitors; examples: lendingkart, rupeek",
+      "risk management": "Present in 2/7 competitors; examples: cred, rupeek"
+    },
+    "overall_assessment": "Found 8 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on javascript, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "loantap",
+      "rupeek"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Atul Aggarwal",
+    "role": "Head - Legal & Compliance",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/9 competitors; examples: earlysalary, rupeek",
+      "financial modeling": "Present in 3/9 competitors; examples: earlysalary, rupeek",
+      "project management": "Present in 3/9 competitors; examples: cashe, kreditbee, rupeek",
+      "python": "Present in 3/9 competitors; examples: earlysalary, rupeek",
+      "risk management": "Present in 3/9 competitors; examples: earlysalary, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "earlysalary",
+      "kreditbee",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jaya Yadav",
+    "role": "MBA in Digital Marketing with the help of Imarticus learning.",
+    "missing_skills": [
+      "data analysis",
+      "project management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/10 competitors; examples: kreditbee, lendingkart, neogrowth",
+      "project management": "Present in 3/10 competitors; examples: neogrowth, zestmoney"
+    },
+    "overall_assessment": "Found 2 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management"
+    ],
+    "competitor_companies": [
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Prasanna Kumari",
+    "role": "Manipal Technologies Limited",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/7 competitors; examples: neogrowth, rupeek, zestmoney",
+      "financial modeling": "Present in 4/7 competitors; examples: neogrowth, rupeek, zestmoney",
+      "project management": "Present in 2/7 competitors; examples: kreditbee, rupeek",
+      "python": "Present in 4/7 competitors; examples: neogrowth, rupeek, zestmoney",
+      "risk management": "Present in 4/7 competitors; examples: neogrowth, rupeek, zestmoney"
+    },
+    "overall_assessment": "Found 5 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "kreditbee",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Anuroop Omkar",
+    "role": "Founding Partner at AK & Partners | Honorary Director at Bridge Policy Think Tank | Lawyer |Mediator | Author | Policy Advisor",
+    "missing_skills": [
+      "communication",
+      "financial analysis",
+      "legal research",
+      "regulatory compliance"
+    ],
+    "skill_importance": {
+      "communication": "Nice-to-have",
+      "financial analysis": "Critical",
+      "legal research": "Nice-to-have",
+      "regulatory compliance": "Critical"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 2/7 competitors; examples: lendingkart, zestmoney",
+      "financial analysis": "Present in 3/7 competitors; examples: cred, lendingkart, zestmoney",
+      "legal research": "Present in 2/7 competitors; examples: cred, kreditbee",
+      "regulatory compliance": "Present in 3/7 competitors; examples: cred, kreditbee"
+    },
+    "overall_assessment": "Found 4 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, regulatory compliance"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "ABHISHEK KUMAR BAJAJ",
+    "role": "Regional Head",
+    "missing_skills": [
+      "financial analysis",
+      "leadership",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "leadership": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 2/7 competitors; examples: cashe, zestmoney",
+      "leadership": "Present in 2/7 competitors; examples: flexiloans, zestmoney",
+      "strategic planning": "Present in 2/7 competitors; examples: flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 3 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, leadership"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sathish Kumar",
+    "role": "Human Resource | Talent Development & Management",
+    "missing_skills": [
+      "data analysis",
+      "project management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/9 competitors; examples: kreditbee, neogrowth, rupeek",
+      "project management": "Present in 4/9 competitors; examples: cashe, rupeek"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Manish Singh",
+    "role": "Assistant Vice President @ Yucollect | P&L Ownership & GTM Strategy | Senior Sales Leader with experience at Khatabook, BharatPe, PhonePe, GPI and Vodafone",
+    "missing_skills": [
+      "business development",
+      "financial management",
+      "leadership",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "financial management": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "negotiation": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/9 competitors; examples: cred, lendingkart",
+      "financial management": "Present in 3/9 competitors; examples: cred, lendingkart",
+      "leadership": "Present in 3/9 competitors; examples: cred, lendingkart",
+      "negotiation": "Present in 3/9 competitors; examples: cred, lendingkart",
+      "project management": "Present in 3/9 competitors; examples: cred, lendingkart",
+      "strategic planning": "Present in 5/9 competitors; examples: cred, flexiloans, lendingkart",
+      "team management": "Present in 3/9 competitors; examples: cred, lendingkart"
+    },
+    "overall_assessment": "Found 7 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ankur Mathur",
+    "role": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+    "missing_skills": [
+      "business development",
+      "communication",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "communication": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/9 competitors; examples: cashe, faircent, zestmoney",
+      "communication": "Present in 3/9 competitors; examples: flexiloans, rupeek, zestmoney",
+      "project management": "Present in 5/9 competitors; examples: cashe, faircent, rupeek",
+      "strategic planning": "Present in 4/9 competitors; examples: cashe, faircent, flexiloans"
+    },
+    "overall_assessment": "Found 4 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "faircent",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "TANMAY SINGH",
+    "role": "",
+    "missing_skills": [
+      "css",
+      "data analysis",
+      "financial modeling",
+      "git",
+      "html",
+      "javascript",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "css": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "git": "Nice-to-have",
+      "html": "Nice-to-have",
+      "javascript": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "css": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "data analysis": "Present in 2/7 competitors; examples: kreditbee, rupeek",
+      "financial modeling": "Present in 2/7 competitors; examples: kreditbee, rupeek",
+      "git": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "html": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "javascript": "Present in 2/7 competitors; examples: lendingkart, loantap",
+      "problem solving": "Present in 2/7 competitors; examples: cred, lendingkart",
+      "project management": "Present in 3/7 competitors; examples: cred, kreditbee",
+      "python": "Present in 3/7 competitors; examples: kreditbee, lendingkart, rupeek",
+      "risk management": "Present in 2/7 competitors; examples: kreditbee, rupeek",
+      "strategic planning": "Present in 2/7 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 11 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "loantap",
+      "rupeek"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "akshay jain",
+    "role": "Regional Head at Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "leadership",
+      "project management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "leadership": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/9 competitors; examples: cashe, cred, zestmoney",
+      "leadership": "Present in 5/9 competitors; examples: cashe, cred, zestmoney",
+      "project management": "Present in 3/9 competitors; examples: cred, zestmoney",
+      "strategic planning": "Present in 4/9 competitors; examples: cashe, cred, zestmoney",
+      "team management": "Present in 3/9 competitors; examples: cashe, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, leadership",
+      "📈 STRATEGIC: Develop strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Chandrasekhar BS",
+    "role": "Senior Manager at Max Life Insurance Company Limited",
+    "missing_skills": [
+      "financial analysis",
+      "negotiation",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "negotiation": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, cred, flexiloans",
+      "negotiation": "Present in 3/10 competitors; examples: cashe, cred, neogrowth",
+      "project management": "Present in 3/10 competitors; examples: cashe, cred, neogrowth",
+      "strategic planning": "Present in 4/10 competitors; examples: cashe, cred, flexiloans"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Shivam Gupta",
+    "role": "Business Strategy | CEO's Office | Manipal Fintech",
+    "missing_skills": [
+      "financial analysis",
+      "risk management"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/9 competitors; examples: cashe, flexiloans, zestmoney",
+      "risk management": "Present in 3/9 competitors; examples: flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Firoj khan",
+    "role": "Gold Loan manager at Manipal Fintech",
+    "missing_skills": [
+      "budgeting",
       "financial analysis",
       "financial reporting",
-      "forecasting",
       "risk management",
       "strategic planning",
       "team leadership"
     ],
     "skill_importance": {
-      "budgeting": "Nice-to-have",
-      "data analysis": "Nice-to-have",
-      "excel": "Nice-to-have",
+      "budgeting": "Critical",
       "financial analysis": "Critical",
       "financial reporting": "Nice-to-have",
-      "forecasting": "Critical",
       "risk management": "Nice-to-have",
       "strategic planning": "Nice-to-have",
-      "team leadership": "Nice-to-have"
+      "team leadership": "Important"
     },
     "gap_reasoning": {
-      "budgeting": "Present in 4/11 competitors; examples: paytm, phonepe",
-      "data analysis": "Present in 3/11 competitors; examples: paytm, phonepe",
-      "excel": "Present in 4/11 competitors; examples: paytm, phonepe",
-      "financial analysis": "Present in 6/11 competitors; examples: paytm, phonepe",
-      "financial reporting": "Present in 3/11 competitors; examples: paytm, phonepe",
-      "forecasting": "Present in 5/11 competitors; examples: paytm, phonepe",
-      "risk management": "Present in 4/11 competitors; examples: paytm, phonepe",
-      "strategic planning": "Present in 4/11 competitors; examples: paytm, phonepe",
-      "team leadership": "Present in 3/11 competitors; examples: paytm"
+      "budgeting": "Present in 4/10 competitors; examples: cashe, cred, flexiloans",
+      "financial analysis": "Present in 5/10 competitors; examples: cashe, cred, flexiloans",
+      "financial reporting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "risk management": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth",
+      "strategic planning": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth",
+      "team leadership": "Present in 4/10 competitors; examples: cred, flexiloans, neogrowth"
     },
-    "overall_assessment": "Found 9 priority gaps from 11 matched competitors",
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
     "recommendations": [
-      "🚨 PRIORITY: Focus on financial analysis, forecasting",
+      "🚨 PRIORITY: Focus on budgeting, financial analysis",
+      "📈 STRATEGIC: Develop team leadership",
       "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
     ],
     "competitor_companies": [
-      "paytm",
-      "phonepe"
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
     ],
-    "competitor_count": 11,
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Avinash Singh",
+    "role": "Deputy Manager - Training",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "market analysis",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/8 competitors; examples: kreditbee, neogrowth, zestmoney",
+      "financial modeling": "Present in 2/8 competitors; examples: kreditbee, neogrowth",
+      "market analysis": "Present in 2/8 competitors; examples: cashe, zestmoney",
+      "project management": "Present in 4/8 competitors; examples: cashe, cred, rupeek",
+      "python": "Present in 2/8 competitors; examples: kreditbee, neogrowth",
+      "risk management": "Present in 2/8 competitors; examples: kreditbee, neogrowth",
+      "strategic planning": "Present in 2/8 competitors; examples: cashe, flexiloans",
+      "team management": "Present in 2/8 competitors; examples: flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "kreditbee",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pramod Naidu",
+    "role": "Regional Head Sales Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "commercial strategy",
+      "leadership",
+      "market analysis",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/10 competitors; examples: cred, zestmoney",
+      "commercial strategy": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "leadership": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "market analysis": "Present in 3/10 competitors; examples: cred",
+      "project management": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "strategic planning": "Present in 4/10 competitors; examples: cred, lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Romi Rai",
+    "role": "",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "communication": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 2/7 competitors; examples: rupeek",
+      "data analysis": "Present in 5/7 competitors; examples: rupeek",
+      "financial modeling": "Present in 4/7 competitors; examples: rupeek",
+      "python": "Present in 5/7 competitors; examples: rupeek",
+      "risk management": "Present in 4/7 competitors; examples: rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "rupeek"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vishal Narwal",
+    "role": "Fintech I Lending I Digital Payments I Consulting",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/9 competitors; examples: earlysalary, kreditbee, loantap",
+      "financial modeling": "Present in 5/9 competitors; examples: earlysalary, kreditbee, loantap",
+      "project management": "Present in 3/9 competitors; examples: kreditbee, neogrowth, zestmoney",
+      "python": "Present in 5/9 competitors; examples: earlysalary, kreditbee, loantap",
+      "risk management": "Present in 5/9 competitors; examples: earlysalary, kreditbee, loantap"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "earlysalary",
+      "kreditbee",
+      "lendingkart",
+      "loantap",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "RAMKUMAR SUBRAMONIAN",
+    "role": "Senior Banking Professional / IIM Calcutta / CBO/ Growth Leader",
+    "missing_skills": [
+      "financial analysis",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "risk management": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, earlysalary, flexiloans",
+      "risk management": "Present in 3/10 competitors; examples: flexiloans, kreditbee, zestmoney",
+      "strategic planning": "Present in 3/10 competitors; examples: flexiloans, kreditbee, lendingkart"
+    },
+    "overall_assessment": "Found 3 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "earlysalary",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Niranjan Bhat",
+    "role": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "financial reporting",
+      "risk management"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "financial analysis": "Critical",
+      "financial reporting": "Nice-to-have",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "financial analysis": "Present in 4/10 competitors; examples: cashe, cred, flexiloans",
+      "financial reporting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "risk management": "Present in 4/10 competitors; examples: flexiloans, neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "J Harikrishna",
+    "role": "",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "financial analysis",
+      "leadership",
+      "problem solving",
+      "project management",
+      "python",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "communication": "Critical",
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 2/8 competitors; examples: cred, rupeek",
+      "data analysis": "Present in 2/8 competitors; examples: rupeek",
+      "financial analysis": "Present in 2/8 competitors; examples: cred, rupeek",
+      "leadership": "Present in 2/8 competitors; examples: cred, rupeek",
+      "problem solving": "Present in 2/8 competitors; examples: cred, rupeek",
+      "project management": "Present in 2/8 competitors; examples: cred",
+      "python": "Present in 2/8 competitors; examples: rupeek",
+      "strategic planning": "Present in 2/8 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "loantap",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Mahesh Rotti",
+    "role": "Sales And Marketing Specialist at Jio",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Found 0 priority gaps from 10 matched competitors",
+    "recommendations": [],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 0
+    }
+  },
+  {
+    "manipal_employee": "Mahender Chawla",
+    "role": "",
+    "missing_skills": [
+      "business development",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "financial analysis": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/10 competitors; examples: cashe, lendingkart, zestmoney",
+      "financial analysis": "Present in 5/10 competitors; examples: cashe, cred, flexiloans",
+      "project management": "Present in 3/10 competitors; examples: cashe, lendingkart, zestmoney",
+      "risk management": "Present in 3/10 competitors; examples: earlysalary, flexiloans, zestmoney",
+      "strategic planning": "Present in 4/10 competitors; examples: cashe, flexiloans, lendingkart"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "earlysalary",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Gunjan Kohli",
+    "role": "Payroll Manager UK PAYROLL",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "financial reporting",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "financial analysis": "Critical",
+      "financial reporting": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/9 competitors; examples: cashe, flexiloans",
+      "financial analysis": "Present in 5/9 competitors; examples: cashe, flexiloans, zestmoney",
+      "financial reporting": "Present in 3/9 competitors; examples: cashe, flexiloans",
+      "team leadership": "Present in 3/9 competitors; examples: cashe, flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on budgeting, financial analysis"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Atul Jadia",
+    "role": "Deputy Vice President & Area Business Manager at Kotak Mahindra Bank",
+    "missing_skills": [
+      "financial analysis",
+      "risk management"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/9 competitors; examples: cashe, flexiloans, zestmoney",
+      "risk management": "Present in 3/9 competitors; examples: flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Roshan Baliar Singh",
+    "role": "Regional Head",
+    "missing_skills": [
+      "business development",
+      "commercial strategy",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Critical",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 5/10 competitors; examples: cashe, cred",
+      "commercial strategy": "Present in 4/10 competitors; examples: cred, zestmoney",
+      "market analysis": "Present in 4/10 competitors; examples: cashe, cred",
+      "negotiation": "Present in 4/10 competitors; examples: cashe, cred",
+      "project management": "Present in 3/10 competitors; examples: cashe, cred",
+      "strategic planning": "Present in 3/10 competitors; examples: cashe, cred"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, commercial strategy",
+      "📈 STRATEGIC: Develop market analysis, negotiation",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sanjil Sharma",
+    "role": "Data Scientist",
+    "missing_skills": [
+      "agile",
+      "aws",
+      "data analysis",
+      "data warehousing",
+      "financial modeling",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "agile": "Nice-to-have",
+      "aws": "Nice-to-have",
+      "data analysis": "Critical",
+      "data warehousing": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "agile": "Present in 2/7 competitors; examples: indiagold, kreditbee",
+      "aws": "Present in 2/7 competitors; examples: indiagold, neogrowth",
+      "data analysis": "Present in 4/7 competitors; examples: flexiloans, kreditbee, lendingkart",
+      "data warehousing": "Present in 2/7 competitors; examples: kreditbee, neogrowth",
+      "financial modeling": "Present in 2/7 competitors; examples: flexiloans, kreditbee",
+      "python": "Present in 4/7 competitors; examples: flexiloans, indiagold, kreditbee",
+      "risk management": "Present in 2/7 competitors; examples: flexiloans, kreditbee",
+      "sql": "Present in 2/7 competitors; examples: indiagold, neogrowth"
+    },
+    "overall_assessment": "Found 8 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "flexiloans",
+      "indiagold",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Haripada Roy",
+    "role": "✅ Sr. Manager – L&D | WB & Assam | 14+ Yrs in BFSI & EduTech | Leadership Development | Instructional Designing| Talent Development & Capability Building",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/10 competitors; examples: kreditbee, neogrowth, rupeek",
+      "financial modeling": "Present in 4/10 competitors; examples: kreditbee, neogrowth, rupeek",
+      "project management": "Present in 4/10 competitors; examples: cred, neogrowth, rupeek",
+      "python": "Present in 4/10 competitors; examples: kreditbee, neogrowth, rupeek",
+      "risk management": "Present in 4/10 competitors; examples: kreditbee, neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, project management, risk management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Hari Prasad",
+    "role": "Area Head - Manipal Fintech -Gold Loan Mysore",
+    "missing_skills": [
+      "business development",
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Important",
+      "python": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/10 competitors; examples: cred, lendingkart",
+      "data analysis": "Present in 3/10 competitors; examples: cred, earlysalary, kreditbee",
+      "financial analysis": "Present in 3/10 competitors; examples: cred, flexiloans",
+      "financial modeling": "Present in 3/10 competitors; examples: cred, earlysalary, kreditbee",
+      "project management": "Present in 4/10 competitors; examples: cred, kreditbee, lendingkart",
+      "python": "Present in 3/10 competitors; examples: cred, earlysalary, kreditbee",
+      "risk management": "Present in 5/10 competitors; examples: cred, earlysalary, flexiloans",
+      "strategic planning": "Present in 6/10 competitors; examples: cred, flexiloans, kreditbee",
+      "team leadership": "Present in 4/10 competitors; examples: cred, flexiloans, kreditbee"
+    },
+    "overall_assessment": "Found 9 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on risk management, strategic planning",
+      "📈 STRATEGIC: Develop business development, project management, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "earlysalary",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ravi Rose",
+    "role": "Strategic Internal Audit Leader | Compliance Manager | Risk Manager | Operational Excellence Expert | Strategic Growth Specialist",
+    "missing_skills": [
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 5/9 competitors; examples: cashe, cred, flexiloans",
+      "project management": "Present in 3/9 competitors; examples: cashe, cred, zestmoney",
+      "risk management": "Present in 4/9 competitors; examples: cred, flexiloans, zestmoney",
+      "strategic planning": "Present in 4/9 competitors; examples: cashe, cred, flexiloans",
+      "team leadership": "Present in 3/9 competitors; examples: cashe, cred, flexiloans"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management",
+      "📈 STRATEGIC: Develop strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
     "evidence_flags": {
       "used_llm": false,
       "confidence_score": 0.95,
@@ -86,41 +2429,1847 @@
     "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
     "missing_skills": [
       "business development",
-      "innovation",
+      "financial management",
+      "leadership",
       "market analysis",
+      "negotiation",
       "project management",
-      "sales management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "financial management": "Nice-to-have",
+      "leadership": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Important",
+      "strategic planning": "Important",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 5/10 competitors; examples: cred, lendingkart",
+      "financial management": "Present in 3/10 competitors; examples: cred, lendingkart",
+      "leadership": "Present in 4/10 competitors; examples: cred, lendingkart, zestmoney",
+      "market analysis": "Present in 4/10 competitors; examples: cred",
+      "negotiation": "Present in 6/10 competitors; examples: cred, lendingkart",
+      "project management": "Present in 4/10 competitors; examples: cred, lendingkart",
+      "strategic planning": "Present in 5/10 competitors; examples: cred, lendingkart",
+      "team management": "Present in 3/10 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, negotiation",
+      "📈 STRATEGIC: Develop leadership, market analysis, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Palash Srivastava",
+    "role": "",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "financial modeling",
+      "leadership",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "communication": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Nice-to-have",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication": "Present in 2/8 competitors; examples: cred, rupeek",
+      "data analysis": "Present in 4/8 competitors; examples: rupeek",
+      "financial modeling": "Present in 3/8 competitors; examples: rupeek",
+      "leadership": "Present in 2/8 competitors; examples: cred, rupeek",
+      "problem solving": "Present in 2/8 competitors; examples: cred, lendingkart",
+      "project management": "Present in 3/8 competitors; examples: cred, rupeek",
+      "python": "Present in 5/8 competitors; examples: lendingkart, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: rupeek",
+      "sql": "Present in 2/8 competitors; examples: lendingkart, rupeek",
+      "strategic planning": "Present in 2/8 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 10 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Allan Fernandes",
+    "role": "Head of Product - Fintech | Product Strategy & Growth | Agent Network Onboarding | GTM | Operational Efficiency | IIM B | Ex-PwC",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "product management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "product management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/7 competitors; examples: kreditbee, lendingkart, rupeek",
+      "financial modeling": "Present in 3/7 competitors; examples: kreditbee, rupeek",
+      "product management": "Present in 2/7 competitors; examples: kreditbee, rupeek",
+      "python": "Present in 3/7 competitors; examples: kreditbee, rupeek",
+      "risk management": "Present in 3/7 competitors; examples: kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "rupeek"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Gaurav Srivastava",
+    "role": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+    "missing_skills": [
+      "business development",
+      "commercial strategy",
+      "leadership",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Nice-to-have",
+      "leadership": "Critical",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Nice-to-have",
+      "project management": "Important",
+      "strategic planning": "Important",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 6/9 competitors; examples: cred, kreditbee, zestmoney",
+      "commercial strategy": "Present in 3/9 competitors; examples: cred, zestmoney",
+      "leadership": "Present in 4/9 competitors; examples: cred, zestmoney",
+      "market analysis": "Present in 3/9 competitors; examples: cred",
+      "negotiation": "Present in 3/9 competitors; examples: cred",
+      "project management": "Present in 4/9 competitors; examples: cred, zestmoney",
+      "strategic planning": "Present in 4/9 competitors; examples: cred, zestmoney",
+      "team management": "Present in 3/9 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, leadership",
+      "📈 STRATEGIC: Develop project management, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "kreditbee",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Nikhil Khandelwal",
+    "role": "Regional Head Sales at Manipal Fintech services private limited",
+    "missing_skills": [
+      "business development",
+      "commercial strategy",
+      "sales management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "commercial strategy": "Critical",
+      "sales management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/10 competitors; examples: cred",
+      "commercial strategy": "Present in 4/10 competitors; examples: cred, zestmoney",
+      "sales management": "Present in 3/10 competitors; examples: cred, neogrowth"
+    },
+    "overall_assessment": "Found 3 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, commercial strategy"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pallavi Jain",
+    "role": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "market analysis",
+      "project management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial analysis": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/10 competitors; examples: kreditbee, neogrowth, rupeek",
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, zestmoney",
+      "market analysis": "Present in 3/10 competitors; examples: cashe, zestmoney",
+      "project management": "Present in 7/10 competitors; examples: cashe, kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "kreditbee",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Dheeraj Kumar Sharma",
+    "role": "Driving Strategy, Operations & Intelligence",
+    "missing_skills": [
+      "data analysis"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 2/7 competitors; examples: kreditbee, lendingkart"
+    },
+    "overall_assessment": "Found 1 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 1
+    }
+  },
+  {
+    "manipal_employee": "Yati Singal",
+    "role": "",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "leadership",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 2/8 competitors; examples: cred",
+      "customer relationship management": "Present in 2/8 competitors; examples: cred",
+      "data analysis": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "financial analysis": "Present in 2/8 competitors; examples: cred",
+      "financial modeling": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "leadership": "Present in 2/8 competitors; examples: cred, rupeek",
+      "project management": "Present in 3/8 competitors; examples: cred, kreditbee",
+      "python": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: kreditbee, rupeek",
+      "strategic planning": "Present in 3/8 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 10 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rajesh Agrawal",
+    "role": "Regional Head at Manipal Fintech Private Limited",
+    "missing_skills": [
+      "financial analysis",
+      "risk management"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/9 competitors; examples: cashe, flexiloans",
+      "risk management": "Present in 3/9 competitors; examples: flexiloans, zestmoney"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Deepankar Sadhukhan",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "project management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/9 competitors; examples: cashe, neogrowth",
+      "project management": "Present in 3/9 competitors; examples: neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 2 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Shivaji Biradar",
+    "role": "National collection manager",
+    "missing_skills": [
+      "financial analysis",
+      "risk assessment",
+      "risk management",
       "strategic planning",
       "team leadership"
     ],
     "skill_importance": {
-      "business development": "Critical",
-      "innovation": "Critical",
-      "market analysis": "Nice-to-have",
+      "financial analysis": "Critical",
+      "risk assessment": "Nice-to-have",
+      "risk management": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 6/9 competitors; examples: cred, flexiloans, neogrowth",
+      "risk assessment": "Present in 3/9 competitors; examples: cred, lendingkart, zestmoney",
+      "risk management": "Present in 4/9 competitors; examples: cred, flexiloans, lendingkart",
+      "strategic planning": "Present in 4/9 competitors; examples: cred, flexiloans, lendingkart",
+      "team leadership": "Present in 5/9 competitors; examples: cred, flexiloans, lendingkart"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, team leadership",
+      "📈 STRATEGIC: Develop risk management, strategic planning"
+    ],
+    "competitor_companies": [
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Deiva Bindhiya",
+    "role": "Bilingual Content Curator | Tamil & English Content Specialist",
+    "missing_skills": [
+      "content creation",
+      "data analysis",
+      "marketing strategy",
+      "project management",
+      "seo",
+      "social media management"
+    ],
+    "skill_importance": {
+      "content creation": "Critical",
+      "data analysis": "Nice-to-have",
+      "marketing strategy": "Nice-to-have",
+      "project management": "Critical",
+      "seo": "Nice-to-have",
+      "social media management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "content creation": "Present in 4/10 competitors; examples: kreditbee, moneytap, neogrowth",
+      "data analysis": "Present in 3/10 competitors; examples: cashe, kreditbee, zestmoney",
+      "marketing strategy": "Present in 3/10 competitors; examples: kreditbee, neogrowth",
+      "project management": "Present in 4/10 competitors; examples: cashe, kreditbee, neogrowth",
+      "seo": "Present in 3/10 competitors; examples: kreditbee, moneytap, neogrowth",
+      "social media management": "Present in 3/10 competitors; examples: kreditbee, moneytap, neogrowth"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on content creation, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "mayank kachhwaha",
+    "role": "Debt management services ( SME LOANS BUSINESS LOANS PROFESSIONAL LOAN) Bajaj finance Ltd",
+    "missing_skills": [
+      "financial analysis",
+      "risk assessment",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Nice-to-have",
+      "risk assessment": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/9 competitors; examples: flexiloans, neogrowth, zestmoney",
+      "risk assessment": "Present in 3/9 competitors; examples: lendingkart, neogrowth, zestmoney",
+      "risk management": "Present in 3/9 competitors; examples: earlysalary, flexiloans, neogrowth",
+      "strategic planning": "Present in 5/9 competitors; examples: cashe, flexiloans, lendingkart",
+      "team leadership": "Present in 4/9 competitors; examples: flexiloans, lendingkart, neogrowth"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "earlysalary",
+      "flexiloans",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Arpit Kansal",
+    "role": "Data Analytics",
+    "missing_skills": [
+      "data analysis",
+      "data warehousing",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "data warehousing": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
       "project management": "Nice-to-have",
-      "sales management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/8 competitors; examples: flexiloans, kreditbee, lendingkart",
+      "data warehousing": "Present in 2/8 competitors; examples: kreditbee, neogrowth",
+      "financial modeling": "Present in 2/8 competitors; examples: flexiloans, kreditbee",
+      "project management": "Present in 2/8 competitors; examples: kreditbee, zestmoney",
+      "python": "Present in 4/8 competitors; examples: flexiloans, kreditbee, neogrowth",
+      "risk management": "Present in 2/8 competitors; examples: flexiloans, kreditbee"
+    },
+    "overall_assessment": "Found 6 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Himanshu .",
+    "role": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 8/9 competitors; examples: cashe, earlysalary, kreditbee",
+      "financial modeling": "Present in 6/9 competitors; examples: cashe, earlysalary, kreditbee",
+      "project management": "Present in 3/9 competitors; examples: kreditbee, rupeek, zestmoney",
+      "python": "Present in 6/9 competitors; examples: cashe, earlysalary, kreditbee",
+      "risk management": "Present in 6/9 competitors; examples: cashe, earlysalary, kreditbee"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "earlysalary",
+      "kreditbee",
+      "moneytap",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rozi Bisht",
+    "role": "",
+    "missing_skills": [
+      "c++",
+      "data analysis",
+      "java",
+      "problem solving",
+      "project management",
+      "python"
+    ],
+    "skill_importance": {
+      "c++": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "java": "Nice-to-have",
+      "problem solving": "Critical",
+      "project management": "Nice-to-have",
+      "python": "Critical"
+    },
+    "gap_reasoning": {
+      "c++": "Present in 2/8 competitors; examples: indiagold, zestmoney",
+      "data analysis": "Present in 2/8 competitors; examples: rupeek",
+      "java": "Present in 2/8 competitors; examples: indiagold, zestmoney",
+      "problem solving": "Present in 3/8 competitors; examples: indiagold, rupeek, zestmoney",
+      "project management": "Present in 2/8 competitors; examples: indiagold, zestmoney",
+      "python": "Present in 4/8 competitors; examples: indiagold, rupeek, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on problem solving, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "indiagold",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "RAGHAVENDRA RAO SANNAYYA",
+    "role": "President at Primacy Industries Limited, The Manipal Group",
+    "missing_skills": [
+      "financial analysis",
+      "financial management",
+      "leadership",
+      "marketing",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "financial analysis": "Nice-to-have",
+      "financial management": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "marketing": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team management": "Critical"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 2/8 competitors; examples: cashe, zestmoney",
+      "financial management": "Present in 2/8 competitors; examples: cred",
+      "leadership": "Present in 2/8 competitors; examples: cred",
+      "marketing": "Present in 2/8 competitors; examples: lendingkart",
+      "project management": "Present in 2/8 competitors; examples: cred, zestmoney",
+      "risk management": "Present in 2/8 competitors; examples: zestmoney",
+      "strategic planning": "Present in 4/8 competitors; examples: cred, lendingkart, zestmoney",
+      "team management": "Present in 3/8 competitors; examples: cred, lendingkart"
+    },
+    "overall_assessment": "Found 8 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rahul Kumar",
+    "role": "Finance Manager-Manipal Fintech",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "financial reporting",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "financial analysis": "Critical",
+      "financial reporting": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "financial analysis": "Present in 4/10 competitors; examples: cashe, cred, flexiloans",
+      "financial reporting": "Present in 3/10 competitors; examples: cashe, flexiloans, neogrowth",
+      "risk management": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth",
+      "strategic planning": "Present in 4/10 competitors; examples: faircent, flexiloans, neogrowth"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "faircent",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rajnish Sah",
+    "role": "Strategic Sales & Business Development Leader | Team Performance Expert | Business Growth Specialist | All financial product",
+    "missing_skills": [
+      "business development",
+      "leadership",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "leadership": "Critical",
+      "negotiation": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/10 competitors; examples: cred, kreditbee",
+      "leadership": "Present in 3/10 competitors; examples: cred, zestmoney",
+      "negotiation": "Present in 3/10 competitors; examples: cred, neogrowth",
+      "project management": "Present in 3/10 competitors; examples: cred",
+      "strategic planning": "Present in 3/10 competitors; examples: cred, lendingkart",
+      "team management": "Present in 3/10 competitors; examples: cred, lendingkart"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vidya Shenoy",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "financial modeling": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "project management": "Present in 2/8 competitors; examples: kreditbee, rupeek",
+      "python": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "flexiloans",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ashutosh Panigrahy",
+    "role": "Full Stack Software Developer @TCG Digital | IITKGP | Financial Engineering",
+    "missing_skills": [
+      "agile methodologies",
+      "css",
+      "data analysis",
+      "financial modeling",
+      "git",
+      "html",
+      "java",
+      "javascript",
+      "node.js",
+      "problem solving",
+      "project management",
+      "python",
+      "react",
+      "risk management",
+      "software development",
+      "sql",
+      "team collaboration"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Nice-to-have",
+      "css": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "git": "Important",
+      "html": "Nice-to-have",
+      "java": "Critical",
+      "javascript": "Nice-to-have",
+      "node.js": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "react": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "software development": "Nice-to-have",
+      "sql": "Nice-to-have",
+      "team collaboration": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 2/8 competitors; examples: lendingkart",
+      "css": "Present in 3/8 competitors; examples: lendingkart, loantap",
+      "data analysis": "Present in 2/8 competitors; examples: kreditbee, rupeek",
+      "financial modeling": "Present in 2/8 competitors; examples: kreditbee, rupeek",
+      "git": "Present in 4/8 competitors; examples: earlysalary, lendingkart, loantap",
+      "html": "Present in 3/8 competitors; examples: lendingkart, loantap",
+      "java": "Present in 4/8 competitors; examples: earlysalary, lendingkart, zestmoney",
+      "javascript": "Present in 3/8 competitors; examples: lendingkart, loantap",
+      "node.js": "Present in 2/8 competitors; examples: lendingkart",
+      "problem solving": "Present in 3/8 competitors; examples: lendingkart, zestmoney",
+      "project management": "Present in 2/8 competitors; examples: faircent, zestmoney",
+      "python": "Present in 5/8 competitors; examples: kreditbee, lendingkart, rupeek",
+      "react": "Present in 2/8 competitors; examples: lendingkart",
+      "risk management": "Present in 2/8 competitors; examples: kreditbee, rupeek",
+      "software development": "Present in 2/8 competitors; examples: faircent, zestmoney",
+      "sql": "Present in 3/8 competitors; examples: earlysalary, lendingkart",
+      "team collaboration": "Present in 3/8 competitors; examples: lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 17 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop git",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "earlysalary",
+      "faircent",
+      "kreditbee",
+      "lendingkart",
+      "loantap",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Shobhan Modi",
+    "role": "National Operation Manager| MFIB|",
+    "missing_skills": [
+      "financial analysis",
+      "operations management",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "operations management": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 4/9 competitors; examples: cashe, cred, zestmoney",
+      "operations management": "Present in 3/9 competitors; examples: cred, zestmoney",
+      "process improvement": "Present in 3/9 competitors; examples: cashe, cred, zestmoney",
+      "project management": "Present in 5/9 competitors; examples: cashe, cred, zestmoney",
+      "strategic planning": "Present in 4/9 competitors; examples: cashe, cred, zestmoney",
+      "team leadership": "Present in 3/9 competitors; examples: cashe, cred, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, project management",
+      "📈 STRATEGIC: Develop strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Tarun Singh",
+    "role": "senior sales officer at Reliance Retail",
+    "missing_skills": [
+      "business development",
+      "leadership",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "leadership": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/10 competitors; examples: cred, lendingkart, zestmoney",
+      "leadership": "Present in 3/10 competitors; examples: cred, lendingkart, zestmoney",
+      "market analysis": "Present in 3/10 competitors; examples: cred",
+      "negotiation": "Present in 5/10 competitors; examples: cred, lendingkart",
+      "project management": "Present in 3/10 competitors; examples: cred, lendingkart, zestmoney",
+      "strategic planning": "Present in 4/10 competitors; examples: cred, lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, negotiation",
+      "📈 STRATEGIC: Develop strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "faircent",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Atul Shukla",
+    "role": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+    "missing_skills": [
+      "data analysis"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/9 competitors; examples: earlysalary, kreditbee, lendingkart"
+    },
+    "overall_assessment": "Found 1 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis"
+    ],
+    "competitor_companies": [
+      "earlysalary",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "rupeek"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 1
+    }
+  },
+  {
+    "manipal_employee": "Shivi Gautam",
+    "role": "Generating revenue with Alliances |Cobranded Credit Card portfolio management| Strategic Partnership Specialist with 14+ work ex",
+    "missing_skills": [
+      "business development",
+      "leadership",
+      "negotiation",
+      "project management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "leadership": "Critical",
+      "negotiation": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 4/9 competitors; examples: cred, kreditbee, lendingkart",
+      "leadership": "Present in 4/9 competitors; examples: cred, lendingkart, zestmoney",
+      "negotiation": "Present in 3/9 competitors; examples: cred, lendingkart, neogrowth",
+      "project management": "Present in 3/9 competitors; examples: cred, lendingkart, zestmoney",
+      "strategic planning": "Present in 4/9 competitors; examples: cred, lendingkart, neogrowth"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, leadership",
+      "📈 STRATEGIC: Develop strategic planning"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Purnima R.",
+    "role": "Software developer- Corporate actions, Ref data, Post Trade Compliance",
+    "missing_skills": [
+      "aws",
+      "c++",
+      "docker",
+      "git",
+      "java",
+      "kubernetes",
+      "microservices",
+      "problem solving",
+      "project management",
+      "python",
+      "software development",
+      "sql",
+      "team collaboration"
+    ],
+    "skill_importance": {
+      "aws": "Nice-to-have",
+      "c++": "Nice-to-have",
+      "docker": "Nice-to-have",
+      "git": "Nice-to-have",
+      "java": "Critical",
+      "kubernetes": "Nice-to-have",
+      "microservices": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "software development": "Nice-to-have",
+      "sql": "Important",
+      "team collaboration": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "aws": "Present in 3/8 competitors; examples: earlysalary, indiagold, neogrowth",
+      "c++": "Present in 2/8 competitors; examples: indiagold, zestmoney",
+      "docker": "Present in 2/8 competitors; examples: earlysalary, indiagold",
+      "git": "Present in 2/8 competitors; examples: earlysalary, lendingkart",
+      "java": "Present in 4/8 competitors; examples: earlysalary, indiagold, lendingkart",
+      "kubernetes": "Present in 2/8 competitors; examples: earlysalary, indiagold",
+      "microservices": "Present in 2/8 competitors; examples: earlysalary, indiagold",
+      "problem solving": "Present in 2/8 competitors; examples: lendingkart, zestmoney",
+      "project management": "Present in 3/8 competitors; examples: faircent, kreditbee, zestmoney",
+      "python": "Present in 5/8 competitors; examples: indiagold, lendingkart, neogrowth",
+      "software development": "Present in 2/8 competitors; examples: faircent, zestmoney",
+      "sql": "Present in 4/8 competitors; examples: earlysalary, indiagold, lendingkart",
+      "team collaboration": "Present in 2/8 competitors; examples: lendingkart, zestmoney"
+    },
+    "overall_assessment": "Found 13 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "earlysalary",
+      "faircent",
+      "indiagold",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jay R Goel",
+    "role": "Digital Payments | Distribution | Alliances | Financial Inclusion | Wallets (Ex. BoB/ICICI/HDFC/Axis/AU Bank/Tech Mahindra/The Manipal Group/Loylty Rewardz)",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "data analysis": "Important",
+      "financial modeling": "Important",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Important",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/9 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "financial modeling": "Present in 4/9 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "project management": "Present in 5/9 competitors; examples: cashe, cred, kreditbee",
+      "python": "Present in 4/9 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "risk management": "Present in 4/9 competitors; examples: earlysalary, kreditbee, zestmoney",
+      "strategic planning": "Present in 3/9 competitors; examples: cashe, kreditbee, neogrowth"
+    },
+    "overall_assessment": "Found 6 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "📈 STRATEGIC: Develop data analysis, financial modeling, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "earlysalary",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Important",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/8 competitors; examples: kreditbee, rupeek",
+      "financial modeling": "Present in 4/8 competitors; examples: kreditbee, neogrowth, rupeek",
+      "python": "Present in 4/8 competitors; examples: kreditbee, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling"
+    ],
+    "competitor_companies": [
+      "kreditbee",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Akkama S.",
+    "role": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+    "missing_skills": [
+      "customer service",
+      "data analysis",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "customer service": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "customer service": "Present in 2/8 competitors; examples: zestmoney",
+      "data analysis": "Present in 2/8 competitors; examples: neogrowth, rupeek",
+      "financial modeling": "Present in 2/8 competitors; examples: neogrowth, rupeek",
+      "problem solving": "Present in 2/8 competitors; examples: rupeek, zestmoney",
+      "project management": "Present in 4/8 competitors; examples: cred, kreditbee, rupeek",
+      "python": "Present in 2/8 competitors; examples: neogrowth, rupeek",
+      "risk management": "Present in 2/8 competitors; examples: neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 7 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vinay G",
+    "role": "Dedicated sales professional",
+    "missing_skills": [
+      "business development",
+      "data analysis",
+      "negotiation"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "data analysis": "Critical",
+      "negotiation": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 3/10 competitors; examples: cred, kreditbee, zestmoney",
+      "data analysis": "Present in 3/10 competitors; examples: cred, earlysalary, moneytap",
+      "negotiation": "Present in 3/10 competitors; examples: cred"
+    },
+    "overall_assessment": "Found 3 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on business development, data analysis"
+    ],
+    "competitor_companies": [
+      "cred",
+      "earlysalary",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "BALAJI THAVAMANI",
+    "role": "Deputy Vice President - Risk Management - Solutions",
+    "missing_skills": [
+      "financial analysis",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Critical",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth",
+      "risk management": "Present in 4/10 competitors; examples: cred, flexiloans, lendingkart",
+      "strategic planning": "Present in 4/10 competitors; examples: cred, flexiloans, lendingkart",
+      "team leadership": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on risk management, strategic planning"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rishi Ranjan",
+    "role": "Engineer Turned PGDM Student | Analytics & Operations Enthusiast | Former BDA",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 2/7 competitors; examples: rupeek, zestmoney",
+      "financial modeling": "Present in 2/7 competitors; examples: rupeek, zestmoney",
+      "project management": "Present in 2/7 competitors; examples: cred, kreditbee",
+      "python": "Present in 2/7 competitors; examples: rupeek, zestmoney",
+      "risk management": "Present in 3/7 competitors; examples: cred, rupeek, zestmoney"
+    },
+    "overall_assessment": "Found 5 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 7,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rakesh Kilari",
+    "role": "Fund services analyst at The Citco group limited.",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/10 competitors; examples: flexiloans, kreditbee, lendingkart",
+      "financial analysis": "Present in 3/10 competitors; examples: cred, flexiloans, neogrowth",
+      "financial modeling": "Present in 3/10 competitors; examples: flexiloans, lendingkart, zestmoney",
+      "risk management": "Present in 5/10 competitors; examples: flexiloans, lendingkart, neogrowth"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, risk management"
+    ],
+    "competitor_companies": [
+      "cred",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sanskruti Sinha",
+    "role": "HR",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Important",
+      "financial modeling": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/9 competitors; examples: earlysalary, kreditbee, neogrowth",
+      "financial modeling": "Present in 3/9 competitors; examples: earlysalary, neogrowth, rupeek",
+      "project management": "Present in 5/9 competitors; examples: cashe, faircent, rupeek",
+      "python": "Present in 3/9 competitors; examples: earlysalary, neogrowth, rupeek",
+      "risk management": "Present in 3/9 competitors; examples: earlysalary, neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 9 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "📈 STRATEGIC: Develop data analysis"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "earlysalary",
+      "faircent",
+      "kreditbee",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 9,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "MEHAK SRIVASTAVA",
+    "role": "Design in process- UpWear",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/10 competitors; examples: cred, kreditbee, rupeek",
+      "financial modeling": "Present in 3/10 competitors; examples: cred, kreditbee, rupeek",
+      "python": "Present in 3/10 competitors; examples: cred, kreditbee, rupeek",
+      "risk management": "Present in 3/10 competitors; examples: cred, kreditbee, rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "kreditbee",
+      "moneytap",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Amit Gupta",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "leadership",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/8 competitors; examples: cred, lendingkart, rupeek",
+      "financial modeling": "Present in 3/8 competitors; examples: cred, rupeek",
+      "leadership": "Present in 2/8 competitors; examples: cred, rupeek",
+      "python": "Present in 4/8 competitors; examples: cred, rupeek",
+      "risk management": "Present in 3/8 competitors; examples: cred, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Jha",
+    "role": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Important",
+      "financial modeling": "Important",
+      "project management": "Critical",
+      "python": "Critical",
+      "risk management": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 5/10 competitors; examples: cashe, kreditbee, neogrowth",
+      "financial modeling": "Present in 4/10 competitors; examples: cashe, neogrowth, rupeek",
+      "project management": "Present in 6/10 competitors; examples: cashe, cred, kreditbee",
+      "python": "Present in 4/10 competitors; examples: cashe, neogrowth, rupeek",
+      "risk management": "Present in 4/10 competitors; examples: cashe, neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 5 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, python",
+      "📈 STRATEGIC: Develop data analysis, financial modeling, risk management"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "kreditbee",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Gaurav Bhusari",
+    "role": "Head of Inside Sales at TeamLease | Driving Scalable Revenue Growth | B2B Sales Leader | Staffing Solutions Expert",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 4/10 competitors; examples: lendingkart, rupeek",
+      "financial modeling": "Present in 3/10 competitors; examples: rupeek",
+      "python": "Present in 3/10 competitors; examples: rupeek",
+      "risk management": "Present in 3/10 competitors; examples: rupeek"
+    },
+    "overall_assessment": "Found 4 priority gaps from 10 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "cred",
+      "lendingkart",
+      "neogrowth",
+      "rupeek",
+      "zestmoney"
+    ],
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pushpendra dangi",
+    "role": "Cluster Head at Manipal Fintech-Gold Loan",
+    "missing_skills": [
+      "financial analysis",
+      "financial modeling",
+      "risk assessment",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "financial modeling": "Critical",
+      "risk assessment": "Nice-to-have",
+      "risk management": "Nice-to-have",
       "strategic planning": "Nice-to-have",
       "team leadership": "Nice-to-have"
     },
     "gap_reasoning": {
-      "business development": "Present in 2/6 competitors; examples: phonepe",
-      "innovation": "Present in 2/6 competitors; examples: paytm, phonepe",
-      "market analysis": "Present in 2/6 competitors; examples: phonepe",
-      "project management": "Present in 2/6 competitors; examples: paytm, phonepe",
-      "sales management": "Present in 2/6 competitors; examples: phonepe",
-      "strategic planning": "Present in 2/6 competitors; examples: phonepe",
-      "team leadership": "Present in 2/6 competitors; examples: phonepe"
+      "financial analysis": "Present in 3/10 competitors; examples: cashe, flexiloans, zestmoney",
+      "financial modeling": "Present in 3/10 competitors; examples: earlysalary, kreditbee, neogrowth",
+      "risk assessment": "Present in 3/10 competitors; examples: cashe, neogrowth, zestmoney",
+      "risk management": "Present in 3/10 competitors; examples: earlysalary, flexiloans, kreditbee",
+      "strategic planning": "Present in 3/10 competitors; examples: flexiloans, kreditbee, neogrowth",
+      "team leadership": "Present in 3/10 competitors; examples: flexiloans, kreditbee, zestmoney"
     },
-    "overall_assessment": "Found 7 priority gaps from 6 matched competitors",
+    "overall_assessment": "Found 6 priority gaps from 10 matched competitors",
     "recommendations": [
-      "🚨 PRIORITY: Focus on business development, innovation",
+      "🚨 PRIORITY: Focus on financial analysis, financial modeling",
       "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
     ],
     "competitor_companies": [
-      "paytm",
-      "phonepe"
+      "cashe",
+      "earlysalary",
+      "flexiloans",
+      "kreditbee",
+      "lendingkart",
+      "moneytap",
+      "neogrowth",
+      "zestmoney"
     ],
-    "competitor_count": 6,
+    "competitor_count": 10,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vikas Saini",
+    "role": "Project coordinator at Manipal Business Solutions | Fintech & Banking | Financial Inclusion | Rural Extension Branches | Cross Sell-Asset & Liabilities Products | eGovernance | ex NBFC",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "financial modeling",
+      "operations management",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "operations management": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "financial analysis": "Present in 2/8 competitors; examples: cashe, cred",
+      "financial modeling": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "operations management": "Present in 2/8 competitors; examples: cred",
+      "project management": "Present in 3/8 competitors; examples: cred, rupeek",
+      "python": "Present in 3/8 competitors; examples: neogrowth, rupeek",
+      "risk management": "Present in 4/8 competitors; examples: cred, neogrowth, rupeek"
+    },
+    "overall_assessment": "Found 7 priority gaps from 8 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "cred",
+      "neogrowth",
+      "rupeek"
+    ],
+    "competitor_count": 8,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Taterao Gutte",
+    "role": "Area head - Manipal Group",
+    "missing_skills": [
+      "financial analysis",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "financial analysis": "Critical",
+      "problem solving": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Present in 2/7 competitors; examples: cashe, zestmoney",
+      "problem solving": "Present in 2/7 competitors; examples: cashe, flexiloans",
+      "process improvement": "Present in 2/7 competitors; examples: cashe, zestmoney",
+      "project management": "Present in 2/7 competitors; examples: cashe, zestmoney",
+      "strategic planning": "Present in 3/7 competitors; examples: cashe, flexiloans, zestmoney",
+      "team leadership": "Present in 2/7 competitors; examples: cashe, zestmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 7 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "cashe",
+      "flexiloans",
+      "lendingkart",
+      "neogrowth",
+      "zestmoney"
+    ],
+    "competitor_count": 7,
     "evidence_flags": {
       "used_llm": false,
       "confidence_score": 0.95,

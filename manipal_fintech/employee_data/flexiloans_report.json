@@ -1,0 +1,1450 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_FLEXILOANS",
+    "target_company": "FlexiLoans",
+    "mission_timestamp": "2025-08-30T18:44:26.241335",
+    "completion_timestamp": "2025-08-30T18:44:26.241335",
+    "mission_status": "COMPLETED"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_employees_found": 15,
+      "detailed_profiles_scraped": 4,
+      "scraping_success_rate": 26.666666666666668
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Sam Pillarda",
+          "linkedin_url": "https://www.linkedin.com/in/sam-pillarda-9b251537b",
+          "company": "FlexiLoans",
+          "search_snippet": "Virtual Office Assistant at FlexiLoans · Karanasan: FlexiLoans · Edukasyon: Bulacan State University · Lokasyon: Bulacan · 1 koneksyon sa LinkedIn.",
+          "title": "Virtual Office Assistant at FlexiLoans"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "James Gore",
+          "linkedin_url": "https://www.linkedin.com/in/jwgore",
+          "company": "FlexiLoans",
+          "search_snippet": "Gráfico FlexiLoans. Business Strategy Consultant. FlexiLoans. jul 2018 - jul 2018 1 mes. Mumbai, India. • Researched the business models of international ...",
+          "title": "Solution Architect - EcoStruxure Power"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Neha Yegnamurthy, FRM‏",
+          "linkedin_url": "https://www.linkedin.com/in/nehaym",
+          "company": "FlexiLoans",
+          "search_snippet": "Reduced defect leakage by 10% in sprint sessions. رسم بياني FlexiLoans. Data Analyst. FlexiLoans. أبريل ٢٠١٨ - مايو ٢٠١٨ 2 شهر. Mumbai Area, India. • Built a ...",
+          "title": "‏BITS Pilani"
+        },
+        "detailed_profile": {
+          "id": "nehaym",
+          "name": "Neha Yegnamurthy, FRM",
+          "city": "Dubai, United Arab Emirates",
+          "country_code": "AE",
+          "position": "BITS Pilani | NMIMS",
+          "current_company": {
+            "name": "Orient Insurance",
+            "company_id": "orient-insurance",
+            "title": "Assistant Vice President - Actuarial",
+            "location": "Dubai, United Arab Emirates"
+          },
+          "experience": [
+            {
+              "title": "Assistant Vice President - Actuarial",
+              "location": "Dubai, United Arab Emirates",
+              "description_html": null,
+              "start_date": "May 2021",
+              "end_date": "Present",
+              "company": "Orient Insurance",
+              "company_id": "orient-insurance",
+              "url": "https://ae.linkedin.com/company/orient-insurance",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQHsTtmxFaQdHw/company-logo_100_100/company-logo_100_100/0/1630621836777?e=2147483647&v=beta&t=jhEDllBbqh0VGNtO4e30iquGAroW0bj6EDyfe5hXUSg"
+            },
+            {
+              "title": "Associate Consultant",
+              "location": "Chennai Area, India",
+              "description": "Client: The Government Insurance Company (GEICO)•\tDeveloped test plans, performed gap and defect analysis for the billing and payment systems.•\tSuccessfully championed functional requirements with various agile scrum teams.•\tReduced defect leakage by 10% in sprint sessions.",
+              "description_html": "Client: The Government Insurance Company (GEICO)<br>&#x2022; Developed test plans, performed gap and defect analysis for the billing and payment systems.<br>&#x2022; Successfully championed functional requirements with various agile scrum teams.<br>&#x2022; Reduced defect leakage by 10% in sprint sessions. <!---->",
+              "start_date": "Jun 2019",
+              "end_date": "Mar 2020",
+              "company": "Wipro Limited",
+              "company_id": "wipro",
+              "url": "https://in.linkedin.com/company/wipro",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEINH3Vf1swig/company-logo_100_100/company-logo_100_100/0/1730379480485/wipro_logo?e=2147483647&v=beta&t=IyLhX5HbWkYXsjBFRN4Vl1li1xkWtvZBHsWHLKYb2IY"
+            },
+            {
+              "title": "Data Analyst",
+              "location": "Mumbai Area, India",
+              "description": "•\tBuilt a credit risk profiling model using machine learning to analyze and track lending patterns for small and medium enterprises.•\tEngaged in the end-to-end process of model development which included extraction, cleaning, processing, analysis and modeling.•\tThis model was conceived, developed, and successfully delivered in a short time frame.•\tApplied continued fine-tuning on sample data and model parameters to achieve 97% accuracy.",
+              "description_html": "&#x2022; Built a credit risk profiling model using machine learning to analyze and track lending patterns for small and medium enterprises.<br>&#x2022; Engaged in the end-to-end process of model development which included extraction, cleaning, processing, analysis and modeling.<br>&#x2022; This model was conceived, developed, and successfully delivered in a short time frame.<br>&#x2022; Applied continued fine-tuning on sample data and model parameters to achieve 97% accuracy. <!---->",
+              "start_date": "Apr 2018",
+              "end_date": "May 2018",
+              "company": "FlexiLoans",
+              "company_id": "flexiloans",
+              "url": "https://in.linkedin.com/company/flexiloans",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFyPcPIGHiJnA/company-logo_100_100/company-logo_100_100/0/1631386894323?e=2147483647&v=beta&t=ZkvaOLWS6cgVJUqyTdZxH7fRGt-2pPgHKEjraGwlJZg"
+            },
+            {
+              "title": "System Engineer",
+              "location": "Mysuru, Karnataka, India",
+              "description": "•\tTrained and mentored junior recruits on key programming skills, Python, SQL and other systems related concepts.•\tLeveraged materials and projects with solutions based on real business scenarios from clients.•\tReceived consistent feedback with scores ranging from 3.5 to 4 on a scale of 4.•\tReceived top performer awards.",
+              "description_html": "&#x2022; Trained and mentored junior recruits on key programming skills, Python, SQL and other systems related concepts.<br>&#x2022; Leveraged materials and projects with solutions based on real business scenarios from clients.<br>&#x2022; Received consistent feedback with scores ranging from 3.5 to 4 on a scale of 4.<br>&#x2022; Received top performer awards. <!---->",
+              "start_date": "Jan 2015",
+              "end_date": "Jun 2016",
+              "company": "Infosys",
+              "company_id": "infosys",
+              "url": "https://in.linkedin.com/company/infosys",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/nehaym",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://ae.linkedin.com/in/sandip-chatterjee-9a7a16122?trk=public_profile_browsemap-profile",
+              "name": "Sandip Chatterjee",
+              "about": "Sr. Lead BI Consultant || Analytics & Insights || Business Intelligence",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sai-vamsi-varma-pattchamattla-17932291?trk=public_profile_browsemap-profile",
+              "name": "sai vamsi varma pattchamattla",
+              "about": null,
+              "location": "India"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/harsha-vb?trk=public_profile_browsemap-profile",
+              "name": "Harsha VB",
+              "about": "Treasury Systems | Techno-Functional Consultant | Business Analyst",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/merul-shah?trk=public_profile_browsemap-profile",
+              "name": "Merul Shah",
+              "about": "Senior Consultant @ PwC",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/shareef-mohammad-1876047b?trk=public_profile_browsemap-profile",
+              "name": "Shareef Mohammad",
+              "about": "SAP Ariba Techno Functional Consultant | Procurement Digitalization | Data Migration | Ariba Source to Pay (S2P) | Procure to Pay (P2P) | Integration",
+              "location": "Abu Dhabi Emirate, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/arpita-mandal-3a57a579?trk=public_profile_browsemap-profile",
+              "name": "Arpita Mandal",
+              "about": "Business Intelligence Engineer at DP World",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/ashutosh-srivastava-3b717266?trk=public_profile_browsemap-profile",
+              "name": "Ashutosh Srivastava",
+              "about": "Technical Specialist",
+              "location": "United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/sahil-arora-17714173?trk=public_profile_browsemap-profile",
+              "name": "Sahil Arora",
+              "about": "Business Intelligence Specialist || Oracle Analytics Cloud Certified || RPA",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/nihitaujjual?trk=public_profile_browsemap-profile",
+              "name": "Nihita Ujjual",
+              "about": "Finance-Focused Data & Analytics Leader | PySpark | Cloud & Big Data | Scalable ETL Design Specialist | Strategic Business Insights | Domain Expertise: Banking & Finance, Oil & Gas, Retail, Education & Research",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rghegde?trk=public_profile_browsemap-profile",
+              "name": "Raghavendra Hegde",
+              "about": "Database Engineer | Cloud Migration| Automation",
+              "location": "Bengaluru"
+            }
+          ],
+          "educations_details": "Birla Institute of Technology and Science, Pilani",
+          "education": [
+            {
+              "title": "Birla Institute of Technology and Science, Pilani",
+              "degree": "B.E. (hons.), M.Sc. (hons.)",
+              "field": "Electronics & Instrumentation, Mathematics",
+              "url": "https://in.linkedin.com/school/birla-institute-of-technology-and-science-pilani/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2009",
+              "end_year": "2014",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_100_100/company-logo_100_100/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=2147483647&v=beta&t=jBY73OEQ-BKx_0OcfRkqb2A4rnGyLYhm7TnfKVpVJ3Y"
+            },
+            {
+              "title": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+              "degree": "PGDM",
+              "field": "Finance, General",
+              "url": "https://in.linkedin.com/school/nmims-india/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2017",
+              "end_year": "2019",
+              "description": "Activities and Societies: NMIMS Bangalore Toastmasters club - VP Education, ModEx (The Business and Technology club) • VP Education of NMIMS Bangalore Toastmasters club: Facilitated growth of the 8 member club to a 30 member club and brought visibility to the 2 year old club at area level. • Won the Data Analytics Hackfest at NMIMS, Bangalore conducted at All India level – by SAS: 16 hours given to formulate problem statement out of random data, analyze data and develop a model. • Volunteered as a tutor at Parikrma Humanity Foundation, an NGO for underprivileged children.",
+              "description_html": "Activities and Societies: NMIMS Bangalore Toastmasters club - VP Education, ModEx (The Business and Technology club)",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQHW16ttC_rbmQ/company-logo_100_100/company-logo_100_100/0/1631355146769?e=2147483647&v=beta&t=6cZxYmMKq4ZtPJJBDwQdoCKP5gUtNB-29QM01y_3OMs"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/C5603AQEXhO7qca3NIg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1631651650173?e=2147483647&v=beta&t=DFCc3ICuIvVmfut1L0HeZcPl40eI7uzmiPDSBDBGyBo",
+          "courses": [
+            {
+              "subtitle": "-",
+              "title": "Advanced Financial Statement Analysis"
+            },
+            {
+              "subtitle": "-",
+              "title": "Alternative Investment Markets"
+            },
+            {
+              "subtitle": "-",
+              "title": "Analytics for BFSI"
+            },
+            {
+              "subtitle": "-",
+              "title": "Behavioral Finance"
+            },
+            {
+              "subtitle": "-",
+              "title": "Corporate Finance"
+            },
+            {
+              "subtitle": "-",
+              "title": "Corporate Valuation"
+            },
+            {
+              "subtitle": "-",
+              "title": "Financial Derivatives"
+            },
+            {
+              "subtitle": "-",
+              "title": "Fixed Income Securities and Debt Markets"
+            },
+            {
+              "subtitle": "-",
+              "title": "International Finance"
+            },
+            {
+              "subtitle": "-",
+              "title": "Investment Analysis and Portfolio Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "Investment Banking + Mergers and Acquisitions"
+            },
+            {
+              "subtitle": "-",
+              "title": "Risk Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "Wealth Management"
+            }
+          ],
+          "certifications": [
+            {
+              "meta": "Issued Jun 2025 Credential ID 685ef0e604c13a00a7e1c44e See credential",
+              "subtitle": "Canvas Credentials (Badgr)",
+              "title": "Pre-Actuarial Foundations",
+              "credential_url": "https://api.badgr.io/public/assertions/tExZD22MTK69jGMJ_wH-zg?trk=public_profile_see-credential",
+              "credential_id": "685ef0e604c13a00a7e1c44e"
+            },
+            {
+              "meta": "Issued May 2023 See credential",
+              "subtitle": "Global Association of Risk Professionals (GARP)",
+              "title": "FRM",
+              "credential_url": "https://garp.my.site.com/DigitalBadgeFRM?id=0031W000022enLqQAI&trk=public_profile_see-credential",
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Jan 2020 Credential ID 7G7QHA3QKMG3 See credential",
+              "subtitle": "Coursera",
+              "title": "Financial Engineering and Risk Management Part I",
+              "credential_url": "https://www.coursera.org/account/accomplishments/verify/7G7QHA3QKMG3?trk=public_profile_see-credential",
+              "credential_id": "7G7QHA3QKMG3"
+            },
+            {
+              "meta": "Issued Nov 2018",
+              "subtitle": "Toastmasters International",
+              "title": "Competent Leader",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Apr 2018 Credential ID 5,362,715 See credential",
+              "subtitle": "DataCamp",
+              "title": "Credit Risk Modeling in R Course",
+              "credential_url": "https://www.datacamp.com/statement-of-accomplishment/course/51af04308126433edd92822543a47a60c4016ac8?trk=public_profile_see-credential",
+              "credential_id": "5,362,715"
+            },
+            {
+              "meta": "Issued Mar 2018 Credential ID 5,819,547 See credential",
+              "subtitle": "DataCamp",
+              "title": "Intermediate R for Finance Course",
+              "credential_url": "https://www.datacamp.com/statement-of-accomplishment/course/d5eec5c3eb6e420226a5057bfee354b37ed10c35?trk=public_profile_see-credential",
+              "credential_id": "5,819,547"
+            },
+            {
+              "meta": "Issued Oct 2017 See credential",
+              "subtitle": "SAS",
+              "title": "Data Analytics and Mining Championship: Participant",
+              "credential_url": "https://www.youracclaim.com/badges/bc71241c-53e1-41ca-98ce-fa83db22c792/linked_in_profile?trk=public_profile_see-credential",
+              "credential_id": null
+            }
+          ],
+          "volunteer_experience": [
+            {
+              "cause": "Education",
+              "duration": "Jan 2018 - Feb 2018 · 2 months",
+              "duration_short": "2 months",
+              "end_date": "Feb 2018",
+              "start_date": "Jan 2018",
+              "subtitle": "Parikrma Humanity Foundation",
+              "title": "Tutor"
+            }
+          ],
+          "followers": 389,
+          "connections": 392,
+          "current_company_company_id": "orient-insurance",
+          "current_company_name": "Orient Insurance",
+          "projects": [
+            {
+              "title": "Analysis of Paint Industry",
+              "start_date": "Aug 2017",
+              "end_date": "Mar 2018",
+              "description": "•Conducted a thorough analysis of the paint industry to assess the industry attractiveness for an investor.•Analyzed Financial Statements to assess profitability, liquidity, solvency, and operational efficiency of the big companies in the industry.•Analyzed functional aspects and implemented strategy frameworks to arrive at a decision.•Ranked highest among entire batch."
+            }
+          ],
+          "organizations": [
+            {
+              "title": "NMIMS Bangalore Toastmasters Club, Toastmasters International",
+              "membership_type": "Vice President - Education",
+              "start_date": "Jun 2017",
+              "end_date": "Mar 2019",
+              "description": "•Encouraged fellow members to give speeches and take up leadership roles and successfully motivated 8 of the 30 members to complete their competent communicator / leadership tracks.•Facilitated growth of club by actively collaborating with other Toastmasters clubs to bring mentors on board.•Brought visibility to the two-year old club at area level by organizing district level events.•Achieved the Competent Leader award.",
+              "membership_number": null
+            }
+          ],
+          "location": "Dubai",
+          "input_url": "https://www.linkedin.com/in/nehaym",
+          "linkedin_id": "nehaym",
+          "activity": [
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/harsh-mota-134a3142_i-no-longer-call-myself-an-actuary-took-activity-7357433686545289216-U9Jb",
+              "title": "I no longer call myself an Actuary. Took me more than a year to remove FSA from my name. After leaving the corporate world. (It does not take away…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7357433686545289216"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/ahmed-nagy-58aa9a125_lux-egypt-worldbank-activity-7351371543651713024-uERf",
+              "title": "We were delighted to host representatives from the World Bank at Lux Actuaries & Consultants - Egypt. Our discussions focused on pension actuarial…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQFhXhIiyslzyw/feedshare-shrink_2048_1536/B4DZgVRXxYGsAs-/0/1752703554671?e=2147483647&v=beta&t=lzaYtpEnO7kk53VSK_EDE-690lH8TOuIAbOZ2OHgWB8",
+              "id": "7351371543651713024"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/dr-narayanaswamy-r-85156546_tech-skills-in-business-finance-activity-7351799254375391234-xasP",
+              "title": "After dedicating around 31 years to the pursuit of knowledge—transitioning from an executive role to embrace teaching, training, and coaching—I have…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7351799254375391234"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/mahima-verma_work-culture-career-activity-7346494297573072896-BJnV",
+              "title": "To anyone wondering why the hardest workers aren’t always the ones moving up... 🔽 In 2025, career growth isn’t just about performance anymore. 👉…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHbJM6I4wDxdQ/feedshare-shrink_2048_1536/B56ZfP9oKrGoAs-/0/1751540730442?e=2147483647&v=beta&t=CbRsxCf7rKsIhGPbYIez4zwLlSDrej_TmPWKeA3G3e8",
+              "id": "7346494297573072896"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/james-kamanski_you-can-ruin-trust-in-3-seconds-just-by-activity-7341782269956673536-1eyZ",
+              "title": "You can ruin trust in 3 seconds... just by seeing half the picture. And the worst part? You’ll think you were right. We love fast judgments. They…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGg2kmI46X-0Q/feedshare-shrink_1280/B56ZeNAEWLHUAk-/0/1750417295483?e=2147483647&v=beta&t=FI5LbnupCZLDwfqEUbAOLokEoRozhtMKNzxXKRtYzKg",
+              "id": "3"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/krittikamarwaha_25-years-ago-my-father-said-no-to-my-marriage-activity-7339900585556484097-IZdZ",
+              "title": "25 years ago, my father said no to my marriage. Those were the times when girls my age were made ready for their wedding day, not their lives. Some…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEB2yB1ZHFmNg/feedshare-shrink_800/B56ZdyQrxrHUAg-/0/1749968667344?e=2147483647&v=beta&t=LLd1PUHcMM72hFavFIKSlJ1MouvUHY9Ou6KLSsVsV4Q",
+              "id": "7339900585556484097"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/anindya-longvah_entrepreneurship-career-startup-activity-7334073607872028673-u8e5",
+              "title": "There’s a toxic trend nowadays often pushed on social media: if you haven’t “built something” by 25, you’re falling behind. Let me be blunt. Not…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQG20-2n_H1y2g/feedshare-shrink_2048_1536/B56ZcdRyAKHEAs-/0/1748542897087?e=2147483647&v=beta&t=H2OV2jJy7ZEriq2I8CQqQtA4YPKvl346mcfJxpZxX6I",
+              "id": "7334073607872028673"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/themanagementhelpline_sacrifice-inspiration-heroofindia-activity-7334138344324382720-Q8m_",
+              "title": "This is the story of Major Mohit Sharma, a brave soldier from the Indian Army's Para Special Forces. He risked his life many times for his country…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQFFOVnPxt_58Q/feedshare-shrink_1280/B4DZcgX8k6GwAk-/0/1748594841332?e=2147483647&v=beta&t=kmHaGoXPG5wsmxHR_a43cA4UhtSZGg9tX3_def3t3Ow",
+              "id": "7334138344324382720"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/birla-institute-of-technology-and-science-pilani_bitspilani-ranked-india-activity-7321513113453776897-cT9c",
+              "title": "#BITSPilani #Ranked No. 1 Private Engineering and Technology University in India and No. 1 Private Engineering Institute in #India at the EW India…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQHYsCNz6EfiCw/feedshare-shrink_800/B4DZZs9X1JG4Ag-/0/1745584750666?e=2147483647&v=beta&t=wBTeZ0F1kmf89rIbRGbd0BzlArWnvjXGpR-UIfoIPTw",
+              "id": "7321513113453776897"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/romit-abhichandani_are-youngest-actuaries-of-mumbai-too-young-activity-7316059911082156033-cAjQ",
+              "title": "Are \"Youngest\" Actuaries of Mumbai too young? Many students in Mumbai (& Maharastra) typically start writing Institute and Faculty of Actuaries…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQETLx41sIP7Vg/feedshare-shrink_1280/B4DZYesDBKHwAk-/0/1744271591551?e=2147483647&v=beta&t=ON7YCM1H_rLjrCvoStuNykpJwCTFdoIvuEVPJDTW7pA",
+              "id": "7316059911082156033"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/chasedimond_theyre-entitled-theyre-outdated-activity-7314300876297314306-YRkU",
+              "title": "“They’re entitled.” “They’re outdated.” Leading today means seeing past generation stereotypes. The workforce has never been this diverse... 4…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQFA3RH-G41upw/feedshare-shrink_2048_1536/B56ZYGd4uhHQAo-/0/1743865220902?e=2147483647&v=beta&t=rucBhnyhPNWy-T4Le6Zb5jscRmtC_dZWmfzIv3g8nZM",
+              "id": "7314300876297314306"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/mono-mathew-5aa405112_exceptional-q3-results-for-orient-insurance-activity-7263441768719798272-zGDy",
+              "title": "Exceptional Q3 Results for Orient Insurance",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQE6uaRbKwnoig/feedshare-shrink_800/feedshare-shrink_800/0/1731739464035?e=2147483647&v=beta&t=TiNmkZsZ9QOwO8JQTXRdEjT1bnNz5y1MgNQw0tIEvvg",
+              "id": "7263441768719798272"
+            },
+            {
+              "interaction": "Liked by Neha Yegnamurthy, FRM",
+              "link": "https://www.linkedin.com/posts/shravika-jain-_imagine-getting-that-job-offer-straight-from-activity-7261673360122662912-ALnl",
+              "title": "Imagine getting that job offer straight from the comments section?? 😭 New age hiring is here guys! Give hold to your resume and cold-emails asking…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQEC3l3BYNhOYQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731317842928?e=2147483647&v=beta&t=X-YnmlIZh5kzYZAXcMcYsI4vsHayQf7408coEXTdWgU",
+              "id": "7261673360122662912"
+            }
+          ],
+          "linkedin_num_id": "332150450",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": [
+            {
+              "title": "Data Analytics Hackfest",
+              "publication": "SAS",
+              "date": "2018-02-01T00:00:00.000Z",
+              "description": "Won the Data Analytics Hackfest at NMIMS, Bangalore conducted at All India level – by SAS: 16 hours given to formulate problem statement out of random data, analyze data and develop a model."
+            },
+            {
+              "title": "Case study competition",
+              "publication": "Orange Business Services",
+              "date": "2017-09-01T00:00:00.000Z",
+              "description": "Wrote a case study on \"Impact on telecommunication because of IoT and the traffic explosion of connected devices\" for Orange Business Services."
+            }
+          ],
+          "similar_profiles": [
+            {
+              "url": "https://ae.linkedin.com/in/sandip-chatterjee-9a7a16122",
+              "name": "Sandip Chatterjee",
+              "title": "Sr. Lead BI Consultant || Analytics & Insights || Business Intelligence",
+              "url_text": "https://ae.linkedin.com/in/sandip-chatterjee-9a7a16122"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sai-vamsi-varma-pattchamattla-17932291",
+              "name": "sai vamsi varma pattchamattla",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/sai-vamsi-varma-pattchamattla-17932291"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/harsha-vb",
+              "name": "Harsha VB",
+              "title": "Treasury Systems | Techno-Functional Consultant | Business Analyst",
+              "url_text": "https://ae.linkedin.com/in/harsha-vb"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/merul-shah",
+              "name": "Merul Shah",
+              "title": "Senior Consultant @ PwC",
+              "url_text": "https://ae.linkedin.com/in/merul-shah"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/shareef-mohammad-1876047b",
+              "name": "Shareef Mohammad",
+              "title": "SAP Ariba Techno Functional Consultant | Procurement Digitalization | Data Migration | Ariba Source to Pay (S2P) | Procure to Pay (P2P) | Integration",
+              "url_text": "https://ae.linkedin.com/in/shareef-mohammad-1876047b"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/arpita-mandal-3a57a579",
+              "name": "Arpita Mandal",
+              "title": "Business Intelligence Engineer at DP World",
+              "url_text": "https://ae.linkedin.com/in/arpita-mandal-3a57a579"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/ashutosh-srivastava-3b717266",
+              "name": "Ashutosh Srivastava",
+              "title": "Technical Specialist",
+              "url_text": "https://ae.linkedin.com/in/ashutosh-srivastava-3b717266"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/sahil-arora-17714173",
+              "name": "Sahil Arora",
+              "title": "Business Intelligence Specialist || Oracle Analytics Cloud Certified || RPA",
+              "url_text": "https://ae.linkedin.com/in/sahil-arora-17714173"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/nihitaujjual",
+              "name": "Nihita Ujjual",
+              "title": "Finance-Focused Data & Analytics Leader | PySpark | Cloud & Big Data | Scalable ETL Design Specialist | Strategic Business Insights | Domain Expertise: Banking & Finance, Oil & Gas, Retail, Education & Research",
+              "url_text": "https://ae.linkedin.com/in/nihitaujjual"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rghegde",
+              "name": "Raghavendra Hegde",
+              "title": "Database Engineer | Cloud Migration| Automation",
+              "url_text": "https://in.linkedin.com/in/rghegde"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Neha",
+          "last_name": "Yegnamurthy, FRM",
+          "timestamp": "2025-08-30T18:20:29.322Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/nehaym"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Rahul Bakshi‏",
+          "linkedin_url": "https://www.linkedin.com/in/rahul-bakshi-b9218530",
+          "company": "FlexiLoans",
+          "search_snippet": "Building ASPORA (formerly, Vance) | Group General Counsel | Fin-tech | Digital Payments | Cross Border Payments | Digital Lending | Stable coin & Crypto ...",
+          "title": "‏Building ASPORA (formerly, Vance)"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Subha Chauhan‏",
+          "linkedin_url": "https://www.linkedin.com/in/subha-chauhan-5353b37",
+          "company": "FlexiLoans",
+          "search_snippet": "I am an in-house legal counsel with a keen interest in payments, technology, banking and…‏ · الخبرة: ‏Taptap Send‏ · التعليم: ‏University of Chicago‏ ...",
+          "title": "‏Taptap Send‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rohan Parmar",
+          "linkedin_url": "https://www.linkedin.com/in/rohan-parmar-9b267a1b8",
+          "company": "FlexiLoans",
+          "search_snippet": "PhD in Process and Environmental Engineering | Research Scientist in Materials Science and Geochemistry · Material scientist and geochemist holding a PhD in ...",
+          "title": "PhD in Process and Environmental Engineering ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Anil Kumar",
+          "linkedin_url": "https://www.linkedin.com/in/anil-kumar-b442978",
+          "company": "FlexiLoans",
+          "search_snippet": "Head of Finance · I joined Strides in June 1998 and grew from Deputy Manager position to Assistant Vice President in 2008. Had diverse roles ranging from ...",
+          "title": "Head of Finance"
+        },
+        "detailed_profile": {
+          "id": "anil-kumar-b442978",
+          "name": "Anil Kumar",
+          "city": "São Paulo, Brazil",
+          "country_code": "BR",
+          "position": "Head of Finance",
+          "about": "I joined Strides in June 1998 and grew from Deputy Manager position to Assistant Vice President in 2008. Had diverse roles ranging from overseeing Plant Operational Finance, Structuring of entities, Integrating acquired entities, setting up new systems, building internal controls, MIS with analysis, SAP implementation, Corporate accounts, Taxation, M&A, consolidation of 40 entities globally, managing the holding entities located in UK and Cyprus, Moved to Brazil in March 2010 as part of acquisition of entity, set up systems, structuring the operations, starting the commercial entity, in depth understanding of Pharma market in Brazil. In 2013 did a successful DD on acquisition of the injectable entity by Mylan. Continued with Mylan upto March 2021. Expert knowledge on Brazil taxation, how to setup business, knowledge of local language",
+          "current_company": {
+            "link": "https://www.linkedin.com/company/mylan?trk=public_profile_topcard-current-company",
+            "name": "Mylan Laboratories Limited",
+            "company_id": "mylan",
+            "title": "Head of Finance",
+            "location": null
+          },
+          "experience": [
+            {
+              "title": "Mylan Laboratories Limited",
+              "location": "Brazil",
+              "description_html": null,
+              "duration": "7 years 5 months",
+              "positions": [
+                {
+                  "subtitle": "Mylan Laboratories Limited",
+                  "meta": "Dec 2013 - Apr 2021 7 years 5 months",
+                  "description": "Moved to Brazil in March 2010 to manage the finance area including structuring of the entities. I am with legacy entity since June 1998",
+                  "start_date": "Dec 2013",
+                  "end_date": "Apr 2021",
+                  "title": "Senior Director Finance",
+                  "description_html": "Moved to Brazil in March 2010 to manage the finance area including structuring of the entities. I am with legacy entity since June 1998 <!---->",
+                  "location": "Brazil"
+                },
+                {
+                  "subtitle": "Mylan Laboratories Limited",
+                  "meta": "Dec 2013 - Apr 2021 7 years 5 months",
+                  "start_date": "Dec 2013",
+                  "end_date": "Apr 2021",
+                  "title": "Senior Director Finance",
+                  "description_html": null,
+                  "location": "São Paulo, Brazil"
+                }
+              ],
+              "company": "Mylan Laboratories Limited",
+              "company_id": "mylan",
+              "url": "https://www.linkedin.com/company/mylan?trk=public_profile_experience-group-header",
+              "company_logo_url": null
+            },
+            {
+              "title": "Head accounts",
+              "location": "India",
+              "description_html": null,
+              "start_date": "Jun 1998",
+              "end_date": "Dec 2013",
+              "company": "Strides Arcolab Ltd",
+              "company_id": "strides-pharma",
+              "url": "https://in.linkedin.com/company/strides-pharma",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFkzR8MhNv74g/img-crop_100/B4DZU2yEwaHIAM-/0/1740380853697?e=2147483647&v=beta&t=cHnrTWhJyCu2eRPzu6WLcAZ5WTDUy-Z0e6O756ict2w"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/anil-kumar-b442978",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/manoj-v-mathew-a469a229?trk=public_profile_browsemap-profile",
+              "name": "Manoj V Mathew",
+              "about": "Chief Financial Officer",
+              "location": "Kochi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/cma-subba-rao-pvkn-71b57938?trk=public_profile_browsemap-profile",
+              "name": "CMA SUBBA RAO PVKN",
+              "about": "AVP Fund Accounting at Apex Group II Ex- GMR II CMA II CA Final (Group-1 Cleared) II M.Com",
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/nitin-guglani-07104b15?trk=public_profile_browsemap-profile",
+              "name": "Nitin Guglani",
+              "about": "Head of Accounting & Treasury at Centrient Pharma Ex- Michelin | GSK | Future | Genpact",
+              "location": "Gurgaon"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/jay-raval-420ba863?trk=public_profile_browsemap-profile",
+              "name": "Jay Raval",
+              "about": null,
+              "location": "Greater Vancouver Metropolitan Area"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/arti-singh-82353917?trk=public_profile_browsemap-profile",
+              "name": "Arti Singh",
+              "about": "Head F&A - Regulatory Reporting and Controls",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/naitik-parekh-b578948a?trk=public_profile_browsemap-profile",
+              "name": "Naitik Parekh",
+              "about": "Corporate Vice President - Business Finance at Credit Saison India",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/roshni-shukla-acca-8b43857b?trk=public_profile_browsemap-profile",
+              "name": "Roshni Shukla, ACCA",
+              "about": "Asst Finance Manager at Mica Industries Ltd.",
+              "location": "Faridabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sanjay-sharma-7778b92a?trk=public_profile_browsemap-profile",
+              "name": "Sanjay Sharma",
+              "about": "Accounts Head Hotel Ramada By Wyndham Amritsar",
+              "location": "Amritsar"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/nirav-doshi-0b684056?trk=public_profile_browsemap-profile",
+              "name": "Nirav Doshi",
+              "about": "Chartered Accountant",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rakesh-panjwani-6370a820?trk=public_profile_browsemap-profile",
+              "name": "Rakesh Panjwani",
+              "about": "Chief Financial Officer at Reliance Asset Reconstruction Company Limited",
+              "location": "Maharashtra, India"
+            }
+          ],
+          "educations_details": "Christ University, Bangalore",
+          "education": [
+            {
+              "title": "Christ University, Bangalore",
+              "url": "https://in.linkedin.com/school/christ-university-bangalore/?trk=public_profile_school_profile-section-card_image-click",
+              "description": "Activities and Societies: Interest in Mergers, Restructuring, Business valuations, Consolidation, International Taxation, Designing Internal controls and systems, Gaming, Playing Keyboard,",
+              "description_html": "Activities and Societies: Interest in Mergers, Restructuring, Business valuations, Consolidation, International Taxation, Designing Internal controls and systems, Gaming, Playing Keyboard,",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQENS8jNjdELYQ/company-logo_100_100/company-logo_100_100/0/1657915737039?e=2147483647&v=beta&t=X90j3LgnbDTRT0lMEgSgLOYZcnbGbTXud3pl1FmK3HU"
+            },
+            {
+              "title": "St Joseph's Indian High School",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/C4D03AQGf-gUhwidW0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1617736793477?e=2147483647&v=beta&t=WTo2WNz-BdsfV9mG_opJoTnexOp_usJGwuPfeKF5b7o",
+          "followers": 28,
+          "connections": 25,
+          "current_company_company_id": "mylan",
+          "current_company_name": "Mylan Laboratories Limited",
+          "location": "São Paulo",
+          "input_url": "https://www.linkedin.com/in/anil-kumar-b442978",
+          "linkedin_id": "anil-kumar-b442978",
+          "activity": [
+            {
+              "interaction": "Liked by Anil Kumar",
+              "link": "https://www.linkedin.com/posts/rtn-shikha-nair-88273277_sustainability-environmentalsolutions-activity-7355786558018334721-vors",
+              "title": "🌿 Exciting Announcement! 🌍 We are thrilled to announce the formation of our new venture Ecogenesis Ventures-dedicated to holistic environmental…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D05AQEt0vFUN38__g/videocover-high/B4DZhUA1F9GkCI-/0/1753756170900?e=2147483647&v=beta&t=i-_WataXVvWBIE-VYvf554t8Sx75-7jW1jYr69TOqGE",
+              "id": "7355786558018334721"
+            },
+            {
+              "interaction": "Shared by Anil Kumar",
+              "link": "https://www.linkedin.com/posts/anil-kumar-b442978_my-passion-for-riding-after-a-gap-has-met-activity-7234227401906384896-beAq",
+              "title": "my passion for riding after a gap has met it's match - T120 Bonneville Black. Looking forward to some touring trips on this great classic bike.",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHssjton-KbIw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724774216263?e=2147483647&v=beta&t=gvy14iRm3vM1zYAbS45tvfJM8hq84_GANNrWP-ZptU0",
+              "id": "7234227401906384896"
+            },
+            {
+              "interaction": "Liked by Anil Kumar",
+              "link": "https://www.linkedin.com/posts/cove-tool-inc%2E_hiring-tech-aec-activity-7076922150447710208-x3Qo",
+              "title": "We're excited to welcome Amrithesh Paravath, Ben Slowey, and Connie Kim to the team! 🎉⁠ ⁠ To join our growing team, check out open positions:…",
+              "img": "https://media.licdn.com/dms/image/v2/D5610AQGsaypC5KuQRQ/image-shrink_1280/image-shrink_1280/0/1687269720814?e=2147483647&v=beta&t=QSZuJGsIgpijB5ind51eQxVrHmbsieHfpIVvF2T8n_w",
+              "id": "7076922150447710208"
+            },
+            {
+              "interaction": "Liked by Anil Kumar",
+              "link": "https://www.linkedin.com/posts/amripara_hey-everyone-in-may-i-graduated-from-georgia-activity-6950296318208614400-Uejg",
+              "title": "Hey everyone! In May I graduated from Georgia Tech after four years of hard work and eye-opening experiences. I am forever grateful to my friends…",
+              "img": "https://media.licdn.com/dms/image/v2/C5622AQFt_OKC9IRpOw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1657079760448?e=2147483647&v=beta&t=ao0rUv8Zf6bJJ90lPKnI02QrCU4BxtpeDBMuPQvOhbw",
+              "id": "6950296318208614400"
+            }
+          ],
+          "linkedin_num_id": "24585892",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/manoj-v-mathew-a469a229",
+              "name": "Manoj V Mathew",
+              "title": "Chief Financial Officer",
+              "url_text": "https://in.linkedin.com/in/manoj-v-mathew-a469a229"
+            },
+            {
+              "url": "https://in.linkedin.com/in/cma-subba-rao-pvkn-71b57938",
+              "name": "CMA SUBBA RAO PVKN",
+              "title": "AVP Fund Accounting at Apex Group II Ex- GMR II CMA II CA Final (Group-1 Cleared) II M.Com",
+              "url_text": "https://in.linkedin.com/in/cma-subba-rao-pvkn-71b57938"
+            },
+            {
+              "url": "https://in.linkedin.com/in/nitin-guglani-07104b15",
+              "name": "Nitin Guglani",
+              "title": "Head of Accounting & Treasury at Centrient Pharma Ex- Michelin | GSK | Future | Genpact",
+              "url_text": "https://in.linkedin.com/in/nitin-guglani-07104b15"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/jay-raval-420ba863",
+              "name": "Jay Raval",
+              "title": null,
+              "url_text": "https://ca.linkedin.com/in/jay-raval-420ba863"
+            },
+            {
+              "url": "https://in.linkedin.com/in/arti-singh-82353917",
+              "name": "Arti Singh",
+              "title": "Head F&A - Regulatory Reporting and Controls",
+              "url_text": "https://in.linkedin.com/in/arti-singh-82353917"
+            },
+            {
+              "url": "https://in.linkedin.com/in/naitik-parekh-b578948a",
+              "name": "Naitik Parekh",
+              "title": "Corporate Vice President - Business Finance at Credit Saison India",
+              "url_text": "https://in.linkedin.com/in/naitik-parekh-b578948a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/roshni-shukla-acca-8b43857b",
+              "name": "Roshni Shukla, ACCA",
+              "title": "Asst Finance Manager at Mica Industries Ltd.",
+              "url_text": "https://in.linkedin.com/in/roshni-shukla-acca-8b43857b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sanjay-sharma-7778b92a",
+              "name": "Sanjay Sharma",
+              "title": "Accounts Head Hotel Ramada By Wyndham Amritsar",
+              "url_text": "https://in.linkedin.com/in/sanjay-sharma-7778b92a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/nirav-doshi-0b684056",
+              "name": "Nirav Doshi",
+              "title": "Chartered Accountant",
+              "url_text": "https://in.linkedin.com/in/nirav-doshi-0b684056"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rakesh-panjwani-6370a820",
+              "name": "Rakesh Panjwani",
+              "title": "Chief Financial Officer at Reliance Asset Reconstruction Company Limited",
+              "url_text": "https://in.linkedin.com/in/rakesh-panjwani-6370a820"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Anil",
+          "last_name": "Kumar",
+          "timestamp": "2025-08-30T18:20:44.891Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/anil-kumar-b442978"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Kanu Julka‏",
+          "linkedin_url": "https://www.linkedin.com/in/kanu-julka-3083402",
+          "company": "FlexiLoans",
+          "search_snippet": "الموقع: ‏دبي‏ · أكثر من ٥٠٠ زميل على LinkedIn. عرض ملف ‏Kanu Julka‏ ‏‏ الشخصي على LinkedIn، وهو مجتمع احترافي يضم مليار عضو.",
+          "title": "‏دبي دبي الإمارات العربية المتحدة‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Manpreet Kaur‏",
+          "linkedin_url": "https://www.linkedin.com/in/manpreetkaurmoney",
+          "company": "FlexiLoans",
+          "search_snippet": "As a Digital & Growth Marketing Specialist, I'm passionate about helping brands scale…‏ · الخبرة: ‏Pizza Hut- Middle East & Pakistan‏ · التعليم: ‏CMT ...",
+          "title": "‏Pizza Hut- Middle East & Pakistan‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Lavina Pinto‏",
+          "linkedin_url": "https://www.linkedin.com/in/lavina-pinto-63412a16b",
+          "company": "FlexiLoans",
+          "search_snippet": "Supervisor - Accounts Receivable‏ · الخبرة: ‏Seamark Shipping LLC Dubai‏ · التعليم: ‏KC College of Management Studies‏ · الموقع: ‏دبي‏ · ‏300‏ ‏زميل‏ على ...",
+          "title": "‏Supervisor - Accounts Receivable‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Shahzad Sheikh‏",
+          "linkedin_url": "https://www.linkedin.com/in/shahzad-sheikh-7512a95",
+          "company": "FlexiLoans",
+          "search_snippet": "Managed Lifestyles, a consumer durable financing product and Flexiloan, a personal finance product. Promoted to Product Manager-Flexiloans. التعليم. رسم بياني ...",
+          "title": "‏Head of Products"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sid P.",
+          "linkedin_url": "https://www.linkedin.com/in/siddharthpc",
+          "company": "FlexiLoans",
+          "search_snippet": "Erfaring: Novonesis · Uddannelse: Indian School of Business · Placering: København · 500+ forbindelser på LinkedIn. Se Sid P. s profil på LinkedIn, ...",
+          "title": "Novonesis"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Agus Riono",
+          "linkedin_url": "https://www.linkedin.com/in/agus-riono-288140291",
+          "company": "FlexiLoans",
+          "search_snippet": "Team Manager di kharisma menara abadi · Pengalaman: kharisma menara abadi · Lokasi: Area DKI Jakarta · Lihat profil Agus Riono di LinkedIn, ...",
+          "title": "Team Manager di kharisma menara abadi"
+        },
+        "detailed_profile": {
+          "id": "agus-riono-288140291",
+          "name": "Agus Riono",
+          "city": "Jakarta Metropolitan Area",
+          "country_code": "ID",
+          "position": "Team Manager di kharisma menara abadi",
+          "current_company": {
+            "name": "kharisma menara abadi",
+            "title": "Team Manager di kharisma menara abadi",
+            "location": null
+          },
+          "experience": [
+            {
+              "title": "Team Manager",
+              "description_html": null,
+              "company": "kharisma menara abadi",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/agus-riono-288140291",
+          "education": null,
+          "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHRa4TzpelHGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694542487894?e=2147483647&v=beta&t=4uG6qJ3tHzAh6VECXJyPD68i_j-um_mZyt7TwKdv06o",
+          "current_company_name": "kharisma menara abadi",
+          "location": null,
+          "input_url": "https://www.linkedin.com/in/agus-riono-288140291",
+          "linkedin_id": "agus-riono-288140291",
+          "activity": null,
+          "linkedin_num_id": "1185767816",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Agus",
+          "last_name": "Riono",
+          "timestamp": "2025-08-30T18:20:17.824Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/agus-riono-288140291"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Aditya Gandhi",
+          "linkedin_url": "https://www.linkedin.com/in/aditya-gandhi-97a91377",
+          "company": "FlexiLoans",
+          "search_snippet": "Skilled at leading cross-functional teams, optimizing financial processes, and driving compliance in a global landscape. Expertise in strategic planning and ...",
+          "title": "Tech savvy Tax and Transfer Pricing professional ..."
+        },
+        "detailed_profile": {
+          "id": "aditya-gandhi-97a91377",
+          "name": "Aditya Gandhi",
+          "city": "Copenhagen Metropolitan Area",
+          "country_code": "DK",
+          "position": "Tech savvy Tax and Transfer Pricing professional.",
+          "about": "Tech savvy Transfer Pricing and Finance professional with extensive international experience. Skilled at leading cross-functional teams, optimizing financial processes, and driving compliance in a global landscape. Expertise in strategic planning and transfer pricing policy development. Adept at managing high-stakes projects, with proven success in delivering efficiency improvements. With my sports background, I hold team spirit in highest regard. Masters in taxation and preparing for CFA level III.",
+          "current_company": {
+            "link": "https://dk.linkedin.com/company/wsaudiology",
+            "name": "WSAudiology",
+            "company_id": "wsaudiology",
+            "title": "Senior Consultant Transfer Pricing",
+            "location": "Denmark"
+          },
+          "experience": [
+            {
+              "title": "WSAudiology",
+              "location": "Denmark",
+              "description_html": null,
+              "duration": "2 years 11 months",
+              "positions": [
+                {
+                  "subtitle": "WSAudiology",
+                  "meta": "Oct 2024 - Present 11 months",
+                  "start_date": "Oct 2024",
+                  "end_date": "Present",
+                  "title": "Senior Consultant Transfer Pricing",
+                  "description_html": null,
+                  "location": "Denmark"
+                },
+                {
+                  "subtitle": "WSAudiology",
+                  "meta": "Oct 2022 - Oct 2024 2 years 1 month",
+                  "start_date": "Oct 2022",
+                  "end_date": "Oct 2024",
+                  "title": "Transfer Pricing Consultant",
+                  "description_html": null,
+                  "location": "Denmark"
+                }
+              ],
+              "company": "WSAudiology",
+              "company_id": "wsaudiology",
+              "url": "https://dk.linkedin.com/company/wsaudiology?trk=public_profile_experience-group-header",
+              "company_logo_url": null
+            },
+            {
+              "title": "Financial services tax intern",
+              "location": "Frankfurt",
+              "description_html": null,
+              "start_date": "Jul 2022",
+              "end_date": "Sep 2022",
+              "company": "KPMG Deutschland",
+              "company_id": "kpmg-deutschland",
+              "url": "https://de.linkedin.com/company/kpmg-deutschland",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE6p-MKafqwgQ/company-logo_100_100/company-logo_100_100/0/1649403249413/kpmg_deutschland_logo?e=2147483647&v=beta&t=Q9F_9wASFVZveg2XqIuxjQqx9PCj8rnIW9pnBd_GZ28"
+            },
+            {
+              "title": "Audit and Tax associate",
+              "description_html": null,
+              "start_date": "Jan 2017",
+              "end_date": "Mar 2021",
+              "company": "Dadoo and associates chartered accountants",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Chartered Accountant Internship",
+              "location": "Delhi, India",
+              "description_html": null,
+              "start_date": "Aug 2013",
+              "end_date": "Jan 2017",
+              "company": "SCV & Co. LLP",
+              "company_id": "scv&co",
+              "url": "https://in.linkedin.com/company/scv&co",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQE1ey9_cPea6g/company-logo_100_100/company-logo_100_100/0/1631398009127/scvco_logo?e=2147483647&v=beta&t=PzOTL9r9Z5hmYgyN5FNChd22w31X0h4GVUZlox_S5nQ"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/aditya-gandhi-97a91377",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/hardikvjain?trk=public_profile_browsemap-profile",
+              "name": "Hardik Jain",
+              "about": "Business Analyst at KKC (Formerly Khimji Kunverji & Co.) | Ex Industrial Trainee at Nomura",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/nikhil-lalwani-ea-916996175?trk=public_profile_browsemap-profile",
+              "name": "Nikhil Lalwani, EA",
+              "about": "Enrolled Agent - Admitted to Practice Before IRS | Customer Service Team Lead",
+              "location": "Ahmedabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/harsha-singhania-727ab4165?trk=public_profile_browsemap-profile",
+              "name": "Harsha Singhania",
+              "about": "Assistant Manager at EY, ex-KPMG",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rajdeep-sengupta-b3b32480?trk=public_profile_browsemap-profile",
+              "name": "Rajdeep Sengupta",
+              "about": null,
+              "location": "Greater Kolkata Area"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sonam-chhabra?trk=public_profile_browsemap-profile",
+              "name": "Sonam Chhabra",
+              "about": "CA | Partner at A S Chhabra and Associates | Helping SMEs with Accounting, Tax Compliance & Advisory | Ex-PwC | Enrolled Agent (EA) | WCOA Delegate 2022",
+              "location": "South Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/pradeep-puttaraj-92a05012a?trk=public_profile_browsemap-profile",
+              "name": "Pradeep Puttaraj",
+              "about": "Assistant Manager @ KPMG Global Services | MBA, Finance & Taxation.",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/delwin-goveas-78605515b?trk=public_profile_browsemap-profile",
+              "name": "Delwin Goveas",
+              "about": "Tax Assistant Manager at Wipfli LLP",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/vikas-purohit-a175b34b?trk=public_profile_browsemap-profile",
+              "name": "Vikas Purohit",
+              "about": "Proprietor at Vikas Purohit & Associates",
+              "location": "Ahmedabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/harshitabhansali1?trk=public_profile_browsemap-profile",
+              "name": "Harshita Bhansali",
+              "about": "Chartered Accountant",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sandeep-bommisetty-74a660132?trk=public_profile_browsemap-profile",
+              "name": "Sandeep Bommisetty",
+              "about": "Chartered Accountant, Senior Associate Assurance at PWC, Ex- Deloitte, Ex- Brahmayya",
+              "location": "Krishna"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/dixitmayank?trk=public_profile_browsemap-profile",
+              "name": "Mayank Dixit",
+              "about": "Intermediate Chartered Accountant/ IFRS / US GAAP/ UAE VAT / Oman VAT / US Corporate and Partnership Tax / Canada Corporate Tax",
+              "location": "Bangalore Urban"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ca-dheeraj-khunger-004ab4b8?trk=public_profile_browsemap-profile",
+              "name": "CA Dheeraj Khunger",
+              "about": null,
+              "location": "Delhi, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ashok-sakthi-ravichandran-93754613b?trk=public_profile_browsemap-profile",
+              "name": "ASHOK SAKTHI RAVICHANDRAN",
+              "about": null,
+              "location": "Coimbatore"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/anuj-jain-17121896?trk=public_profile_browsemap-profile",
+              "name": "Anuj Jain",
+              "about": "Partner at V S K A & Company LLP | Ex-BDO",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sai-chander-koppu-54147496?trk=public_profile_browsemap-profile",
+              "name": "Sai Chander Koppu",
+              "about": "Senior at EY GDS",
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/raginisharma20?trk=public_profile_browsemap-profile",
+              "name": "Ragini Sharma",
+              "about": "New Business Development & Ops |",
+              "location": "Delhi, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/nithikesh-sharma-aab337146?trk=public_profile_browsemap-profile",
+              "name": "Nithikesh Sharma",
+              "about": "Tax Senior 2 @ EY GDS l Ex-Tata Consultancy Services I Ex-Deloitte l Ex-Ryan",
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/anubhav-sahoo-57299b152?trk=public_profile_browsemap-profile",
+              "name": "Anubhav Sahoo",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/karthikeya-adiga-223bb3160?trk=public_profile_browsemap-profile",
+              "name": "Karthikeya Adiga",
+              "about": "Seniors Associate at PwC",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ca-siffat-kaur-1a50a716a?trk=public_profile_browsemap-profile",
+              "name": "CA Siffat Kaur",
+              "about": "Senior Associate- Indirect Tax & Assurance I FCA I ACCA Diplomat I GST Certified-ICAI I ISB Alumni",
+              "location": "Ludhiana"
+            }
+          ],
+          "educations_details": "University of Limerick",
+          "education": [
+            {
+              "title": "University of Limerick",
+              "degree": "Masters in Taxation",
+              "field": "Taxation",
+              "url": "https://ie.linkedin.com/school/universityoflimerick/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2021",
+              "end_year": "2022",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH2lkm6Bol6hg/company-logo_100_100/company-logo_100_100/0/1630552613658/university_of_limerick_logo?e=2147483647&v=beta&t=nepmyE2jZuE2NGmrQ3FP9DlucxMJAMhCSTMBNyysScg"
+            },
+            {
+              "title": "CFA Institute",
+              "degree": "CFA LII",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw"
+            },
+            {
+              "title": "ACCA",
+              "degree": "Exemption from 7 papers",
+              "url": "https://uk.linkedin.com/school/acca/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2018",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGzSU3_p9owzA/company-logo_100_100/company-logo_100_100/0/1630575686181/acca_logo?e=2147483647&v=beta&t=Wm46Qu50uOFudD-a1sbLbGuz0Kjnt_eexb4hqi-f3qg"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/C4D03AQGtDkq_uu5n2Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1648747565419?e=2147483647&v=beta&t=IWV6dqb2M5sZTx7gJ_9j6gSoYqDCbbjoxXso8GKegr0",
+          "courses": [
+            {
+              "subtitle": "-",
+              "title": "ASC 740 Overview"
+            },
+            {
+              "subtitle": "-",
+              "title": "CFA level II"
+            }
+          ],
+          "certifications": [
+            {
+              "meta": "Issued Dec 2022 See credential",
+              "subtitle": "LinkedIn",
+              "title": "Corporate Finance: Environmental, Social, and Governance (ESG)",
+              "credential_url": "https://www.linkedin.com/learning/certificates/d06dd37e23d65d7ed29866120ff8282a79c7a4159c861c67b9af28e5e2b82c6d?trk=public_profile_see-credential",
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Dec 2022 See credential",
+              "subtitle": "LinkedIn",
+              "title": "Finance Foundations: Risk Management",
+              "credential_url": "https://www.linkedin.com/learning/certificates/449358b93591e2cb1ec95083942a99082f3994cb1ad4ff38d0f1f239139e17c3?trk=public_profile_see-credential",
+              "credential_id": null
+            }
+          ],
+          "followers": 2714,
+          "connections": 500,
+          "current_company_company_id": "wsaudiology",
+          "current_company_name": "WSAudiology",
+          "location": null,
+          "input_url": "https://www.linkedin.com/in/aditya-gandhi-97a91377",
+          "linkedin_id": "aditya-gandhi2512",
+          "activity": [
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://de.linkedin.com/posts/kpmg-real-estate_expo-real-2025-marco-m%C3%BCth-activity-7366356338345529344-FMUW",
+              "title": "#KPMGRealEstate auf der EXPO REAL (Messe München) 2025 Während der #Transaktionsmarkt 📈 langsam wieder Fahrt aufnimmt und die Stimmung unter…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E05AQGSIFUX6UUR-Q/videocover-high/B4EZjmhpaxGoCQ-/0/1756214245758?e=2147483647&v=beta&t=eqYpWcijT7h3jbAml2DJfQbjjZ81WUjQSXppB9-XbY8",
+              "id": "2025"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://de.linkedin.com/posts/serhiybulhakov_5-ey-operational-transfer-pricing-symposium-activity-7366384645732507649-0HA-",
+              "title": "⏱️ Der Countdown läuft – das 5. EY Operational Transfer Pricing Symposium steht kurz bevor! Ich freue mich sehr, dieses Jahr als Referent Teil eines…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7366384645732507649"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://de.linkedin.com/posts/cornelia-wolff_s4hana-operationaltransferpricing-automation-activity-7364687486083555328-WcwJ",
+              "title": "Am 23. September 2025 findet das 5. EY Operational Transfer Pricing Symposium in Frankfurt/Eschborn statt, das spannende Einblicke in die neuesten…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQHgBmw2JZff6g/feedshare-shrink_800/B4EZjSgPDcGwAg-/0/1755878324540?e=2147483647&v=beta&t=aysiowJUOoJjPpW79TVEB5GQlaIWcR20zaAS1kmzseM",
+              "id": "7364687486083555328"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/stuart-tait-02820249_innovation-generativeai-innovationinaction-activity-7339310348832784385-PQN_",
+              "title": "We’re thrilled to be hosting our KPMG AI for Tax Immersion Session today, exploring cutting edge examples of generative AI for tax and showcasing our…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQFQIu9nqh5VeA/feedshare-shrink_800/B4EZdp33DaGcAk-/0/1749827942247?e=2147483647&v=beta&t=sDAl2WpXYh91tKNrwLdvXmnzatUvt0A1kyCGghBs338",
+              "id": "7339310348832784385"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/ashishaptetax_revenues-annual-report-2024-key-transfer-activity-7336705531182542848-bt38",
+              "title": "Key transfer pricing takeaways from the \"Annual Report 2024\" published by Revenue in April 2025. This piece is a part of our Tax Newsletter Q2…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGJ5LEOYohXzw/articleshare-shrink_800/B4EZc_hD7FHsAI-/0/1749117321785?e=2147483647&v=beta&t=3bYdCJpNzwlISmNEiOiEE0WyAHaiD1B3ew7HK8-Vpkc",
+              "id": "2024"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/erkki-tiitta-98b8714_when-discussing-business-partnering-with-activity-7343616260355543040-v39Y",
+              "title": "When discussing business partnering with Tax Function, Hilary Halper, CFO, Nespresso confirmed she has met George Clooney in person. This earned much…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQEuFTJx61e03w/feedshare-shrink_800/B4DZenEDPdGYAg-/0/1750854553627?e=2147483647&v=beta&t=LY0TpFOE8rxPQF87rg1DImiF1Z7UuTQROG8171Mv0Js",
+              "id": "7343616260355543040"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/kemmy-business-school_why-its-cheaper-to-film-in-ireland-than-activity-7315740472679817216-bAq6",
+              "title": "Dr. Brendan McCarthy, Assistant Professor in Tax at the Kemmy Business School, examines how Ireland's 32% film tax credit has attracted over 850…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQElCFRPFch0zg/articleshare-shrink_800/B56ZYVUmDeGoAI-/0/1756297783415?e=2147483647&v=beta&t=JVgxmYfvUKZvUFp9xjLcBDwx-SGDcK2E70HG_vi3t78",
+              "id": "7315740472679817216"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/jakob-brasted-322a2230_wonderfulsoundforall-widexhearing-widexallureric-activity-7309011729391226880-gscF",
+              "title": "The difference is clear! Introducing Widex Allure #WonderfulSoundforAll #Widexhearing #WidexAllureRIC #thedifferenceisclear #WSA",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7309011729391226880"
+            },
+            {
+              "interaction": "Liked by Aditya Gandhi",
+              "link": "https://www.linkedin.com/posts/thomas-hug-165949a7_court-ruled-transfer-prices-must-be-arms-activity-7305539429438230528-4v0_",
+              "title": "The Zug Cantonal Court ruled that transfer prices must be at arm’s length year by year – any not only on average over several years. Read more in our…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHYRHdFjKJXgw/articleshare-shrink_800/articleshare-shrink_800/0/1741776201655?e=2147483647&v=beta&t=Z63AvnvueSbfvTI1iBU6vKgb4pN8cukye2p6kk1fdEM",
+              "id": "7305539429438230528"
+            }
+          ],
+          "linkedin_num_id": "273991342",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/hardikvjain",
+              "name": "Hardik Jain",
+              "title": "Business Analyst at KKC (Formerly Khimji Kunverji & Co.) | Ex Industrial Trainee at Nomura",
+              "url_text": "https://in.linkedin.com/in/hardikvjain"
+            },
+            {
+              "url": "https://in.linkedin.com/in/nikhil-lalwani-ea-916996175",
+              "name": "Nikhil Lalwani, EA",
+              "title": "Enrolled Agent - Admitted to Practice Before IRS | Customer Service Team Lead",
+              "url_text": "https://in.linkedin.com/in/nikhil-lalwani-ea-916996175"
+            },
+            {
+              "url": "https://in.linkedin.com/in/harsha-singhania-727ab4165",
+              "name": "Harsha Singhania",
+              "title": "Assistant Manager at EY, ex-KPMG",
+              "url_text": "https://in.linkedin.com/in/harsha-singhania-727ab4165"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rajdeep-sengupta-b3b32480",
+              "name": "Rajdeep Sengupta",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/rajdeep-sengupta-b3b32480"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sonam-chhabra",
+              "name": "Sonam Chhabra",
+              "title": "CA | Partner at A S Chhabra and Associates | Helping SMEs with Accounting, Tax Compliance & Advisory | Ex-PwC | Enrolled Agent (EA) | WCOA Delegate 2022",
+              "url_text": "https://in.linkedin.com/in/sonam-chhabra"
+            },
+            {
+              "url": "https://in.linkedin.com/in/pradeep-puttaraj-92a05012a",
+              "name": "Pradeep Puttaraj",
+              "title": "Assistant Manager @ KPMG Global Services | MBA, Finance & Taxation.",
+              "url_text": "https://in.linkedin.com/in/pradeep-puttaraj-92a05012a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/delwin-goveas-78605515b",
+              "name": "Delwin Goveas",
+              "title": "Tax Assistant Manager at Wipfli LLP",
+              "url_text": "https://in.linkedin.com/in/delwin-goveas-78605515b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/vikas-purohit-a175b34b",
+              "name": "Vikas Purohit",
+              "title": "Proprietor at Vikas Purohit & Associates",
+              "url_text": "https://in.linkedin.com/in/vikas-purohit-a175b34b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/harshitabhansali1",
+              "name": "Harshita Bhansali",
+              "title": "Chartered Accountant",
+              "url_text": "https://in.linkedin.com/in/harshitabhansali1"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sandeep-bommisetty-74a660132",
+              "name": "Sandeep Bommisetty",
+              "title": "Chartered Accountant, Senior Associate Assurance at PWC, Ex- Deloitte, Ex- Brahmayya",
+              "url_text": "https://in.linkedin.com/in/sandeep-bommisetty-74a660132"
+            },
+            {
+              "url": "https://in.linkedin.com/in/dixitmayank",
+              "name": "Mayank Dixit",
+              "title": "Intermediate Chartered Accountant/ IFRS / US GAAP/ UAE VAT / Oman VAT / US Corporate and Partnership Tax / Canada Corporate Tax",
+              "url_text": "https://in.linkedin.com/in/dixitmayank"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ca-dheeraj-khunger-004ab4b8",
+              "name": "CA Dheeraj Khunger",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/ca-dheeraj-khunger-004ab4b8"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ashok-sakthi-ravichandran-93754613b",
+              "name": "ASHOK SAKTHI RAVICHANDRAN",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/ashok-sakthi-ravichandran-93754613b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/anuj-jain-17121896",
+              "name": "Anuj Jain",
+              "title": "Partner at V S K A & Company LLP | Ex-BDO",
+              "url_text": "https://in.linkedin.com/in/anuj-jain-17121896"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sai-chander-koppu-54147496",
+              "name": "Sai Chander Koppu",
+              "title": "Senior at EY GDS",
+              "url_text": "https://in.linkedin.com/in/sai-chander-koppu-54147496"
+            },
+            {
+              "url": "https://in.linkedin.com/in/raginisharma20",
+              "name": "Ragini Sharma",
+              "title": "New Business Development & Ops |",
+              "url_text": "https://in.linkedin.com/in/raginisharma20"
+            },
+            {
+              "url": "https://in.linkedin.com/in/nithikesh-sharma-aab337146",
+              "name": "Nithikesh Sharma",
+              "title": "Tax Senior 2 @ EY GDS l Ex-Tata Consultancy Services I Ex-Deloitte l Ex-Ryan",
+              "url_text": "https://in.linkedin.com/in/nithikesh-sharma-aab337146"
+            },
+            {
+              "url": "https://in.linkedin.com/in/anubhav-sahoo-57299b152",
+              "name": "Anubhav Sahoo",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/anubhav-sahoo-57299b152"
+            },
+            {
+              "url": "https://in.linkedin.com/in/karthikeya-adiga-223bb3160",
+              "name": "Karthikeya Adiga",
+              "title": "Seniors Associate at PwC",
+              "url_text": "https://in.linkedin.com/in/karthikeya-adiga-223bb3160"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ca-siffat-kaur-1a50a716a",
+              "name": "CA Siffat Kaur",
+              "title": "Senior Associate- Indirect Tax & Assurance I FCA I ACCA Diplomat I GST Certified-ICAI I ISB Alumni",
+              "url_text": "https://in.linkedin.com/in/ca-siffat-kaur-1a50a716a"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Aditya",
+          "last_name": "Gandhi",
+          "timestamp": "2025-08-30T18:20:20.946Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/aditya-gandhi-97a91377"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhyudai Ragh – Product Madness",
+          "linkedin_url": "https://www.linkedin.com/in/abhyudai-ragh-b442b441",
+          "company": "FlexiLoans",
+          "search_snippet": "Doświadczenie: Product Madness · Wykształcenie: Anna University · Lokalizacja: Gdańsk · 500+ kontaktów w LinkedIn. Wyświetl profil użytkownika Abhyudai ...",
+          "title": ""
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      }
+    ]
+  }
+}

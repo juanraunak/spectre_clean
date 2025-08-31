@@ -1,0 +1,209 @@
+{
+  "company_name": "Flexiloans",
+  "employees": [
+    {
+      "name": "Sam Pillarda",
+      "position": "Virtual Office Assistant at FlexiLoans",
+      "employee_id": "Fle_001",
+      "skills": [
+        "Virtual Office Assistance",
+        "Customer Service",
+        "Administrative Support",
+        "Data Entry",
+        "Scheduling",
+        "Email Management",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "James Gore",
+      "position": "Solution Architect - EcoStruxure Power",
+      "employee_id": "Fle_002",
+      "skills": [
+        "Solution Architecture",
+        "EcoStruxure Power",
+        "Power Systems",
+        "Energy Management",
+        "Project Management",
+        "Technical Leadership",
+        "System Integration",
+        "Stakeholder Engagement",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Neha Yegnamurthy, FRM",
+      "position": "BITS Pilani | NMIMS",
+      "employee_id": "Fle_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Rahul Bakshi‏",
+      "position": "‏Building ASPORA (formerly, Vance)",
+      "employee_id": "Fle_004",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Software Development",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "‏Subha Chauhan‏",
+      "position": "‏Taptap Send‏",
+      "employee_id": "Fle_005",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohan Parmar",
+      "position": "PhD in Process and Environmental Engineering ...",
+      "employee_id": "Fle_006",
+      "skills": [
+        "Process Engineering",
+        "Environmental Engineering",
+        "Research",
+        "Data Analysis",
+        "Project Management",
+        "Technical Writing",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anil Kumar",
+      "position": "Head of Finance",
+      "employee_id": "Fle_007",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Reporting",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "‏Kanu Julka‏",
+      "position": "‏دبي دبي الإمارات العربية المتحدة‏",
+      "employee_id": "Fle_008",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Manpreet Kaur‏",
+      "position": "‏Pizza Hut- Middle East & Pakistan‏",
+      "employee_id": "Fle_009",
+      "skills": [
+        "Customer Service",
+        "Team Management",
+        "Food Safety",
+        "Inventory Management",
+        "Sales"
+      ]
+    },
+    {
+      "name": "‏Lavina Pinto‏",
+      "position": "‏Supervisor - Accounts Receivable‏",
+      "employee_id": "Fle_010",
+      "skills": [
+        "Accounts Receivable",
+        "Supervision",
+        "Financial Reporting",
+        "Customer Service",
+        "Invoicing",
+        "Collections",
+        "Reconciliation",
+        "Accounting Software"
+      ]
+    },
+    {
+      "name": "‏Shahzad Sheikh‏",
+      "position": "‏Head of Products",
+      "employee_id": "Fle_011",
+      "skills": [
+        "Product Management",
+        "Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Building",
+        "Project Management",
+        "Business Development",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Sid P.",
+      "position": "Novonesis",
+      "employee_id": "Fle_012",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Agus Riono",
+      "position": "Team Manager di kharisma menara abadi",
+      "employee_id": "Fle_013",
+      "skills": [
+        "Team Management",
+        "Leadership",
+        "Project Coordination",
+        "Strategic Planning",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Aditya Gandhi",
+      "position": "Tech savvy Tax and Transfer Pricing professional.",
+      "employee_id": "Fle_014",
+      "skills": [
+        "Tax",
+        "Transfer Pricing"
+      ]
+    },
+    {
+      "name": "Abhyudai Ragh – Product Madness",
+      "position": "",
+      "employee_id": "Fle_015",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  ]
+}

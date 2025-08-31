@@ -1,0 +1,139 @@
+{
+  "company_name": "Capital Float",
+  "employees": [
+    {
+      "name": "Marion Roussel",
+      "position": "VP Data at mscope",
+      "employee_id": "Cap_001",
+      "skills": [
+        "Data Analysis",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Management",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Aishwarya Seeram",
+      "position": "Implementation Manager at Adyen",
+      "employee_id": "Cap_002",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Technical Implementation",
+        "Payment Solutions",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Jorge Santos",
+      "position": "Operating Partner at C2 Capital Partners",
+      "employee_id": "Cap_003",
+      "skills": [
+        "Strategic Planning",
+        "Investment Management",
+        "Financial Analysis",
+        "Business Development",
+        "Operational Efficiency",
+        "Stakeholder Management",
+        "Market Research",
+        "Risk Assessment",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "‏Deepthi M Nair .‏",
+      "position": "‏A woman of self-dignity, rooted in the belief: excel ...",
+      "employee_id": "Cap_004",
+      "skills": [
+        "Excel",
+        "Self-dignity"
+      ]
+    },
+    {
+      "name": "Selvam G",
+      "position": "Operation Manager (PCBA/FPCA)",
+      "employee_id": "Cap_005",
+      "skills": [
+        "Operations Management",
+        "PCBA",
+        "FPCA",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Quality Control",
+        "Supply Chain Management",
+        "Lean Manufacturing",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Jakub Chlad",
+      "position": "Head of Late Collections at Home Credit Philippines",
+      "employee_id": "Cap_006",
+      "skills": [
+        "Late Collections Management",
+        "Leadership",
+        "Team Management",
+        "Financial Services",
+        "Risk Assessment",
+        "Customer Service",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "‏Smadar Hanner‏",
+      "position": "‏Israel‏",
+      "employee_id": "Cap_007",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "‏Jasmine Ishaque‏",
+      "position": "‏Service support advisor at Bupa Global‏",
+      "employee_id": "Cap_008",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Healthcare Knowledge",
+        "Technical Support",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "अनुपम कठेरिया",
+      "position": "Cholayil Private Limited",
+      "employee_id": "Cap_009",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Mohammad Saifuddowla Shamim",
+      "position": "Senior Executive Vice President at Dhaka Bank PLC",
+      "employee_id": "Cap_010",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Banking Operations",
+        "Credit Management",
+        "Team Management",
+        "Customer Relationship Management"
+      ]
+    }
+  ]
+}

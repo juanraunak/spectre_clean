@@ -1,0 +1,150 @@
+{
+  "company_name": "Moneytap",
+  "employees": [
+    {
+      "name": "Manasi Mishra",
+      "position": "Customer Success & Account Manager || B2B & B2C || SaaS & Tech || Driving Client Success with Data & Relationships",
+      "employee_id": "Mon_001",
+      "skills": [
+        "Customer Success",
+        "Account Management",
+        "B2B",
+        "B2C",
+        "SaaS",
+        "Tech",
+        "Client Success",
+        "Data Analysis",
+        "Relationship Management"
+      ]
+    },
+    {
+      "name": "Thinh Vu",
+      "position": "Simplifying Stock Analysis and Trading in Vietnam — The Leading Open Source, Automated Solution with Vnstock.",
+      "employee_id": "Mon_002",
+      "skills": [
+        "Stock Analysis",
+        "Trading",
+        "Open Source Solutions",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Khanh Tran",
+      "position": "Lending Product| Digital Product| Partnership| Fintech| Startup| Banking|",
+      "employee_id": "Mon_003",
+      "skills": [
+        "Lending Product",
+        "Digital Product",
+        "Partnership",
+        "Fintech",
+        "Startup",
+        "Banking"
+      ]
+    },
+    {
+      "name": "Dmitrii Oreshko",
+      "position": "Founder & CPO | ex VC-Backed Serial Entrepreneur | 22 Years Driving Tech & SaaS Innovation | Exploring AI’s Future",
+      "employee_id": "Mon_004",
+      "skills": [
+        "Tech Innovation",
+        "SaaS",
+        "AI",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "name": "Exel Adiguna",
+      "position": "Creative Marketing Associate",
+      "employee_id": "Mon_005",
+      "skills": [
+        "Creative Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Brand Strategy",
+        "Market Research",
+        "Copywriting",
+        "Graphic Design",
+        "Email Marketing",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Zim Tran",
+      "position": "Brand storyteller | Team builder | Tinkerman",
+      "employee_id": "Mon_006",
+      "skills": [
+        "Brand storytelling",
+        "Team building",
+        "Creative problem solving"
+      ]
+    },
+    {
+      "name": "Ijaz A. 님",
+      "position": "Postdoctoral Researcher at Korea Univ.",
+      "employee_id": "Mon_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Research",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Academic Writing"
+      ]
+    },
+    {
+      "name": "‏Harleen Kaur‏",
+      "position": "‏Apparel Group‏",
+      "employee_id": "Mon_008",
+      "skills": [
+        "Fashion Design",
+        "Retail Management",
+        "Customer Service",
+        "Inventory Control",
+        "Visual Merchandising",
+        "Sales Strategies",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "‏Avital BenEzra‏",
+      "position": "‏Head of Product Design @ Faye ‏",
+      "employee_id": "Mon_009",
+      "skills": [
+        "Product Design",
+        "User Experience (UX)",
+        "User Interface (UI)",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Aarti Kava",
+      "position": "Senior Product Design Manager | Fashion & Luxury e-commerce | Business Leadership",
+      "employee_id": "Mon_010",
+      "skills": [
+        "Product Design",
+        "Fashion",
+        "Luxury e-commerce",
+        "Business Leadership"
+      ]
+    },
+    {
+      "name": "Thanos Voulgaridis",
+      "position": "Branch Manager Kos at G4S Cash Solutions ...",
+      "employee_id": "Mon_011",
+      "skills": [
+        "Branch Management",
+        "Cash Solutions",
+        "Team Leadership",
+        "Customer Service",
+        "Security Operations",
+        "Financial Oversight",
+        "Operational Efficiency",
+        "Staff Training",
+        "Client Relations"
+      ]
+    }
+  ]
+}

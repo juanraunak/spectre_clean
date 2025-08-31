@@ -1,0 +1,69 @@
+{
+  "company_name": "Paysense",
+  "employees": [
+    {
+      "name": "‏Gary Vaz‏",
+      "position": "‏Building at Cloutfit.ai‏",
+      "employee_id": "Pay_001",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Artificial Intelligence",
+        "Project Management",
+        "Team Leadership",
+        "Software Development",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "‏Smit K‏",
+      "position": "‏Investor and Researcher‏",
+      "employee_id": "Pay_002",
+      "skills": [
+        "Investment Analysis",
+        "Market Research",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Data Analysis",
+        "Quantitative Research"
+      ]
+    },
+    {
+      "name": "‏Karan Raina‏",
+      "position": "‏Business Development at Kong-Posh Global FZE ...",
+      "employee_id": "Pay_003",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Market Research",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sergi Delgado Segura",
+      "position": "Free Open Source Software Dev at Talaia ...",
+      "employee_id": "Pay_004",
+      "skills": [
+        "Free Open Source Software Development",
+        "Python",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Cristian Tanas",
+      "position": "Roche",
+      "employee_id": "Pay_005",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    }
+  ]
+}

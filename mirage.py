@@ -129,7 +129,7 @@ async def _scrape_company_chunks(
     *,
     per_snapshot_cap: int = 100,      # Bright Data safe cap
     shade_batch_size: int = 8,        # your existing usage
-    timeout_sec: int = 900,
+    timeout_sec: int = 100000,
     max_chunk_parallel: int = 2       # keep 1–3 to respect rate limits
 ) -> tuple[str, dict[str, dict]]:
     """Run multiple Bright Data snapshots for ONE company, possibly in parallel."""
@@ -181,7 +181,7 @@ async def scrape_matched_profiles_per_company_parallel(
     *,
     per_snapshot_cap: int = 100,
     shade_batch_size: int = 8,
-    timeout_sec: int = 900,
+    timeout_sec: int = 100000,
     max_company_parallel: int = 3      # 2–4 is usually safe
 ) -> dict[str, dict[str, dict]]:
     """Kick off Bright Data snapshots in parallel PER company."""
@@ -541,6 +541,7 @@ Rules:
 - Up to {max_competitors} items, most similar first.
 - If unsure about industry or score, you may omit them or leave them blank/0.0.
 - No prose needed, but it's OK if you include extra keys; the consumer will ignore them.
+- If the comapany is Manipal Fintech always add Rupeek and Indiagold as the first 2 competitons
 """
 
         user_prompt = (
@@ -797,80 +798,226 @@ Provide the JSON analysis:"""
 # =============================================================================
 
 class CompetitorEmployeeFinder:
-    """Finds competitor employees using Google Custom Search"""
-    
+    """
+    Finds competitor employees using Google Custom Search.
+
+    Modes:
+      - HARVEST_MODE=all  (default): harvest company-wide for EVERY detected competitor
+      - HARVEST_MODE=none: use department-driven narrow queries (original behavior)
+      - HARVEST_MODE=list: harvest only companies named in HARVEST_COMPANIES
+                           (comma-separated)
+    """
+
     def __init__(self, gpt_client: AzureGPTClient):
         self.gpt = gpt_client
         self.google_api_key = os.getenv("GOOGLE_API_KEY")
         self.google_cse_id = os.getenv("GOOGLE_CSE_ID")
-        
+
+        # Harvest controls (no hard-coded company names)
+        self.harvest_mode = (os.getenv("HARVEST_MODE", "all") or "all").strip().lower()
+        allow_raw = os.getenv("HARVEST_COMPANIES", "")
+        self.harvest_allowlist = {x.strip().lower() for x in allow_raw.split(",") if x.strip()}
+
+        # Pagination / throttling
+        self.pages_per_query = int(os.getenv("PAGES_PER_QUERY", "15"))        # deep paging
+        self.results_per_page = int(os.getenv("RESULTS_PER_PAGE", "10"))      # CSE max 10
+        self.query_batch_sleep = float(os.getenv("QUERY_BATCH_SLEEP", "1.2")) # seconds
+
         if not self.google_api_key or not self.google_cse_id:
             logger.warning("Missing Google API credentials - using mock data")
             self.use_mock_data = True
         else:
             self.use_mock_data = False
-            
-        logger.info("CompetitorEmployeeFinder initialized")
-    
-    async def find_competitor_employees(self, target_profiles: List[TargetEmployeeProfile], 
-                                      competitors: List[CompetitorProfile]) -> Dict[str, List[CompetitorEmployee]]:
-        """Find competitor employees for all companies"""
+
+        logger.info(
+            "CompetitorEmployeeFinder initialized | HARVEST_MODE=%s | allowlist=%s",
+            self.harvest_mode, (", ".join(sorted(self.harvest_allowlist)) or "-")
+        )
+
+    async def find_competitor_employees(
+        self,
+        target_profiles: List[TargetEmployeeProfile],
+        competitors: List[CompetitorProfile]
+    ) -> Dict[str, List[CompetitorEmployee]]:
+        """Find competitor employees for all companies (harvest or department-driven)."""
         logger.info("STEP 3: COMPETITOR EMPLOYEE SEARCH")
-        
+
         if self.use_mock_data:
             return await self._mock_employee_search(competitors)
-        
-        # Process all competitors in parallel
+
         tasks = []
-        for competitor in competitors:
-            task = self._find_employees_for_company(target_profiles, competitor)
-            tasks.append(task)
-        
-        logger.info(f"Processing {len(competitors)} companies in parallel")
+        for comp in competitors:
+            cname = (comp.name or "").strip()
+            harvest = self._should_harvest(cname)
+            tasks.append(self._find_employees_for_company(target_profiles, comp, harvest))
+
+        logger.info("Processing %d companies in parallel", len(tasks))
         results = await asyncio.gather(*tasks, return_exceptions=True)
-        
-        # Collect results
-        final_results = {}
-        for i, result in enumerate(results):
-            if isinstance(result, dict):
-                final_results.update(result)
-            elif isinstance(result, Exception):
-                company_name = competitors[i].name if i < len(competitors) else "Unknown"
-                logger.error(f"Search failed for {company_name}: {result}")
-        
-        total_found = sum(len(employees) for employees in final_results.values())
-        logger.info(f"Total employees found: {total_found}")
-        
+
+        final_results: Dict[str, List[CompetitorEmployee]] = {}
+        for i, res in enumerate(results):
+            cname = (competitors[i].name if i < len(competitors) else f"Company_{i}")
+            if isinstance(res, dict):
+                final_results.update(res)
+            else:
+                logger.error("Search failed for %s: %s", cname, res)
+
+        total_found = sum(len(v) for v in final_results.values())
+        logger.info("Total employees found: %d", total_found)
         return final_results
-    
-    async def _find_employees_for_company(self, target_profiles: List[TargetEmployeeProfile], 
-                                        competitor: CompetitorProfile) -> Dict[str, List[CompetitorEmployee]]:
-        """Find employees for a single company"""
-        logger.info(f"Searching employees at {competitor.name}")
-        
-        all_employees = []
-        
-        # Generate searches for different departments
-        departments = list(set(profile.department for profile in target_profiles))
-        
-        for department in departments[:3]:  # Limit departments
-            logger.debug(f"   Searching {department} at {competitor.name}")
-            
-            queries = await self._generate_search_queries(department, competitor.name)
-            employees = await self._execute_searches(queries, competitor.name)
+
+    def _should_harvest(self, company_name: str) -> bool:
+        c = (company_name or "").strip().lower()
+        if self.harvest_mode in ("all", "true", "1", "yes"):
+            return True
+        if self.harvest_mode == "list":
+            return c in self.harvest_allowlist
+        # "none" or anything else: disable harvest
+        return False
+
+    async def _find_employees_for_company(
+        self,
+        target_profiles: List[TargetEmployeeProfile],
+        competitor: CompetitorProfile,
+        harvest: bool
+    ) -> Dict[str, List[CompetitorEmployee]]:
+        company = (competitor.name or "").strip()
+        logger.info("Searching employees at %s (%s)", company, "HARVEST" if harvest else "dept-queries")
+
+        if harvest:
+            harvested = await self._find_employees_companywide(company)
+            unique = self._deduplicate_employees(harvested)
+            logger.info("   Found %d employees at %s (company-wide)", len(unique), company)
+            return {company: unique}
+
+        # ---- department-driven (original) ----
+        all_employees: List[CompetitorEmployee] = []
+        departments = list(set(p.department for p in target_profiles))
+        for department in departments[:3]:
+            logger.debug("   Searching %s at %s", department, company)
+            queries = await self._generate_search_queries(department, company)
+            employees = await self._execute_searches(queries, company)
             all_employees.extend(employees)
-            
-            await asyncio.sleep(1)  # Rate limiting
-        
-        # Deduplicate
+            await asyncio.sleep(1)
+
         unique_employees = self._deduplicate_employees(all_employees)
-        logger.info(f"   Found {len(unique_employees)} employees at {competitor.name}")
-        
-        return {competitor.name: unique_employees}
-    
+        logger.info("   Found %d employees at %s", len(unique_employees), company)
+        return {company: unique_employees}
+
+    # -------------------- HARVEST helpers --------------------
+
+    def _normalize_company_aliases(self, company_name: str) -> List[str]:
+        c = (company_name or "").strip()
+        # add known aliases here if you like; default to the literal brand only
+        return [f'"{c}"']
+
+    def _generate_broad_company_queries(self, company_name: str) -> List[str]:
+        aliases = self._normalize_company_aliases(company_name)
+        alias_expr = " OR ".join(aliases)
+
+        title_buckets = [
+            "(Head OR VP OR Director OR Lead OR Manager)",
+            "(Engineer OR Developer OR Architect OR SDE OR DevOps OR QA)",
+            "(Product OR PM OR Owner OR Growth)",
+            "(Data OR Analyst OR Scientist OR BI OR ML OR AI)",
+            "(Design OR UX OR UI OR Research)",
+            "(Finance OR Accounting OR Controller OR Treasury)",
+            "(HR OR Talent OR People OR Recruiter)",
+            "(Operations OR Ops OR Supply OR Logistics)",
+            "(Sales OR Business Development OR Partnerships OR Alliances)",
+            "(Marketing OR Brand OR Performance OR SEO OR Content)",
+        ]
+
+        locations = [
+            "Bengaluru OR Bangalore OR Karnataka",
+            "Mumbai OR Maharashtra",
+            "Delhi OR NCR OR Noida OR Gurgaon",
+            "Hyderabad OR Telangana",
+            "Chennai OR Tamil Nadu",
+            "Pune",
+            "India",
+        ]
+
+        base_sites = ["site:linkedin.com/in", "site:linkedin.com/pub"]
+
+        queries: List[str] = []
+        for site in base_sites:
+            queries.append(f'{site} ({alias_expr}) -jobs -hiring -recruiter')
+            for bucket in title_buckets:
+                queries.append(f'{site} ({alias_expr}) {bucket} -jobs -hiring -recruiter')
+            for bucket in title_buckets:
+                for loc in locations:
+                    queries.append(f'{site} ({alias_expr}) {bucket} ({loc}) -jobs -hiring -recruiter')
+
+        # dedupe preserve order
+        seen, out = set(), []
+        for q in queries:
+            if q not in seen:
+                seen.add(q); out.append(q)
+        logger.info("[HARVEST] Built %d broad queries for %s", len(out), company_name)
+        return out
+
+    async def _find_employees_companywide(self, company_name: str) -> List[CompetitorEmployee]:
+        queries = self._generate_broad_company_queries(company_name)
+        all_employees: List[CompetitorEmployee] = []
+        total_hits = 0
+
+        max_start = min(1 + (self.pages_per_query - 1) * self.results_per_page, 91)  # cap ~100
+
+        for qi, query in enumerate(queries, 1):
+            page_index = 0
+            for start in range(1, max_start + 1, self.results_per_page):  # 1,11,21,...
+                page_index += 1
+                batch = await self._execute_search(query, company_name, start=start, num=self.results_per_page)
+                if not batch:
+                    logger.debug("[HARVEST] q%d/%d page %d: 0 hits (start=%d)", qi, len(queries), page_index, start)
+                    break
+                total_hits += len(batch)
+                all_employees.extend(batch)
+                logger.debug("[HARVEST] q%d/%d page %d: %d hits (start=%d)",
+                             qi, len(queries), page_index, len(batch), start)
+                await asyncio.sleep(self.query_batch_sleep)
+
+        logger.info("[HARVEST] Raw hits for %s: %d | Collected: %d (pre-dedupe)",
+                    company_name, total_hits, len(all_employees))
+        return all_employees
+
+    async def _execute_search(
+        self,
+        query: str,
+        company_name: str,
+        *,
+        start: int = 1,
+        num: int = 10
+    ) -> List[CompetitorEmployee]:
+        employees: List[CompetitorEmployee] = []
+        try:
+            url = "https://www.googleapis.com/customsearch/v1"
+            params = {
+                "key": self.google_api_key,
+                "cx": self.google_cse_id,
+                "q": query,
+                "num": max(1, min(10, int(num))),
+                "start": max(1, int(start)),
+            }
+            async with aiohttp.ClientSession() as session:
+                async with session.get(url, params=params, timeout=30) as resp:
+                    if resp.status == 200:
+                        data = await resp.json()
+                        items = data.get("items", [])
+                        for item in items:
+                            emp = self._parse_search_result(item, company_name)
+                            if emp:
+                                employees.append(emp)
+                    else:
+                        logger.warning("Search failed (%s) for start=%s", resp.status, start)
+        except Exception as e:
+            logger.warning("Search error for start=%s: %s", start, e)
+        return employees
+
+    # -------------------- original helpers (kept) --------------------
+
     async def _generate_search_queries(self, department: str, company_name: str) -> List[str]:
-        """Generate search queries for department and company"""
-        
         system_prompt = """Generate Google search queries to find LinkedIn profiles of employees.
 
 Return ONLY JSON array without any additional text:
@@ -881,82 +1028,54 @@ Requirements:
 - Include company name in quotes
 - Include department/role terms
 - Add: -jobs -hiring -recruiter"""
-        
         user_prompt = f"""Department: {department}
 Company: {company_name}
 
 Generate 3 targeted LinkedIn search queries."""
-        
         response = await self.gpt.chat_completion(system_prompt, user_prompt, temperature=0.2)
-        
         if not response:
             return []
-        
         queries = safe_json_parse(response)
         if not queries or not isinstance(queries, list):
             return []
-        
         return queries[:3]
-    
+
     async def _execute_searches(self, queries: List[str], company_name: str) -> List[CompetitorEmployee]:
-        """Execute Google search queries"""
-        all_employees = []
-        
+        all_employees: List[CompetitorEmployee] = []
         for query in queries:
             try:
-                logger.debug(f"Search: {query[:60]}...")
-                
+                logger.debug("Search: %s...", query[:60])
                 url = "https://www.googleapis.com/customsearch/v1"
-                params = {
-                    'key': self.google_api_key,
-                    'cx': self.google_cse_id,
-                    'q': query,
-                    'num': 10
-                }
-                
+                params = {'key': self.google_api_key,'cx': self.google_cse_id,'q': query,'num': 10}
                 async with aiohttp.ClientSession() as session:
                     async with session.get(url, params=params, timeout=30) as response:
                         if response.status == 200:
                             data = await response.json()
-                            items = data.get('items', [])
-                            
-                            for item in items:
-                                employee = self._parse_search_result(item, company_name)
-                                if employee:
-                                    all_employees.append(employee)
+                            for item in data.get('items', []):
+                                emp = self._parse_search_result(item, company_name)
+                                if emp: all_employees.append(emp)
                         else:
-                            logger.warning(f"Search failed: {response.status}")
-                
-                await asyncio.sleep(1.2)  # Rate limiting
-                
+                            logger.warning("Search failed: %s", response.status)
+                await asyncio.sleep(1.2)
             except Exception as e:
-                logger.warning(f"Search error: {e}")
-        
+                logger.warning("Search error: %s", e)
         return all_employees
-    
+
     def _parse_search_result(self, item: Dict, company_name: str) -> Optional[CompetitorEmployee]:
-        """Parse search result to CompetitorEmployee"""
         title = item.get('title', '')
         link = item.get('link', '')
         snippet = item.get('snippet', '')
-        
-        if 'linkedin.com/in' not in link:
+        if 'linkedin.com/in' not in link and 'linkedin.com/pub' not in link:
             return None
-        
-        # Extract name from title
         name = title.split(' - ')[0] if ' - ' in title else title.split(' |')[0]
         name = name.strip()
-        
         if not name or len(name) < 2:
             return None
-        
-        # Extract job title
         job_title = ""
         if ' - ' in title:
             parts = title.split(' - ', 1)
             if len(parts) > 1:
                 job_title = parts[1].split(' | ')[0]
-        
         return CompetitorEmployee(
             name=name,
             title=job_title.strip(),
@@ -964,124 +1083,223 @@ Generate 3 targeted LinkedIn search queries."""
             linkedin_url=link.rstrip('/'),
             search_snippet=snippet[:200]
         )
-    
+
     def _deduplicate_employees(self, employees: List[CompetitorEmployee]) -> List[CompetitorEmployee]:
-        """Remove duplicates by LinkedIn URL"""
-        seen_urls = set()
-        unique = []
-        
+        def _canon(u: str) -> str:
+            if not u: return ""
+            u = u.strip().rstrip("/")
+            u = u.split("?", 1)[0].split("#", 1)[0]
+            u = re.sub(r"^https?://([a-z]{2,3}\.)?linkedin\.com/", "https://www.linkedin.com/", u, flags=re.I)
+            return u.lower()
+        seen, unique = set(), []
         for emp in employees:
-            url_key = emp.linkedin_url.lower().rstrip('/')
-            if url_key not in seen_urls:
-                seen_urls.add(url_key)
+            key = _canon(emp.linkedin_url)
+            if key and key not in seen:
+                seen.add(key)
+                emp.linkedin_url = key
                 unique.append(emp)
-        
         return unique
-    
+
     async def _mock_employee_search(self, competitors: List[CompetitorProfile]) -> Dict[str, List[CompetitorEmployee]]:
-        """Mock employee search for testing when API credentials are missing"""
         logger.warning("Using mock employee data (Google API credentials missing)")
-        
-        mock_employees = {}
+        mock_employees: Dict[str, List[CompetitorEmployee]] = {}
         for competitor in competitors:
             employees = []
-            # Generate some mock employees for each competitor
             for i in range(5):
                 employees.append(CompetitorEmployee(
                     name=f"Employee {i+1}",
                     title=f"Senior {competitor.industry} Specialist",
                     company=competitor.name,
-                    linkedin_url=f"https://linkedin.com/in/mock-{competitor.name.lower()}-{i+1}",
+                    linkedin_url=f"https://www.linkedin.com/in/mock-{competitor.name.lower()}-{i+1}",
                     search_snippet=f"Works at {competitor.name} in the {competitor.industry} industry"
                 ))
             mock_employees[competitor.name] = employees
-        
         return mock_employees
+
 
 # =============================================================================
 # Step 4: Profile Matching
 # =============================================================================
 
 class ProfileMatcher:
-    """Matches target employees with competitor employees"""
-    
+    """Matches target employees with competitor employees (Top-10 per target across all companies) with detailed logging."""
+
+    MIN_SCORE = 40.0
+    TOP_K_PER_TARGET = 10
+    BATCH_SIZE = 5
+    BATCH_SLEEP_SEC = 0.3
+
     def __init__(self, gpt_client: AzureGPTClient):
         self.gpt = gpt_client
         logger.info("ProfileMatcher initialized")
-    
-    async def match_profiles(self, target_profiles: List[TargetEmployeeProfile],
-                           competitor_employees: Dict[str, List[CompetitorEmployee]]) -> Dict[str, List[EmployeeMatch]]:
-        """Match profiles across all companies in parallel"""
+
+    # ------------------------------- public ---------------------------------
+
+    async def match_profiles(
+        self,
+        target_profiles: List[TargetEmployeeProfile],
+        competitor_employees: Dict[str, List[CompetitorEmployee]]
+    ) -> Dict[str, List[EmployeeMatch]]:
+        """
+        1) Run matching against each company in parallel (no per-company cap).
+        2) Aggregate ALL matches across companies.
+        3) For each target, keep Top-10 across ALL companies.
+        4) Re-bucket to {company: [EmployeeMatch]} for downstream steps.
+        """
         logger.info("STEP 4: PROFILE MATCHING")
-        
-        # Process all companies in parallel
-        tasks = []
-        for company_name, employees in competitor_employees.items():
-            task = self._match_company(target_profiles, employees, company_name)
-            tasks.append(task)
-        
-        logger.info(f"Processing {len(competitor_employees)} companies in parallel")
+        logger.info("[Match] Targets=%d | Companies=%d", len(target_profiles), len(competitor_employees))
+
+        # Log size per company up front
+        for cname, emps in (competitor_employees or {}).items():
+            logger.debug("[Match] Seed employees at %s: %d", cname, len(emps or []))
+
+        # 1) per-company matching (parallel)
+        tasks = [
+            self._match_company(target_profiles, employees, company_name)
+            for company_name, employees in (competitor_employees or {}).items()
+        ]
+        logger.info("Processing %d companies in parallel", len(tasks))
+        t0_all = time.perf_counter()
         results = await asyncio.gather(*tasks, return_exceptions=True)
-        
-        # Collect results
-        all_matches = {}
+        dt_all = time.perf_counter() - t0_all
+        logger.info("[Match] Per-company matching completed in %.2fs", dt_all)
+
         company_names = list(competitor_employees.keys())
-        
+        per_company_raw: Dict[str, List[EmployeeMatch]] = {}
+
         for i, result in enumerate(results):
+            cname = company_names[i] if i < len(company_names) else f"Company_{i}"
             if isinstance(result, list):
-                company_name = company_names[i] if i < len(company_names) else f"Company_{i}"
-                all_matches[company_name] = result
-            elif isinstance(result, Exception):
-                company_name = company_names[i] if i < len(company_names) else f"Company_{i}"
-                logger.error(f"Matching failed for {company_name}: {result}")
-        
-        total_matches = sum(len(matches) for matches in all_matches.values())
-        logger.info(f"Total matches generated: {total_matches}")
-        
-        return all_matches
-    
-    async def _match_company(self, target_profiles: List[TargetEmployeeProfile],
-                           competitors: List[CompetitorEmployee], company_name: str) -> List[EmployeeMatch]:
-        """Match target profiles against one company's employees"""
-        logger.info(f"Matching against {company_name} ({len(competitors)} employees)")
-        
-        all_matches = []
-        
-        # Process targets in smaller batches
-        for target in target_profiles[:10]:  # Limit targets
-            matches = await self._match_single_target(target, competitors, company_name)
-            all_matches.extend(matches)
-        
-        # Filter and sort by similarity
-        good_matches = [m for m in all_matches if m.similarity_score >= 40]
-        good_matches.sort(key=lambda x: x.similarity_score, reverse=True)
-        
-        logger.info(f"   {len(good_matches)} quality matches for {company_name}")
-        return good_matches[:15]  # Keep top 15
-    
-    async def _match_single_target(self, target: TargetEmployeeProfile, 
-                                 competitors: List[CompetitorEmployee],
-                                 company_name: str) -> List[EmployeeMatch]:
-        """Match one target against competitors"""
-        
-        # Process in batches to avoid token limits
-        batch_size = 5
-        all_matches = []
-        
-        for i in range(0, len(competitors), batch_size):
-            batch = competitors[i:i+batch_size]
-            matches = await self._analyze_batch_similarity(target, batch, company_name)
-            all_matches.extend(matches)
-            
-            await asyncio.sleep(0.3)  # Brief pause
-        
-        return all_matches
-    
-    async def _analyze_batch_similarity(self, target: TargetEmployeeProfile,
-                                      competitors: List[CompetitorEmployee],
-                                      company_name: str) -> List[EmployeeMatch]:
-        """Analyze similarity using GPT"""
-        
+                per_company_raw[cname] = result
+                logger.info("   %s: %d quality matches (pre Top-10 compaction)", cname, len(result))
+            else:
+                logger.error("Matching failed for %s: %s", cname, result)
+                per_company_raw[cname] = []
+
+        # 2) aggregate all matches by target
+        per_target_all: Dict[str, List[EmployeeMatch]] = {}
+        for matches in per_company_raw.values():
+            for m in matches or []:
+                per_target_all.setdefault(m.target_employee, []).append(m)
+
+        total_before = sum(len(v) for v in per_target_all.values())
+        targets_with_any = sum(1 for v in per_target_all.values() if v)
+        logger.info("[Match] Aggregated %d matches across %d targets (with ≥1 match)",
+                    total_before, targets_with_any)
+
+        # 3) keep Top-10 per target across ALL companies
+        kept_per_target: Dict[str, List[EmployeeMatch]] = {}
+        zero_after = 0
+        for tname, t_matches in per_target_all.items():
+            t_matches.sort(key=lambda x: x.similarity_score, reverse=True)
+            kept = t_matches[: self.TOP_K_PER_TARGET]
+            kept_per_target[tname] = kept
+            if kept:
+                logger.debug("[Top-10] Target='%s' kept %d/%d (max=%d) | top scores=[%s]",
+                             tname, len(kept), len(t_matches), self.TOP_K_PER_TARGET,
+                             ", ".join(str(round(m.similarity_score, 1)) for m in kept[:5]))
+            else:
+                zero_after += 1
+                logger.debug("[Top-10] Target='%s' kept 0/%d", tname, len(t_matches))
+
+        total_after = sum(len(v) for v in kept_per_target.values())
+        logger.info("[Top-10] Compaction: %d -> %d kept across %d targets (zero-kept=%d)",
+                    total_before, total_after, len(kept_per_target), zero_after)
+
+        # 4) re-bucket kept matches by company
+        final_by_company: Dict[str, List[EmployeeMatch]] = {}
+        for kept_list in kept_per_target.values():
+            for m in kept_list:
+                final_by_company.setdefault(m.competitor_company, []).append(m)
+
+        # Per-company kept summary
+        for cname, matches in sorted(final_by_company.items(), key=lambda kv: -len(kv[1])):
+            by_target = {}
+            for m in matches:
+                by_target[m.target_employee] = by_target.get(m.target_employee, 0) + 1
+            logger.info("   %s: %d kept after Top-10 (targets covered=%d)", cname, len(matches), len(by_target))
+
+        logger.info("Total matches generated (Top-10-per-target): %d", total_after)
+        return final_by_company
+
+    # ----------------------------- internals --------------------------------
+
+    async def _match_company(
+        self,
+        target_profiles: List[TargetEmployeeProfile],
+        competitors: List[CompetitorEmployee],
+        company_name: str
+    ) -> List[EmployeeMatch]:
+        """Match all targets against one company's employees; no final cap here."""
+        logger.info("Matching against %s (%d employees)", company_name, len(competitors))
+        all_matches: List[EmployeeMatch] = []
+        t0 = time.perf_counter()
+
+        for idx, target in enumerate(target_profiles, 1):
+            logger.debug("[Target] %s | role='%s' | dept=%s | exp=%.1f | skills=%s",
+                         target.name, target.title, target.department, target.experience_years,
+                         ", ".join((target.key_skills or [])[:3]))
+            t_matches = await self._match_single_target(target, competitors, company_name)
+            all_matches.extend(t_matches)
+            if idx % 10 == 0:
+                logger.debug("[Progress:%s] processed %d targets, cumulative matches=%d",
+                             company_name, idx, len(all_matches))
+
+        good = [m for m in all_matches if (m.similarity_score or 0) >= self.MIN_SCORE]
+        good.sort(key=lambda x: x.similarity_score, reverse=True)
+
+        dt = time.perf_counter() - t0
+        logger.info("   %s produced %d quality matches (min=%.0f) in %.2fs",
+                    company_name, len(good), self.MIN_SCORE, dt)
+        # Quick breakdown: top 5 scores
+        logger.debug("   %s top scores: %s",
+                     company_name,
+                     ", ".join(str(round(m.similarity_score, 1)) for m in good[:5]))
+        return good
+
+    async def _match_single_target(
+        self,
+        target: TargetEmployeeProfile,
+        competitors: List[CompetitorEmployee],
+        company_name: str
+    ) -> List[EmployeeMatch]:
+        """Match one target against a company's competitors (batched to respect token limits)."""
+        out: List[EmployeeMatch] = []
+        total = len(competitors)
+        batches = (total + self.BATCH_SIZE - 1) // self.BATCH_SIZE
+        logger.debug("[Batches] Target='%s' @ %s -> %d comps, %d batches (size=%d)",
+                     target.name, company_name, total, batches, self.BATCH_SIZE)
+
+        for i in range(0, total, self.BATCH_SIZE):
+            batch_idx = (i // self.BATCH_SIZE) + 1
+            batch = competitors[i:i + self.BATCH_SIZE]
+            logger.debug("[BatchStart] target='%s' company='%s' batch=%d/%d size=%d",
+                         target.name, company_name, batch_idx, batches, len(batch))
+            t0 = time.perf_counter()
+            try:
+                matches = await self._analyze_batch_similarity(
+                    target, batch, company_name, batch_idx=batch_idx, total_batches=batches
+                )
+                out.extend(matches)
+                logger.debug("[BatchDone] target='%s' company='%s' batch=%d/%d kept=%d (cum=%d) in %.2fs",
+                             target.name, company_name, batch_idx, batches, len(matches), len(out),
+                             time.perf_counter() - t0)
+            except Exception as e:
+                logger.warning("[BatchError] target='%s' company='%s' batch=%d/%d err=%s",
+                               target.name, company_name, batch_idx, batches, e)
+            await asyncio.sleep(self.BATCH_SLEEP_SEC)
+        return out
+
+    async def _analyze_batch_similarity(
+        self,
+        target: TargetEmployeeProfile,
+        competitors: List[CompetitorEmployee],
+        company_name: str,
+        *,
+        batch_idx: int = 0,
+        total_batches: int = 0
+    ) -> List[EmployeeMatch]:
+        """Analyze similarity using GPT; logs request/response sizes and parse results."""
         system_prompt = """Compare target employee with competitors. Score similarity 0-100.
 
 Return ONLY JSON without any additional text:
@@ -1096,61 +1314,124 @@ Return ONLY JSON without any additional text:
 }
 
 Only include matches with score >= 40."""
-        
-        competitor_info = []
-        for comp in competitors:
-            competitor_info.append({
-                "name": comp.name,
-                "title": comp.title,
-                "snippet": comp.search_snippet[:150]
-            })
-        
-        user_prompt = f"""TARGET: {target.name}
-Title: {target.title}
-Department: {target.department}
-Skills: {', '.join(target.key_skills[:3])}
+        comp_payload = [
+            {"name": c.name, "title": c.title, "snippet": (c.search_snippet or "")[:150]}
+            for c in competitors
+        ]
+        user_prompt = (
+            f"TARGET: {target.name}\n"
+            f"Title: {target.title}\n"
+            f"Department: {target.department}\n"
+            f"Skills: {', '.join((target.key_skills or [])[:3])}\n\n"
+            f"COMPETITORS:\n{json.dumps(comp_payload, indent=2)}\n\n"
+            f"Find similar profiles."
+        )
 
-COMPETITORS:
-{json.dumps(competitor_info, indent=2)}
+        # Log request summary (not full payload)
+        logger.debug("[GPT->] t='%s' c='%s' b=%d/%d payload=%d comps",
+                     target.name, company_name, batch_idx, total_batches, len(comp_payload))
 
-Find similar profiles."""
-        
-        response = await self.gpt.chat_completion(system_prompt, user_prompt, temperature=0.1)
-        
-        if not response:
+        t0 = time.perf_counter()
+        raw = await self.gpt.chat_completion(system_prompt, user_prompt, temperature=0.1)
+        dt = time.perf_counter() - t0
+
+        logger.debug("[GPT<-] t='%s' c='%s' b=%d/%d time=%.2fs size=%d chars",
+                     target.name, company_name, batch_idx, total_batches, dt, len(raw or ""))
+
+        if not raw:
+            logger.debug("[Parse] Empty GPT response")
             return []
-        
-        analysis = safe_json_parse(response)
-        if not analysis or 'matches' not in analysis:
+
+        data = safe_json_parse(raw)
+        if not data or "matches" not in data or not isinstance(data["matches"], list):
+            logger.debug("[Parse] No 'matches' array in GPT response")
             return []
-        
-        # Convert to EmployeeMatch objects
-        matches = []
-        competitor_map = {comp.name: comp for comp in competitors}
-        
-        for match_data in analysis['matches']:
-            competitor_name = match_data.get('competitor_name', '')
-            competitor = competitor_map.get(competitor_name)
-            
-            if not competitor:
+
+        matches: List[EmployeeMatch] = []
+        by_name = {c.name: c for c in competitors}
+
+        kept = 0
+        dropped = 0
+        for row in data["matches"]:
+            comp_name = (row or {}).get("competitor_name")
+            comp = by_name.get((comp_name or "").strip())
+            if not comp:
+                dropped += 1
                 continue
-            
             try:
-                match = EmployeeMatch(
-                    target_employee=target.name,
-                    competitor_employee=competitor.name,
-                    competitor_company=company_name,
-                    similarity_score=float(match_data.get('similarity_score', 0)),
-                    match_rationale=match_data.get('rationale', '')[:200],
-                    linkedin_url=competitor.linkedin_url
-                )
-                
-                if match.similarity_score >= 40:
-                    matches.append(match)
-            except (ValueError, TypeError):
+                score = float(row.get("similarity_score", 0))
+            except (TypeError, ValueError):
+                dropped += 1
                 continue
-        
+            if score < self.MIN_SCORE:
+                dropped += 1
+                continue
+
+            kept += 1
+            matches.append(
+                EmployeeMatch(
+                    target_employee=target.name,
+                    competitor_employee=comp.name,
+                    competitor_company=company_name,
+                    similarity_score=score,
+                    match_rationale=((row.get("rationale") or "")[:200]),
+                    linkedin_url=comp.linkedin_url,
+                )
+            )
+
+        logger.debug("[Filter] t='%s' c='%s' b=%d/%d kept=%d dropped=%d (min=%.0f)",
+                     target.name, company_name, batch_idx, total_batches, kept, dropped, self.MIN_SCORE)
         return matches
+
+
+# Step 5: Spectre Matches Writer
+class SpectreWriter:
+    """Write spectre_matches.json file"""
+
+    @staticmethod
+    def write_spectre_matches(all_matches: List[EmployeeMatch],
+                              target_profiles: List[TargetEmployeeProfile]) -> str:
+        logger.info("STEP 5: WRITING SPECTRE MATCHES")
+
+        target_by_name = {t.name: t for t in target_profiles}
+
+        # company -> [EmployeeMatch, ...]
+        by_company: Dict[str, List[EmployeeMatch]] = {}
+        for m in all_matches or []:
+            by_company.setdefault(m.competitor_company, []).append(m)
+
+        spectre_data: Dict[str, Any] = {}
+        total_pairs = 0
+
+        for company, matches in by_company.items():
+            groups: Dict[str, Dict[str, Any]] = {}
+            for m in matches:
+                tname = m.target_employee
+                if tname not in groups:
+                    tp = target_by_name.get(tname)
+                    groups[tname] = {
+                        "manipal_name": tname,
+                        "manipal_role": (tp.title if tp else "Unknown Role"),
+                        "matches": []
+                    }
+                groups[tname]["matches"].append({
+                    "company": company.lower().replace(" ", "_"),
+                    "name": m.competitor_employee,
+                    "role": "Unknown Role",
+                    "similarity": round(float(m.similarity_score), 2),
+                    "via": "llm"
+                })
+                total_pairs += 1
+
+            spectre_data[company.lower().replace(" ", "_")] = list(groups.values())
+
+        out_path = "spectre_matches.json"
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(spectre_data, f, indent=2, ensure_ascii=False)
+
+        # Sanity log so you can see what Spectre is going to count
+        logger.info(f"Wrote {out_path} covering {len(by_company)} companies, total match-pairs: {total_pairs}")
+        return out_path
 
 # =============================================================================
 # Output Writers
@@ -1346,8 +1627,8 @@ class BrightDataScraper:
     async def scrape_profiles_per_company_parallel(
         self,
         urls_by_company: Dict[str, List[str]],
-        max_company_parallel: int = 3,
-        timeout_sec: int = 900,
+        max_company_parallel: int = 10,
+        timeout_sec: int = 100000,
     ) -> Dict[str, Dict[str, Any]]:
         """
         Args:
@@ -1486,7 +1767,7 @@ async def scrape_matched_profiles_per_company_parallel(
     return await shade_scraper.scrape_profiles_per_company_parallel(
         matched_urls_per_company,
         max_company_parallel=int(kwargs.get("max_company_parallel", 3)),
-        timeout_sec=int(kwargs.get("timeout_sec", 900)),
+        timeout_sec=int(kwargs.get("timeout_sec", 100000)),
     )
 
 # =============================================================================
@@ -1539,37 +1820,32 @@ class MirageSystem:
             raise ValueError(error_msg)
     
     async def run_full_analysis(self, intelligence_data: Dict, num_competitors: int = 10) -> Dict:
-        """Execute complete MIRAGE analysis pipeline"""
+        """Execute complete MIRAGE analysis pipeline (Spectre FIRST, then Bright Data)."""
         logger.info(f"=== MIRAGE ANALYSIS STARTED (competitors={num_competitors}) ===")
         start_time = time.time()
-        
+
         try:
-            # Step 1: Detect Competitors (with strict limit)
+            # Phase 1: Competitor Detection (strict limit)
             logger.info("Phase 1: Competitor Detection")
             competitors = await self.competitor_detector.detect_competitors(
                 intelligence_data, max_competitors=num_competitors
             )
-            
             if not competitors:
                 raise ValueError("No competitors detected")
-            
-            # Step 2: Build Target Profiles
+
+            # Phase 2: Target Profile Building
             logger.info("Phase 2: Target Profile Building")
             employee_data = self._extract_employee_data(intelligence_data)
             target_profiles = await self.profile_builder.build_target_profiles(employee_data)
-            
             if not target_profiles:
                 logger.warning("No target profiles built, using mock data")
                 target_profiles = self._create_mock_profiles()
-            
-            # Steps 3 & 4: Find Employees and Match Profiles (parallel)
+
+            # Phases 3 & 4: Employee Search and Matching (logic unchanged)
             logger.info("Phase 3 & 4: Employee Search and Matching (parallel)")
-            
-            # Run steps 3 and 4 in sequence but with parallel processing within each
             competitor_employees = await self.employee_finder.find_competitor_employees(
                 target_profiles, competitors
             )
-            
             if not competitor_employees:
                 logger.warning("No competitor employees found, using mock matches")
                 profile_matches = self._create_mock_matches(target_profiles, competitors)
@@ -1577,54 +1853,105 @@ class MirageSystem:
                 profile_matches = await self.profile_matcher.match_profiles(
                     target_profiles, competitor_employees
                 )
-            # === Phase 4.5: Scrape matched LinkedIn profiles using SHADE Bright scraper (PARALLEL PER COMPANY) ===
-            bd_logger.info("Phase 4.5: Scraping matched LinkedIn profiles with Bright Data (parallel per company)")
 
+                        # ---- PHASE 5: WRITE SPECTRE MATCHES FIRST ----
+            logger.info("Phase 5: Writing Spectre Matches (FIRST)")
+
+            # profile_matches is a dict {company: [EmployeeMatch]}
+            spectre_path = OutputWriter.write_spectre_matches(profile_matches, target_profiles)
+
+            # Quick sanity: how many pairs did we just write?
+            try:
+                with open(spectre_path, "r", encoding="utf-8") as f:
+                    _spectre_json = json.load(f)
+                _pairs_in_file = sum(
+                    len(group.get("matches", []))
+                    for company_groups in (_spectre_json or {}).values()
+                    for group in (company_groups or [])
+                )
+                logger.info("[Spectre sanity] pairs in file: %d", _pairs_in_file)
+            except Exception as e:
+                logger.warning("[Spectre sanity] could not verify file: %s", e)
+
+            # ---- PHASE 6: BRIGHT DATA SCRAPING (AFTER spectre write) ----
+            bd_logger.info("Phase 6: Scraping matched LinkedIn profiles with Bright Data (AFTER spectre write)")
             matched_urls_per_company = collect_matched_linkedin_urls(profile_matches)
+            total_urls = sum(len(v) for v in matched_urls_per_company.values())
+            bd_logger.info("Dispatching %d URLs across %d companies", total_urls, len(matched_urls_per_company))
+
             scraped_by_company: Dict[str, Dict[str, Any]] = {}
             total_scraped = 0
-
             try:
                 scraper = BrightDataScraper()
-                if scraper.enabled:
+                if scraper.enabled and matched_urls_per_company:
                     scraped_by_company = await scrape_matched_profiles_per_company_parallel(
                         scraper,
                         matched_urls_per_company,
                         max_company_parallel=3,
-                        timeout_sec=900,
+                        timeout_sec=100000,
                     )
                     total_scraped = sum(len(v or {}) for v in scraped_by_company.values())
-                else:
+                elif not scraper.enabled:
                     bd_logger.warning("BrightDataScraper not enabled (set BRIGHT_DATA_API_KEY and BRIGHT_DATA_DATASET_ID)")
+                else:
+                    bd_logger.warning("No matched URLs to scrape — skipping Bright Data scrape")
             except Exception as e:
                 bd_logger.error(f"Bright Data scraping failed: {e}")
                 scraped_by_company = {}
                 total_scraped = 0
 
-            bd_logger.info(f"Bright Data scraping complete. Profiles scraped: {total_scraped}")
+            bd_logger.info("Bright Data scraping complete. Profiles scraped: %d", total_scraped)
 
-
-
-            # === Phase 5: Output Generation (now with scraped profiles) ===
-            logger.info("Phase 5: Output Generation")
-            spectre_path = OutputWriter.write_spectre_matches(profile_matches, target_profiles)
-
-            # employee reports now include 'detailed_profile' where available
+            # ---- PHASE 7: OUTPUT GENERATION (reports enriched with scrapes) ----
+            logger.info("Phase 7: Output Generation")
             reports_dir = OutputWriter.write_employee_reports(
                 competitor_employees,
                 scraped_details=scraped_by_company
             )
-
-            # also write per-company matched details bundle
             matched_dir = OutputWriter.write_matched_details_with_scrapes(
                 profile_matches, scraped_by_company
             )
 
-            
+            # ---- Summary & return payload ----
+            execution_time = time.time() - start_time
+
+            # Fix counters to handle dict structure
+            companies_with_matches = len([k for k, v in (profile_matches or {}).items() if v])
+            targets_with_kept = len({
+                m.target_employee
+                for matches in (profile_matches or {}).values()
+                for m in (matches or [])
+            })
+
+            results = {
+                "mirage_metadata": {
+                    "analysis_timestamp": datetime.utcnow().isoformat(),
+                    "target_company": self.competitor_detector._extract_company_name(intelligence_data),
+                    "execution_time_seconds": round(execution_time, 2),
+                    "version": "3.0-Clean-Production",
+                },
+                "results_summary": {
+                    "competitors_detected": len(competitors),
+                    "target_profiles_built": len(target_profiles),
+                    "total_candidates_found": sum(len(v or []) for v in (competitor_employees or {}).values()),
+                    "companies_with_matches": companies_with_matches,
+                    "targets_with_kept_matches": targets_with_kept,
+                    "total_matches_kept": sum(len(v or []) for v in (profile_matches or {}).values()),
+                },
+                "output_files": {
+                    "spectre_matches": spectre_path,
+                    "employee_reports_dir": reports_dir,
+                    "matched_details_dir": matched_dir,
+                },
+            }
+            return results
+
+
         except Exception as e:
             execution_time = time.time() - start_time
             logger.error(f"MIRAGE analysis failed after {execution_time:.2f}s: {e}")
             raise
+
     
     def _extract_employee_data(self, intelligence_data: Dict) -> List[Dict]:
         """Extract employee data from intelligence report"""

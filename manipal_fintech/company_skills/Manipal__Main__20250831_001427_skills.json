@@ -1,0 +1,1393 @@
+{
+  "company_name": "Manipal  Main  20250831 001427",
+  "employees": [
+    {
+      "name": "Puja Abhishek Singh",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anuj Arora",
+      "position": "CFO at Manipal Fintech",
+      "employee_id": "Man_002",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Strategic Planning",
+        "Risk Management",
+        "Leadership",
+        "Financial Reporting",
+        "Forecasting",
+        "Compliance",
+        "Team Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Rahul Virmani",
+      "position": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+      "employee_id": "Man_003",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Negotiation",
+        "Financial Services",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ankur Mathur",
+      "position": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+      "employee_id": "Man_004",
+      "skills": [
+        "HR Partnering",
+        "HR Strategy",
+        "People Management"
+      ]
+    },
+    {
+      "name": "Shivam Gupta",
+      "position": "Business Strategy | CEO's Office | Manipal Fintech",
+      "employee_id": "Man_005",
+      "skills": [
+        "Business Strategy",
+        "Leadership",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Market Research",
+        "Team Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Gaurav Srivastava",
+      "position": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+      "employee_id": "Man_006",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation",
+        "Revenue Growth",
+        "Customer Acquisition",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Allan Fernandes",
+      "position": "Head of Product - Fintech | Product Strategy & Growth | Agent Network Onboarding | GTM | Operational Efficiency | IIM B | Ex-PwC",
+      "employee_id": "Man_007",
+      "skills": [
+        "Product Strategy",
+        "Growth",
+        "Agent Network Onboarding",
+        "Go-to-Market (GTM)",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Rahul Kumar",
+      "position": "Finance Manager-Manipal Fintech",
+      "employee_id": "Man_008",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Excel",
+        "SAP",
+        "Team Leadership",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Puneet Sharma",
+      "position": "DVP - Software Development at Manipal Fintech Services Pvt. Ltd.",
+      "employee_id": "Man_009",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Team Leadership",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "C++",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "Microservices Architecture",
+        "API Development",
+        "Version Control (Git)",
+        "Continuous Integration",
+        "Continuous Deployment",
+        "Problem Solving",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Manish Dhoundiyal",
+      "position": "Sr. Trainer at Manipal Fintech",
+      "employee_id": "Man_010",
+      "skills": [
+        "Training",
+        "Fintech",
+        "Leadership",
+        "Curriculum Development",
+        "Mentoring",
+        "Communication",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "MEHAK SRIVASTAVA",
+      "position": "Design in process- UpWear",
+      "employee_id": "Man_011",
+      "skills": [
+        "Design",
+        "Process Improvement",
+        "Fashion Design",
+        "Product Development",
+        "Trend Analysis",
+        "Creative Direction"
+      ]
+    },
+    {
+      "name": "Akkama S.",
+      "position": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+      "employee_id": "Man_012",
+      "skills": [
+        "Human Resource Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Training and Development",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Recruitment",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rozi Bisht",
+      "position": "",
+      "employee_id": "Man_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Romi Rai",
+      "position": "",
+      "employee_id": "Man_014",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Amit Gupta",
+      "position": "",
+      "employee_id": "Man_015",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pramod Naidu",
+      "position": "Regional Head Sales Manipal Fintech",
+      "employee_id": "Man_016",
+      "skills": [
+        "Sales Management",
+        "Fintech",
+        "Regional Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Client Relations",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "ANIL SEN",
+      "position": "Relationship Executive Gold Loan at Manipal Fintech Pvt Ltd",
+      "employee_id": "Man_017",
+      "skills": [
+        "Customer Relationship Management",
+        "Gold Loan Processing",
+        "Financial Services",
+        "Client Communication",
+        "Sales",
+        "Negotiation",
+        "Problem Solving",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sylvester Domingo",
+      "position": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+      "employee_id": "Man_018",
+      "skills": [
+        "Digital Transformation",
+        "Customer Experience",
+        "Process Excellence",
+        "Audit",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "SUJIT SINGH RAJAWAT",
+      "position": "Cluster Head @Manipal Fintech | Executive Team, Direct Sales",
+      "employee_id": "Man_019",
+      "skills": [
+        "Direct Sales",
+        "Team Leadership",
+        "Fintech",
+        "Sales Strategy",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Saurabh Jha",
+      "position": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+      "employee_id": "Man_020",
+      "skills": [
+        "Human Resources Management",
+        "Employee Engagement",
+        "Process Improvement",
+        "Workforce Planning",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Yati Singal",
+      "position": "",
+      "employee_id": "Man_021",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Himanshu .",
+      "position": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+      "employee_id": "Man_022",
+      "skills": [
+        "Product Management",
+        "Digital Lending",
+        "Fintech",
+        "Certified Product Management"
+      ]
+    },
+    {
+      "name": "Atul Shukla",
+      "position": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+      "employee_id": "Man_023",
+      "skills": [
+        "Retail Lending",
+        "Sales",
+        "Growth Strategy",
+        "Fintech",
+        "Gold Loan"
+      ]
+    },
+    {
+      "name": "Nikhil Khandelwal",
+      "position": "Regional Head Sales at Manipal Fintech services private limited",
+      "employee_id": "Man_024",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation",
+        "Financial Services",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Rajesh Agrawal",
+      "position": "Regional Head at Manipal Fintech Private Limited",
+      "employee_id": "Man_025",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Firoj khan",
+      "position": "Gold Loan manager at Manipal Fintech",
+      "employee_id": "Man_026",
+      "skills": [
+        "Gold Loan Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Risk Assessment",
+        "Loan Processing",
+        "Team Leadership",
+        "Sales Strategy",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Palash Srivastava",
+      "position": "",
+      "employee_id": "Man_027",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurabh Matholiya",
+      "position": "",
+      "employee_id": "Man_028",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Manish Baghel",
+      "position": "Tha Manipal Group",
+      "employee_id": "Man_029",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Vendor Management",
+        "Process Improvement",
+        "Client Relations",
+        "Negotiation",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Hari Prasad",
+      "position": "Area Head - Manipal Fintech -Gold Loan Mysore",
+      "employee_id": "Man_030",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Research",
+        "Risk Assessment",
+        "Gold Loan Processing"
+      ]
+    },
+    {
+      "name": "Sanjil Sharma",
+      "position": "Data Scientist",
+      "employee_id": "Man_031",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "R",
+        "Big Data",
+        "Predictive Analytics",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Vikas Saini",
+      "position": "Project coordinator at Manipal Business Solutions | Fintech & Banking | Financial Inclusion | Rural Extension Branches | Cross Sell-Asset & Liabilities Products | eGovernance | ex NBFC",
+      "employee_id": "Man_032",
+      "skills": [
+        "Project Coordination",
+        "Fintech",
+        "Banking",
+        "Financial Inclusion",
+        "Rural Extension Branches",
+        "Cross Selling",
+        "Asset Products",
+        "Liabilities Products",
+        "eGovernance"
+      ]
+    },
+    {
+      "name": "akshay jain",
+      "position": "Regional Head at Manipal Fintech",
+      "employee_id": "Man_033",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Team Management",
+        "Project Management",
+        "Business Development",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Atul Aggarwal",
+      "position": "",
+      "employee_id": "Man_034",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "TANMAY SINGH",
+      "position": "",
+      "employee_id": "Man_035",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vaishali Bhat",
+      "position": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+      "employee_id": "Man_036",
+      "skills": [
+        "Digital Alliance Partnership",
+        "Telesales Strategy",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Business Development",
+        "Partnership Management"
+      ]
+    },
+    {
+      "name": "Pushpendra dangi",
+      "position": "Cluster Head at Manipal Fintech-Gold Loan",
+      "employee_id": "Man_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Girish Kini - Chief Executive Officer",
+      "position": "",
+      "employee_id": "Man_038",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Building",
+        "Negotiation",
+        "Problem Solving",
+        "Decision Making",
+        "Communication",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pallavi Jain",
+      "position": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+      "employee_id": "Man_039",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Head Hunting",
+        "Human Resource Management"
+      ]
+    },
+    {
+      "name": "Roshan Baliar Singh",
+      "position": "Regional Head",
+      "employee_id": "Man_040",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Sales",
+        "Marketing",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Jyotika Satija",
+      "position": "",
+      "employee_id": "Man_041",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sajeesh ko",
+      "position": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+      "employee_id": "Man_042",
+      "skills": [
+        "Gold Loan Industry Expertise",
+        "Financial Services",
+        "Customer Service",
+        "Loan Processing",
+        "Risk Assessment",
+        "Team Management",
+        "Client Relations",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Vidya Shenoy",
+      "position": "",
+      "employee_id": "Man_043",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Animesh Kumar",
+      "position": "Sales & Operations Leader",
+      "employee_id": "Man_044",
+      "skills": [
+        "Sales Strategy",
+        "Operations Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Performance Metrics",
+        "Supply Chain Management",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shivi Gautam",
+      "position": "Generating revenue with Alliances |Cobranded Credit Card portfolio management| Strategic Partnership Specialist with 14+ work ex",
+      "employee_id": "Man_045",
+      "skills": [
+        "Revenue Generation",
+        "Alliances Management",
+        "Cobranded Credit Card Portfolio Management",
+        "Strategic Partnerships"
+      ]
+    },
+    {
+      "name": "Quentin Passanha",
+      "position": "Senior Executive - Human Resource @ Manipal Technologies Limited",
+      "employee_id": "Man_046",
+      "skills": [
+        "Human Resource Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Strategy",
+        "Organizational Development",
+        "Training and Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Recruitment",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Prasanna Kumari",
+      "position": "Manipal Technologies Limited",
+      "employee_id": "Man_047",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Client Relations",
+        "Strategic Planning",
+        "Budget Management",
+        "Process Improvement",
+        "Vendor Management",
+        "Quality Assurance",
+        "Risk Assessment",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Purnima R.",
+      "position": "Software developer- Corporate actions, Ref data, Post Trade Compliance",
+      "employee_id": "Man_048",
+      "skills": [
+        "Software Development",
+        "Corporate Actions",
+        "Reference Data",
+        "Post Trade Compliance"
+      ]
+    },
+    {
+      "name": "Niranjan Bhat",
+      "position": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+      "employee_id": "Man_049",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Treasury",
+        "Taxation",
+        "FP&A",
+        "Financial Reporting",
+        "MIS",
+        "Compliance",
+        "Strategic Growth"
+      ]
+    },
+    {
+      "name": "Tarun Singh",
+      "position": "senior sales officer at Reliance Retail",
+      "employee_id": "Man_050",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Retail Management",
+        "Inventory Control",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Rajnish Sah",
+      "position": "Strategic Sales & Business Development Leader | Team Performance Expert | Business Growth Specialist | All financial product",
+      "employee_id": "Man_051",
+      "skills": [
+        "Strategic Sales",
+        "Business Development",
+        "Team Performance",
+        "Business Growth",
+        "Financial Products"
+      ]
+    },
+    {
+      "name": "Deiva Bindhiya",
+      "position": "Bilingual Content Curator | Tamil & English Content Specialist",
+      "employee_id": "Man_052",
+      "skills": [
+        "Content Curation",
+        "Bilingual Communication",
+        "Tamil Language",
+        "English Language",
+        "Content Creation",
+        "Editing",
+        "Proofreading",
+        "Translation"
+      ]
+    },
+    {
+      "name": "Mahima Singh Chauhan",
+      "position": "Product Manager || Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+      "employee_id": "Man_053",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Research",
+        "Project Management",
+        "Financial Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "RAGHAVENDRA RAO SANNAYYA",
+      "position": "President at Primacy Industries Limited, The Manipal Group",
+      "employee_id": "Man_054",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Operations Management",
+        "Team Building",
+        "Project Management",
+        "Negotiation",
+        "Financial Analysis",
+        "Market Research",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "name": "Jay R Goel",
+      "position": "Digital Payments | Distribution | Alliances | Financial Inclusion | Wallets (Ex. BoB/ICICI/HDFC/Axis/AU Bank/Tech Mahindra/The Manipal Group/Loylty Rewardz)",
+      "employee_id": "Man_055",
+      "skills": [
+        "Digital Payments",
+        "Distribution",
+        "Alliances",
+        "Financial Inclusion",
+        "Wallets"
+      ]
+    },
+    {
+      "name": "ABHISHEK KUMAR BAJAJ",
+      "position": "Regional Head",
+      "employee_id": "Man_056",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Arpit Kansal",
+      "position": "Data Analytics",
+      "employee_id": "Man_057",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sathish Kumar",
+      "position": "Human Resource | Talent Development & Management",
+      "employee_id": "Man_058",
+      "skills": [
+        "Talent Development",
+        "Talent Management",
+        "Human Resource Management"
+      ]
+    },
+    {
+      "name": "Nikhil Mehta",
+      "position": "Payments & Fintech Expert with focus on solving Customer needs through Digital Payments, Financial Services & Commerce",
+      "employee_id": "Man_059",
+      "skills": [
+        "Digital Payments",
+        "Financial Services",
+        "Commerce"
+      ]
+    },
+    {
+      "name": "Taterao Gutte",
+      "position": "Area head - Manipal Group",
+      "employee_id": "Man_060",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making",
+        "Budgeting",
+        "Negotiation",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "mayank kachhwaha",
+      "position": "Debt management services ( SME LOANS BUSINESS LOANS PROFESSIONAL LOAN) Bajaj finance Ltd",
+      "employee_id": "Man_061",
+      "skills": [
+        "Debt Management",
+        "SME Loans",
+        "Business Loans",
+        "Professional Loans"
+      ]
+    },
+    {
+      "name": "Ravi Rose",
+      "position": "Strategic Internal Audit Leader | Compliance Manager | Risk Manager | Operational Excellence Expert | Strategic Growth Specialist",
+      "employee_id": "Man_062",
+      "skills": [
+        "Internal Audit",
+        "Compliance Management",
+        "Risk Management",
+        "Operational Excellence",
+        "Strategic Growth"
+      ]
+    },
+    {
+      "name": "Rishi Ranjan",
+      "position": "Engineer Turned PGDM Student | Analytics & Operations Enthusiast | Former BDA",
+      "employee_id": "Man_063",
+      "skills": [
+        "Analytics",
+        "Operations",
+        "Business Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Girish Gaikwad",
+      "position": "Gold Loan and Financial services",
+      "employee_id": "Man_064",
+      "skills": [
+        "Gold Loan",
+        "Financial Services",
+        "Customer Service",
+        "Risk Assessment",
+        "Loan Processing",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "Sanskruti Sinha",
+      "position": "HR",
+      "employee_id": "Man_065",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HRIS",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Mahesh Rotti",
+      "position": "Sales And Marketing Specialist at Jio",
+      "employee_id": "Man_066",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Brand Management",
+        "Negotiation",
+        "Communication",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Rakesh Kilari",
+      "position": "Fund services analyst at The Citco group limited.",
+      "employee_id": "Man_067",
+      "skills": [
+        "Fund services",
+        "Financial Analysis",
+        "Data Analysis",
+        "Risk Management",
+        "Client Reporting",
+        "Investment Management",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Neha Kumari",
+      "position": "HR Professional ।। HR Operations, Employee Relation, Employee Engagement, Recruitment, Payroll Management and Compliance",
+      "employee_id": "Man_068",
+      "skills": [
+        "HR Operations",
+        "Employee Relation",
+        "Employee Engagement",
+        "Recruitment",
+        "Payroll Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Manish Singh",
+      "position": "Assistant Vice President @ Yucollect | P&L Ownership & GTM Strategy | Senior Sales Leader with experience at Khatabook, BharatPe, PhonePe, GPI and Vodafone",
+      "employee_id": "Man_069",
+      "skills": [
+        "P&L Ownership",
+        "GTM Strategy",
+        "Sales Leadership",
+        "Business Development",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Management",
+        "Client Relations",
+        "Revenue Growth",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sumeet Dhillon",
+      "position": "Strategic alliances and partnership head with expertise into fintech NBFC banking and FMCG segment",
+      "employee_id": "Man_070",
+      "skills": [
+        "Strategic Alliances",
+        "Partnership Management",
+        "Fintech",
+        "NBFC",
+        "Banking",
+        "FMCG"
+      ]
+    },
+    {
+      "name": "Ashutosh Panigrahy",
+      "position": "Full Stack Software Developer @TCG Digital | IITKGP | Financial Engineering",
+      "employee_id": "Man_071",
+      "skills": [
+        "Full Stack Development",
+        "Software Development",
+        "Financial Engineering"
+      ]
+    },
+    {
+      "name": "Mahender Chawla",
+      "position": "",
+      "employee_id": "Man_072",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Gaurav Bhusari",
+      "position": "Head of Inside Sales at TeamLease | Driving Scalable Revenue Growth | B2B Sales Leader | Staffing Solutions Expert",
+      "employee_id": "Man_073",
+      "skills": [
+        "Inside Sales",
+        "Revenue Growth",
+        "B2B Sales",
+        "Staffing Solutions"
+      ]
+    },
+    {
+      "name": "Anuroop Omkar",
+      "position": "Founding Partner at AK & Partners | Honorary Director at Bridge Policy Think Tank | Lawyer |Mediator | Author | Policy Advisor",
+      "employee_id": "Man_074",
+      "skills": [
+        "Legal Research",
+        "Mediation",
+        "Policy Analysis",
+        "Writing",
+        "Advisory",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "BALAJI THAVAMANI",
+      "position": "Deputy Vice President - Risk Management - Solutions",
+      "employee_id": "Man_075",
+      "skills": [
+        "Risk Management",
+        "Solutions Development",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Leadership",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "RAMKUMAR SUBRAMONIAN",
+      "position": "Senior Banking Professional / IIM Calcutta / CBO/ Growth Leader",
+      "employee_id": "Man_076",
+      "skills": [
+        "Banking",
+        "Leadership",
+        "Growth Strategy",
+        "Financial Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sudipta Bose",
+      "position": "--",
+      "employee_id": "Man_077",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Atul Jadia",
+      "position": "Deputy Vice President & Area Business Manager at Kotak Mahindra Bank",
+      "employee_id": "Man_078",
+      "skills": [
+        "Business Management",
+        "Financial Services",
+        "Team Leadership",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Banking Operations",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Vinod Kulkarni",
+      "position": "E-commerce Executive | Chief of Staff | Business Restructuring | Data Analytics | CPG | Engineering R&D",
+      "employee_id": "Man_079",
+      "skills": [
+        "E-commerce",
+        "Chief of Staff",
+        "Business Restructuring",
+        "Data Analytics",
+        "CPG",
+        "Engineering R&D"
+      ]
+    },
+    {
+      "name": "Jaya Yadav",
+      "position": "MBA in Digital Marketing with the help of Imarticus learning.",
+      "employee_id": "Man_080",
+      "skills": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Vinay G",
+      "position": "Dedicated sales professional",
+      "employee_id": "Man_081",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Sales Forecasting",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vishal Narwal",
+      "position": "Fintech I Lending I Digital Payments I Consulting",
+      "employee_id": "Man_082",
+      "skills": [
+        "Fintech",
+        "Lending",
+        "Digital Payments",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Umesha Mulappa",
+      "position": "Vice President & Business Head - Primacy Industries Ltd.",
+      "employee_id": "Man_083",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Team Management",
+        "Market Analysis",
+        "Negotiation",
+        "Project Management",
+        "Sales Strategy",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Sanjay Raghuraman",
+      "position": "",
+      "employee_id": "Man_084",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Avinash Singh",
+      "position": "Deputy Manager - Training",
+      "employee_id": "Man_085",
+      "skills": [
+        "Training Management",
+        "Team Leadership",
+        "Employee Development",
+        "Performance Evaluation",
+        "Curriculum Design",
+        "Workshop Facilitation",
+        "Instructional Design",
+        "Public Speaking",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Debjit Roy",
+      "position": "Area Head, Government Business at IDFC FIRST Bank",
+      "employee_id": "Man_086",
+      "skills": [
+        "Government Business",
+        "Financial Services",
+        "Leadership",
+        "Strategic Planning",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Shivaji Biradar",
+      "position": "National collection manager",
+      "employee_id": "Man_087",
+      "skills": [
+        "Collection Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Data Analysis",
+        "Risk Management",
+        "Customer Service",
+        "Financial Reporting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Gunjan Kohli",
+      "position": "Payroll Manager UK PAYROLL",
+      "employee_id": "Man_088",
+      "skills": [
+        "Payroll Management",
+        "UK Payroll Regulations",
+        "Employee Benefits Administration",
+        "HRIS Systems",
+        "Compliance",
+        "Data Analysis",
+        "Financial Reporting",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Haripada Roy",
+      "position": "✅ Sr. Manager – L&D | WB & Assam | 14+ Yrs in BFSI & EduTech | Leadership Development | Instructional Designing| Talent Development & Capability Building",
+      "employee_id": "Man_089",
+      "skills": [
+        "Leadership Development",
+        "Instructional Designing",
+        "Talent Development",
+        "Capability Building"
+      ]
+    },
+    {
+      "name": "Deepankar Sadhukhan",
+      "position": "",
+      "employee_id": "Man_090",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Deepankar Sadhukhan",
+      "position": "",
+      "employee_id": "Man_091",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shobhan Modi",
+      "position": "National Operation Manager| MFIB|",
+      "employee_id": "Man_092",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Process Improvement",
+        "Budgeting",
+        "Vendor Management",
+        "Performance Metrics",
+        "Supply Chain Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "kapil kamath",
+      "position": "Manager - Marketing at JKPL Utility Packaging Solutions Pvt Ltd",
+      "employee_id": "Man_093",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Market Research",
+        "Team Leadership",
+        "Project Management",
+        "Digital Marketing",
+        "Customer Relationship Management",
+        "Sales Forecasting",
+        "Budget Management",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Himanshu Matta",
+      "position": "Deputy Vice President II at Indusind Bank Limited",
+      "employee_id": "Man_094",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Urmil Badami",
+      "position": "Business Lending for Maharashtra Region",
+      "employee_id": "Man_095",
+      "skills": [
+        "Business Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Market Research",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Chandrasekhar BS",
+      "position": "Senior Manager at Max Life Insurance Company Limited",
+      "employee_id": "Man_096",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Insurance",
+        "Risk Management",
+        "Financial Planning",
+        "Strategic Planning",
+        "Client Relations",
+        "Sales Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Dheeraj Kumar Sharma",
+      "position": "Driving Strategy, Operations & Intelligence",
+      "employee_id": "Man_097",
+      "skills": [
+        "Strategy Development",
+        "Operations Management",
+        "Business Intelligence",
+        "Leadership",
+        "Project Management",
+        "Analytical Thinking",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "J Harikrishna",
+      "position": "",
+      "employee_id": "Man_098",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dilpreet Singh Banga",
+      "position": "Banking at American Express",
+      "employee_id": "Man_099",
+      "skills": [
+        "Banking",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "Narendra Singh",
+      "position": "Sr. Manager - HDFC Bank | Fintech | Financial Inclusion | Rural Markets",
+      "employee_id": "Man_100",
+      "skills": [
+        "Financial Inclusion",
+        "Rural Markets",
+        "Fintech",
+        "Management"
+      ]
+    }
+  ]
+}

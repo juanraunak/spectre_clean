@@ -1,0 +1,431 @@
+{
+  "company_name": "Zestmoney",
+  "employees": [
+    {
+      "name": "Preethi Naik",
+      "position": "Content | UX | Design",
+      "employee_id": "Zes_001",
+      "skills": [
+        "Content Creation",
+        "UX Design",
+        "Graphic Design",
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Adobe Creative Suite",
+        "Sketch",
+        "Figma",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Ravi Petlur",
+      "position": "",
+      "employee_id": "Zes_002",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pingping Mao Shirley",
+      "position": "6+ Years VC investor，3 years China+ 3 ...",
+      "employee_id": "Zes_003",
+      "skills": [
+        "Venture Capital",
+        "Investment",
+        "Financial Analysis",
+        "Market Research",
+        "Portfolio Management",
+        "Due Diligence",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jogendra K.",
+      "position": "Software Engineer | Pilot",
+      "employee_id": "Zes_004",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "System Design",
+        "Algorithm Design",
+        "Problem Solving",
+        "Team Collaboration",
+        "Project Management",
+        "Flight Operations",
+        "Aviation Safety"
+      ]
+    },
+    {
+      "name": "Poojitha Pinniboyana",
+      "position": "Global SIA @Danone || Product Marketing @Crossbeam || HEC Paris MiM || Charpak Scholarship Holder || IIT Kharagpur",
+      "employee_id": "Zes_005",
+      "skills": [
+        "Product Marketing",
+        "Global Strategy",
+        "Market Analysis",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "‏Subhash Su‏",
+      "position": "‏Front Office Manager‏",
+      "employee_id": "Zes_006",
+      "skills": [
+        "Customer Service",
+        "Team Management",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Leadership",
+        "Front Office Operations",
+        "Conflict Resolution",
+        "Multitasking",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "Akshita Pingle",
+      "position": "",
+      "employee_id": "Zes_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Dharmesh S Mehta‏",
+      "position": "‏Gulf International Bank‏",
+      "employee_id": "Zes_008",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Stephanie Dcosta‏",
+      "position": "‏Admin and Operation Specialist/Personal ...",
+      "employee_id": "Zes_009",
+      "skills": [
+        "Administrative Support",
+        "Operations Management",
+        "Personal Assistance",
+        "Scheduling",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Microsoft Office",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Richard Newman CA, CFA, MBA",
+      "position": "Impact Investing | Sustainable Finance | Natural Climate Solutions",
+      "employee_id": "Zes_010",
+      "skills": [
+        "Impact Investing",
+        "Sustainable Finance",
+        "Natural Climate Solutions"
+      ]
+    },
+    {
+      "name": "Sašo Bunc",
+      "position": "VP Finance @ paretos ⎜ MBA ⎜ CFA",
+      "employee_id": "Zes_011",
+      "skills": [
+        "Finance",
+        "MBA",
+        "CFA",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "CHINMOY SARKER",
+      "position": "| Golden Music Company & Road Riderz RRz ...",
+      "employee_id": "Zes_012",
+      "skills": [
+        "Music Production",
+        "Event Management",
+        "Team Leadership",
+        "Marketing",
+        "Sales"
+      ]
+    },
+    {
+      "name": "Manish Kumar Tamaria",
+      "position": "",
+      "employee_id": "Zes_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Luigi Manghisoni",
+      "position": "Leonardo",
+      "employee_id": "Zes_014",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Communication",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Aina Ahmed – Senior Advisor at the Norwegian Tax Administration ...",
+      "position": "",
+      "employee_id": "Zes_015",
+      "skills": [
+        "Tax Advisory",
+        "Public Administration",
+        "Regulatory Compliance",
+        "Policy Development",
+        "Stakeholder Management",
+        "Financial Analysis",
+        "Project Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Jesús A. Bíquez Talayero",
+      "position": "",
+      "employee_id": "Zes_016",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Matteo Menegola",
+      "position": "Senior analyst working in Aviation industry",
+      "employee_id": "Zes_017",
+      "skills": [
+        "Data Analysis",
+        "Aviation industry expertise",
+        "Financial Modeling",
+        "Risk Management",
+        "Analytical skills"
+      ]
+    },
+    {
+      "name": "Pierre Cretin",
+      "position": "",
+      "employee_id": "Zes_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Juan Camilo Ramirez Mendez",
+      "position": "BNP Paribas",
+      "employee_id": "Zes_019",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Matteo Tonelli",
+      "position": "",
+      "employee_id": "Zes_020",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Francesco Calendi",
+      "position": "Flight Simulator Certification Specialist at CAE",
+      "employee_id": "Zes_021",
+      "skills": [
+        "Flight Simulator Certification",
+        "Aviation Safety",
+        "Regulatory Compliance",
+        "Technical Documentation",
+        "Project Management",
+        "Quality Assurance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Rajdeep Roy",
+      "position": "Experienced Revenue & Commercial Leader with a proven track record of delivering performance",
+      "employee_id": "Zes_022",
+      "skills": [
+        "Revenue Management",
+        "Commercial Strategy",
+        "Performance Delivery",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Ralph El-Nachef",
+      "position": "MBA (IE) | Consulting Manager | Finance Transformation | Driving Spending Efficiency",
+      "employee_id": "Zes_023",
+      "skills": [
+        "Consulting",
+        "Finance Transformation",
+        "Spending Efficiency",
+        "MBA"
+      ]
+    },
+    {
+      "name": "‏Arshad Mehdi‏",
+      "position": "‏Consultant Digital Banking, Payments, and Cards ...",
+      "employee_id": "Zes_024",
+      "skills": [
+        "Digital Banking",
+        "Payments",
+        "Cards",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Saurabh Pandey",
+      "position": "",
+      "employee_id": "Zes_025",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Project Management",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "‏Uriel Weisz‏",
+      "position": "‏Lvble‏",
+      "employee_id": "Zes_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sahana Narayan",
+      "position": "- Student",
+      "employee_id": "Zes_027",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Emanuele De Villa Bais",
+      "position": "HUMS Support Team Manager at Leonardo",
+      "employee_id": "Zes_028",
+      "skills": [
+        "Team Management",
+        "Support Services",
+        "Customer Service",
+        "Technical Support",
+        "Aerospace Industry"
+      ]
+    },
+    {
+      "name": "Mukti Jain",
+      "position": "Founder's Office at Hunch Ventures",
+      "employee_id": "Zes_029",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Market Research",
+        "Financial Analysis",
+        "Leadership",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Monika Dębska",
+      "position": "Manager Debt Collection",
+      "employee_id": "Zes_030",
+      "skills": [
+        "Debt Collection",
+        "Management",
+        "Customer Service",
+        "Negotiation",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Team Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sanjana Tandon",
+      "position": "Stanford University - Amsterdam, Noord-Holland ...",
+      "employee_id": "Zes_031",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Camino Torres Mancha",
+      "position": "Group Deputy COO Aquila Group",
+      "employee_id": "Zes_032",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Deependra Yadav",
+      "position": "Master of Molecular Systems Biology at ...",
+      "employee_id": "Zes_033",
+      "skills": [
+        "Molecular Systems Biology",
+        "Python",
+        "Data Analysis",
+        "Research",
+        "Laboratory Techniques",
+        "Bioinformatics",
+        "Scientific Writing"
+      ]
+    }
+  ]
+}

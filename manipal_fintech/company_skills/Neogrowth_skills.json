@@ -1,0 +1,386 @@
+{
+  "company_name": "Neogrowth",
+  "employees": [
+    {
+      "name": "Argho Chatterjee",
+      "position": "",
+      "employee_id": "Neo_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tainá Brito, PhD.",
+      "position": "Co-Founder @ HIBRIO",
+      "employee_id": "Neo_002",
+      "skills": [
+        "Project Management",
+        "Business Development",
+        "Strategic Planning",
+        "Leadership",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "name": "BHAVIKA PAREEK",
+      "position": "Senior Investment Officer- Asia Pacific, Triple Jump",
+      "employee_id": "Neo_003",
+      "skills": [
+        "Investment Analysis",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Financial Modeling",
+        "Market Research",
+        "Strategic Planning",
+        "Client Relations",
+        "Asia Pacific Markets"
+      ]
+    },
+    {
+      "name": "‏Rajan Sethi‏",
+      "position": "‏Investment Banker",
+      "employee_id": "Neo_004",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations",
+        "Negotiation",
+        "Financial Modeling",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "‏jalal bilal‏",
+      "position": "‏Senior Project Engineer‏ - ‏GENARAL TECHNICAL ...",
+      "employee_id": "Neo_005",
+      "skills": [
+        "Project Management",
+        "Engineering",
+        "Technical Analysis",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication",
+        "Budgeting",
+        "Scheduling",
+        "Quality Control",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Nayendra Reechaye",
+      "position": "Senior Manager",
+      "employee_id": "Neo_006",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Management",
+        "Budgeting",
+        "Negotiation",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "gaurav jain",
+      "position": "",
+      "employee_id": "Neo_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Animesh Mhatre",
+      "position": "Co-Founder @ Imprint Studios | Helping Brands Tell Product Stories with Premium 3D Videos | Marketing Strategist |",
+      "employee_id": "Neo_008",
+      "skills": [
+        "3D Videos",
+        "Marketing Strategy",
+        "Brand Storytelling"
+      ]
+    },
+    {
+      "name": "Kshitij Chandra Prasad",
+      "position": "Ops & Strategy Leader | Scaled Gojek Ads 40× | Product Ops • Sales Ops • RevOps | Start-up & Scale-up Growth",
+      "employee_id": "Neo_009",
+      "skills": [
+        "Product Ops",
+        "Sales Ops",
+        "RevOps",
+        "Start-up Growth",
+        "Scale-up Growth"
+      ]
+    },
+    {
+      "name": "‏Monica Durga‏",
+      "position": "‏Co-Founder & CTO at Slinky Network",
+      "employee_id": "Neo_010",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Software Development",
+        "Network Security",
+        "Cloud Computing",
+        "Team Collaboration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Akanksha Chauhan",
+      "position": "Head of Brand | Spearheading growth for Elysian Developments",
+      "employee_id": "Neo_011",
+      "skills": [
+        "Brand Management",
+        "Growth Strategy",
+        "Leadership",
+        "Marketing",
+        "Business Development",
+        "Project Management",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "‏Ashna Gupta‏",
+      "position": "‏Building Zynetic",
+      "employee_id": "Neo_012",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Kanika Khorana‏",
+      "position": "‏Compliance & Financial services professional with ...",
+      "employee_id": "Neo_013",
+      "skills": [
+        "Compliance",
+        "Financial Services",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Piyush Palkar",
+      "position": "",
+      "employee_id": "Neo_014",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sandhya Somu",
+      "position": "MarTech Associate | Financial Accounting | NUS MiM'22",
+      "employee_id": "Neo_015",
+      "skills": [
+        "Marketing Technology",
+        "Financial Accounting",
+        "Data Analysis",
+        "Project Management",
+        "Digital Marketing",
+        "Customer Relationship Management (CRM)",
+        "Marketing Automation",
+        "Analytics",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "‏Alwin Mathew‏",
+      "position": "‏Engineer Electrical Substations@ World's Best ...",
+      "employee_id": "Neo_016",
+      "skills": [
+        "Electrical Engineering",
+        "Substation Design",
+        "Power Systems",
+        "Project Management",
+        "AutoCAD",
+        "MATLAB",
+        "SCADA",
+        "Circuit Analysis",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Miguel Andre Cornejo Guanilo",
+      "position": "Data Engineer Cloud",
+      "employee_id": "Neo_017",
+      "skills": [
+        "Python",
+        "Data Engineering",
+        "Cloud Computing",
+        "SQL",
+        "ETL",
+        "Big Data",
+        "AWS",
+        "Data Warehousing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Nithin Harish",
+      "position": "Allego",
+      "employee_id": "Neo_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Simo Hakkarainen",
+      "position": "Managing Consultant at Columbia Road ...",
+      "employee_id": "Neo_019",
+      "skills": [
+        "Consulting",
+        "Project Management",
+        "Business Strategy",
+        "Digital Transformation",
+        "Client Relations",
+        "Team Leadership",
+        "Market Analysis",
+        "Sales Optimization",
+        "E-commerce",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Aishani Singh",
+      "position": "Marketing Coordinator at HPL Yamalova & Plewka FZCO",
+      "employee_id": "Neo_020",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Analytics",
+        "Project Management",
+        "Communication Skills",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "Abhijith Ullattil",
+      "position": "Manager- Sales Offshore at Aditya Birla Sun Life Asset Management Company with expertise in distribution strategies",
+      "employee_id": "Neo_021",
+      "skills": [
+        "Sales Management",
+        "Distribution Strategies",
+        "Offshore Sales",
+        "Asset Management"
+      ]
+    },
+    {
+      "name": "Eduardo Crivelari",
+      "position": "Executive Leader | Digital Growth & Customer Strategy | Internacional | Produtos & CX",
+      "employee_id": "Neo_022",
+      "skills": [
+        "Digital Growth",
+        "Customer Strategy",
+        "International Business",
+        "Product Management",
+        "Customer Experience"
+      ]
+    },
+    {
+      "name": "Riitta Grönroos",
+      "position": "Senior Development Manager at Telia Finland / Business Marketing Communication",
+      "employee_id": "Neo_023",
+      "skills": [
+        "Project Management",
+        "Business Development",
+        "Marketing Communication",
+        "Strategic Planning",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Budget Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "M. Işık Uman",
+      "position": "CEO at TPAY MOBILE , Board Member and Founder at Payguru",
+      "employee_id": "Neo_024",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Building",
+        "Negotiation",
+        "Project Management",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "name": "Joy Sen",
+      "position": "Partner Development Executive at Siemens Digital Industries Software",
+      "employee_id": "Neo_025",
+      "skills": [
+        "Partner Development",
+        "Business Strategy",
+        "Client Relationship Management",
+        "Sales",
+        "Market Analysis",
+        "Negotiation",
+        "Digital Transformation",
+        "Software Solutions"
+      ]
+    },
+    {
+      "name": "Markku Tapio Tuomola",
+      "position": "The WayMaker, GhostWriter, Executive ...",
+      "employee_id": "Neo_026",
+      "skills": [
+        "Creative Writing",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Syed Noman",
+      "position": "Azure Solution Specialist || Microsoft || Azure||AZ-900 ...",
+      "employee_id": "Neo_027",
+      "skills": [
+        "Azure",
+        "Solution Specialist",
+        "Microsoft",
+        "AZ-900"
+      ]
+    },
+    {
+      "name": "ChandraPrakash Mehta",
+      "position": "Finance Manager at Global Medical Supply Chain LLC",
+      "employee_id": "Neo_028",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Cost Management",
+        "Team Leadership",
+        "Excel",
+        "SAP"
+      ]
+    }
+  ]
+}

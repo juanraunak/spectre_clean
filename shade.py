@@ -225,6 +225,9 @@ class GoogleCSEEmployeeFinder:
             name = self._extract_name_from_title(title)
             if not name:
                 return None
+            c_suite_titles = ['CEO', 'CFO', 'CTO', 'COO', 'CMO', 'CIO', 'CHRO', 'CXO', 'CPO', 'CDO']
+            if any(title.upper().startswith(cs_title) for cs_title in c_suite_titles):
+                return None
             snippet = self._clean_snippet(result.get('snippet', ''))
             return RawEmployee(name=name, linkedin_url=linkedin_url, snippet=snippet, company=company_name)
         except Exception as e:
@@ -274,7 +277,7 @@ class BrightDataScraper:
         self.result_url = "https://api.brightdata.com/datasets/v3/snapshot/"
         self.headers = {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
 
-    def scrape_profiles_one_shot(self, urls: List[str], timeout_sec: int = 900) -> List[Dict[str, Any]]:
+    def scrape_profiles_one_shot(self, urls: List[str], timeout_sec: int = 100000) -> List[Dict[str, Any]]:
         urls = [u for u in urls if u]
         urls = list(dict.fromkeys(urls))[:100]
         if not urls:

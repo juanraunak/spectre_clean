@@ -1,0 +1,963 @@
+{
+  "company_name": "Cred",
+  "employees": [
+    {
+      "name": "Atul Khola",
+      "position": "",
+      "employee_id": "Cre_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Ahmed Mansour‏",
+      "position": "‏CEO at Cred Developments",
+      "employee_id": "Cre_002",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Team Management",
+        "Negotiation",
+        "Financial Analysis",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "‏Pavan Kumar N‏",
+      "position": "‏CRED‏",
+      "employee_id": "Cre_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Simon Xiao",
+      "position": "Five Cred Recycle Technology Co.,Ltd",
+      "employee_id": "Cre_004",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Recycling Technology",
+        "Environmental Sustainability"
+      ]
+    },
+    {
+      "name": "‏Claude Maroun, DPT,MPH, Cred MDT‏",
+      "position": "‏Director of Physical Therapy ...",
+      "employee_id": "Cre_005",
+      "skills": [
+        "Physical Therapy",
+        "Public Health",
+        "Mechanical Diagnosis and Therapy",
+        "Healthcare Management",
+        "Patient Care",
+        "Rehabilitation",
+        "Team Leadership",
+        "Program Development"
+      ]
+    },
+    {
+      "name": "Janis Z.",
+      "position": "Specialize in the sneaker shoe-making machine - I am the RIGHT PERSON you are looking for.",
+      "employee_id": "Cre_006",
+      "skills": [
+        "Sneaker shoe-making machine expertise"
+      ]
+    },
+    {
+      "name": "Zaynab Gates",
+      "position": "Senior Research & Teacher Trainer Coordinator at CRED | 2025 Echidna Global Scholar at the Center for Universal Education, The Brookings Institution",
+      "employee_id": "Cre_007",
+      "skills": [
+        "Research",
+        "Teacher Training",
+        "Education Policy",
+        "Program Coordination",
+        "Curriculum Development",
+        "Professional Development",
+        "Public Speaking",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "João Vitor Ramos Tonolli",
+      "position": "CRED",
+      "employee_id": "Cre_008",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "‏Sherif Saleh‏",
+      "position": "‏Transformational Leader in Real Estate",
+      "employee_id": "Cre_009",
+      "skills": [
+        "Transformational Leadership",
+        "Real Estate Management",
+        "Strategic Planning",
+        "Team Building",
+        "Negotiation",
+        "Project Management",
+        "Market Analysis",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "‏Ramy Attalah‏",
+      "position": "‏Chief Technical Officer - Cred Developments‏",
+      "employee_id": "Cre_010",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Software Development",
+        "System Architecture",
+        "Team Management",
+        "Technical Expertise",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rafael Platero",
+      "position": "Supervisor de Marketing e Assessor de Imprensa ...",
+      "employee_id": "Cre_011",
+      "skills": [
+        "Marketing Strategy",
+        "Public Relations",
+        "Team Leadership",
+        "Project Management",
+        "Content Creation",
+        "Social Media Management",
+        "Market Research",
+        "Brand Management",
+        "Communication Skills",
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "Yiannis Sotiralis",
+      "position": "MSc, OMPT, EDPP, Cred.MDT",
+      "employee_id": "Cre_012",
+      "skills": [
+        "Physical Therapy",
+        "Orthopedic Manual Physical Therapy",
+        "Exercise Prescription",
+        "Mechanical Diagnosis and Therapy",
+        "Patient Assessment",
+        "Rehabilitation",
+        "Pain Management",
+        "Clinical Reasoning",
+        "Manual Therapy Techniques",
+        "Evidence-Based Practice"
+      ]
+    },
+    {
+      "name": "Thodoris Tsiouris",
+      "position": "Physical Therapist, Cred.MDT",
+      "employee_id": "Cre_013",
+      "skills": [
+        "Physical Therapy",
+        "MDT Credentialing",
+        "Patient Assessment",
+        "Rehabilitation",
+        "Therapeutic Exercise",
+        "Manual Therapy",
+        "Pain Management",
+        "Post-Surgical Recovery",
+        "Injury Prevention",
+        "Health Education"
+      ]
+    },
+    {
+      "name": "Jacobo Granados Bernal",
+      "position": "Cred & Colle Analyst en Goodyear | Corporate Finances",
+      "employee_id": "Cre_014",
+      "skills": [
+        "Corporate Finance",
+        "Credit Analysis",
+        "Collections",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Yuridia Vargas",
+      "position": "Sub-Director Riesgo Inf Cred Parametrico en Banorte",
+      "employee_id": "Cre_015",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Risk",
+        "Parametric Modeling",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Flora Muijzer",
+      "position": "Physiotherapist, Cred. MDT McKenzie Therapist ...",
+      "employee_id": "Cre_016",
+      "skills": [
+        "Physiotherapy",
+        "McKenzie Therapy"
+      ]
+    },
+    {
+      "name": "Benedicte Grevstad",
+      "position": "Partner CRED AS",
+      "employee_id": "Cre_017",
+      "skills": [
+        "Strategic Planning",
+        "Business Development",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Negotiation",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Wellington Mastrangelo",
+      "position": "",
+      "employee_id": "Cre_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Benites Lopes",
+      "position": "Siga Cred - Meios de Pagamento - Smart Payment Solutions",
+      "employee_id": "Cre_019",
+      "skills": [
+        "Smart Payment Solutions",
+        "Payment Processing",
+        "Financial Technology",
+        "Customer Service",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ahmed Alam El Deen",
+      "position": "Sales Director",
+      "employee_id": "Cre_020",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Sales Training",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Robson Marques",
+      "position": "Founder & CEO - TR Cred",
+      "employee_id": "Cre_021",
+      "skills": [
+        "Leadership",
+        "Entrepreneurship",
+        "Business Development",
+        "Strategic Planning",
+        "Financial Management",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Diego Saucedo",
+      "position": "Oficial de ventas en Boston cred",
+      "employee_id": "Cre_022",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Negotiation",
+        "Communication",
+        "Market Analysis",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Eduardo Fernandez",
+      "position": "CEO en MC CENTER / MC CRED SA",
+      "employee_id": "Cre_023",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Management",
+        "Negotiation",
+        "Project Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Guilherme Garófalo",
+      "position": "CRED MHS - Engenheiro de segurança na ...",
+      "employee_id": "Cre_024",
+      "skills": [
+        "Security Engineering",
+        "Risk Management",
+        "Safety Protocols",
+        "Incident Response",
+        "Compliance",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Elena Lili",
+      "position": "Bsc Physiotherapist, MLD/CDT Therapist, Cred. MDT ...",
+      "employee_id": "Cre_025",
+      "skills": [
+        "Physiotherapy",
+        "MLD/CDT Therapy",
+        "MDT Therapy"
+      ]
+    },
+    {
+      "name": "Carlos Eduardo Fontanella",
+      "position": "Gerente comercial na Cred Estados Soluções Financeiras",
+      "employee_id": "Cre_026",
+      "skills": [
+        "Sales Management",
+        "Commercial Strategy",
+        "Financial Solutions",
+        "Client Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation Skills",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luminita Marcu",
+      "position": "Expert at CRED Foundation - Swiss Centre for ...",
+      "employee_id": "Cre_027",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Claria Jones",
+      "position": "Credit Specialist - Cred",
+      "employee_id": "Cre_028",
+      "skills": [
+        "Credit Analysis",
+        "Risk Assessment",
+        "Financial Reporting",
+        "Customer Service",
+        "Loan Processing",
+        "Debt Collection",
+        "Microsoft Excel",
+        "Attention to Detail",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "DANIEL LIDER CRED",
+      "position": "DIRETOR",
+      "employee_id": "Cre_029",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Management",
+        "Budgeting",
+        "Financial Analysis",
+        "Business Development",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Guilherme Naressi",
+      "position": "Gerente de relacionamento comercial na Soldi Cred Fomento Mercantil Ltda",
+      "employee_id": "Cre_030",
+      "skills": [
+        "Relationship Management",
+        "Commercial Strategy",
+        "Client Acquisition",
+        "Sales Management",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Deriel Domene de Oliveira",
+      "position": "CEO na Domene Cred",
+      "employee_id": "Cre_031",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Management",
+        "Negotiation",
+        "Market Analysis",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Luciana Pacheco",
+      "position": "Correspondente Bancária CEO EXECUTIVA ...",
+      "employee_id": "Cre_032",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Risk Assessment",
+        "Team Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Gaston Palma",
+      "position": "Presidente de empresa en PALMA CRED S.A.",
+      "employee_id": "Cre_033",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Management",
+        "Negotiation",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Juliano Marchi",
+      "position": "Proprietario na Nova Cred",
+      "employee_id": "Cre_034",
+      "skills": [
+        "Financial Analysis",
+        "Business Development",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Sales Management"
+      ]
+    },
+    {
+      "name": "Felipe Capelete",
+      "position": "Cofundador na Soldi Cred Fomento Mercantil",
+      "employee_id": "Cre_035",
+      "skills": [
+        "Entrepreneurship",
+        "Business Development",
+        "Financial Services",
+        "Credit Analysis",
+        "Risk Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Vanderleia Cardoso",
+      "position": "Fundadora e CEO da WK CRED Consultoria e Negócios | Blumenau, Santa Catarina.",
+      "employee_id": "Cre_036",
+      "skills": [
+        "Business Development",
+        "Strategic Planning",
+        "Leadership",
+        "Financial Consulting",
+        "Risk Management",
+        "Negotiation",
+        "Project Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Martha Rita",
+      "position": "Tec.Cred - +++",
+      "employee_id": "Cre_037",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Claudio Nubar Kalaigian",
+      "position": "Cred-System",
+      "employee_id": "Cre_038",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "OMAR RODRIGO CASILLAS DIAZ",
+      "position": "Director Comercial y Operaciones en PCTV (Prom.Cred.Tit.Viv.)",
+      "employee_id": "Cre_039",
+      "skills": [
+        "Commercial Strategy",
+        "Operations Management",
+        "Sales Leadership",
+        "Business Development",
+        "Team Management",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Project Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Neverson knies",
+      "position": "A Gaúcha Cred é uma empresa que trabalha com ...",
+      "employee_id": "Cre_040",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Francine Rodrigues",
+      "position": "Gerente de conta na Sicoob Cred Copercana ...",
+      "employee_id": "Cre_041",
+      "skills": [
+        "Account Management",
+        "Customer Service",
+        "Sales",
+        "Financial Services",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Marcelo Alves de Souza",
+      "position": "",
+      "employee_id": "Cre_042",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dirson Rodrigues Manhaussane",
+      "position": "Vision Cred",
+      "employee_id": "Cre_043",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "sangoold guilherme de souza",
+      "position": "Gerente Geral na CRED-UFES",
+      "employee_id": "Cre_044",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "João Paulo Barra Palmieri",
+      "position": "CEO PALMIERI CRED e PALMIERI SOLUTIONS",
+      "employee_id": "Cre_045",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Project Management",
+        "Negotiation",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Ayfer Kazan Batti – Interim Consultant/Owner Cred Redovisning ...",
+      "position": "",
+      "employee_id": "Cre_046",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Tax Planning",
+        "Business Strategy",
+        "Consulting",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Tiago Silva",
+      "position": "DIRETOR ADMINISTRATIVO NA JMTI CRED",
+      "employee_id": "Cre_047",
+      "skills": [
+        "Administrative Management",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Team Coordination",
+        "Project Management",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Guillaume Dufrenne",
+      "position": "Kinésithérapeute DE, Cred. MDT - Ostéopathe ...",
+      "employee_id": "Cre_048",
+      "skills": [
+        "Physical Therapy",
+        "Osteopathy",
+        "Manual Therapy",
+        "McKenzie Method",
+        "Patient Assessment",
+        "Rehabilitation",
+        "Exercise Prescription",
+        "Pain Management",
+        "Injury Prevention"
+      ]
+    },
+    {
+      "name": "Rodrigo Martins",
+      "position": "Empreendedor Cred Solution (Grupo SP) Serviços Financeiros / RH / Operações / Novos Projetos",
+      "employee_id": "Cre_049",
+      "skills": [
+        "Financial Services",
+        "Human Resources",
+        "Operations Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "ESocial Cred",
+      "position": "Democratizando o Acesso a Crédito",
+      "employee_id": "Cre_050",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ireneusz Michalski",
+      "position": "Physio, Cred. McKenzie MDT",
+      "employee_id": "Cre_051",
+      "skills": [
+        "Physiotherapy",
+        "McKenzie Method",
+        "Patient Assessment",
+        "Rehabilitation",
+        "Exercise Prescription",
+        "Manual Therapy",
+        "Pain Management",
+        "Injury Prevention"
+      ]
+    },
+    {
+      "name": "Siga Cred Administradora",
+      "position": "Um novo conceito em cartão de crédito ...",
+      "employee_id": "Cre_052",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Claudio Bernardino",
+      "position": "CEO DIRETA CRED Financeira|Comunicação PMAL|Treinador INTELIGÊNCIA EMOCIONAL|Formado GESTÃO PÚBLICA/ ELEITORAL|Pr na IEAV AL|PÓS MBA COMUNICAÇÃO EMPRESARIAL/INSTITUCIONAL/INFORMAÇÃO ESTRATÉGIA NEGÓCIOS/Marido/Pai/Avô!",
+      "employee_id": "Cre_053",
+      "skills": [
+        "Finance",
+        "Communication",
+        "Emotional Intelligence Training",
+        "Public Management",
+        "Electoral Management",
+        "Corporate Communication",
+        "Institutional Communication",
+        "Strategic Business Information"
+      ]
+    },
+    {
+      "name": "Vitor Valentin Piuco Ghellere",
+      "position": "Diretor Executivo na Twa Fomento Comercial / OG Cred Fidc NP / Guidi Construções",
+      "employee_id": "Cre_054",
+      "skills": [
+        "Executive Leadership",
+        "Commercial Development",
+        "Financial Management",
+        "Construction Management"
+      ]
+    },
+    {
+      "name": "Marcella Bertelli Capeletti",
+      "position": "Sócia proprietária na MG Cred Campinas",
+      "employee_id": "Cre_055",
+      "skills": [
+        "Business Management",
+        "Financial Services",
+        "Customer Relations",
+        "Sales",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Patrick Mendes",
+      "position": "Gerente Regional SP na Tok Real Cred | Vendas, Gestão de carteiras e Gestão de equipes.",
+      "employee_id": "Cre_056",
+      "skills": [
+        "Vendas",
+        "Gestão de carteiras",
+        "Gestão de equipes"
+      ]
+    },
+    {
+      "name": "Thiago Magre",
+      "position": "Owner na Delta Finance & Delta Cred",
+      "employee_id": "Cre_057",
+      "skills": [
+        "Financial Analysis",
+        "Business Development",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "MARCELO CALDAS",
+      "position": "Sócio - Projeção Cred.",
+      "employee_id": "Cre_058",
+      "skills": [
+        "Financial Analysis",
+        "Credit Management",
+        "Risk Assessment",
+        "Business Strategy",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Tiago Leal",
+      "position": "Gerente de vendas na REAL CRED",
+      "employee_id": "Cre_059",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Eric Coneglian",
+      "position": "Secretário Adjunto de Planejamento e Gestão | Diretor Financeiro Hiper Cred Fomento Mercantil",
+      "employee_id": "Cre_060",
+      "skills": [
+        "Planning",
+        "Management",
+        "Financial Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Financial Analysis",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Reabilita Cred",
+      "position": "Assessoria jurídica",
+      "employee_id": "Cre_061",
+      "skills": [
+        "Legal Research",
+        "Contract Negotiation",
+        "Litigation Support",
+        "Regulatory Compliance",
+        "Case Management",
+        "Legal Writing",
+        "Client Consultation",
+        "Document Review"
+      ]
+    },
+    {
+      "name": "Cris van der Wijst",
+      "position": "sr. Solution Creator Cred-IT",
+      "employee_id": "Cre_062",
+      "skills": [
+        "Solution Creation",
+        "IT Solutions",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Problem Solving",
+        "Client Relations",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Jheferson Chiarelli",
+      "position": "Proprietário",
+      "employee_id": "Cre_063",
+      "skills": [
+        "Business Management",
+        "Strategic Planning",
+        "Leadership",
+        "Customer Service",
+        "Sales",
+        "Marketing",
+        "Financial Management",
+        "Team Building"
+      ]
+    },
+    {
+      "name": "Daniele de Aquino",
+      "position": "Diretora comercial na DUE CRED S/A",
+      "employee_id": "Cre_064",
+      "skills": [
+        "Sales Management",
+        "Business Development",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Aurelien Marchive",
+      "position": "kinésithérapeute - Cred MDT - cofondateur ...",
+      "employee_id": "Cre_065",
+      "skills": [
+        "Physiotherapy",
+        "Cred MDT",
+        "Co-founder"
+      ]
+    },
+    {
+      "name": "Gleyce Kelly Carvalho Batista",
+      "position": "Assistente Financeiro na Cred Certo ...",
+      "employee_id": "Cre_066",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Reconciliation",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Samuel Feray",
+      "position": "PT, MSc, Cred MDT, DIU Vertige - Kine - Centre ...",
+      "employee_id": "Cre_067",
+      "skills": [
+        "Physical Therapy",
+        "MSc",
+        "Cred MDT",
+        "DIU Vertige",
+        "Kinesiology"
+      ]
+    },
+    {
+      "name": "Eliane de Paula",
+      "position": "Original Cred",
+      "employee_id": "Cre_068",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Jose Ignacio Aizpurua",
+      "position": "Presidente en Coop.de Viv,Cred. y Cons. PATAGONICA Ltda",
+      "employee_id": "Cre_069",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Credit Analysis",
+        "Customer Service",
+        "Team Management",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Igor Bini",
+      "position": "Gerente de operações na Infinity Cred",
+      "employee_id": "Cre_070",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Financial Analysis",
+        "Project Management",
+        "Customer Service",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "500+ perfiles de «Bajiya»",
+      "position": "",
+      "employee_id": "Cre_071",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "11800+ perfiles de «Arjun !»",
+      "position": "",
+      "employee_id": "Cre_072",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    }
+  ]
+}

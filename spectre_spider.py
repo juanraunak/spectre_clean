@@ -38,7 +38,7 @@ DELAY_BETWEEN_SEARCHES_MS = int(os.getenv("DELAY_BETWEEN_SEARCHES_MS", "800"))  
 DELAY_BETWEEN_FETCH_BATCHES_MS = int(os.getenv("DELAY_BETWEEN_FETCH_BATCHES_MS", "400"))  # Reduced delay
 DELAY_BETWEEN_EMPLOYEES_MS = int(os.getenv("DELAY_BETWEEN_EMPLOYEES_MS", "1000"))  # Delay between employee batches
 
-PROCESS_LIMIT = int(os.getenv("PROCESS_LIMIT", "3"))  # Limit number of courses to generate
+PROCESS_LIMIT = int(os.getenv("PROCESS_LIMIT", ""))  # Limit number of courses to generate
 EMPLOYEE_SELECTION = os.getenv("EMPLOYEE_SELECTION", )  # Options: "random", "first", "specific", "interactive"
 # Robust env parsing (no crash when var is missing)
 SPECIFIC_EMPLOYEES = [
@@ -661,7 +661,8 @@ class SpiderKing:
                 ]
             }}
             
-            Create progressive learning that bridges from existing skills to new skill."""
+            Create progressive learning that bridges from existing skills to new skill. Make the number of topics and chapters to minimum max 3 chapters and max topic per chapter 3 """
+            
         }
         
         usr = {

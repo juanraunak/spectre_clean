@@ -1,0 +1,3035 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_EARLYSALARY",
+    "target_company": "EarlySalary",
+    "mission_timestamp": "2025-08-30T18:44:26.218259",
+    "completion_timestamp": "2025-08-30T18:44:26.218259",
+    "mission_status": "COMPLETED"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_employees_found": 10,
+      "detailed_profiles_scraped": 6,
+      "scraping_success_rate": 60.0
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Lalimaa N.",
+          "linkedin_url": "https://www.linkedin.com/in/lalimaa/hi",
+          "company": "EarlySalary",
+          "search_snippet": "Lalimaa N. Client Servicing Executive at Greysell Marketing Promotions Pvt. Ltd. EarlySalary- Instant Salary Advance for Employees Patkar-Varde College ...",
+          "title": "Client Servicing Executive at Greysell Marketing ..."
+        },
+        "detailed_profile": {
+          "id": "lalimaa",
+          "name": "Lalimaa N.",
+          "city": "Haarlem, North Holland, Netherlands",
+          "country_code": "NL",
+          "position": "Actively seeking for job opportunities in Amsterdam or remote",
+          "about": "Experienced Account Manager with a demonstrated history of working in the advertising industry. Skilled in Advertising, Business Development, and Marketing Strategy. Strong advertising professional with a degree focused in Advertising.",
+          "current_company": {
+            "link": "https://in.linkedin.com/company/fibe-in?trk=public_profile_topcard-current-company",
+            "name": "EarlySalary- Instant Salary Advance for Employees",
+            "company_id": "fibe-in",
+            "title": "Actively seeking for job opportunities in Amsterdam or remote",
+            "location": null
+          },
+          "experience": [
+            {
+              "title": "Assistant Brand Manager Marketing",
+              "location": "Pune, Maharashtra, India",
+              "description_html": null,
+              "start_date": "Feb 2022",
+              "end_date": "Jan 2023",
+              "company": "EarlySalary- Instant Salary Advance for Employees",
+              "company_id": "fibe-in",
+              "url": "https://in.linkedin.com/company/fibe-in",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGgUJf7uEUWYA/company-logo_100_100/company-logo_100_100/0/1664177320665/fibe_in_logo?e=2147483647&v=beta&t=zM5Fb1OPSDCTeQ3adF1l-ZD0e-dskeQw8xy10OWlmz0"
+            },
+            {
+              "title": "Assistant Manager - Brand Communication",
+              "location": "Pune, Maharashtra, India",
+              "description_html": null,
+              "start_date": "Dec 2020",
+              "end_date": "Feb 2022",
+              "company": "Bajaj Allianz General Insurance",
+              "company_id": "bajaj-allianz-general-insurance",
+              "url": "https://in.linkedin.com/company/bajaj-allianz-general-insurance",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQESuH_DZ1CTCA/company-logo_100_100/company-logo_100_100/0/1681819571338/bajaj_allianz_general_insurance_logo?e=2147483647&v=beta&t=FHk53j8maIMOAK3wCTlLLiyL2Od5q63s9ULubm-VEFU"
+            },
+            {
+              "title": "Brand Services Asociate",
+              "location": "Mumbai Area, India",
+              "description_html": null,
+              "start_date": "Oct 2018",
+              "end_date": "Dec 2020",
+              "company": "Leo Burnett",
+              "company_id": "leo-burnett",
+              "url": "https://www.linkedin.com/company/leo-burnett",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnx6LUc0RefQ/company-logo_100_100/B4EZhhGn5.HIAU-/0/1753975783970/leo_burnett_logo?e=2147483647&v=beta&t=D-SxkY2SqOyzPPOoM_kdubAJeTBrykSyaIo3jBeIjOo"
+            },
+            {
+              "title": "Account Manager",
+              "location": "Mumbai Area, India",
+              "description_html": null,
+              "start_date": "Jul 2017",
+              "end_date": "Oct 2018",
+              "company": "Greysell Marketing Promotions Pvt. Ltd.",
+              "company_id": "greysellad",
+              "url": "https://in.linkedin.com/company/greysellad",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQF2oPUpMDKytg/company-logo_100_100/company-logo_100_100/0/1660975039579/greysellad_logo?e=2147483647&v=beta&t=FL_TcZ_BYl9UG1G38ULGyy6DvN5SRE1TVPT3dU9dfZg"
+            },
+            {
+              "title": "Brand Activation Intern",
+              "location": "Mumbai, Maharashtra, India",
+              "description_html": null,
+              "start_date": "Oct 2016",
+              "end_date": "Nov 2016",
+              "company": "Wizcraft International Entertainment Pvt. Ltd.",
+              "company_id": "wizcraft",
+              "url": "https://in.linkedin.com/company/wizcraft",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQG9O2BnrdueSg/company-logo_100_100/company-logo_100_100/0/1630595537065/wizcraft_logo?e=2147483647&v=beta&t=iGHEL9_gO1W_TcaaUZLhQ0sCn-LN7K5FWJF_4-oCUkU"
+            },
+            {
+              "title": "Account Manager Intern",
+              "location": "Bandra, Mumbai",
+              "description_html": null,
+              "start_date": "Apr 2016",
+              "end_date": "Sep 2016",
+              "company": "TheSocial",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Law & Kenneth Saatchi & Saatchi Pvt Ltd.",
+              "location": "Mumbai Area, India",
+              "description_html": null,
+              "duration": "5 months",
+              "positions": [
+                {
+                  "subtitle": "Law & Kenneth Saatchi & Saatchi Pvt Ltd.",
+                  "meta": "Feb 2015 - Mar 2015 2 months",
+                  "start_date": "Feb 2015",
+                  "end_date": "Mar 2015",
+                  "title": "Account Manager Intern",
+                  "description_html": null,
+                  "location": "Mumbai Area, India"
+                },
+                {
+                  "subtitle": "Law & Kenneth Saatchi & Saatchi Pvt Ltd.",
+                  "meta": "Nov 2014 - Jan 2015 3 months",
+                  "start_date": "Nov 2014",
+                  "end_date": "Jan 2015",
+                  "title": "Social Media Intern",
+                  "description_html": null,
+                  "location": "Mumbai, Maharashtra, India"
+                }
+              ],
+              "company": "Law & Kenneth Saatchi & Saatchi Pvt Ltd.",
+              "company_id": "saatchiindia",
+              "url": "https://in.linkedin.com/company/saatchiindia?trk=public_profile_experience-group-header",
+              "company_logo_url": null
+            }
+          ],
+          "url": "https://www.linkedin.com/in/lalimaa/hi",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/mudit-kohli-a465aba4?trk=public_profile_browsemap-profile",
+              "name": "Mudit Kohli",
+              "about": null,
+              "location": "Gurugram"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/pranali-rane?trk=public_profile_browsemap-profile",
+              "name": "Pranali Rane",
+              "about": "Senior Manager Marketing at Orion Innovation",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/prabhsinghs?trk=public_profile_browsemap-profile",
+              "name": "Prabhpreet Singh Sihra",
+              "about": "Performance Marketing|All-Things Media|Digital Strategy|Consumer Insights|Research",
+              "location": "Canada"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rohit-parkar-media-planner?trk=public_profile_browsemap-profile",
+              "name": "Rohit Parkar",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/tejaswi-kapil-47274a79?trk=public_profile_browsemap-profile",
+              "name": "Tejaswi Kapil",
+              "about": "Sr . Media Manager at Xapads Media Private Limited",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/snehil-trivedi-11841a111?trk=public_profile_browsemap-profile",
+              "name": "Snehil Trivedi",
+              "about": null,
+              "location": "Gurugram"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/bajoria-rashi?trk=public_profile_browsemap-profile",
+              "name": "Rashi Bajoria",
+              "about": "Digital marketer at MYK LATICRETE | Brand & Marketing strategist | Completed certification in Digital Marketing from MICA",
+              "location": "Greater Hyderabad Area"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/karishma-desai-71a63391?trk=public_profile_browsemap-profile",
+              "name": "Karishma Desai",
+              "about": "Client Success|Performance Marketing| AI Marketing Strategist",
+              "location": "Greater Toronto Area, Canada"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/mudita-dwivedi-80689664?trk=public_profile_browsemap-profile",
+              "name": "Mudita Dwivedi",
+              "about": "Lead Marcom Brand Manager @ Airtel | Strategic Branding, Market Insights",
+              "location": "Pune"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/lokesh-sharma-6957b4148?trk=public_profile_browsemap-profile",
+              "name": "Lokesh Sharma",
+              "about": "Business/Operations Head - Mumbai | Digital & Content Marketing | ATL & BTL Expert | Brand Strategy | Influencer & Growth Marketing | Video Production | PR | P&L Ownership | 50+ Brands | 9+ Yrs in Media & Advertising",
+              "location": "Mumbai"
+            }
+          ],
+          "educations_details": "Patkar-Varde College",
+          "education": [
+            {
+              "title": "Patkar-Varde College",
+              "degree": "BMM",
+              "field": "Advertising",
+              "start_year": "2014",
+              "end_year": "2017",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw"
+            }
+          ],
+          "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+          "languages": [
+            {
+              "subtitle": "Limited working proficiency",
+              "title": "English Hindi Marathi"
+            }
+          ],
+          "followers": 1511,
+          "connections": 500,
+          "current_company_company_id": "fibe-in",
+          "current_company_name": "EarlySalary- Instant Salary Advance for Employees",
+          "location": "Haarlem",
+          "input_url": "https://www.linkedin.com/in/lalimaa/hi",
+          "linkedin_id": "lalimaa",
+          "activity": [
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/monica-dubey1603_pleased-to-be-on-the-jury-for-the-10club-activity-7362000148266201088-0lGY",
+              "title": "Pleased to be on the Jury for the 10%CLUB Finalists of 2025’s 1000 Women Leaders Program - the largest cohort of women professionals undergoing a…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQHfpGS99uexCw/feedshare-shrink_800/B4DZisUHGLH4Ag-/0/1755237613118?e=2147483647&v=beta&t=Ne40fFt_DY49cPYcUX-GDeaL4X5eGxPb9pyZT2wJuFs",
+              "id": "7362000148266201088"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_say-hello-to-the-double-centurion-the-new-activity-7346530413621727232-2voO",
+              "title": "Say Hello to the Double Centurion, the new Indian Test Captain 💪 Congratulations to the Ambassador of LifeGoals, long term consistency, advocated…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEaO6v0qm7IWw/feedshare-shrink_2048_1536/B56ZfQeePfG0Aw-/0/1751549340911?e=2147483647&v=beta&t=ZVeoLTRQOQtZJXUA1wdmDPg2A-5cGuW9R5ptEbrZfZQ",
+              "id": "7346530413621727232"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/monica-dubey1603_mentorshipmatters-womeninleadership-jombay-activity-7343985588095586304-wg8G",
+              "title": "Grateful for Another Year of Mentorship 💫 1000 Women Leaders Program - the largest cohort of women professionals undergoing a development journey…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQFhw0FTWKxwLQ/feedshare-shrink_1280/B4DZesT.H3G8As-/0/1750942607734?e=2147483647&v=beta&t=mUAPAgo3cx6-_n6zRa1PhL50-jZ4dFzmoBE6GISuGn8",
+              "id": "7343985588095586304"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_sanjivbajaj-activity-7335930668956168192-X2zk",
+              "title": "Grateful and humbled to be acknowledged by the leadership at Bajaj Finserv Leadership Awards. Fortunate to be in the midst of incredible peers, at…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQH5Usr2qEB6MA/feedshare-shrink_800/B56Zc51.XUG0Ak-/0/1749022164365?e=2147483647&v=beta&t=JZMvLb3NW7vgpIpbk3qS_vG50iy6Mbq5rFS9IqPF8D8",
+              "id": "7335930668956168192"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_lifegoalsdone-siso-activity-7331963412463198208-HNrr",
+              "title": "Congratulations Shubman, for being appointed as the new Captain of Indian Team. Long term focus always triumphs ! #LifeGoalsDone #SISO",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQE_2UU6U0TtuA/feedshare-shrink_2048_1536/B56ZcBdx2nHUAs-/0/1748076298715?e=2147483647&v=beta&t=UdYkoCEpmW-JGOrjVY6h7YgVk9esFKDR3fuMEtB_1Mc",
+              "id": "7331963412463198208"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_superwomenofmarketing-activity-7316301925526736896-2k8c",
+              "title": "Meet the Superwomen of my team. Bhavana is an avid dancer, Kismat part-time Zumba instructor, Anshita Badminton enthusiast, Ananya writes poetry…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQF24DTiT6J2ew/feedshare-shrink_800/B56ZYi50cEHEAg-/0/1744342307782?e=2147483647&v=beta&t=noPtLptHnJUIPDM0Geug35czZV5U5vb2juIq6lwgkfQ",
+              "id": "7316301925526736896"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/smitalshintre_poured-my-heart-out-and-shared-my-journey-activity-7311043007267405826-HqKd",
+              "title": "Poured my heart out and shared my journey with my colleagues, friends, and family at Collective Artists Network offsite 2025 Collective Artists…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQGQazDllkhQMw/feedshare-shrink_1280/B4DZXYK3tEHYAs-/0/1743088484513?e=2147483647&v=beta&t=y_MCNG2LxXWjgo_FcxtVrPttsKqJYzxQGQB52fKHn0Q",
+              "id": "7311043007267405826"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/tarunchughbajajallianzlife_pleased-to-witness-energy-and-optimism-from-activity-7307682729460953090-n91c",
+              "title": "Pleased to witness energy and optimism from our employees, partners and several stakeholders as we embark on a new journey. Bajaj Group will be…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQFp-jEqACXqTw/feedshare-shrink_800/B4DZWoaqrhHkAg-/0/1742287330942?e=2147483647&v=beta&t=Szg7LQH--AAotSB8iKfOIu8VY_296MQGoMVWIRhwcjs",
+              "id": "7307682729460953090"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandni-birla-31347b154_internationalwomensday-womeninmarketing-activity-7303693762482884608-k9ME",
+              "title": "This #InternationalWomensDay, I’m thrilled to celebrate and stand alongside this incredible team of creative and driven women in marketing! 💜 Our…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQElOioctrrfgg/feedshare-shrink_2048_1536/B4EZVvuk7NHcAs-/0/1741336287968?e=2147483647&v=beta&t=GsgMJvdOP4OtsNzsLSL2_oTEl-VtYdgWaLT0zGfp2d0",
+              "id": "7303693762482884608"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_balic-wins-best-insurance-campaign-life-activity-7282662893785882624-sEYI",
+              "title": "BALIC wins Best Insurance Campaign (Life Insurance category), second year in a row. Thanks FICCI Bajaj Allianz Life Insurance",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHurDBeA7iYCA/feedshare-shrink_800/B56ZQ7e_vaGQAg-/0/1736164769723?e=2147483647&v=beta&t=VOkUrlKbjxh7ZteGIRxpvTstiy8m9QmwEso9Fm04cDk",
+              "id": "7282662893785882624"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_applause-for-17000-plus-participants-at-activity-7273930818593386496-qC9u",
+              "title": "Applause for 17,000 plus participants at Bajaj Allianz Pune Marathon 2024, this Sunday morning 👏 Hopefully they inspire 17Lwho will inspire 17Mn…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQFpFeu3d8wENg/feedshare-shrink_800/B56ZPIxgmtHIAg-/0/1734240249031?e=2147483647&v=beta&t=HWJXxA45xvlJ48FI5B-jQrEZGDnEtrZ28fauh-1xNBg",
+              "id": "17000"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/chandramohan-mehra-286752_why-do-we-curate-marathon-plankathon-and-activity-7272201126781808640--44T",
+              "title": "Why do we curate Marathon, Plankathon and other wellness and fitness initiatives? We believe leading a healthy life is the best life insurance one…",
+              "img": "https://media.licdn.com/dms/image/v2/D5605AQHrcAOd5i_xcQ/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1733827770422?e=2147483647&v=beta&t=Z0yq1Fh7V6VDdWBo8MEkNKJui2AAAgqemx_Gr_Xg2TI",
+              "id": "7272201126781808640"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/vikrant-yadav-32076516_directed-the-new-retirement-film-for-hdfc-activity-7272185223805591552-SGgL",
+              "title": "Directed the new Retirement Film for HDFC Life that explores the theme of 'empty nester'. Created in partnership with Leo Burnett India - Rajdeepak…",
+              "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHQhW8HDP84wQ/feedshare-video-thumbnail-high/feedshare-video-thumbnail-high/0/1733824061197?e=2147483647&v=beta&t=btNqErSZ_aev8p8Wfq9b1cs2SSc2ldi3jrJeN3sBq7g",
+              "id": "7272185223805591552"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/tejaswitandel_contentmarketing-gratitude-teamwork-activity-7269398960077762560-a8oE",
+              "title": "Feeling incredibly honored to be recognized as the Best Content Marketing this year. 🏆 This achievement wouldn’t have been possible without the…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQE43cSud5LDsg/feedshare-shrink_800/feedshare-shrink_800/0/1733159769189?e=2147483647&v=beta&t=VbHtYnaItq1MmRJ6hVRcKSN_9WW9DsKwAp05W670tLM",
+              "id": "7269398960077762560"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/tejimandiapp_newoffice-newbeginnings-officeexpansion-activity-7262718745742053379-CSWb",
+              "title": "Welcome to Our New Thane Office! 🏢🎊 With this new space comes fresh energy, purpose, and endless possibilities. Our team has found the perfect…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQECK3mu8j3spw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731567079497?e=2147483647&v=beta&t=Wr6I5Ui3AMGkIr98FWDwGqSB9XsWXOi7ZbeJpXrdL7U",
+              "id": "7262718745742053379"
+            },
+            {
+              "interaction": "Liked by Lalimaa N.",
+              "link": "https://www.linkedin.com/posts/azazul-haque-9912469_sir-kuch-bacha-nahi-advertising-mein-client-activity-7262167803439267841-TqCK",
+              "title": "\"Sir, Kuch bacha nahi advertising mein! Client give scripts not briefs anymore. Or they dictate the scripts. Content mein, long format mein creative…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7262167803439267841"
+            }
+          ],
+          "linkedin_num_id": "479875890",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/mudit-kohli-a465aba4",
+              "name": "Mudit Kohli",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/mudit-kohli-a465aba4"
+            },
+            {
+              "url": "https://in.linkedin.com/in/pranali-rane",
+              "name": "Pranali Rane",
+              "title": "Senior Manager Marketing at Orion Innovation",
+              "url_text": "https://in.linkedin.com/in/pranali-rane"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/prabhsinghs",
+              "name": "Prabhpreet Singh Sihra",
+              "title": "Performance Marketing|All-Things Media|Digital Strategy|Consumer Insights|Research",
+              "url_text": "https://ca.linkedin.com/in/prabhsinghs"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rohit-parkar-media-planner",
+              "name": "Rohit Parkar",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/rohit-parkar-media-planner"
+            },
+            {
+              "url": "https://in.linkedin.com/in/tejaswi-kapil-47274a79",
+              "name": "Tejaswi Kapil",
+              "title": "Sr . Media Manager at Xapads Media Private Limited",
+              "url_text": "https://in.linkedin.com/in/tejaswi-kapil-47274a79"
+            },
+            {
+              "url": "https://in.linkedin.com/in/snehil-trivedi-11841a111",
+              "name": "Snehil Trivedi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/snehil-trivedi-11841a111"
+            },
+            {
+              "url": "https://in.linkedin.com/in/bajoria-rashi",
+              "name": "Rashi Bajoria",
+              "title": "Digital marketer at MYK LATICRETE | Brand & Marketing strategist | Completed certification in Digital Marketing from MICA",
+              "url_text": "https://in.linkedin.com/in/bajoria-rashi"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/karishma-desai-71a63391",
+              "name": "Karishma Desai",
+              "title": "Client Success|Performance Marketing| AI Marketing Strategist",
+              "url_text": "https://ca.linkedin.com/in/karishma-desai-71a63391"
+            },
+            {
+              "url": "https://in.linkedin.com/in/mudita-dwivedi-80689664",
+              "name": "Mudita Dwivedi",
+              "title": "Lead Marcom Brand Manager @ Airtel | Strategic Branding, Market Insights",
+              "url_text": "https://in.linkedin.com/in/mudita-dwivedi-80689664"
+            },
+            {
+              "url": "https://in.linkedin.com/in/lokesh-sharma-6957b4148",
+              "name": "Lokesh Sharma",
+              "title": "Business/Operations Head - Mumbai | Digital & Content Marketing | ATL & BTL Expert | Brand Strategy | Influencer & Growth Marketing | Video Production | PR | P&L Ownership | 50+ Brands | 9+ Yrs in Media & Advertising",
+              "url_text": "https://in.linkedin.com/in/lokesh-sharma-6957b4148"
+            }
+          ],
+          "default_avatar": true,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Lalimaa",
+          "last_name": "N.",
+          "timestamp": "2025-08-30T18:00:42.927Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/lalimaa/hi"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Sowjanya Swamy‏",
+          "linkedin_url": "https://www.linkedin.com/in/sowjanya-swamy-4436101a6",
+          "company": "EarlySalary",
+          "search_snippet": "Companies like Browserstack, NEC Group, Pharmeasy, Chumbak, Trell, EarlySalary, Zapr Media, SumTotal Systems, Netcracker, Practera, etc., have all switched ...",
+          "title": "‏I add 3x benefits to your group Health Insurance ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Fahmeed Ali‏",
+          "linkedin_url": "https://www.linkedin.com/in/fahmeed-ali-3235452b",
+          "company": "EarlySalary",
+          "search_snippet": "الإبلاغ عن هذا الملف الشخصي; Close menu. الخبرة. رسم بياني British Airways. AIRPORT MANAGER. British Airways. أبريل ١٩٩٠⁦ ⁩ - الحالي 35 عام 5 شهر.",
+          "title": "‏Regional Airports Manager at British Airways‏"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sanjay Sharda",
+          "linkedin_url": "https://www.linkedin.com/in/sanjay-sharda-341457",
+          "company": "EarlySalary",
+          "search_snippet": "Lokasyon: Metro Manila · 500+ koneksyon sa LinkedIn. Tingnan ang profile ni Sanjay Sharda sa LinkedIn, isang propesyonal na komunidad na may 1 bilyong ...",
+          "title": "Metro Manila"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ritik Tomar – Project Manager",
+          "linkedin_url": "https://www.linkedin.com/in/ritik-tomar-5057b8134",
+          "company": "EarlySalary",
+          "search_snippet": "Project Manager | Program Manager | Business Developer | Chemical Recycling Expert | Professional Cricketer · Project Manager with experience across the ...",
+          "title": ""
+        },
+        "detailed_profile": {
+          "id": "ritik-tomar-5057b8134",
+          "name": "Ritik Tomar",
+          "city": "Prague, Czechia",
+          "country_code": "CZ",
+          "position": "Project Manager | Program Manager | Business Developer | Chemical Recycling Expert | Professional Cricketer",
+          "about": "Project Manager with experience across the defense, chemical, petrochemical, and energy sectors. Currently focused on leading strategic and operational initiatives in the defense industry, managing and optimizing explosives production with a strong emphasis on safety, regulatory compliance, and process efficiency. Previously led sustainability-driven projects, including chemical recycling ♻️, waste-to-energy solutions, and renewable energy. Skilled in overseeing complex projects from R&D to execution, bringing a cross-sectoral perspective to industrial innovation and production. Experienced in team coordination, stakeholder communication, and delivering projects on time and within budget. Holding an M.Sc. in Applied Physics and pursuing a Ph.D. in chemical recycling ♻️ and alternative plastic fuels. Committed to leveraging technical expertise and project management skills to drive sustainable innovations.",
+          "current_company": {
+            "name": "Czechoslovak Group",
+            "company_id": "czechoslovak-group",
+            "title": "Project Manager",
+            "location": "Prague, Czechia"
+          },
+          "experience": [
+            {
+              "title": "Project Manager",
+              "location": "Prague, Czechia",
+              "description_html": null,
+              "start_date": "Jan 2025",
+              "end_date": "Present",
+              "company": "Czechoslovak Group",
+              "company_id": "czechoslovak-group",
+              "url": "https://cz.linkedin.com/company/czechoslovak-group",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHdSX5v9nRLvA/company-logo_100_100/company-logo_100_100/0/1701040224006/czechoslovak_group_logo?e=2147483647&v=beta&t=7_pmLQvssFQhZ-UIEfzZoIW1Jjcft-UqPHm70ISy2oo"
+            },
+            {
+              "title": "Program Manager",
+              "location": "Neratovice, Central Bohemia, Czechia",
+              "description_html": null,
+              "start_date": "Sep 2022",
+              "end_date": "Jan 2025",
+              "company": "SPOLANA",
+              "company_id": "spolana-neratovice",
+              "url": "https://cz.linkedin.com/company/spolana-neratovice",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEmaizdtJGMog/company-logo_100_100/company-logo_100_100/0/1631313030979?e=2147483647&v=beta&t=6YYlHBW58GgOYKMQBxZY9iw3yQplFAoWHLGBMz5mUVc"
+            },
+            {
+              "title": "Junior Researcher",
+              "location": "Most, Ústí nad Labem, Czechia",
+              "description_html": null,
+              "start_date": "Jan 2021",
+              "end_date": "Sep 2022",
+              "company": "ORLEN UniCRE a.s.",
+              "company_id": "unipetrol-vyzkumne-vzdelavaci-centrum",
+              "url": "https://cz.linkedin.com/company/unipetrol-vyzkumne-vzdelavaci-centrum",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFM50_6zz1q8A/company-logo_100_100/company-logo_100_100/0/1630636354419/unipetrol_vyzkumne_vzdelavaci_centrum_logo?e=2147483647&v=beta&t=lditL6-PhDBg_aVwILh7QTdYfW2MiCiIgRMqIGLGzPk"
+            },
+            {
+              "title": "Research Scholar",
+              "location": "Prague, Czechia",
+              "description_html": null,
+              "start_date": "Mar 2019",
+              "end_date": "Dec 2020",
+              "company": "Institute of Plasma Physics of the Czech Academy of Sciences",
+              "company_id": "institute-of-plasma-physics-as-cr-prague",
+              "url": "https://cz.linkedin.com/company/institute-of-plasma-physics-as-cr-prague",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFbgv-yrJey3Q/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630644627429/institute_of_plasma_physics_as_cr_prague_logo?e=2147483647&v=beta&t=ZUxcuH4shj0xPw9WCu8rPrrJlSdmQBA9jrYjX_PBGj4"
+            },
+            {
+              "title": "Research Fellow",
+              "description_html": null,
+              "start_date": "Dec 2016",
+              "end_date": "Jun 2018",
+              "company": "Indian Institute of Science Education & Research (IISER), Kolkata",
+              "url": "https://in.linkedin.com/school/indian-institute-of-science-education-&-research-iiser-kolkata/",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGQPVZdHkscrQ/company-logo_100_100/company-logo_100_100/0/1631387428343?e=2147483647&v=beta&t=_3_TiP0zGa1wAc9aQHkxQhkQffZQVVNPz05obxCdoOE"
+            },
+            {
+              "title": "Plasma Physics and its Applications",
+              "location": "Geneva Area, Switzerland",
+              "description": "I have done a certification course from edx in Plasma Physics.",
+              "description_html": "I have done a certification course from edx in Plasma Physics. <!---->",
+              "start_date": "Jan 2018",
+              "end_date": "Mar 2018",
+              "company": "edX",
+              "url": "https://www.linkedin.com/school/edx/",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_100_100/company-logo_100_100/0/1688142646299/edx_logo?e=2147483647&v=beta&t=6X99OXWmzoLBmJDMl70Yg4nUiwExtJ4_US7nv8JpWMs"
+            },
+            {
+              "title": "Research Fellow",
+              "location": "Mumbai Area, India",
+              "description_html": null,
+              "start_date": "May 2015",
+              "end_date": "Jun 2016",
+              "company": "Bhabha Atomic Research Centre",
+              "company_id": "bhabha-atomic-research-centre",
+              "url": "https://in.linkedin.com/company/bhabha-atomic-research-centre",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/ritik-tomar-5057b8134",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/vandana-k-gupta-ph-d-a0025b30?trk=public_profile_browsemap-profile",
+              "name": "Vandana K Gupta, Ph.D",
+              "about": "Project Scientist at Ministry Of Earth Sciences, Government of India",
+              "location": "New Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ankush-hada?trk=public_profile_browsemap-profile",
+              "name": "Ankush Hada",
+              "about": "IIT Delhi | Reliance | Filament Yarn Marketing | Fibrefill and Nonwoven | Polyester and man-made Fibre |",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/richasharma284?trk=public_profile_browsemap-profile",
+              "name": "Richa Sharma",
+              "about": "University of British Columbia, Vancouver",
+              "location": "Vancouver, BC"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/kusuma-g-rao-35761b59?trk=public_profile_browsemap-profile",
+              "name": "Kusuma G Rao",
+              "about": "Director, Institute for Advanced Research in Science (IARSc)",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/vinod-kumar-yadav-52629239?trk=public_profile_browsemap-profile",
+              "name": "Vinod Kumar Yadav",
+              "about": "Research Scholar at Forest research Institute, Dehardun",
+              "location": "Dehradun"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/gayathri-venkatramanan-186046158?trk=public_profile_browsemap-profile",
+              "name": "Gayathri Venkatramanan",
+              "about": "PhD Scholar",
+              "location": "Madurai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/mohit-mehra-2b53409a?trk=public_profile_browsemap-profile",
+              "name": "Mohit Mehra",
+              "about": "Research Analyst at Guardian Capital",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/abu-huzaifa-8601915a?trk=public_profile_browsemap-profile",
+              "name": "Abu Huzaifa",
+              "about": "Research Fellow at Central Pollution Control Board, Delhi",
+              "location": "Delhi, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/dr-dipika-patel-6a07b635?trk=public_profile_browsemap-profile",
+              "name": "Dr. Dipika Patel",
+              "about": "SVNIT Surat",
+              "location": "Gujarat, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/satyendra-singh-60a9b428?trk=public_profile_browsemap-profile",
+              "name": "Satyendra Singh",
+              "about": "Scientist at ISRO",
+              "location": "India"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/saurav-saswat-rout-14267b15a?trk=public_profile_browsemap-profile",
+              "name": "Saurav Saswat Rout",
+              "about": "Doctoral Student at University of Saskatchewan",
+              "location": "Saskatoon, SK"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sagar-savaliya-5b290a110?trk=public_profile_browsemap-profile",
+              "name": "Sagar Savaliya",
+              "about": "Sr. chemist at KLJ Petroplast",
+              "location": "Anklesvar"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/anurag-verma-a47b6a15a?trk=public_profile_browsemap-profile",
+              "name": "Anurag Verma",
+              "about": "Engineering Manager",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/geo-sunny?trk=public_profile_browsemap-profile",
+              "name": "Geo Sunny",
+              "about": "Engineering Lead",
+              "location": "Kerala, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/vcspalla?trk=public_profile_browsemap-profile",
+              "name": "Venkata Chandra Sekhar Palla, PhD",
+              "about": "Senior Scientist at Indian Institute of Petroleum || Ex Scientist at Refining R&D, Reliance Industries Limited || Ph.D & M.Tech from IIT Hyderabad || B.Tech from SVUCE, Tirupati",
+              "location": "Dehradun"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/meet-govani-a24a8b8b?trk=public_profile_browsemap-profile",
+              "name": "Meet Govani",
+              "about": "Environment Engineer",
+              "location": "Rajkot"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/manisha-gour-988b86bb?trk=public_profile_browsemap-profile",
+              "name": "Manisha Gour",
+              "about": "Director/AVP at Morgan Stanley, FRM",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/dr-narakula-srinivasa-rao-96041a5a?trk=public_profile_browsemap-profile",
+              "name": "Dr. Narakula Srinivasa Rao",
+              "about": null,
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/imran19921?trk=public_profile_browsemap-profile",
+              "name": "Imran khan",
+              "about": "Building Abyom | Ex-ISRO | Ex-GE",
+              "location": "Thiruvananthapuram Taluk"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/niharicaogale?trk=public_profile_browsemap-profile",
+              "name": "Niharica Ogale",
+              "about": "Environment Energy | Research",
+              "location": "Ahmedabad"
+            }
+          ],
+          "educations_details": "University of Chemistry and Technology in Prague (UCT Prague)",
+          "education": [
+            {
+              "title": "University of Chemistry and Technology in Prague (UCT Prague)",
+              "degree": "Phd student",
+              "field": "Department of power engineering",
+              "url": "https://cz.linkedin.com/school/vschtpraha/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2019",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE8SboC-aFL7w/company-logo_100_100/company-logo_100_100/0/1631348297296?e=2147483647&v=beta&t=8CoBl1aJMEJO7Kyp7qLJtN3edoY3I85rBhODpM4O_Qo"
+            },
+            {
+              "title": "Indian Institute of Science Education & Research (IISER), Kolkata",
+              "degree": "Plasma and High-Temperature Physics",
+              "url": "https://in.linkedin.com/school/indian-institute-of-science-education-&-research-iiser-kolkata/?trk=public_profile_school_profile-section-card_image-click",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGQPVZdHkscrQ/company-logo_100_100/company-logo_100_100/0/1631387428343?e=2147483647&v=beta&t=_3_TiP0zGa1wAc9aQHkxQhkQffZQVVNPz05obxCdoOE"
+            },
+            {
+              "title": "Delhi University",
+              "degree": "Bachelor's degree",
+              "field": "Physics",
+              "url": "https://in.linkedin.com/school/delhi-university/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2010",
+              "end_year": "2013",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGNYUwkC1YEEQ/company-logo_100_100/company-logo_100_100/0/1674548936157/_logo?e=2147483647&v=beta&t=s5bOWQboZ1eCGxWELJNX_9ekmwXAlDX5Sw71AaqpkM0"
+            },
+            {
+              "title": "Amity University, Gautam Budh Nagar",
+              "degree": "Master's degree",
+              "field": "Engineering Physics/Applied Physics",
+              "url": "https://in.linkedin.com/school/amity-university-greater-noida/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2014",
+              "end_year": "2016",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEXPVJjYuCmKg/company-logo_100_100/company-logo_100_100/0/1630532915212/amity_university_greater_noida_logo?e=2147483647&v=beta&t=TxEZCW7glo6P3SwfsCtIQrhucM7-n46WV5mnO0zNySk"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGPoatqA-1l3w/profile-displayphoto-shrink_200_200/B56ZQT9bhNHQAY-/0/1735501659204?e=2147483647&v=beta&t=ixDlXHWKRmwD7670HaZD8jqHccMa-Wt5_8mZXFcVZ_4",
+          "followers": 676,
+          "connections": 500,
+          "current_company_company_id": "czechoslovak-group",
+          "current_company_name": "Czechoslovak Group",
+          "location": "Prague",
+          "input_url": "https://www.linkedin.com/in/ritik-tomar-5057b8134",
+          "linkedin_id": "ritik-tomar-5057b8134",
+          "activity": [
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://cz.linkedin.com/posts/alenakozakova_freshsummit-activity-7322572636708917248-EHPw",
+              "title": "❤️ HR FRESH = SYMBIÓZA HR & BYZNYSU 🫶 👉 Nejdříve jsem nad pozváním od Gabči Gabriela Hrbáčková váhala. Nevím, zda jsem tou správnou osobou a zda…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQH7J2k-3Nep0w/feedshare-shrink_1280/B4EZZ8BAlIHMAo-/0/1745837362386?e=2147483647&v=beta&t=lvWhY-mGrc-uBdXNByxopkrWaUVgvpCN2QhgSg_V3aQ",
+              "id": "7322572636708917248"
+            },
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://www.linkedin.com/posts/alenakozakova_csg-talent-program-2025-has-started-activity-7308825357531426816-VMWR",
+              "title": "🚀CSG TALENT PROGRAM 2025 HAS STARTED! 🚀 🌎 Czechoslovak Group Prague Headquartes welcomed participants of 2025 CSG TALENT PROGRAM ! 🌎 KEY…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQGI0hd9ANvtNA/feedshare-shrink_800/B4EZW4p7I0HcAg-/0/1742559754446?e=2147483647&v=beta&t=asAUrOWoJfOX5Xri1M_3M0FoHOvoAwMBZ54SQddWjzw",
+              "id": "2025"
+            },
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://www.linkedin.com/posts/michal-strnad_csg-is-celebrating-its-30th-anniversary-activity-7302627237177028609-P766",
+              "title": "CSG is celebrating its 30th anniversary. Thirty years ago, my father founded EXCALIBUR ARMY spol. s r.o. Over time, a group formed around it, which I…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQEBWK8GjuHpiQ/feedshare-shrink_800/B4EZVgkwtqHMAk-/0/1741082008208?e=2147483647&v=beta&t=csAEQH9YQSzI9zI--4Ql4eh14kB0KUna4soki_SPBE0",
+              "id": "7302627237177028609"
+            },
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://cz.linkedin.com/posts/tatra-a-s-_rettmobil-tatra-tatratrucks-activity-7292466050015588352-rPvq",
+              "title": "🆕 Třetí generace TATRA FORCE s dvoudveřovou kabinou pózovala na tatrováckém polygonu🔥 Tento moderní hasičský vůz s novou kabinou a nástavbou od…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQE_K84AZ6KKaQ/feedshare-shrink_800/B4DZTQLMklHIAg-/0/1738659391022?e=2147483647&v=beta&t=RCtm48C9U0E3QGIVhJTCTXBWwXj7yNRq8nFibA1vts8",
+              "id": "7292466050015588352"
+            },
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://cz.linkedin.com/posts/milan-matou%C5%A1ek-547337a4_czechoslovakgroup-csgrail-dakocz-activity-7282328860480733185-rhLQ",
+              "title": "Czechoslovak Group vítá novou posilu: Jiří Malkus jako generální ředitel CSG Rail! S potěšením oznamuji, že Jiří Malkus se stal generálním…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQHwM1Wdq_DNpQ/feedshare-shrink_800/B4EZRAHgY6HEAg-/0/1736242497992?e=2147483647&v=beta&t=TfvF_9nI0VDJS-LeBQqnPlxRtsjbZYC3l8IMVSg7X5o",
+              "id": "7282328860480733185"
+            },
+            {
+              "interaction": "Liked by Ritik Tomar",
+              "link": "https://cz.linkedin.com/posts/czechoslovak-group_2024-byl-rokem-r%C5%AFstu-a-inovace-activity-7284576619023769600-_SeA",
+              "title": "Minulý rok byl plný akce. Od nové generace tatrovek, přes oslavy 700 let FMG až po akvizici americké The Kinetic Group. Pojďme letos oslavit 30 let…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D10AQGcXNzFzsFu-Q/ads-video-thumbnail_720_1280/ads-video-thumbnail_720_1280/0/1736778034201/PF_1-1_1080pmp4?e=2147483647&v=beta&t=iFQlMHsCjgXMDUK7CA49-Dl2eLrB2kV6ZUcqq7lS5ng",
+              "id": "7284576619023769600"
+            }
+          ],
+          "linkedin_num_id": "551405525",
+          "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGmui6Sjs6Hgw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737028610577?e=2147483647&v=beta&t=f7yJGUimanepxFqXVbJt7uOOi4foC4mfhfCQqO3QTXo",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/vandana-k-gupta-ph-d-a0025b30",
+              "name": "Vandana K Gupta, Ph.D",
+              "title": "Project Scientist at Ministry Of Earth Sciences, Government of India",
+              "url_text": "https://in.linkedin.com/in/vandana-k-gupta-ph-d-a0025b30"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ankush-hada",
+              "name": "Ankush Hada",
+              "title": "IIT Delhi | Reliance | Filament Yarn Marketing | Fibrefill and Nonwoven | Polyester and man-made Fibre |",
+              "url_text": "https://in.linkedin.com/in/ankush-hada"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/richasharma284",
+              "name": "Richa Sharma",
+              "title": "University of British Columbia, Vancouver",
+              "url_text": "https://ca.linkedin.com/in/richasharma284"
+            },
+            {
+              "url": "https://in.linkedin.com/in/kusuma-g-rao-35761b59",
+              "name": "Kusuma G Rao",
+              "title": "Director, Institute for Advanced Research in Science (IARSc)",
+              "url_text": "https://in.linkedin.com/in/kusuma-g-rao-35761b59"
+            },
+            {
+              "url": "https://in.linkedin.com/in/vinod-kumar-yadav-52629239",
+              "name": "Vinod Kumar Yadav",
+              "title": "Research Scholar at Forest research Institute, Dehardun",
+              "url_text": "https://in.linkedin.com/in/vinod-kumar-yadav-52629239"
+            },
+            {
+              "url": "https://in.linkedin.com/in/gayathri-venkatramanan-186046158",
+              "name": "Gayathri Venkatramanan",
+              "title": "PhD Scholar",
+              "url_text": "https://in.linkedin.com/in/gayathri-venkatramanan-186046158"
+            },
+            {
+              "url": "https://in.linkedin.com/in/mohit-mehra-2b53409a",
+              "name": "Mohit Mehra",
+              "title": "Research Analyst at Guardian Capital",
+              "url_text": "https://in.linkedin.com/in/mohit-mehra-2b53409a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/abu-huzaifa-8601915a",
+              "name": "Abu Huzaifa",
+              "title": "Research Fellow at Central Pollution Control Board, Delhi",
+              "url_text": "https://in.linkedin.com/in/abu-huzaifa-8601915a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/dr-dipika-patel-6a07b635",
+              "name": "Dr. Dipika Patel",
+              "title": "SVNIT Surat",
+              "url_text": "https://in.linkedin.com/in/dr-dipika-patel-6a07b635"
+            },
+            {
+              "url": "https://in.linkedin.com/in/satyendra-singh-60a9b428",
+              "name": "Satyendra Singh",
+              "title": "Scientist at ISRO",
+              "url_text": "https://in.linkedin.com/in/satyendra-singh-60a9b428"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/saurav-saswat-rout-14267b15a",
+              "name": "Saurav Saswat Rout",
+              "title": "Doctoral Student at University of Saskatchewan",
+              "url_text": "https://ca.linkedin.com/in/saurav-saswat-rout-14267b15a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sagar-savaliya-5b290a110",
+              "name": "Sagar Savaliya",
+              "title": "Sr. chemist at KLJ Petroplast",
+              "url_text": "https://in.linkedin.com/in/sagar-savaliya-5b290a110"
+            },
+            {
+              "url": "https://in.linkedin.com/in/anurag-verma-a47b6a15a",
+              "name": "Anurag Verma",
+              "title": "Engineering Manager",
+              "url_text": "https://in.linkedin.com/in/anurag-verma-a47b6a15a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/geo-sunny",
+              "name": "Geo Sunny",
+              "title": "Engineering Lead",
+              "url_text": "https://in.linkedin.com/in/geo-sunny"
+            },
+            {
+              "url": "https://in.linkedin.com/in/vcspalla",
+              "name": "Venkata Chandra Sekhar Palla, PhD",
+              "title": "Senior Scientist at Indian Institute of Petroleum || Ex Scientist at Refining R&D, Reliance Industries Limited || Ph.D & M.Tech from IIT Hyderabad || B.Tech from SVUCE, Tirupati",
+              "url_text": "https://in.linkedin.com/in/vcspalla"
+            },
+            {
+              "url": "https://in.linkedin.com/in/meet-govani-a24a8b8b",
+              "name": "Meet Govani",
+              "title": "Environment Engineer",
+              "url_text": "https://in.linkedin.com/in/meet-govani-a24a8b8b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/manisha-gour-988b86bb",
+              "name": "Manisha Gour",
+              "title": "Director/AVP at Morgan Stanley, FRM",
+              "url_text": "https://in.linkedin.com/in/manisha-gour-988b86bb"
+            },
+            {
+              "url": "https://in.linkedin.com/in/dr-narakula-srinivasa-rao-96041a5a",
+              "name": "Dr. Narakula Srinivasa Rao",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/dr-narakula-srinivasa-rao-96041a5a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/imran19921",
+              "name": "Imran khan",
+              "title": "Building Abyom | Ex-ISRO | Ex-GE",
+              "url_text": "https://in.linkedin.com/in/imran19921"
+            },
+            {
+              "url": "https://in.linkedin.com/in/niharicaogale",
+              "name": "Niharica Ogale",
+              "title": "Environment Energy | Research",
+              "url_text": "https://in.linkedin.com/in/niharicaogale"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Ritik",
+          "last_name": "Tomar",
+          "timestamp": "2025-08-30T18:00:33.343Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/ritik-tomar-5057b8134"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pranjal Parihar",
+          "linkedin_url": "https://www.linkedin.com/in/pranjalparihar/fr",
+          "company": "EarlySalary",
+          "search_snippet": "HSBC BANK | Indian Institute of Foreign Trade | Hanken School of Economics, Helsinki · A Banker by profession, I started my career with IDFC BANK and was ...",
+          "title": "HSBC BANK"
+        },
+        "detailed_profile": {
+          "id": "pranjalparihar",
+          "name": "Pranjal Parihar",
+          "city": "Gurugram, Haryana, India",
+          "country_code": "IN",
+          "position": "LinkedIn Top Voice | Structured Solutions - Kotak Private | Capital Account Transaction | MBA (IB) IIFT & Hanken School of Economics",
+          "about": "A banker with almost a decade of dynamic, cross-functional experience, I specialize in transaction banking, International trade, M&A, MNC banking, FEMA transactions, and strategic solutions for businesses across industries and actively working with Law firms, Consultancies and CAs in structuring cross border M&A deals and Complex transactions. My journey began with IDFC First Bank, where I contributed to its foundational growth, setting the stage for my passion for impactful banking solutions. At ICICI Bank, I was a founding member of the Capital Account Transactions team, where I worked on complex FEMA transactions and structured deals in Mumbai, the country's largest market. This role allowed me to scale the business significantly and build a robust network of intermediaries and stakeholders. In my recent role with HSBC, I led Transaction Banking for startups and MNCs in Delhi NCR, crafting tailored solutions for one of the most dynamic verticals in the banking ecosystem. Currently, as part of the Structured Solutions team at Kotak Private, I collaborate with law firms, consultants, private equity players, and other ecosystem partners to navigate cross-border and M&A transaction structuring, along with providing bespoke banking solutions to Pan-India clients. I thrive in strategically challenging environments and believe in blending technical acumen with a personal touch to foster enduring relationships. My education in International Business and global exposure, including a defining exchange program in Helsinki, have equipped me with a nuanced understanding of multiple industries and cross-border business intricacies. Beyond banking, I am a passionate sportsperson, having represented my teams in Karate, Basketball, and Cricket at various levels. A devoted Lakers and Arsenal fan, I find inspiration both on the court and the pitch. Traveling, exploring new cultures, and connecting with diverse people are my sources of rejuvenation, while writing provides me with an avenue to reflect and share insights. Feel free to check out my blog, where I delve into banking-related topics: https://ifintale.wordpress.com/category/banking/. If you're seeking a partner who deeply understands startups, FEMA regulations, and tailored banking solutions across industries, I’d love to connect and explore how I can help you achieve your business objectives. Disclaimer: Views expressed here are my personal opinions and not endorsements.",
+          "current_company": {
+            "name": "Kotak Private",
+            "company_id": "kotakpvt",
+            "title": "Deputy Vice President",
+            "location": "Delhi, India"
+          },
+          "experience": [
+            {
+              "title": "Deputy Vice President",
+              "location": "Delhi, India",
+              "description": "I collaborate with law firms, consultants, private equity players, and other ecosystem partners to navigate cross-border and M&A transaction structuring, along with providing bespoke banking solutions to Pan-India clients.",
+              "description_html": "I collaborate with law firms, consultants, private equity players, and other ecosystem partners to navigate cross-border and M&amp;A transaction structuring, along with providing bespoke banking solutions to Pan-India clients. <!---->",
+              "start_date": "Sep 2024",
+              "end_date": "Present",
+              "company": "Kotak Private",
+              "company_id": "kotakpvt",
+              "url": "https://in.linkedin.com/company/kotakpvt",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFlJveQAzCz8A/company-logo_100_100/company-logo_100_100/0/1652710915583/kotakwealth_logo?e=2147483647&v=beta&t=MtHv833sFe2HlcQ585vf9J9VLb_1tP6p6tUynBrt41U"
+            },
+            {
+              "title": "Vice President Commercial Banking",
+              "location": "Gurugram, Haryana, India",
+              "description": "Building intermediaries relationships - Law firms, Accounting Firms, Consulting firms, PE/VCs and angel networks  New-to-Bank (NTB) acquisition (predominantly Startups /customers with cross-border operations) to add to the bank’s liabilities business Handling customer’s foreign remittances, trade transactions, Capital Account transactions, Payments & Receivables automation, Cash Management & Liquidity solutions.Achieving business targets: NTB client acquisitions, increasing CuA book, One-off deals, generating FX income, product penetration, etc. contributing towards incremental revenues for the bank.Spearheading business development events: webinars, knowledge sessions, networking sessions with Intermediaries/customers/trade bodies Promoting HSBC’s strategic partnerships with various partners under ‘Beyond Banking Supporting MNC clients via offshore relationship support, structured solutions, etc.",
+              "description_html": "Building intermediaries relationships - Law firms, Accounting Firms, Consulting firms, PE/VCs and angel networks <br><br>New-to-Bank (NTB) acquisition (predominantly Startups /customers with cross-border operations) to add to the bank&#x2019;s liabilities business <br><br>Handling customer&#x2019;s foreign remittances, trade transactions, Capital Account transactions, Payments &amp; <br>Receivables automation, Cash Management &amp; Liquidity solutions.<br><br>Achieving business targets: NTB client acquisitions, increasing CuA book, One-off deals, generating FX income, product penetration, etc. contributing towards incremental revenues for the bank.<br><br>Spearheading business development events: webinars, knowledge sessions, networking sessions with Intermediaries/customers/trade bodies <br><br>Promoting HSBC&#x2019;s strategic partnerships with various partners under &#x2018;Beyond Banking <br><br>Supporting MNC clients via offshore relationship support, structured solutions, etc.",
+              "start_date": "Jan 2022",
+              "end_date": "Sep 2024",
+              "company": "HSBC",
+              "company_id": "hsbc",
+              "url": "https://uk.linkedin.com/company/hsbc",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGF7uhTJxFBvQ/img-crop_100/img-crop_100/0/1717419425342?e=2147483647&v=beta&t=I5woEKBabyp7RpSl-br3-oYHJQokGQV6eDeXhSmiDUo"
+            },
+            {
+              "title": "Guest Writer",
+              "location": "India",
+              "description_html": null,
+              "start_date": "May 2020",
+              "end_date": "Jan 2022",
+              "company": "The SportsRush",
+              "company_id": "thesportsrush",
+              "url": "https://in.linkedin.com/company/thesportsrush",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFG9GJSOptkuw/company-logo_100_100/company-logo_100_100/0/1631325555627?e=2147483647&v=beta&t=l3rmkNABYjxkntatSXIXTXJnuTytJprzkUlArn5K9j4"
+            },
+            {
+              "title": "ICICI Bank",
+              "location": "Mumbai, Maharashtra, India",
+              "description_html": null,
+              "duration": "3 years",
+              "positions": [
+                {
+                  "subtitle": "ICICI Bank",
+                  "meta": "May 2019 - Jan 2022 2 years 9 months",
+                  "description": "Responsible for managing and establishing Private Equity, law firms, CA and Venture Capital fund relationship for the bankResponsible for routing foreign exchange flows through FDI, ODI, ECB, and FPI routeInitiate new client acquisition and increase wallet share of foreign exchange from existing clientsAligning transaction banking and CMS solutions with the existing FinTech clientsGrowing the transaction flows and volumes with respect to capital account transactions for MumbaiProviding training and query resolution to consultants and internal stakeholders on FEMAExploring avenues to increase the market share of the bank through regular engagement through events and presentationsHandling the capital account business for Thane, New Thane, Mulund, BKC, and Bandra geographies for the bank.",
+                  "start_date": "May 2019",
+                  "end_date": "Jan 2022",
+                  "title": "Senior Key Account Manager - Transaction Banking",
+                  "description_html": "Responsible for managing and establishing Private Equity, law firms, CA and Venture Capital fund relationship for the bank<br><br>Responsible for routing foreign exchange flows through FDI, ODI, ECB, and FPI route<br><br>Initiate new client acquisition and increase wallet share of foreign exchange from existing clients<br><br>Aligning transaction banking and CMS solutions with the existing FinTech clients<br><br>Growing the transaction flows and volumes with respect to capital account transactions for Mumbai<br><br>Providing training and query resolution to consultants and internal stakeholders on FEMA<br><br>Exploring avenues to increase the market share of the bank through regular engagement through events and presentations<br><br>Handling the capital account business for Thane, New Thane, Mulund, BKC, and Bandra geographies for the bank.",
+                  "location": "Mumbai, Maharashtra, India"
+                },
+                {
+                  "subtitle": "ICICI Bank",
+                  "meta": "Feb 2019 - Apr 2019 3 months",
+                  "start_date": "Feb 2019",
+                  "end_date": "Apr 2019",
+                  "title": "Senior Trade Relationship Manager - Retail Banking",
+                  "description_html": null,
+                  "location": null
+                }
+              ],
+              "company": "ICICI Bank",
+              "company_id": "icici-bank",
+              "url": "https://in.linkedin.com/company/icici-bank?trk=public_profile_experience-group-header",
+              "company_logo_url": null
+            },
+            {
+              "title": "Esports Advisor",
+              "location": "Pune, Maharashtra, India",
+              "description_html": null,
+              "start_date": "Jul 2017",
+              "end_date": "May 2019",
+              "company": "MacroMagic Esports",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "IDFC Bank",
+              "location": "New Delhi Area, India",
+              "description_html": null,
+              "duration": "2 years 9 months",
+              "positions": [
+                {
+                  "subtitle": "IDFC Bank",
+                  "meta": "Aug 2016 - Jan 2019 2 years 6 months",
+                  "description": "Trade Relationship Manager - Business Banking & SME. -Driving Assets as well Liabilities piece for the Bank-Working in tandem with the Acquisition team of Business Banking & SMEBusiness Banking Relationship Manager - Business Banking & SME• Managing portfolio clients by providing them solutions for business needs. • Conducting activities for acquisition and generating leads for conversion and closure• Maintaining healthy relationship with all stakeholders involved & provide personal touch in service delivery • Drive acquisition and business for the bank by making portfolio customers use our solutions",
+                  "start_date": "Aug 2016",
+                  "end_date": "Jan 2019",
+                  "title": "Trade Relationship Manager - Business Banking",
+                  "description_html": "Trade Relationship Manager - Business Banking &amp; SME. <br><br>-Driving Assets as well Liabilities piece for the Bank<br>-Working in tandem with the Acquisition team of Business Banking &amp; SME<br><br>Business Banking Relationship Manager - Business Banking &amp; SME<br><br>&#x2022; Managing portfolio clients by providing them solutions for business needs. <br>&#x2022; Conducting activities for acquisition and generating leads for conversion and closure<br>&#x2022; Maintaining healthy relationship with all stakeholders involved &amp; provide personal touch in service delivery <br>&#x2022; Drive acquisition and business for the bank by making portfolio customers use our solutions<br>",
+                  "location": "New Delhi Area, India"
+                },
+                {
+                  "subtitle": "IDFC Bank",
+                  "meta": "May 2016 - Aug 2016 4 months",
+                  "start_date": "May 2016",
+                  "end_date": "Aug 2016",
+                  "title": "Management Trainee - Large Corporates",
+                  "description_html": null,
+                  "location": "Mumbai, Maharashtra, India"
+                }
+              ],
+              "company": "IDFC Bank",
+              "company_id": "idfcfirstbank",
+              "url": "https://in.linkedin.com/company/idfcfirstbank?trk=public_profile_experience-group-header",
+              "company_logo_url": null
+            },
+            {
+              "title": "Campus Ambassador",
+              "location": "Kolkata Area, India",
+              "description_html": null,
+              "start_date": "May 2015",
+              "end_date": "Feb 2016",
+              "company": "Innovative Ideators",
+              "company_id": "innovative-ideators",
+              "url": "https://in.linkedin.com/company/innovative-ideators",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQE37V44DPGakQ/company-logo_100_100/company-logo_100_100/0/1631343697194?e=2147483647&v=beta&t=4t_Gcua6wDCPDChVNLy8SPNxgg6tA_1PSbItXd3TZTI"
+            },
+            {
+              "title": "Student Ambassador",
+              "location": "Kolkata Area, India",
+              "description": "As Firefox Student Ambassador my responsibility was to promote openness, innovation, and opportunity on the Web!",
+              "description_html": "As Firefox Student Ambassador my responsibility was to promote openness, innovation, and opportunity on the Web! <!---->",
+              "start_date": "May 2015",
+              "end_date": "Feb 2016",
+              "company": "Mozilla",
+              "company_id": "mozilla-corporation",
+              "url": "https://www.linkedin.com/company/mozilla-corporation",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEd2Es3SH2hIQ/company-logo_100_100/company-logo_100_100/0/1733347563365/mozilla_corporation_logo?e=2147483647&v=beta&t=4VWUvr_elL3lXzXyPbJOzofEOiOXAWfvjyZEPTK142A"
+            },
+            {
+              "title": "Brand Research Analyst",
+              "location": "New Delhi Area, India",
+              "description": "The responsibilities included : -Analysis of brands from a particular sector-Contribute to the MBASkool Content section-Create awareness about MBASkool at Indian Institute of Foreign Trade,KolkataWork Done : - Did Brand Profiling for Top UK brands ( 39 In Total ) spread across sectors and verticals",
+              "description_html": "The responsibilities included : <br>-Analysis of brands from a particular sector<br>-Contribute to the MBASkool Content section<br>-Create awareness about MBASkool at Indian Institute of Foreign Trade,Kolkata<br><br>Work Done : <br>- Did Brand Profiling for Top UK brands ( 39 In Total ) spread across sectors and verticals <!---->",
+              "start_date": "Apr 2015",
+              "end_date": "Jul 2015",
+              "company": "MBASkool",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Summer Intern",
+              "location": "New Delhi Area, India",
+              "description": "Role: Corporate Strategy Development Worked for two month with SmartPrep India Pvt. Ltd. , one of the investee companies of Indus Balaji. Project :1. Competitive and Critical analysis of 1yr and 2yr Under Graduate programs offered by SmartPrep India Pvt. Ltd. Deliverable's Included : 1. Competitive Bench-marking2. Implementation Road Map based on Key performance indicators3. Strategic frameworks for future strategy4. Incentive Framework5. Formulating future marketing communication strategy",
+              "description_html": "Role: Corporate Strategy Development <br><br>Worked for two month with SmartPrep India Pvt. Ltd. , one of the investee companies of Indus Balaji. <br><br>Project :<br>1. Competitive and Critical analysis of 1yr and 2yr Under Graduate programs offered by SmartPrep India Pvt. Ltd. <br><br>Deliverable&apos;s Included : <br>1. Competitive Bench-marking<br>2. Implementation Road Map based on Key performance indicators<br>3. Strategic frameworks for future strategy<br>4. Incentive Framework<br>5. Formulating future marketing communication strategy",
+              "start_date": "Apr 2015",
+              "end_date": "Jun 2015",
+              "company": "Indus Balaji - PE fund",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Research Intern",
+              "location": "New Delhi Area, India",
+              "description": "Did research work during the event \" Global Exhibition of Services\" (GES-2015) , of Media and Entertainment sector. Key point of research were: 1. Finding out the general notion about services among Indian and International sellers and buyers.2. Find out areas of concern in this sector3. Interacting with prominent personalities and Embassies present at the event and try to find out their views about India and the policies and guidelines in place locally as well as internationally. 4.. Coming up with suggestions so as to ensure that market is more aware about the services as a product , offered by the companies involved in this sector.",
+              "description_html": "Did research work during the event &quot; Global Exhibition of Services&quot; (GES-2015) , of Media and Entertainment sector. Key point of research were: <br>1. Finding out the general notion about services among Indian and International sellers and buyers.<br>2. Find out areas of concern in this sector<br>3. Interacting with prominent personalities and Embassies present at the event and try to find out their views about India and the policies and guidelines in place locally as well as internationally. <br>4.. Coming up with suggestions so as to ensure that market is more aware about the services as a product , offered by the companies involved in this sector. <br>",
+              "start_date": "Apr 2015",
+              "end_date": "May 2015",
+              "company": "Department of Commerce,India (S.E.P.C)",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Junior Co-ordinator",
+              "description": "Key responsibilities included: 1. Maintaining the database of all the images and videos from past activities2. Covering all the major events organized by the institute or which sees participation from the institute",
+              "description_html": "Key responsibilities included: <br>1. Maintaining the database of all the images and videos from past activities<br>2. Covering all the major events organized by the institute or which sees participation from the institute <!---->",
+              "start_date": "Sep 2014",
+              "end_date": "Dec 2014",
+              "company": "PixCell- The Photography Club at IIFT",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Member",
+              "location": "Indian Institute of Foreign Trade , Kolkata",
+              "description": "- Organized the annual Independence day Celebration on the Campus- Helped in conducting Titanomachy-Annual Sports Event at IIFT Kolkata- Establish connection with other cultural committees of Top B-school all over India - Looked over the different in house activities happening on a regular basis",
+              "description_html": "- Organized the annual Independence day Celebration on the Campus<br>- Helped in conducting Titanomachy-Annual Sports Event at IIFT Kolkata<br>- Establish connection with other cultural committees of Top B-school all over India <br>- Looked over the different in house activities happening on a regular basis<br> <!---->",
+              "start_date": "Aug 2014",
+              "end_date": "Dec 2014",
+              "company": "Cultural Committee",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Summer Intern",
+              "location": "Ahmedabad Area, India",
+              "description_html": null,
+              "start_date": "May 2013",
+              "end_date": "Jun 2013",
+              "company": "ONGC",
+              "company_id": "oilandnaturalgascorporation",
+              "url": "https://in.linkedin.com/company/oilandnaturalgascorporation",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQFYn0eZgNf1fw/img-crop_100/img-crop_100/0/1721650725009?e=2147483647&v=beta&t=1Z2c_92JHBf-XfUIvr3d9PAoyKCTp6aq4A4aTMDetck"
+            },
+            {
+              "title": "Vocational Training",
+              "location": "Jaipur Area, India",
+              "description_html": null,
+              "start_date": "May 2012",
+              "end_date": "Jun 2012",
+              "company": "GAIL (India) Limited",
+              "company_id": "gail-india-limited",
+              "url": "https://in.linkedin.com/company/gail-india-limited",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFOdUnW6wxovg/company-logo_100_100/company-logo_100_100/0/1660814010297?e=2147483647&v=beta&t=RvtACmk0Ni0QDAHK-ep2Z2qe_3hEB4CXAMm_i_iPOJM"
+            },
+            {
+              "title": "Rural Internship",
+              "location": "Hazira,Surat,Gujarat",
+              "description": "Project on Impact of Industrialization and Migration on the Hazira Area and CSR activities of the companies there.",
+              "description_html": "Project on Impact of Industrialization and Migration on the Hazira Area and CSR activities of the companies there. <!---->",
+              "start_date": "Dec 2010",
+              "end_date": "Dec 2010",
+              "company": "Lok Vikas Sanstha, Surat",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "NGO worker",
+              "description_html": null,
+              "start_date": "Jun 2009",
+              "end_date": "May 2010",
+              "company": "Sarthak Manav kushthashram",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/pranjalparihar/fr",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://ie.linkedin.com/in/dileep-yermula-mba-qfa-151270a9?trk=public_profile_browsemap-profile",
+              "name": "Dileep Yermula MBA QFA",
+              "about": "Business Analyst & Product Manager | Certified ScrumMaster (CSM), CBAP, QFA | MBA & B.Tech | IIM & UCD Alum | BFSI, CRM & Digital Transformation | Open to Roles | Stamp 1G Spouse Visa (Ireland)",
+              "location": "Dublin"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/abhaygoswami1205?trk=public_profile_browsemap-profile",
+              "name": "Abhay Goswami",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/harshithada?trk=public_profile_browsemap-profile",
+              "name": "Harshit Hada",
+              "about": "Senior Customer Success Manager @ Clear | B2B SaaS, Revenue Growth",
+              "location": "Chennai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/akshay-srivastava-46b565bb?trk=public_profile_browsemap-profile",
+              "name": "Akshay Srivastava",
+              "about": "Ex-Banker | Stand-up Comedian |",
+              "location": "New Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sakthiprasadmenon?trk=public_profile_browsemap-profile",
+              "name": "Sakthi Prasad Menon",
+              "about": "Lending @ Fibe (formerly EarlySalary)",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/shivam-mishra-397a2ba8?trk=public_profile_browsemap-profile",
+              "name": "Shivam Mishra",
+              "about": "Relationship Manager",
+              "location": "Lucknow"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/bhatnagarpulkit?trk=public_profile_browsemap-profile",
+              "name": "Pulkit Bhatnagar",
+              "about": "Regional Enterprise Manager at PhonePe - North | ICICI | Bajaj Finserv | AmEx",
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/manishthakur95?trk=public_profile_browsemap-profile",
+              "name": "Manish Thakur",
+              "about": "Chief Manager – Corporate Banking, ICICI Bank | Strategic Banking Solutions for Large Corporates | Ex-Yes Bank, Bajaj Allianz | MBA (XIMB) | FMVA®, CBCA®, CMSA®",
+              "location": "India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/jasmeet-singh-johar-b6113b69?trk=public_profile_browsemap-profile",
+              "name": "Jasmeet Singh Johar",
+              "about": null,
+              "location": "New Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/roushan-kumar-68b611105?trk=public_profile_browsemap-profile",
+              "name": "Roushan Kumar",
+              "about": "Portfolio Manager_strategic finance group(PMSFG)",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/mehaks10?trk=public_profile_browsemap-profile",
+              "name": "Mehak Sharma",
+              "about": "Building the Future of Fintech in MENA | Strategic Partnerships at AstraTech | Dubai | Botim | Ex-PayU | Ex-Lazypay | Cross Border Payments | Fintech Leader | Business Development | 12 years experience",
+              "location": "Dubai, United Arab Emirates"
+            },
+            {
+              "profile_link": "https://ae.linkedin.com/in/ayusheetripathy?trk=public_profile_browsemap-profile",
+              "name": "Ayushee Tripathy",
+              "about": "Gold Medalist Artist| Relationship Builder | Ambitious Banker I Global Traveller & Art Enthusiast | Creating Wealth & Memories I Building Long lasting Client Relationships",
+              "location": "United Arab Emirates"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sarthak-adlakha-a67a7833?trk=public_profile_browsemap-profile",
+              "name": "Sarthak Adlakha",
+              "about": "Branch Relationship Manager at AU Small Finance Bank",
+              "location": "West Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/astha-srivastava-2121aaa9?trk=public_profile_browsemap-profile",
+              "name": "Astha Srivastava",
+              "about": "Global Finance Aspirant | SP Jain- Global MBA 2025-26 | Building Cross-border Business Expertise | FMS Alumni - BHU | Ex-Kotak, ICICI & L&T",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/bhavya-modi-29279813b?trk=public_profile_browsemap-profile",
+              "name": "Bhavya Modi",
+              "about": "Product & Business Manager | Driving Digital Transformation, CRM & LOS Implementation | Regulatory Compliance | Data-Driven Strategy",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/danishhdfc?trk=public_profile_browsemap-profile",
+              "name": "Danish Ahmad",
+              "about": "AVP & Zonal Head, North and East,Corporate & Institutional sales, Commercial payment solution consultant @HDFC BANK LTD.",
+              "location": "Gurgaon"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/tanmay-hazari?trk=public_profile_browsemap-profile",
+              "name": "Tanmay Hazari",
+              "about": "Operations & Process Innovation Leader | Driving Efficiency & Growth in BFSI | Business Strategy & Compliance Expert | Ex-PayU",
+              "location": "New Delhi"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/shubhamgoel414?trk=public_profile_browsemap-profile",
+              "name": "Shubham Goel",
+              "about": "Client Marketing Manager @ Info Edge India Ltd. | Campaign Delivery Management | Finance | Operations | Ex - ZS | Ex - GetMyUni | Ex - ICICI Bank",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sudhir-kumar-242bb466?trk=public_profile_browsemap-profile",
+              "name": "sudhir kumar",
+              "about": ".",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/antariksh-tiwari?trk=public_profile_browsemap-profile",
+              "name": "Antariksh Tiwari",
+              "about": "AVP - Business (Wholesale) at Credit Saison || Ex-ICICI",
+              "location": "Bengaluru"
+            }
+          ],
+          "educations_details": "Indian Institute of Foreign Trade",
+          "education": [
+            {
+              "title": "Indian Institute of Foreign Trade",
+              "degree": "Master of Business Administration (M.B.A.)",
+              "field": "International Business",
+              "url": "https://in.linkedin.com/school/indian-institute-of-foreign-trade/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2014",
+              "end_year": "2016",
+              "description": "Activities and Societies: PixCell -JCC ; Cultural Committee ; Basketball team Completed my MBA in International Business with specific focus on Marketing ( Major ) and getting an overall exposure to Strategy, Trade and Operations ( Minors )",
+              "description_html": "Activities and Societies: PixCell -JCC ; Cultural Committee ; Basketball team",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQG-ZA8T2nAjIA/company-logo_100_100/company-logo_100_100/0/1630597982852/indian_institute_of_foreign_trade_logo?e=2147483647&v=beta&t=S9SZye0P2scxGT-CYjHQRcJW6iV1c4pRXoR_2l7aYyo"
+            },
+            {
+              "title": "Hanken Svenska handelshögskolan",
+              "degree": "Master of Business Administration (M.B.A.)",
+              "field": "Brand Management and International Marketing",
+              "url": "https://fi.linkedin.com/school/hanken-svenska-handelshogskolan/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2015",
+              "end_year": "2015",
+              "description": "Studied international marketing and strategy and getting to understand the Nordic perspective on to the way the business runs. Importantly , learned about the importance of Innovation at workplaces and in strategy to efficiently execute day to day business operations.",
+              "description_html": "Studied international marketing and strategy and getting to understand the Nordic perspective on to the way the business runs. <br><br>Importantly , learned about the importance of Innovation at workplaces and in strategy to efficiently execute day to day business operations. <!---->",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFckt3pHXUDmw/company-logo_100_100/company-logo_100_100/0/1713474449727/hanken_svenska_handelshogskolan_logo?e=2147483647&v=beta&t=1gxFexqWDVXOXXS8GDwwirstxedJ4pQIAb0a5bMpGaA"
+            },
+            {
+              "title": "Pandit Deendayal Petroleum University (PDPU)",
+              "degree": "B.tech",
+              "field": "Petroleum Engineering",
+              "url": "https://in.linkedin.com/school/panditdeendayalenergyniversity/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2010",
+              "end_year": "2014",
+              "description": "Activities and Societies: Dance group, Drama group, Basket Ball team, Cricket team Did my majors in Downstream sector with specific focus on International trade and Petrochemical plants / LNG distribution",
+              "description_html": "Activities and Societies: Dance group, Drama group, Basket Ball team, Cricket team",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFFOmBVtl84Vw/company-logo_100_100/company-logo_100_100/0/1674472804675/panditdeendayalenergyniversity_logo?e=2147483647&v=beta&t=hB6rabYbcrKPmOdJfG8VsTmxI-8kVuuXJzl_oGbmNJk"
+            },
+            {
+              "title": "Lawrence & Mayo Public School - India",
+              "degree": "Higher secondary",
+              "field": "Science+Maths",
+              "url": "https://in.linkedin.com/school/lawrence-&-mayo-public-school---india/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2008",
+              "end_year": "2009",
+              "description": "Activities and Societies: Basket ball team",
+              "description_html": "Activities and Societies: Basket ball team",
+              "institute_logo_url": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw"
+            },
+            {
+              "title": "St. Anselm's, Ajmer",
+              "degree": "Junior High",
+              "field": "General Studies",
+              "url": "https://in.linkedin.com/school/stanselmsajmer/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "1994",
+              "end_year": "2007",
+              "description": "Activities and Societies: Dance group, Quiz team, Cricket team, Drama group, Karate team. NTSE scholar.",
+              "description_html": "Activities and Societies: Dance group, Quiz team, Cricket team, Drama group, Karate team.",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQEgPHdORhLGHA/company-logo_100_100/company-logo_100_100/0/1630608347006?e=2147483647&v=beta&t=q2_989O_ej29c2ZEM8WTQd_Nl2Zzq_3taPIeTjMI57I"
+            }
+          ],
+          "recommendations_count": 8,
+          "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEuNaXgOTfT2w/profile-displayphoto-scale_200_200/B56Zfq_I4ZHoAo-/0/1751994110957?e=2147483647&v=beta&t=Qb5SquMUpiTrB73mTxUfY9NRG3w55uwxAn3P5cLe4Ao",
+          "courses": [
+            {
+              "subtitle": "-",
+              "title": "B2B Marketing"
+            },
+            {
+              "subtitle": "-",
+              "title": "Brand Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "Business Statistics"
+            },
+            {
+              "subtitle": "-",
+              "title": "Business research methods"
+            },
+            {
+              "subtitle": "-",
+              "title": "Competitive Strategy"
+            },
+            {
+              "subtitle": "-",
+              "title": "Consumer Behaviour"
+            },
+            {
+              "subtitle": "23047",
+              "title": "Contemporary Branding"
+            },
+            {
+              "subtitle": "-",
+              "title": "Corporate Finance"
+            },
+            {
+              "subtitle": "-",
+              "title": "Customs and Excise Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "Entrepreneurship"
+            },
+            {
+              "subtitle": "-",
+              "title": "Fundamentals of International Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "International Business Strategy"
+            },
+            {
+              "subtitle": "-",
+              "title": "International Marketing"
+            },
+            {
+              "subtitle": "-",
+              "title": "International Sourcing of Oil and Gas"
+            },
+            {
+              "subtitle": "-",
+              "title": "International Trade Logistics"
+            },
+            {
+              "subtitle": "-",
+              "title": "Macro-economics"
+            },
+            {
+              "subtitle": "22012",
+              "title": "Managing Knowledge and Innovation"
+            },
+            {
+              "subtitle": "-",
+              "title": "Marketing of Services"
+            },
+            {
+              "subtitle": "-",
+              "title": "Micro-economics"
+            },
+            {
+              "subtitle": "-",
+              "title": "Multivariate Data Analysis and Forecasting Techniques"
+            },
+            {
+              "subtitle": "-",
+              "title": "Petroleum Geology"
+            },
+            {
+              "subtitle": "-",
+              "title": "Procurement and Material Management"
+            },
+            {
+              "subtitle": "-",
+              "title": "Sectoral Strategies for International Business"
+            },
+            {
+              "subtitle": "-",
+              "title": "Sedimentary Geology"
+            },
+            {
+              "subtitle": "11",
+              "title": "Swedish"
+            }
+          ],
+          "languages": [
+            {
+              "subtitle": "Native or bilingual proficiency",
+              "title": "English"
+            },
+            {
+              "subtitle": "Native or bilingual proficiency",
+              "title": "Hindi"
+            },
+            {
+              "subtitle": "Limited working proficiency",
+              "title": "Gujarati"
+            },
+            {
+              "subtitle": "Limited working proficiency",
+              "title": "Spanish"
+            },
+            {
+              "subtitle": "Limited working proficiency",
+              "title": "Swedish"
+            }
+          ],
+          "recommendations": [
+            "Vipul M. Mali 🎯 “Pranjal Parihar delivered an insightful and thought provoking podcast session, offering deep expertise in transaction banking, FEMA regulations, and strategic financial solutions. His extensive experience in the banking sector, combined with a strong understanding of business dynamics, made for a highly engaging discussion. Recognized as a LinkedIn Top Voice, Pranjal continues to share valuable industry insights. It was a pleasure hosting him, and I look forward to seeing his impact grow. Wishing him continued success in shaping the future of banking!”",
+            "Dr. Rishi Sen “Continuous self improvement would define Pranjals approach. He is a great learner and very socially adept. His grasp of business goes with his likeability and loyalty, traits increasingly hard to come by. In an increasingly wham bam, quick buck corporate environment, Pranjal stands out as a person to bank upon. ”"
+          ],
+          "volunteer_experience": [
+            {
+              "cause": "Social Services",
+              "duration": "Jul 2012 - Jul 2013 · 1 year 1 month",
+              "duration_short": "1 year 1 month",
+              "end_date": "Jul 2013",
+              "info": "Working towards finding new and innovative ways to raise money for charity purposes. We work for human-beings as well as for environment.",
+              "start_date": "Jul 2012",
+              "subtitle": "Confederation of Indian Industry Yi-PDPU Net",
+              "title": "Vice President"
+            },
+            {
+              "cause": "Science and Technology",
+              "duration": "2013 - Present · 12 years",
+              "duration_short": "12 years",
+              "end_date": "Present",
+              "info": "Worked as a part of the Hospitality Team at First ever Geothermal Conference which was held at Pandit Deendayal Petroleum University,Ganhinagar",
+              "start_date": "2013",
+              "subtitle": "Geothermal Conference",
+              "title": "Team Member (Hospitality)"
+            },
+            {
+              "cause": "Economic Empowerment",
+              "duration": "2013 - Present · 12 years",
+              "duration_short": "12 years",
+              "end_date": "Present",
+              "info": "Worked closely with Confederation of Indian Industry ( CII ) Team to successfully conduct Vibrant Gujarat 2013 event.",
+              "start_date": "2013",
+              "subtitle": "Vibrant Gujarat",
+              "title": "Volunteer"
+            },
+            {
+              "cause": "Science and Technology",
+              "duration": "2014 - Present · 11 years",
+              "duration_short": "11 years",
+              "end_date": "Present",
+              "info": "Covered the whole National IT Conclave organized annually by Indian Institute of Foreign Trade, Kolkata as part of the event coverage team.",
+              "start_date": "2014",
+              "subtitle": "National IT Conclave 2014 (IIFT)",
+              "title": "Event Coverage Team"
+            },
+            {
+              "cause": "Children",
+              "duration": "Sep 2018 - Present · 7 years",
+              "duration_short": "7 years",
+              "end_date": "Present",
+              "start_date": "Sep 2018",
+              "subtitle": "Robin Hood Army",
+              "title": "Volunteer"
+            },
+            {
+              "cause": "Social Services",
+              "duration": "Jan 2021 - Present · 4 years 8 months",
+              "duration_short": "4 years 8 months",
+              "end_date": "Present",
+              "start_date": "Jan 2021",
+              "subtitle": "Bankers without Boundaries",
+              "title": "Volunteer"
+            }
+          ],
+          "followers": 29743,
+          "connections": 500,
+          "current_company_company_id": "kotakpvt",
+          "current_company_name": "Kotak Private",
+          "projects": [
+            {
+              "title": "Competitive Strategy Analysis for Retail Industry with special focus on Shoppers Stop",
+              "start_date": "Nov 2015",
+              "description": "Retail Industry analysis of using the stages of industry and its features, the impact of network externalities in the industry and other suitable industry analysis tools.Competitive analysis of Shoppers Stop using analysis tools like SPACE matrix, SWOT analysis and etc."
+            },
+            {},
+            {},
+            {},
+            {
+              "title": "University Branding : Case of IIFT",
+              "start_date": "Sep 2015",
+              "description": "Critically analyzed the difference between brand identity and brand image of Indian Institute of foreign trade and what measures can all the stakeholders involved can take for increasing the brand value of the university moving forward"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "Marketing - Research Associate at Global Exhibition of Services(GES) 2015 organized by Service Export Promotion Council(SEPC - Ministry of Commerce & Industry)",
+              "start_date": "Apr 2015",
+              "description": "- Analyze the Media and Entertainment sector and gave recommendations to SEPC, which were used in the policy making - Gauge the interest of international and National buyers and sellers, visiting the Global Exhibition of Services ( Media and Entertainment sector) - Primary & Secondary research on Media and Entertainment Sector"
+            },
+            {},
+            {},
+            {},
+            {
+              "title": "Consumer buying pattern of deodorants",
+              "start_date": "Nov 2014",
+              "description": "A detailed study of the Deodorant Buying Patterns of 18-25 Male Age Group with respect to issues of consumer behavior like Brand Loyalty, Awareness, Price Effect, Effect of Advertisements etc"
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "•Co-authored a term paper on Marketing Strategies of Hector Beverages-marketing of brands Tzinga and paperboat and its impact on the energy drinks market of India",
+              "start_date": "Sep 2014"
+            },
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "Financial Ratio Analysis of Coal India Limited to evaluate the financial strength of company and its financial position vis-à-vis its competitors and industry for last five years",
+              "start_date": "Sep 2014"
+            },
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "Marketing term paper on Marketing Analysis of Hector Beverages and assessment of the promotional strategies for Tzinga & Paper Boat and challenges ahead in the Energy drinks segment",
+              "start_date": "Sep 2014"
+            },
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "Term paper on Marketing Analysis of Hector Beverages and assessment of the promotional strategies for Tzinga & Paper Boat and challenges ahead in the Energy drinks segment",
+              "start_date": "Sep 2014"
+            },
+            {},
+            {},
+            {},
+            {},
+            {
+              "title": "Heritage as a Competitive Advantage - Artek",
+              "description": "•Conducted research for a project report on “Heritage as a competitive advantage” by taking the case of the furniture brand Artek with Nordic as well as Global perspective"
+            },
+            {},
+            {},
+            {},
+            {
+              "title": "Petroleum Demand Forecasting using weighted moving average time series model",
+              "description": "B.Tech Dissertation Project Report"
+            },
+            {}
+          ],
+          "location": "Gurugram",
+          "input_url": "https://www.linkedin.com/in/pranjalparihar/fr",
+          "linkedin_id": "pranjalparihar",
+          "activity": [
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/hirak-mukhopadhyay-33882b47_dixon-technologies-receives-govt-approval-activity-7354749691579846656-7nG8",
+              "title": "Excited to have supported the Dixon Group and the Longcheer Group on their joint venture arrangement aimed at deepening India’s electronics…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHK7jKdRb09pA/articleshare-shrink_1280_800/B56Zg_7OFHHcAQ-/0/1753419145976?e=2147483647&v=beta&t=CL9CIdK5MLlkknJDJxGetdUYiktQBR4gD0DQURBwimE",
+              "id": "7354749691579846656"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/vijay-vir-singhh-vvs-99402711_fittforward2025-iitdelhi-innovation-activity-7365609502022299648-2Uaa",
+              "title": "Thrilled to have been a part of FITT-Forward 2025 at IIT Delhi on 21st & 22nd August! The two days were packed with insightful discussions…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEmf1i9FsiEow/feedshare-shrink_1280/B56Zjfmy33IEAs-/0/1756098146550?e=2147483647&v=beta&t=lGtd2w48ZVp1bR7dXmx6POUIkzxsUda0mREkDVvNULM",
+              "id": "7365609502022299648"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/neena-sharma-hoppinghighhopes_so-this-happened-last-week-a-day-before-activity-7367145515089657856-Havo",
+              "title": "So this happened last week — a day before my birthday. I’ve been promoted to Associate Principal at M N S S & Associates. As usual, I’m a little late…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGyezz0yy2zsw/feedshare-shrink_2048_1536/B56Zj1bzFRG4Aw-/0/1756464364037?e=2147483647&v=beta&t=nnZYxEmkrJsafErT7FjCUFLuVDGmtkxYvCcr4e5EWiw",
+              "id": "7367145515089657856"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/anjali-malhotra-94365b1b_etworldleadersforum2025-leadershipinaction-activity-7364649335633997824-k8d8",
+              "title": "Day1: At The Economic Times World Leaders Forum 2025 on 22-23rd August, 2025 . I had the privilege of attending this global leadership conclave…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHtxK97iqyeqg/feedshare-shrink_2048_1536/B56ZjR9byUG4A0-/0/1755869227665?e=2147483647&v=beta&t=PxI289-wi8tlneSPs1RBR61w_xb7_72vGxNf3NxYarY",
+              "id": "7364649335633997824"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/pranjalparihar_generativeai-banking-finance-activity-7086162528136814592-qmDL",
+              "title": "🚀 Exploring the Impact of Generative AI in the Banking Sector! 💼 Generative AI, a subset of artificial intelligence, is revolutionizing various…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQH7i6ttmvta0g/feedshare-shrink_800/feedshare-shrink_800/0/1689451135545?e=2147483647&v=beta&t=PLtYl_e5SJb9YkyU-Doi4wWHQKLB6qQxgVOUZUmNt-E",
+              "id": "7086162528136814592"
+            },
+            {
+              "interaction": "Shared by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/pranjalparihar_fema-compliance-ed-activity-7367210264678551552-B9V4",
+              "title": "🚨 𝗖𝗮𝗽𝗶𝘁𝗮𝗹 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲? Case Study : 𝗧𝗵𝗲 𝗕𝗣𝗧𝗣-𝗘𝗗 𝗦𝘁𝗼𝗿𝘆 𝗥𝗲𝗺𝗶𝗻𝗱𝘀 𝗨𝘀 𝗪𝗵𝘆 𝗡𝗼𝘁 In 2007–08…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQFiM3yJVLx5Sw/feedshare-shrink_1280/B56Zj2WsScG4A0-/0/1756479801415?e=2147483647&v=beta&t=gsAb2GcNUONGiKwoJq3fIAqrWswXe_7Q00pZXH0ZElc",
+              "id": "7367210264678551552"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/aishmat_healthawareness-wellness-nutrition-activity-7365639097467469824-8pnm",
+              "title": "🚰 𝙃𝙮𝙙𝙧𝙖𝙩𝙞𝙤𝙣 𝙃𝙖𝙨 𝙖 𝘾𝙤𝙡𝙤𝙪𝙧 𝘾𝙤𝙙𝙚—𝙃𝙚𝙧𝙚’𝙨 𝙒𝙝𝙖𝙩 𝙄𝙩 𝙈𝙚𝙖𝙣𝙨 🧵Ever grabbed a water bottle in a hurry—without even…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQE4EN9UjoMQiA/feedshare-shrink_2048_1536/B56ZjfSQsnIEAw-/0/1756092765129?e=2147483647&v=beta&t=ctN19O_2TV_oTb0acbumMxZhDblLqHFC7pRNzlI4lsA",
+              "id": "7365639097467469824"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/aishmat_linkedin-festivals-lifelessons-activity-7366479274540695553-4kIu",
+              "title": "🌸 Marigolds, My Toddler & The Wisdom of Traditions 🌸 Today, as we welcomed Bappa into our home this Ganesh Chaturthi, the air was filled with joy,…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQGVbPcVwyhGFQ/feedshare-shrink_2048_1536/B4DZjr92N6HYAw-/0/1756305520574?e=2147483647&v=beta&t=2WqKVn3Ll3m61shPpGaAjM1-wTpHcjP8NUhwQR6LpSg",
+              "id": "7366479274540695553"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/indiabusinesslawjournal_iblj-india-legalcareer-activity-7366318571993432065-T5Zc",
+              "title": "Akshay Jeet Bhat quits CAM, establishes First Principles Law https://lnkd.in/g4M6WtAM Akshay Jeet Bhat has established new firm, First Principles…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHGVPkURGxRqw/feedshare-shrink_2048_1536/B56ZjpXdwmG4Aw-/0/1756261900208?e=2147483647&v=beta&t=6E8QV71iT7LOlrXaeilMNNfntKOOkUFhmON72dRgGK8",
+              "id": "7366318571993432065"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/rsdbajajglobal_rsd-bajaj-global-law-firms-mr-varun-bajaj-activity-7360062772304334849-PYuC",
+              "title": "RSD Bajaj Global Law Firm’s Mr. Varun Bajaj Elected Youngest Senior Vice President at Society Of Indian Law Firms (SILF) It gives us immense…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGo7Rhf26sufA/feedshare-shrink_1280/B56ZiQyFMkHUAk-/0/1754775705713?e=2147483647&v=beta&t=m8muYbwl3zbII6ZkqrgTL2nG951lcqrQWmk0LgFJYkQ",
+              "id": "7360062772304334849"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/nitin-jain-41546216_honoured-to-receive-this-recognition-from-activity-7365301022543478784-F6wo",
+              "title": "Honoured to receive this recognition from Achromic Point. Thanks to my family, team, colleagues and clients for their contribution. Archana…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQFG2_szFq1fsw/feedshare-shrink_2048_1536/B4DZjQXEIVHwAw-/0/1755842364881?e=2147483647&v=beta&t=pHX5qew5RmQMhr289MkvOIMiW6nTP_CQ4Lwd8RwkOYU",
+              "id": "7365301022543478784"
+            },
+            {
+              "interaction": "Liked by Pranjal Parihar",
+              "link": "https://www.linkedin.com/posts/aditya-chitta-00ab6994_we-recently-launched-product-contextual-ads-activity-7365737387974393857-BDes",
+              "title": "We recently launched Product Contextual Ads on Flipkart Minutes! This festive season, don't miss out on capturing high-intent shoppers at the…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQH4fk_RDk3_pw/feedshare-shrink_1280/B56Zjg.ft8IEAs-/0/1756121138994?e=2147483647&v=beta&t=F-P6_ssFUs9CL17MIccX5iaF0aQz8uneo99V73xUo4Q",
+              "id": "7365737387974393857"
+            }
+          ],
+          "linkedin_num_id": "95269490",
+          "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFtG6jHzV9gew/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1731954124728?e=2147483647&v=beta&t=gcvGDSkcKcSgWAAo4H_BLPcE0egm7G20SeL7LFucNEo",
+          "honors_and_awards": [
+            {
+              "title": "Campus Finalist : GeP Gameplan 2015",
+              "publication": "-",
+              "date": "2015-08-01T00:00:00.000Z",
+              "description": null
+            },
+            {
+              "title": "Beat the Elite Case Study Challenge",
+              "publication": "Copenhagen Business School - CBS",
+              "date": "2015-03-01T00:00:00.000Z",
+              "description": "Top 15 finish at Beat The Elite case challenge organized by Copenhagen Business School for all the Scandinavian countries. BCG was one of the partnering companies who analyzed the submission's. Our team was ranked 1st in the non-Scandinavian category and were ranked in top 5 for the analysis piece of the submission."
+            },
+            {
+              "title": "International Helsinki Days",
+              "publication": "Hanken School of Economics",
+              "date": "2015-02-01T00:00:00.000Z",
+              "description": "Selected to participate in International Helsinki Days Seminar from all over India, with the theme “Innovative Business strategies-the Key to Expanding Business” organized by Hanken School of Economics, Helsinki"
+            },
+            {
+              "title": "Launchpad-Ideation & Program Design Event",
+              "publication": "OpenFuel",
+              "date": "2014-01-01T00:00:00.000Z",
+              "description": "1st Runner-up at Launchpad-Ideation & Program Design Workshop held at IIFT, Kolkata for giving an innovative idea for a start-ups expansion ( Foursquare )"
+            },
+            {
+              "title": "Marketing Olympiad",
+              "publication": "-",
+              "date": "2014-01-01T00:00:00.000Z",
+              "description": "Finalist at Marketing Olympiad organized by KPMG and Unicom among 3454 marketing students belonging to 208 B-schools from all over India"
+            },
+            {
+              "title": "NTSE Scholar",
+              "publication": "N.C.E.R.T",
+              "date": "2007-05-01T00:00:00.000Z",
+              "description": "The National Talent Search Examination (NTSE) is a national level scholarship program in India to identify and nurture talented students. The scheme is open to students of Indian nationality. As it is organized by an official body (NCERT), it is widely regarded as the toughest and most prestigious examination at high school level in the country. Cleared all the three Levels of the examination and got a scholarship as a result."
+            }
+          ],
+          "similar_profiles": [
+            {
+              "url": "https://ie.linkedin.com/in/dileep-yermula-mba-qfa-151270a9",
+              "name": "Dileep Yermula MBA QFA",
+              "title": "Business Analyst & Product Manager | Certified ScrumMaster (CSM), CBAP, QFA | MBA & B.Tech | IIM & UCD Alum | BFSI, CRM & Digital Transformation | Open to Roles | Stamp 1G Spouse Visa (Ireland)",
+              "url_text": "https://ie.linkedin.com/in/dileep-yermula-mba-qfa-151270a9"
+            },
+            {
+              "url": "https://in.linkedin.com/in/abhaygoswami1205",
+              "name": "Abhay Goswami",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/abhaygoswami1205"
+            },
+            {
+              "url": "https://in.linkedin.com/in/harshithada",
+              "name": "Harshit Hada",
+              "title": "Senior Customer Success Manager @ Clear | B2B SaaS, Revenue Growth",
+              "url_text": "https://in.linkedin.com/in/harshithada"
+            },
+            {
+              "url": "https://in.linkedin.com/in/akshay-srivastava-46b565bb",
+              "name": "Akshay Srivastava",
+              "title": "Ex-Banker | Stand-up Comedian |",
+              "url_text": "https://in.linkedin.com/in/akshay-srivastava-46b565bb"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sakthiprasadmenon",
+              "name": "Sakthi Prasad Menon",
+              "title": "Lending @ Fibe (formerly EarlySalary)",
+              "url_text": "https://in.linkedin.com/in/sakthiprasadmenon"
+            },
+            {
+              "url": "https://in.linkedin.com/in/shivam-mishra-397a2ba8",
+              "name": "Shivam Mishra",
+              "title": "Relationship Manager",
+              "url_text": "https://in.linkedin.com/in/shivam-mishra-397a2ba8"
+            },
+            {
+              "url": "https://in.linkedin.com/in/bhatnagarpulkit",
+              "name": "Pulkit Bhatnagar",
+              "title": "Regional Enterprise Manager at PhonePe - North | ICICI | Bajaj Finserv | AmEx",
+              "url_text": "https://in.linkedin.com/in/bhatnagarpulkit"
+            },
+            {
+              "url": "https://in.linkedin.com/in/manishthakur95",
+              "name": "Manish Thakur",
+              "title": "Chief Manager – Corporate Banking, ICICI Bank | Strategic Banking Solutions for Large Corporates | Ex-Yes Bank, Bajaj Allianz | MBA (XIMB) | FMVA®, CBCA®, CMSA®",
+              "url_text": "https://in.linkedin.com/in/manishthakur95"
+            },
+            {
+              "url": "https://in.linkedin.com/in/jasmeet-singh-johar-b6113b69",
+              "name": "Jasmeet Singh Johar",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/jasmeet-singh-johar-b6113b69"
+            },
+            {
+              "url": "https://in.linkedin.com/in/roushan-kumar-68b611105",
+              "name": "Roushan Kumar",
+              "title": "Portfolio Manager_strategic finance group(PMSFG)",
+              "url_text": "https://in.linkedin.com/in/roushan-kumar-68b611105"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/mehaks10",
+              "name": "Mehak Sharma",
+              "title": "Building the Future of Fintech in MENA | Strategic Partnerships at AstraTech | Dubai | Botim | Ex-PayU | Ex-Lazypay | Cross Border Payments | Fintech Leader | Business Development | 12 years experience",
+              "url_text": "https://ae.linkedin.com/in/mehaks10"
+            },
+            {
+              "url": "https://ae.linkedin.com/in/ayusheetripathy",
+              "name": "Ayushee Tripathy",
+              "title": "Gold Medalist Artist| Relationship Builder | Ambitious Banker I Global Traveller & Art Enthusiast | Creating Wealth & Memories I Building Long lasting Client Relationships",
+              "url_text": "https://ae.linkedin.com/in/ayusheetripathy"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sarthak-adlakha-a67a7833",
+              "name": "Sarthak Adlakha",
+              "title": "Branch Relationship Manager at AU Small Finance Bank",
+              "url_text": "https://in.linkedin.com/in/sarthak-adlakha-a67a7833"
+            },
+            {
+              "url": "https://in.linkedin.com/in/astha-srivastava-2121aaa9",
+              "name": "Astha Srivastava",
+              "title": "Global Finance Aspirant | SP Jain- Global MBA 2025-26 | Building Cross-border Business Expertise | FMS Alumni - BHU | Ex-Kotak, ICICI & L&T",
+              "url_text": "https://in.linkedin.com/in/astha-srivastava-2121aaa9"
+            },
+            {
+              "url": "https://in.linkedin.com/in/bhavya-modi-29279813b",
+              "name": "Bhavya Modi",
+              "title": "Product & Business Manager | Driving Digital Transformation, CRM & LOS Implementation | Regulatory Compliance | Data-Driven Strategy",
+              "url_text": "https://in.linkedin.com/in/bhavya-modi-29279813b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/danishhdfc",
+              "name": "Danish Ahmad",
+              "title": "AVP & Zonal Head, North and East,Corporate & Institutional sales, Commercial payment solution consultant @HDFC BANK LTD.",
+              "url_text": "https://in.linkedin.com/in/danishhdfc"
+            },
+            {
+              "url": "https://in.linkedin.com/in/tanmay-hazari",
+              "name": "Tanmay Hazari",
+              "title": "Operations & Process Innovation Leader | Driving Efficiency & Growth in BFSI | Business Strategy & Compliance Expert | Ex-PayU",
+              "url_text": "https://in.linkedin.com/in/tanmay-hazari"
+            },
+            {
+              "url": "https://in.linkedin.com/in/shubhamgoel414",
+              "name": "Shubham Goel",
+              "title": "Client Marketing Manager @ Info Edge India Ltd. | Campaign Delivery Management | Finance | Operations | Ex - ZS | Ex - GetMyUni | Ex - ICICI Bank",
+              "url_text": "https://in.linkedin.com/in/shubhamgoel414"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sudhir-kumar-242bb466",
+              "name": "sudhir kumar",
+              "title": ".",
+              "url_text": "https://in.linkedin.com/in/sudhir-kumar-242bb466"
+            },
+            {
+              "url": "https://in.linkedin.com/in/antariksh-tiwari",
+              "name": "Antariksh Tiwari",
+              "title": "AVP - Business (Wholesale) at Credit Saison || Ex-ICICI",
+              "url_text": "https://in.linkedin.com/in/antariksh-tiwari"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Pranjal",
+          "last_name": "Parihar",
+          "timestamp": "2025-08-30T18:00:36.529Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/pranjalparihar/fr"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ram Rastogi",
+          "linkedin_url": "https://www.linkedin.com/in/ramrastogi0708/fr",
+          "company": "EarlySalary",
+          "search_snippet": "... digital lending platforms KreditBee, EarlySalary, Kissht, CashE, and LoanTap. Chairman -Governance Council at FACE is an honorary position. Voir moins.",
+          "title": "Spice Money"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhijeet Jadhav",
+          "linkedin_url": "https://www.linkedin.com/in/abhijeetjadhav",
+          "company": "EarlySalary",
+          "search_snippet": "Backend JAVA Developer | DevOps Engineer · Backend Java Developer with hands on experience in developing cloud-native applications and implementing the full ...",
+          "title": "Backend JAVA Developer"
+        },
+        "detailed_profile": {
+          "id": "abhijeetjadhav",
+          "name": "Abhijeet Jadhav",
+          "city": "Ede, Gelderland, Netherlands",
+          "country_code": "NL",
+          "position": "Backend JAVA Developer | DevOps Engineer",
+          "about": "Backend Java Developer with hands on experience in developing cloud-native applications and implementing the full CI/CD pipeline deploying the application to the environment. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Strong experience in event-driven and microservice architecture. Associated with organizations :Wipro, Cognizant, Tieto, TCS, IBM, Worldline Currently working as a Backend JAVA Developer in Worldline. Clients: Rabobank, DNB, UPM, Barclays, Rakbank Experience of working in Waterfall and Agile methodologies. Strong domain exposure in BFSI. Have managed architecture and design for banking, internal payment processing, security frameworks, infrastructure & capacity planning. Technology Specialties: Springboot framework 3.0, JAVA 11/17, SOA, ESB, IIB, MQ, FTM, RSA, WAS, API, REST, SOAP, HTTP, XML, JSON, OpenApi, Swagger, APIGateway, OAuth. Operating system: Linux, z/OS, Unix, AIX, Windows. Monitoring tools: Splunk CICD Tools: GitLab, Nexus, Docker, Kubernetes, Helm, RTC, UCD, Git, Clearcase, Jenkins,",
+          "current_company": {
+            "name": "Worldline",
+            "company_id": "worldlineglobal",
+            "title": "Senior Software Engineer",
+            "location": "Utrecht, Netherlands"
+          },
+          "experience": [
+            {
+              "title": "Senior Software Engineer",
+              "location": "Utrecht, Netherlands",
+              "description_html": null,
+              "start_date": "Nov 2021",
+              "end_date": "Present",
+              "company": "Worldline",
+              "company_id": "worldlineglobal",
+              "url": "https://fr.linkedin.com/company/worldlineglobal",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEDbczIleOyqg/company-logo_100_100/company-logo_100_100/0/1664896041493/worldlineglobal_logo?e=2147483647&v=beta&t=9KpmMOB-yDxW3CrNro26W1tsmWxOhK5v7feLtlErhdY"
+            },
+            {
+              "title": "Integration Specialist",
+              "location": "Netherlands",
+              "description_html": null,
+              "start_date": "Feb 2019",
+              "end_date": "Nov 2021",
+              "company": "IBM",
+              "company_id": "ibm",
+              "url": "https://www.linkedin.com/company/ibm",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ"
+            },
+            {
+              "title": "Assistant Consultant",
+              "description_html": null,
+              "start_date": "May 2017",
+              "end_date": "Feb 2019",
+              "company": "Tata Consultancy Services",
+              "company_id": "tata-consultancy-services",
+              "url": "https://in.linkedin.com/company/tata-consultancy-services",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4"
+            },
+            {
+              "title": "Senior Software Engineer",
+              "location": "Pune Area, India",
+              "description_html": null,
+              "start_date": "Aug 2014",
+              "end_date": "Apr 2017",
+              "company": "Tieto India Private Limited",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Program Analyst",
+              "location": "Pune Area, India",
+              "description": "Developing a business critical solution flows in WMB.",
+              "description_html": "Developing a business critical solution flows in WMB. <!---->",
+              "start_date": "Aug 2012",
+              "end_date": "Aug 2014",
+              "company": "Cognizant Technology Solutions",
+              "company_id": "cognizant",
+              "url": "https://www.linkedin.com/company/cognizant",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEZJfzaBpOi3Q/company-logo_100_100/B4EZj2qzQCHEAQ-/0/1756485073131/cognizant_logo?e=2147483647&v=beta&t=cBaPicCZGzc0JtdSPJzG3t92AEH-c4N55n93sB5dMyA"
+            },
+            {
+              "title": "WMB Developer(Websphere Message Broker)",
+              "location": "Pune Area, India",
+              "description": "Developer",
+              "description_html": "Developer <!---->",
+              "start_date": "Jun 2010",
+              "end_date": "Aug 2012",
+              "company": "WIPRO Technologies",
+              "company_id": "wipro",
+              "url": "https://in.linkedin.com/company/wipro",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEINH3Vf1swig/company-logo_100_100/company-logo_100_100/0/1730379480485/wipro_logo?e=2147483647&v=beta&t=IyLhX5HbWkYXsjBFRN4Vl1li1xkWtvZBHsWHLKYb2IY"
+            }
+          ],
+          "url": "https://www.linkedin.com/in/abhijeetjadhav",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/gowrisankar-pathivada-85802b6a?trk=public_profile_browsemap-profile",
+              "name": "Gowrisankar Pathivada",
+              "about": "lead analyst at CGI",
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/keerti-choudhary-05307b38?trk=public_profile_browsemap-profile",
+              "name": "Keerti Choudhary",
+              "about": "Working as a Senior Specialist SE, providing solutions and implementing newer tech stack",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rahul-tiwari-33052839?trk=public_profile_browsemap-profile",
+              "name": "Rahul Tiwari",
+              "about": "Lead Technology",
+              "location": "Gurugram"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/priya-sp-88107211b?trk=public_profile_browsemap-profile",
+              "name": "Priya SP",
+              "about": "Application Development Associate Manager",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://au.linkedin.com/in/yogesh-pal-8818b765?trk=public_profile_browsemap-profile",
+              "name": "Yogesh Pal",
+              "about": null,
+              "location": "Sydney, NSW"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/pankaj-jha-21094438?trk=public_profile_browsemap-profile",
+              "name": "Pankaj Jha",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/himanshu-rangila-01ba8049?trk=public_profile_browsemap-profile",
+              "name": "Himanshu Rangila",
+              "about": "Technical Analyst at Coforge",
+              "location": "Delhi, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/chandan-kumar-sahoo-a15b6794?trk=public_profile_browsemap-profile",
+              "name": "Chandan Kumar Sahoo",
+              "about": null,
+              "location": "Odisha, India"
+            },
+            {
+              "profile_link": "https://ca.linkedin.com/in/raju-jangle-devloper?trk=public_profile_browsemap-profile",
+              "name": "Raju Jangle",
+              "about": "Technology Lead at Infosys | Micro-services| Azure| .NET Core",
+              "location": "Calgary, AB"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/singhanjani321?trk=public_profile_browsemap-profile",
+              "name": "Anjani kumar",
+              "about": "Technical lead at Wipro Limited",
+              "location": "Bengaluru"
+            }
+          ],
+          "educations_details": "Savitribai Phule Pune University",
+          "education": [
+            {
+              "title": "Savitribai Phule Pune University",
+              "degree": "MCA",
+              "field": "Computer Application",
+              "url": "https://in.linkedin.com/school/university-of-pune/?trk=public_profile_school_profile-section-card_image-click",
+              "start_year": "2007",
+              "end_year": "2009",
+              "description": "Activities and Societies: SIBAR Programming Contest, ALLANA Institute Programming Quiz Test",
+              "description_html": "Activities and Societies: SIBAR Programming Contest, ALLANA Institute Programming Quiz Test",
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEFsIyAZyuMwA/company-logo_100_100/company-logo_100_100/0/1631345386058?e=2147483647&v=beta&t=I5eoDwXPs8QFa-MXjb6IcvCLKFAfKhiXLnErrLNxHmk"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/C5603AQHWuseXjqYYiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620591077991?e=2147483647&v=beta&t=mVLmycw1QP3E5_zqXNmUpsEKRNNW5Vi4Ak80fHd9vfU",
+          "followers": 246,
+          "connections": 245,
+          "current_company_company_id": "worldlineglobal",
+          "current_company_name": "Worldline",
+          "location": "Ede",
+          "input_url": "https://www.linkedin.com/in/abhijeetjadhav",
+          "linkedin_id": "abhijeetjadhav",
+          "activity": [
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/upm-kymmene_upm-materialsolutions-verlamuseum-activity-7363904412123115521-AkOz",
+              "title": "Did you know that UPM has the honor of being one of the only companies in the world to own and operate a UNESCO World Heritage Site? It’s true. And…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D10AQHwQXqpvDHLmA/image-shrink_800/B4DZjHYBt8H4Ac-/0/1755691621937?e=2147483647&v=beta&t=RJ8qLJ0xe5zg1NudSApQB-42zFMhQLthUJk85qlX_W0",
+              "id": "7363904412123115521"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/malini-kurrey-23060514a_microsoft-certified-azure-developer-associate-activity-7357054051152244738-w7X7",
+              "title": "🎉 Excited to share that I’ve officially earned the Microsoft Certified: Azure Developer Associate certification! #MicrosoftCertified…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFrujizYX1G0g/articleshare-shrink_800/B56Zhl.0uXHQAI-/0/1754057624904?e=2147483647&v=beta&t=sGwPrPMfNglq7GZBnqeOhEWeoDYepsdJJf06itKj6AQ",
+              "id": "7357054051152244738"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/gurpreet-kaur-7376b4103_red-hat-openshift-developer-i-introduction-activity-7339292915644391425-19jP",
+              "title": "View my verified achievement from Red Hat.",
+              "img": "https://media.licdn.com/dms/image/v2/D4D10AQHp5Jyx3OULyQ/image-shrink_800/B4DZdpoBFiGsAc-/0/1749823788230?e=2147483647&v=beta&t=M4zTeDBtYaIW2qfcl045-0Nw_ZjWp6dRQ1m2difvMvQ",
+              "id": "7339292915644391425"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/roshin-rajan-39891368_artificialintelligence-machinelearning-activity-7294520622301294592-OKjO",
+              "title": "I’m excited to share a major milestone in my learning journey. I have successfully completed the Post Graduate Program in Artificial Intelligence…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQE5iH7GtERNEw/feedshare-shrink_800/B56ZTtX2VZGQAk-/0/1739149240498?e=2147483647&v=beta&t=dPD4ZvfFI720IiyVHo3gPnxAoFjWTW33DUQmBPRLhBU",
+              "id": "7294520622301294592"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/trinitycollegedublin-botanicgarden-paceofnature-activity-7087495801806958593-DTEn",
+              "title": "#trinitycollegedublin #botanicgarden #paceofnature",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQH7cGJmL5sAwQ/feedshare-shrink_800/feedshare-shrink_800/0/1689790675540?e=2147483647&v=beta&t=wZzvr1l8KuICitXXBPVMS0JzPbY5iOjphd6xO2QJzGs",
+              "id": "7087495801806958593"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/suyogshetye_startup-jackfruit-hustlers-activity-7259486122127310848-Aaqs",
+              "title": "Hi Everyone, After three and a half years of working from home, I’m thrilled to share that we’re moving into our very first office in Pune! They say…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D05AQEA0UNtWOEKOg/videocover-high/videocover-high/0/1730796330407?e=2147483647&v=beta&t=F8Kr_9Kb-NbtNRHZcaVrPpZ7SrmZfB3ajpT4xQKz0bc",
+              "id": "7259486122127310848"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/ashutosh-gupta-18aa341a_sustainability-esg-regulatoryrequirements-activity-7174331474928672769-JzZq",
+              "title": "Excited to share that Pierre Lechat and I will be speaking at an upcoming webinar hosted by The Chartered Governance Institute UK & Ireland to deep…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQGWnkqNy_fp2w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1710493914710?e=2147483647&v=beta&t=pqfIeW1Ge24a2gd5T9cayoUcsLY16movXshjfb_UFas",
+              "id": "7174331474928672769"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/pragya-mishra-2803a41a1_mulesoft-mulesoftcertified-activity-7028079096022614016-jk_0",
+              "title": "There are no secrets to SUCCESS. It is the result of preparation, HARD WORK and learning from FAILURES... Completed one more…",
+              "img": "https://media.licdn.com/dms/image/v2/C4D22AQHhJFIOJxNWPg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1675624630320?e=2147483647&v=beta&t=DhyyU4IH3_g9-2z7z4C_z6qyP9bsif-GJcDkbnnmvgA",
+              "id": "7028079096022614016"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/sony-kadam-955b4053_here-i-want-to-share-great-moment-with-our-activity-6930366712764596224-9oyY",
+              "title": "Here I want to share great moment with our CEO Faisal Husain sir...Coolest CEO..",
+              "img": "https://media.licdn.com/dms/image/v2/C4D22AQERVBy6_8u0gQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1652328183635?e=2147483647&v=beta&t=8Anh1PikqyY-qc5miwD2IgcGzdVP1t-UAja0dUCq1rU",
+              "id": "6930366712764596224"
+            },
+            {
+              "interaction": "Liked by Abhijeet Jadhav",
+              "link": "https://www.linkedin.com/posts/rahul-hanmatkhedekar-6337b177_azurecloud-azurecertification-learningeveryday-activity-6888472023530565632-BxRj",
+              "title": "Starting 2022 on a good note. Delighted to share that I have passed the AZ900 certification exam. Thank you so much Tata Consultancy Services for…",
+              "img": "https://media.licdn.com/dms/image/v2/C4E22AQH2Lceqh3z6Hg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1642339711438?e=2147483647&v=beta&t=ci2_wZjV_RlDBN0sg-JJj_78t8HGGTidfPoPwbEgUd8",
+              "id": "6888472023530565632"
+            }
+          ],
+          "linkedin_num_id": "60302533",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/gowrisankar-pathivada-85802b6a",
+              "name": "Gowrisankar Pathivada",
+              "title": "lead analyst at CGI",
+              "url_text": "https://in.linkedin.com/in/gowrisankar-pathivada-85802b6a"
+            },
+            {
+              "url": "https://in.linkedin.com/in/keerti-choudhary-05307b38",
+              "name": "Keerti Choudhary",
+              "title": "Working as a Senior Specialist SE, providing solutions and implementing newer tech stack",
+              "url_text": "https://in.linkedin.com/in/keerti-choudhary-05307b38"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rahul-tiwari-33052839",
+              "name": "Rahul Tiwari",
+              "title": "Lead Technology",
+              "url_text": "https://in.linkedin.com/in/rahul-tiwari-33052839"
+            },
+            {
+              "url": "https://in.linkedin.com/in/priya-sp-88107211b",
+              "name": "Priya SP",
+              "title": "Application Development Associate Manager",
+              "url_text": "https://in.linkedin.com/in/priya-sp-88107211b"
+            },
+            {
+              "url": "https://au.linkedin.com/in/yogesh-pal-8818b765",
+              "name": "Yogesh Pal",
+              "title": null,
+              "url_text": "https://au.linkedin.com/in/yogesh-pal-8818b765"
+            },
+            {
+              "url": "https://in.linkedin.com/in/pankaj-jha-21094438",
+              "name": "Pankaj Jha",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/pankaj-jha-21094438"
+            },
+            {
+              "url": "https://in.linkedin.com/in/himanshu-rangila-01ba8049",
+              "name": "Himanshu Rangila",
+              "title": "Technical Analyst at Coforge",
+              "url_text": "https://in.linkedin.com/in/himanshu-rangila-01ba8049"
+            },
+            {
+              "url": "https://in.linkedin.com/in/chandan-kumar-sahoo-a15b6794",
+              "name": "Chandan Kumar Sahoo",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/chandan-kumar-sahoo-a15b6794"
+            },
+            {
+              "url": "https://ca.linkedin.com/in/raju-jangle-devloper",
+              "name": "Raju Jangle",
+              "title": "Technology Lead at Infosys | Micro-services| Azure| .NET Core",
+              "url_text": "https://ca.linkedin.com/in/raju-jangle-devloper"
+            },
+            {
+              "url": "https://in.linkedin.com/in/singhanjani321",
+              "name": "Anjani kumar",
+              "title": "Technical lead at Wipro Limited",
+              "url_text": "https://in.linkedin.com/in/singhanjani321"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Abhijeet",
+          "last_name": "Jadhav",
+          "timestamp": "2025-08-30T18:00:57.356Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/abhijeetjadhav"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Preetika Muralidharan",
+          "linkedin_url": "https://www.linkedin.com/in/preetika-muralidharan-35983a125",
+          "company": "EarlySalary",
+          "search_snippet": "HEC Paris MBA candidate with 5+ years of experience in management consulting and growth… · Expérience : HEC Paris MBAT · Formation : HEC Paris · Lieu ...",
+          "title": "HEC Paris MBAT"
+        },
+        "detailed_profile": {
+          "id": "preetika-muralidharan-35983a125",
+          "name": "Preetika Muralidharan",
+          "city": "Jouy-en-Josas, Île-de-France, France",
+          "country_code": "FR",
+          "about": "HEC Paris MBA candidate with 5+ years of experience in management consulting and growth…",
+          "current_company": {
+            "link": "https://fr.linkedin.com/company/hec-paris-mbat?trk=public_profile_topcard-current-company",
+            "name": "HEC Paris MBAT",
+            "company_id": "hec-paris-mbat",
+            "location": null
+          },
+          "experience": null,
+          "url": "https://www.linkedin.com/in/preetika-muralidharan-35983a125",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/sumit-raj-learner?trk=public_profile_browsemap-profile",
+              "name": "Sumit Raj",
+              "about": "Chief of Staff @Capgemini | Innovation and Transformation Lead | Strategic Partner - GCC | MBA, NMIMS Mumbai | BTech CS, Delhi University",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/omkarvichare?trk=public_profile_browsemap-profile",
+              "name": "Omkar Vichare",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/gaurav-chopra-85322351?trk=public_profile_browsemap-profile",
+              "name": "Gaurav Chopra",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/pratik-nandi?trk=public_profile_browsemap-profile",
+              "name": "Pratik Nandi",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/deepak-gupta95?trk=public_profile_browsemap-profile",
+              "name": "Deepak Gupta",
+              "about": "Senior Associate at PwC | Oracle Fusion SCM Consultant | Ex - Infosys",
+              "location": "Gurugram"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/radhika-goyal-2408?trk=public_profile_browsemap-profile",
+              "name": "Radhika Goyal",
+              "about": "Senior Transition Manager at EXL",
+              "location": "Noida"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/jitu-kalita-a42b307b?trk=public_profile_browsemap-profile",
+              "name": "Jitu Kalita",
+              "about": "Strategy @PWC US (Strategy&) | IIM Amritsar | NIT Silchar",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://www.linkedin.com/in/alekhyaak?trk=public_profile_browsemap-profile",
+              "name": "Alekhya Kakumanu",
+              "about": null,
+              "location": "Seattle, WA"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sumitpawar222?trk=public_profile_browsemap-profile",
+              "name": "Sumit Pawar",
+              "about": "Business Analyst at Globant | MBA Marketing & Operations",
+              "location": "Pune"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ajaykr17?trk=public_profile_browsemap-profile",
+              "name": "Ajay Kumar",
+              "about": "Security Architect | CISA | IIT Roorkee | Ex-KPMG | Ex-Deloitte | Ex-PwC",
+              "location": "Delhi, India"
+            }
+          ],
+          "educations_details": "HEC Paris",
+          "education": [
+            {
+              "title": "HEC Paris",
+              "url": "https://fr.linkedin.com/school/hec-paris/",
+              "start_year": "2025",
+              "end_year": "2026",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            },
+            {
+              "start_year": "2017",
+              "end_year": "2019",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            },
+            {
+              "start_year": "2013",
+              "end_year": "2017",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/C5603AQE_mhb5qJ8f6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1636198442014?e=2147483647&v=beta&t=extST6gE4880kqEXOa_pSXPglQu2LUmVUJcWnI4Sp9w",
+          "languages": [
+            {
+              "subtitle": "-",
+              "title": "English"
+            },
+            {
+              "subtitle": "Professional working proficiency",
+              "title": "French"
+            },
+            {
+              "subtitle": "-",
+              "title": "Tamil"
+            },
+            {
+              "subtitle": "-",
+              "title": "Telugu"
+            },
+            {
+              "subtitle": "-",
+              "title": "Hindi"
+            },
+            {
+              "subtitle": "Full professional proficiency",
+              "title": "German"
+            }
+          ],
+          "certifications": [
+            {
+              "meta": "Issued May 2021",
+              "subtitle": "Scrum Alliance",
+              "title": "Scrum Master Certified (SMC)",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Jan 2021",
+              "subtitle": "KPMG India",
+              "title": "Lean Six Sigma Green Belt Certification",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Dec 2020",
+              "subtitle": "London Business School",
+              "title": "Brand Management - Aligning Business, Brand and Behaviour",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Jan 2019",
+              "subtitle": "Google",
+              "title": "Fundamentals of Digital Marketing",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Dec 2014",
+              "subtitle": "IIS Technologies Pvt. Ltd.",
+              "title": "Embedded Systems",
+              "credential_url": null,
+              "credential_id": null
+            }
+          ],
+          "volunteer_experience": [
+            {
+              "cause": "Social Services",
+              "duration": "Jul 2013 - May 2014 · 11 months",
+              "duration_short": "11 months",
+              "end_date": "May 2014",
+              "info": "Worked in blood donation camp, and teaching underprivileged children. Participated in zoo and beach cleaning.",
+              "start_date": "Jul 2013",
+              "subtitle": "Social Service Group",
+              "title": "Volunteer"
+            }
+          ],
+          "followers": 2471,
+          "connections": 500,
+          "current_company_company_id": "hec-paris-mbat",
+          "current_company_name": "HEC Paris MBAT",
+          "location": "Jouy-en-Josas",
+          "input_url": "https://www.linkedin.com/in/preetika-muralidharan-35983a125",
+          "linkedin_id": "preetika-muralidharan-35983a125",
+          "activity": [
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/prarthanajain22_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B1-%F0%9D%97%BA%F0%9D%97%B2-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-activity-7366444235421601792-WesJ",
+              "title": "𝗧𝗵𝗲𝘆 𝘁𝗼𝗹𝗱 𝗺𝗲 “𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗶𝘀 𝘁𝗵𝗲 𝗸𝗲𝘆.” 𝗡𝗼 𝗼𝗻𝗲 𝘁𝗼𝗹𝗱 𝗺𝗲 𝘄𝗵𝗮𝘁 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗹𝗼𝗼𝗸𝘀 𝗹𝗶𝗸𝗲…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGs8U3KGeYqfg/feedshare-shrink_800/B56ZjrdwmhHAAg-/0/1756297142437?e=2147483647&v=beta&t=H7NaXbNhf_juryuQhkCsz4At9M_IKY5et2Ml-uUOxUw",
+              "id": "7366444235421601792"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/kritika-singh-5386b853_careertransitions-growthjourney-unlearning-activity-7356866904050880512-wdqf",
+              "title": "After 1.6 intense years at MakeMyTrip, I decided to step away. I joined to build, solve, and lead but ended up unlearning deeply held patterns and…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7356866904050880512"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/francesco-cambria-29aba6195_parfumschristiandior-lvmh-diorhomme-activity-7346877980326932480-BbsU",
+              "title": "Thrilled to share that I’m starting my internship at Parfums Christian Dior as Assistant Chef de Produit Développement Parfums for the Dior Homme…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQEfg3OPnS5C6A/feedshare-shrink_2048_1536/B4DZfVYMDmGkAo-/0/1751631578090?e=2147483647&v=beta&t=K5821RaLaYtpvRkgrvi6TOxaFLwaiHnJtJTyuaTLa9E",
+              "id": "7346877980326932480"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/james-michael-lafferty-2737071_since-the-new-ceo-announcement-at-my-former-activity-7356114188571676673-h5lM",
+              "title": "Since the new CEO announcement at my former employer Procter & Gamble, I’ve had dozens of folks reach out for my reactions to Shailesh Jejurikar…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7356114188571676673"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/hecparisluxuryclub_kering-dodo-luxury-activity-7346546454812897281-lyqM",
+              "title": "We are thrilled to share a proud HEC Paris MBA Alumni appointment! Congratulations to Teejana Beenessreesingh, previous President of the Club, on…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQHCPYC0cbDEVQ/feedshare-shrink_800/B4DZfQtElqGgAg-/0/1751553166071?e=2147483647&v=beta&t=W2P2KzeycOvMbMnLP8qFOD-gYN-MDDQ4GMlmb6F8JB4",
+              "id": "7346546454812897281"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/denise-jiajun-wu_mbat2025-hecparismba-leadership-activity-7345496949120253952-QPwy",
+              "title": "MBAT 2025 Final Video is out – my 8-month journey officially comes to an end. As Head of Marketing, this project has been one of the most intense…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGm9saEP-YI8Q/feedshare-shrink_2048_1536/B56ZfByefmG0A0-/0/1751302926593?e=2147483647&v=beta&t=La5b7A-RNZ8TWjUZH82b2zW793ca_us0YPKbojDkt4k",
+              "id": "7345496949120253952"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/hec-mba-marketing-club_thats-a-wrap-on-the-kraft-heinz-x-hec-activity-7346273296314724355-HXXG",
+              "title": "🎉 That’s a wrap on the Kraft Heinz x HEC Paris Business Case Competition 2025! Last month, students from top business schools across Europe tackled…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQHYEmAHNqbOyA/feedshare-shrink_800/B4DZfM0odAHMAo-/0/1751488039281?e=2147483647&v=beta&t=BllqUME3KlbNhI4FxHtAu3fmYe4LFQkUEASp3b5-2rA",
+              "id": "7346273296314724355"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/shaoxuanli_hec-paris-mba-activity-7340314769150681089-z2uQ",
+              "title": "✨ Excited to share that I will be joining Eli Lilly and Company France this summer for my internship as part of my MBA journey at HEC Paris. This is…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQH135vrpSu6wg/feedshare-shrink_2048_1536/B56Zd4JYXrHoAo-/0/1750067416555?e=2147483647&v=beta&t=cdtZl_U3M5G9mDlUddvCYdOMspGXASsHo8YM0sKDLNw",
+              "id": "7340314769150681089"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/mellisa-valerie-s_i-used-to-think-aircrafts-werejusta-way-activity-7351539892650172416-1oZR",
+              "title": "I used to think aircrafts were just a way to get from one place to another, until The Executive Committee (TEC) program completely changed my mind…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEmPDjTO9GAcg/feedshare-shrink_2048_1536/B56ZgXqi9bHUAs-/0/1752743693688?e=2147483647&v=beta&t=0AgFusVjsN-8GypnOQoNybjDIkIbeiCZ07BTaytsozM",
+              "id": "7351539892650172416"
+            },
+            {
+              "interaction": "Shared by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/preetika-muralidharan-35983a125_it-was-an-incredible-opportunity-to-work-activity-7351538403684909056-B4xA",
+              "title": "It was an incredible opportunity to work with the Kraft Heinz team in organizing our first joint case competition on the HEC campus! Thank you for…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7351538403684909056"
+            },
+            {
+              "interaction": "Liked by Preetika Muralidharan",
+              "link": "https://www.linkedin.com/posts/kabia-narvaez_six-months-into-my-mba-journey-and-what-activity-7351534134340534273-G45A",
+              "title": "Six months into my MBA journey, and what a ride it’s been so far. Coming from a different background than many of my classmates, there have…",
+              "img": "https://media.licdn.com/dms/image/v2/D4E22AQGMwCDPtTMYSg/feedshare-shrink_800/B4EZgXlT3AHEAg-/0/1752742319956?e=2147483647&v=beta&t=A55dpQgPTmvuNBwFt0MmsnJNL6lDObmAuTlvUSo4bks",
+              "id": "7351534134340534273"
+            }
+          ],
+          "linkedin_num_id": "518645877",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/sumit-raj-learner",
+              "name": "Sumit Raj",
+              "title": "Chief of Staff @Capgemini | Innovation and Transformation Lead | Strategic Partner - GCC | MBA, NMIMS Mumbai | BTech CS, Delhi University",
+              "url_text": "https://in.linkedin.com/in/sumit-raj-learner"
+            },
+            {
+              "url": "https://in.linkedin.com/in/omkarvichare",
+              "name": "Omkar Vichare",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/omkarvichare"
+            },
+            {
+              "url": "https://in.linkedin.com/in/gaurav-chopra-85322351",
+              "name": "Gaurav Chopra",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/gaurav-chopra-85322351"
+            },
+            {
+              "url": "https://in.linkedin.com/in/pratik-nandi",
+              "name": "Pratik Nandi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/pratik-nandi"
+            },
+            {
+              "url": "https://in.linkedin.com/in/deepak-gupta95",
+              "name": "Deepak Gupta",
+              "title": "Senior Associate at PwC | Oracle Fusion SCM Consultant | Ex - Infosys",
+              "url_text": "https://in.linkedin.com/in/deepak-gupta95"
+            },
+            {
+              "url": "https://in.linkedin.com/in/radhika-goyal-2408",
+              "name": "Radhika Goyal",
+              "title": "Senior Transition Manager at EXL",
+              "url_text": "https://in.linkedin.com/in/radhika-goyal-2408"
+            },
+            {
+              "url": "https://in.linkedin.com/in/jitu-kalita-a42b307b",
+              "name": "Jitu Kalita",
+              "title": "Strategy @PWC US (Strategy&) | IIM Amritsar | NIT Silchar",
+              "url_text": "https://in.linkedin.com/in/jitu-kalita-a42b307b"
+            },
+            {
+              "url": "https://www.linkedin.com/in/alekhyaak",
+              "name": "Alekhya Kakumanu",
+              "title": null,
+              "url_text": "https://www.linkedin.com/in/alekhyaak"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sumitpawar222",
+              "name": "Sumit Pawar",
+              "title": "Business Analyst at Globant | MBA Marketing & Operations",
+              "url_text": "https://in.linkedin.com/in/sumitpawar222"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ajaykr17",
+              "name": "Ajay Kumar",
+              "title": "Security Architect | CISA | IIT Roorkee | Ex-KPMG | Ex-Deloitte | Ex-PwC",
+              "url_text": "https://in.linkedin.com/in/ajaykr17"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Preetika",
+          "last_name": "Muralidharan",
+          "timestamp": "2025-08-30T18:00:33.629Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/preetika-muralidharan-35983a125"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ram Rastogi",
+          "linkedin_url": "https://www.linkedin.com/in/ramrastogi0708/zh-cn",
+          "company": "EarlySalary",
+          "search_snippet": "... digital lending platforms KreditBee, EarlySalary, Kissht, CashE, and LoanTap. Chairman -Governance Council at FACE is an honorary position. 收起.",
+          "title": "Spice Money"
+        },
+        "detailed_profile": {
+          "id": "ramrastogi0708",
+          "name": "Ram Rastogi 🇮🇳",
+          "city": "Mumbai, Maharashtra, India",
+          "country_code": "IN",
+          "about": "As a career banker with 29 years of experience with State Bank of India (1980-2009) and a…",
+          "current_company": {
+            "link": "https://in.linkedin.com/company/spicemoneyofficial?trk=public_profile_topcard-current-company",
+            "name": "Spice Money",
+            "company_id": "spicemoneyofficial",
+            "location": null
+          },
+          "experience": null,
+          "url": "https://www.linkedin.com/in/ramrastogi0708/zh-cn",
+          "people_also_viewed": [
+            {
+              "profile_link": "https://in.linkedin.com/in/balaji-sriram-40a1a216?trk=public_profile_browsemap-profile",
+              "name": "Balaji Sriram",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/anupam-bagchi-b770572?trk=public_profile_browsemap-profile",
+              "name": "Anupam Bagchi",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/sandeep-mhatre-2260a834?trk=public_profile_browsemap-profile",
+              "name": "Sandeep Mhatre",
+              "about": null,
+              "location": "Maharashtra, India"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/priyanka-joshi-8311184b?trk=public_profile_browsemap-profile",
+              "name": "Priyanka Joshi",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/neeraj-lekhwar-06a36950?trk=public_profile_browsemap-profile",
+              "name": "Neeraj Lekhwar",
+              "about": "Inclusive Finance | DFS | Payments | Microfinance Digital Transformation | Agency Banking",
+              "location": "Dehradun"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/naveen-chaluvadi-7697ba12?trk=public_profile_browsemap-profile",
+              "name": "Naveen Chaluvadi",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/manish-boricha-771b4813?trk=public_profile_browsemap-profile",
+              "name": "Manish Boricha",
+              "about": null,
+              "location": "Hyderabad"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/deepagrawal1?trk=public_profile_browsemap-profile",
+              "name": "Deep Agrawal",
+              "about": null,
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rajivjanjanam?trk=public_profile_browsemap-profile",
+              "name": "Rajiv Janjanam",
+              "about": "Revenue | Banking | Retail | MSME | Fintech & Digital Lending, P&L owner - slice, Ex- Khatabook, RBL Bank, HDFC Bank, Barclays",
+              "location": "Bengaluru"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/rahulagl?trk=public_profile_browsemap-profile",
+              "name": "Rahul Agrawal",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/nilesh-ghuge-28322643?trk=public_profile_browsemap-profile",
+              "name": "Nilesh Ghuge",
+              "about": "Chief Executive Officer -Western Capital Advisors # Prabhav Loans",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/amitav-panigrahi-63579345?trk=public_profile_browsemap-profile",
+              "name": "Amitav Panigrahi",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/anupammishhra?trk=public_profile_browsemap-profile",
+              "name": "Anupam Mishhra",
+              "about": "Payments | Cash Management | Digital Banking | Merchant Solutions | Govt Business | Tech Innovation",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/prerna-tiwari-3925a4a9?trk=public_profile_browsemap-profile",
+              "name": "Prerna Tiwari",
+              "about": "National Credit Head- PL, Consumer Finance, Digital Alliances & Analytics at Axis Finance Limited",
+              "location": "Thane"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/ajai-kumar-53489777?trk=public_profile_browsemap-profile",
+              "name": "Ajai Kumar",
+              "about": "Former Chairman and Managing Director, Corporation Bank",
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/dhiren-panchal-b3097bb?trk=public_profile_browsemap-profile",
+              "name": "Dhiren Panchal",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/jaya-janardanan?trk=public_profile_browsemap-profile",
+              "name": "Jaya Janardanan",
+              "about": null,
+              "location": "Mumbai"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/debapriya-datta-47a84752?trk=public_profile_browsemap-profile",
+              "name": "DEBAPRIYA DATTA",
+              "about": "Entrepreneur, Financial Solutions, Trainer & Coach With CAIIB & PGDFM",
+              "location": "Haora"
+            },
+            {
+              "profile_link": "https://in.linkedin.com/in/bharathiraja-s-5332061b?trk=public_profile_browsemap-profile",
+              "name": "Bharathiraja S",
+              "about": "BFSI Leader | MSME | Retail Banking | Fintech | Co-Lending | Credit Risk | Digital Transformation",
+              "location": "Mumbai"
+            }
+          ],
+          "educations_details": "Indian Institute of Management, Lucknow",
+          "education": [
+            {
+              "title": "Indian Institute of Management, Lucknow",
+              "url": "https://in.linkedin.com/school/indian-institute-of-management-lucknow/",
+              "start_year": "2006",
+              "end_year": "2006",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            },
+            {
+              "start_year": "1981",
+              "end_year": "1982",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            },
+            {
+              "start_year": "1974",
+              "end_year": "1976",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": null
+            }
+          ],
+          "recommendations_count": 36,
+          "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGulY4msAj-YA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725774993867?e=2147483647&v=beta&t=20bC-qh-UGIwsF8Rf6z-nWNFboq8UUINm6U7adLLbR8",
+          "languages": [
+            {
+              "subtitle": "Full professional proficiency",
+              "title": "English, Hindi"
+            },
+            {
+              "subtitle": "Elementary proficiency",
+              "title": "French"
+            }
+          ],
+          "certifications": [
+            {
+              "meta": "Issued Jan 2021",
+              "subtitle": "Indian Institute of Corporate Affairs",
+              "title": "Qualified Online Proficiency Self Assessment Test for Independent Directors",
+              "credential_url": null,
+              "credential_id": null
+            },
+            {
+              "meta": "Issued Jan 2006",
+              "subtitle": "Indian Institute of Management, Lucknow",
+              "title": "MDP for Senior Bankers",
+              "credential_url": null,
+              "credential_id": null
+            }
+          ],
+          "recommendations": [
+            "Malay Matalia “I recommend Mr. Ram Rastogi for his exceptional contributions as a board member. His hands-on approach and profound expertise in the payments space is invaluable, providing strategic direction and insights. His ability to blend strategic vision with practical solutions has made a noticeable impact on our operations. His extensive network and deep understanding of banking and FinTech dynamics greatly enhance our strategic capabilities. His involvement would be a significant asset to any team he is a part of.”",
+            "Babu Nair “I am delighted to recommend Ram Rastogi for his outstanding contributions and expertise in the realm of payments and banking. Ram is a true embodiment of dedication, knowledge sharing, and ecosystem building, which have collectively shaped his formidable brand in the industry. Ram's profound understanding of payments, coupled with his visionary insights into the business of banking, sets him apart as a thought leader of immense caliber. What truly stands out is his ability to articulate complex concepts with simplicity, maintaining a humble demeanor despite being a treasury of insights in the payments and banking domain. Having witnessed his impact not only in India but also globally, I can attest to Ram's exceptional engagements with regulators, bankers, payment companies, and technologists. His mentorship has been instrumental in nurturing several promising fintech ventures, a testament to his commitment to fostering innovation and growth. My journey with Ram commenced during our interactions at NPCI, where his keen observation, exceptional teaching skills, and innate ability to forge valuable connections became evident. Ram's unwavering support and insightful guidance have been invaluable to me, reflecting his role as a dependable friend and an indispensable networker. I wholeheartedly endorse Ram to any organization, whether global or Indian, seeking comprehensive perspectives on the payments and banking landscape. His ability to provide both macro and micro insights makes him an indispensable asset for any consulting assignment in this space. In summary, Ram Rastogi's unparalleled expertise, coupled with his genuine passion for driving positive change, makes him a truly exceptional professional in the field of payments and banking. It is with great confidence that I recommend him for any endeavor seeking excellence and profound understanding in this dynamic industry.”"
+          ],
+          "followers": 87073,
+          "connections": 500,
+          "current_company_company_id": "spicemoneyofficial",
+          "current_company_name": "Spice Money",
+          "projects": [
+            {
+              "title": "Unified Payment Interface (UPI)",
+              "start_date": "Jan 2013",
+              "end_date": "Present",
+              "description": "It is an improvised version of IMPS on messaging platform ISO 20020 with various add an facility like Tokenisation ( Virtual Address ) , Pull Transactions , Device Finger Printing as a 3rd Factor of Authenitication , e-mandate and Invoice in a Box."
+            },
+            {
+              "title": "National Unified USSD Platform (NUUP)",
+              "start_date": "Dec 2011",
+              "end_date": "Present",
+              "description": "National Unified USDD Platform (NUUP) :NUUP is another service innovations of NPCI dedicated to the Nation by our Prime Minister , Mr. Narendra Modi on 28th August 2014 , as a common mobile banking platform on USSD channel for offering basic banking services including real time ,24*7 remittance service-IMPS to 75 million+ account holders being opened under ,”Prime Minister ‘s Jan Dhan Yojana” (PMJDY) in the remotest part of the country. This project is envisaged as one of largest Financial Inclusion undertaken in the world. NUUP has eventually established connectivity with all Telcos and have a common USSD short code *99#. All customers of participating banks/PPIs can just dial *99# and get an interactive menu of respective banks/PPIs or common menu depending on the NPCI arrangement with bank/PPIs ) to complete basic banking transactions. Given that USSD alleviates the need for application download and is more secure than SMS , this is set to revolutionise and democratise the mobile based remittance/payments in India and larger sections of the Indian population across the country would benefit from that."
+            },
+            {},
+            {},
+            {
+              "title": "Immediate Payment Service (IMPS)-Unleashing Power of One Billion Consumers in India",
+              "start_date": "Aug 2011",
+              "end_date": "Present",
+              "description": "IMPS ( Immediate Payment Service ) is a 24X7, real time, cost effective, channel independent ,ubiquitous payment platform , known to be the best grounded innovation in payment technologies with visionary architecture, facilitating integration and inter-operability between customers of 71 leading banks and 8 telco led mobile wallets -m-Pesa, Airtel Money , m-Rupee and other non-telco led wallets like Oxicash, G Cash, ITZ Cash etc. in India.By bringing Telcos to the IMPS platform, NPCI has created yet another grounded service innovation — ‘co-creation’. This entails the collaborative model that allows large section of unbanked population to reap the benefit of direct benefit transfers in a very cost effective manner.IMPS is getting wide acceptance in India in remittances , merchant payments in semi urban and rural areas where POS terminals are not cost effective and cash management services of corporates too.World’s largest Financial Inclusion Program –PMJDY - Jan Dhan Yojana of Government of India rides of USSD based B2C payment platform –NUUP of NPCI.In terms of numbers, from one million transactions a month in September 2013, IMPS traversed a long way with a 6 x+ growth in last 12 months , crossing another milestone of 6.50 million transactions last month. Set to touch many other milestones in days to come!"
+            },
+            {},
+            {},
+            {},
+            {}
+          ],
+          "organizations": [
+            {
+              "title": "BUSINESS CORRESPONDENT FEDERATION OF INDIA (BCFI)",
+              "membership_type": "Advisor to the Board",
+              "start_date": "Aug 2021",
+              "end_date": "Present",
+              "description": "Business Correspondent Federation of India (BCFI) is an association of 60+ Corporate BC (CBC) members at national level, servicing through over 2 million Customer Service Points (CSPs) in remotest corner of Bharat. BCFI came into being with the intent of promoting responsible finance by the delivery of services to the not so privileged masses through the critical last mile route.Over past two years, while continuing to serve bank customers, CSPs were exposed to huge risk of pandemic. Despite this risk, in these difficult times, the services in last miles have continued unhindered and the BCs have been recognized by Department of Financial Services as COVID Warriors. Governor RBI and Finance Minister made positive announcements in media about the role of BCs in such difficult times.BCFI is a not-for-profit organisation . Advisor to the Board of BCFI is an honorary position. https://bcfi.org.in/",
+              "membership_number": null
+            },
+            {
+              "title": "Fintech Association for Consumer Empowerment",
+              "membership_type": "Chairman",
+              "start_date": "Oct 2020",
+              "end_date": "Present",
+              "description": "FinTech Association for Consumer Empowerment (FACE) is a not-for-profit organisation to voice the common concerns of Consumer Lending FinTech companies with regulators, media, listing or distribution platforms (like Google Play Store) and other external stakeholders.The association, which got registered in September 2020, comprises of industry leaders in the FinTech Lending space, and looks to be the bridge between the lending entities & consumers on one hand, and banks/NBFCs, regulatory bodies, government, media houses & listing platforms on the other. The members of FACE comprise of the founders of the leading Indian digital lending platforms KreditBee, EarlySalary, Kissht, CashE, and LoanTap.Chairman -Governance Council at FACE is an honorary position.",
+              "membership_number": null
+            }
+          ],
+          "location": "Mumbai",
+          "input_url": "https://www.linkedin.com/in/ramrastogi0708/zh-cn",
+          "linkedin_id": "ramrastogi0708",
+          "activity": [
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/anuradha-aggarwal-38a7372_stillday1-activity-7367238350841298945-Vlfg",
+              "title": "Excited to share that I have taken on a new charter to lead Marketing and Growth for Amazon India. The recent years at Amazon Pay have been an…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7367238350841298945"
+            },
+            {
+              "interaction": "Shared by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/ramrastogi0708_fintech-sro-digitalfinance-activity-7367062055234764800-o4k0",
+              "title": "🎉✨ Double Milestone for FACE! ✨🎉 Huge congratulations to Sugandh Saxena & the Fintech Association for Consumer Empowerment (FACE) team on: 🎯 1…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7367062055234764800"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/faceofindiaorg_face-fintech-sroft-activity-7366726212771090432-quwI",
+              "title": "On 28 August 2024, we celebrated small and quiet, as the Reserve Bank of India (RBI) entrusted FACE to work as the Self-Regulatory Organisation for…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGI8P_1SV73KQ/feedshare-shrink_1280/B56ZjvecwYG0Aw-/0/1756364394025?e=2147483647&v=beta&t=4-9GE8C_xIQTMGJ3xSP06ckbG4BlPNE6aWjyyFut3bY",
+              "id": "7366726212771090432"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/bharatpe_bharatpe-haiyakeenbharatpe-welcomeaboard-activity-7364605142886711296-fH6O",
+              "title": "Delighted to welcome Rajesh C as the Head of Finance at BharatPe!🥳 With more than two decades of experience across financial strategy, treasury…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGEQ_Uhyn4WMA/feedshare-shrink_800/B56ZjRVVB4G0Ag-/0/1755858692149?e=2147483647&v=beta&t=w-j_IfL_0aG0kW0-TRqNBpVWg4M-mDFZAGb_1RG4g0E",
+              "id": "7364605142886711296"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/theamarambani_it-took-me-two-decades-to-learn-this-you-activity-7360875221853114370-jS_G",
+              "title": "It took me two decades to learn this. You can learn it in 60 seconds. ⤵️ 1) Cash flow > Profit - Always. 2) The biggest edge? Patience. 3) Keep…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQFeAq9q-TC73g/feedshare-shrink_1280/B56ZicQ3mCG4As-/0/1754968327317?e=2147483647&v=beta&t=a9j7gl-y_30h-cuGSUgfqcK6lac8jAClkmModlP7MuE",
+              "id": "7360875221853114370"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/faceofindiaorg_digitallending-fintechnbfc-rbiregulated-activity-7364558888743948288-_VZ8",
+              "title": "We’re pleased to welcome Newtap Finance as a member of FACE. Newtap Finance is a fast-growing, RBI-registered NBFC committed to delivering…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGJmGfL3yyFuQ/feedshare-shrink_2048_1536/B56ZjQrR83IAAs-/0/1755847665113?e=2147483647&v=beta&t=jZDMFpd7pysLSK6dxQ74MfNNlGgLNg-m98WCgGKZGTI",
+              "id": "7364558888743948288"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/inc42_news-inc42-fintech-activity-7364578330370641921-Aher",
+              "title": "Mumbai-based fintech PayNearby is reportedly planning for an initial public offering (IPO) in the next financial year to fuel its expansion.👇…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQH7N5_OVxYvCg/feedshare-shrink_2048_1536/B56ZjQ12vqHAA0-/0/1755850437028?e=2147483647&v=beta&t=R6cvcaXsWa5aOXxZLt6tTvLlTXIJY5Bj_R6eeWd3U48",
+              "id": "7364578330370641921"
+            },
+            {
+              "interaction": "Liked by Ram Rastogi 🇮🇳",
+              "link": "https://www.linkedin.com/posts/radhikagupta2_it-was-a-pleasure-to-meet-honourable-finance-activity-7361706339376467968-ZWah",
+              "title": "It was a pleasure to meet Honourable Finance Minister Smt. Nirmala Sitharaman today, and also present her a copy of Mango Millionaire. Her passion…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQGXvrC4jphy1w/feedshare-shrink_800/B4DZioI3ywHwAo-/0/1755167562164?e=2147483647&v=beta&t=YSbknMwf6Hr0EvU4lqMSoZLyNcA2ayS9qXlCUclkR-c",
+              "id": "7361706339376467968"
+            }
+          ],
+          "linkedin_num_id": "24244235",
+          "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQH_hpWVXac8vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723689897530?e=2147483647&v=beta&t=iynDshjb79opP4ycGZn4GmI_1y6nqZctSjehvfQvijY",
+          "honors_and_awards": [
+            {
+              "title": "Most Influential Payments Professional",
+              "publication": "World Payments Congress",
+              "date": "2019-02-01T00:00:00.000Z",
+              "description": "Basis survey done by World Payments Congress , this coveted award is bestowed ."
+            },
+            {
+              "title": "Most Influential Digital Media Professional of India",
+              "publication": "World Payment Congress",
+              "date": "2015-02-01T00:00:00.000Z",
+              "description": "Basis survey done, World Payment Congress selects Most Influential Person in various fields including Digital Payments ."
+            },
+            {
+              "title": "Coveted Membership of Chairman's Club",
+              "publication": "Chairman -State Bank of India",
+              "date": "1996-04-01T00:00:00.000Z",
+              "description": "Coveted membership is awarded by Chairman ,SBI every year to their Top 15 Best Performing SBI Officials in 20,000 plus branches ."
+            }
+          ],
+          "similar_profiles": [
+            {
+              "url": "https://in.linkedin.com/in/balaji-sriram-40a1a216",
+              "name": "Balaji Sriram",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/balaji-sriram-40a1a216"
+            },
+            {
+              "url": "https://in.linkedin.com/in/anupam-bagchi-b770572",
+              "name": "Anupam Bagchi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/anupam-bagchi-b770572"
+            },
+            {
+              "url": "https://in.linkedin.com/in/sandeep-mhatre-2260a834",
+              "name": "Sandeep Mhatre",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/sandeep-mhatre-2260a834"
+            },
+            {
+              "url": "https://in.linkedin.com/in/priyanka-joshi-8311184b",
+              "name": "Priyanka Joshi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/priyanka-joshi-8311184b"
+            },
+            {
+              "url": "https://in.linkedin.com/in/neeraj-lekhwar-06a36950",
+              "name": "Neeraj Lekhwar",
+              "title": "Inclusive Finance | DFS | Payments | Microfinance Digital Transformation | Agency Banking",
+              "url_text": "https://in.linkedin.com/in/neeraj-lekhwar-06a36950"
+            },
+            {
+              "url": "https://in.linkedin.com/in/naveen-chaluvadi-7697ba12",
+              "name": "Naveen Chaluvadi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/naveen-chaluvadi-7697ba12"
+            },
+            {
+              "url": "https://in.linkedin.com/in/manish-boricha-771b4813",
+              "name": "Manish Boricha",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/manish-boricha-771b4813"
+            },
+            {
+              "url": "https://in.linkedin.com/in/deepagrawal1",
+              "name": "Deep Agrawal",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/deepagrawal1"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rajivjanjanam",
+              "name": "Rajiv Janjanam",
+              "title": "Revenue | Banking | Retail | MSME | Fintech & Digital Lending, P&L owner - slice, Ex- Khatabook, RBL Bank, HDFC Bank, Barclays",
+              "url_text": "https://in.linkedin.com/in/rajivjanjanam"
+            },
+            {
+              "url": "https://in.linkedin.com/in/rahulagl",
+              "name": "Rahul Agrawal",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/rahulagl"
+            },
+            {
+              "url": "https://in.linkedin.com/in/nilesh-ghuge-28322643",
+              "name": "Nilesh Ghuge",
+              "title": "Chief Executive Officer -Western Capital Advisors # Prabhav Loans",
+              "url_text": "https://in.linkedin.com/in/nilesh-ghuge-28322643"
+            },
+            {
+              "url": "https://in.linkedin.com/in/amitav-panigrahi-63579345",
+              "name": "Amitav Panigrahi",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/amitav-panigrahi-63579345"
+            },
+            {
+              "url": "https://in.linkedin.com/in/anupammishhra",
+              "name": "Anupam Mishhra",
+              "title": "Payments | Cash Management | Digital Banking | Merchant Solutions | Govt Business | Tech Innovation",
+              "url_text": "https://in.linkedin.com/in/anupammishhra"
+            },
+            {
+              "url": "https://in.linkedin.com/in/prerna-tiwari-3925a4a9",
+              "name": "Prerna Tiwari",
+              "title": "National Credit Head- PL, Consumer Finance, Digital Alliances & Analytics at Axis Finance Limited",
+              "url_text": "https://in.linkedin.com/in/prerna-tiwari-3925a4a9"
+            },
+            {
+              "url": "https://in.linkedin.com/in/ajai-kumar-53489777",
+              "name": "Ajai Kumar",
+              "title": "Former Chairman and Managing Director, Corporation Bank",
+              "url_text": "https://in.linkedin.com/in/ajai-kumar-53489777"
+            },
+            {
+              "url": "https://in.linkedin.com/in/dhiren-panchal-b3097bb",
+              "name": "Dhiren Panchal",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/dhiren-panchal-b3097bb"
+            },
+            {
+              "url": "https://in.linkedin.com/in/jaya-janardanan",
+              "name": "Jaya Janardanan",
+              "title": null,
+              "url_text": "https://in.linkedin.com/in/jaya-janardanan"
+            },
+            {
+              "url": "https://in.linkedin.com/in/debapriya-datta-47a84752",
+              "name": "DEBAPRIYA DATTA",
+              "title": "Entrepreneur, Financial Solutions, Trainer & Coach With CAIIB & PGDFM",
+              "url_text": "https://in.linkedin.com/in/debapriya-datta-47a84752"
+            },
+            {
+              "url": "https://in.linkedin.com/in/bharathiraja-s-5332061b",
+              "name": "Bharathiraja S",
+              "title": "BFSI Leader | MSME | Retail Banking | Fintech | Co-Lending | Credit Risk | Digital Transformation",
+              "url_text": "https://in.linkedin.com/in/bharathiraja-s-5332061b"
+            }
+          ],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Ram",
+          "last_name": "Rastogi 🇮🇳",
+          "timestamp": "2025-08-30T18:00:20.082Z",
+          "input": {
+            "url": "https://www.linkedin.com/in/ramrastogi0708/zh-cn"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true
+        }
+      }
+    ]
+  }
+}
