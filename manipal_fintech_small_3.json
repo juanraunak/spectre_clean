@@ -1,0 +1,456 @@
+{
+  "Spectre_company": {
+    "company_name": "Manipal Fintech",
+    "report_type": "Complete Intelligence Report",
+    "generation_date": "2025-08-30 22:48:31",
+    "data_sources": [
+      "Google Custom Search Engine",
+      "Bright Data LinkedIn Scraper",
+      "Company Web Research"
+    ],
+    "report_sections": [
+      "company_intelligence",
+      "employee_intelligence",
+      "analytics"
+    ]
+  },
+  "report_metadata": {
+    "company_name": "Manipal Fintech",
+    "generated_at": "2025-08-30T17:18:31.634860"
+  },
+  "company_intelligence": {
+    "basic_info": {
+      "name": "Manipal Fintech",
+      "website": "https://in.linkedin.com/company/manipalfintech",
+      "industry": "",
+      "headquarters": "Gurugram, HaryanaTypePrivately",
+      "founded_year": "2018",
+      "employee_estimate": "271 employees",
+      "revenue_estimate": ""
+    },
+    "business_analysis": {
+      "description": "**Business Summary of Manipal Fintech**\n\n**Business Model:**\nManipal Fintech operates as a fintech platform specializing in gold loans. The company leverages technology to provide quick and minimal paperwork gold loans, making the process efficient and customer-friendly. It offers services both online and offline, including doorstep services where loan officers visit customers' homes to complete the loan process.\n\n**Industry:**\nManipal Fintech is part of the financial services industry, specifically within the niche of gold loans, which is a segment of the broader lending market.\n\n**Key Products/Services:**\n1. **Gold Loans:** The primary product, allowing customers to secure loans using their gold jewelry as collateral.\n2. **Balance Transfer:** Customers can transfer their existing gold loans to Manipal Fintech to benefit from lower interest rates.\n3. **Gold Loan at Home:** A service where loan officers visit customers' homes to facilitate the loan process.\n\n**Market Position:**\nManipal Fintech positions itself as India’s most trusted Gold-Tech platform. It has disbursed over ₹16,000 crore in loans to more than 400,000 customers across India, indicating a strong market presence and customer trust. The company is backed by The Manipal Group, which adds to its credibility and trustworthiness.\n\n**Financial Information:**\n- **Loans Disbursed:** Over ₹16,000 crore.\n- **Customer Base:** More than 400,000 customers.\n- **Interest Rates:** Starting at 9.48% per annum.\n- **Company Size:** 201-500 employees.\n- **Headquarters:** Gurugram, Haryana.\n- **Founded:** 2018.\n\n**Recent Developments:**\n- Hosted \"Beyond Bullion - Redefining Lending Through Fintech 2025\" event, showcasing their commitment to innovation and collaboration in the fintech space.\n- Announced new leadership appointments to drive business growth and strategy.\n\n**Conclusion:**\nManipal Fintech is a significant player in the gold loan segment of the financial services industry in India. With a strong backing from The Manipal Group, a large customer base, and substantial loan disbursements, it is well-positioned to continue its growth and innovation in the fintech sector.",
+      "business_model": "**Business Summary of Manipal Fintech**\n\n**Business Model:**\nManipal Fintech operates as a fintech platform specializing in gold loans. The company leverages technology to provide quick and minimal paperwork gold loans, making the process efficient and customer-friendly. It offers services both online and offline, including doorstep services where loan officers visit customers' homes to complete the loan process.\n\n**Industry:**\nManipal Fintech is part of the financial services industry, specifically within the niche of gold loans, which is a segment of the broader lending market.\n\n**Key Products/Services:**\n1. **Gold Loans:** The primary product, allowing customers to secure loans using their gold jewelry as collateral.\n2. **Balance Transfer:** Customers can transfer their existing gold loans to Manipal Fintech to benefit from lower interest rates.\n3. **Gold Loan at Home:** A service where loan officers visit customers' homes to facilitate the loan process.\n\n**Market Position:**\nManipal Fintech positions itself as India’s most trusted Gold-Tech platform. It has disbursed over ₹16,000 crore in loans to more than 400,000 customers across India, indicating a strong market presence and customer trust. The company is backed by The Manipal Group, which adds to its credibility and trustworthiness.\n\n**Financial Information:**\n- **Loans Disbursed:** Over ₹16,000 crore.\n- **Customer Base:** More than 400,000 customers.\n- **Interest Rates:** Starting at 9.48% per annum.\n- **Company Size:** 201-500 employees.\n- **Headquarters:** Gurugram, Haryana.\n- **Founded:** 2018.\n\n**Recent Developments:**\n- Hosted \"Beyond Bullion - Redefining Lending Through Fintech 2025\" event, showcasing their commitment to innovation and collaboration in the fintech space.\n- Announced new leadership appointments to drive business growth and strategy.\n\n**Conclusion:**\nManipal Fintech is a significant player in the gold loan segment of the financial services industry in India. With a strong backing from The Manipal Group, a large customer base, and substantial loan disbursements, it is well-positioned to continue its growth and innovation in the fintech sector.",
+      "key_products": "",
+      "market_position": ""
+    },
+    "digital_presence": {
+      "social_links": {
+        "linkedin": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmanipalfintech_sahibandhu-themanipalgroup-leadership-activity-7284928964211458048-wnxa&trk=public_post_contextual-sign-in-modal_join-link",
+        "twitter": "https://twitter.com/share?text=We’re focusing on India’s underserved segments – farmers, SMEs & women-led businesses, using tech as a bridge: Puja Singh, CEO, Manipal Fintech @ExpComputer&url=https%3A%2F%2Fwww.expresscomputer.in%2Finterviews%2Fwere-focusing-on-indias-underserved-segments-farmers-smes-women-led-businesses-using-tech-as-a-bridge-puja-singh-ceo-manipal-fintech%2F126515%2F",
+        "facebook": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.expresscomputer.in%2Finterviews%2Fwere-focusing-on-indias-underserved-segments-farmers-smes-women-led-businesses-using-tech-as-a-bridge-puja-singh-ceo-manipal-fintech%2F126515%2F",
+        "instagram": "https://instagram.com/expresscomputeronline",
+        "youtube": "https://youtube.com/channel/UCJV42nhRMT2ijDkWx4iR3ow"
+      },
+      "tech_stack": []
+    },
+    "financial_data": {},
+    "recent_news": []
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_employees_found": 3,
+      "detailed_profiles_scraped": 3,
+      "scraping_success_rate": 100.0,
+      "scraping_completed": true
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Rahul Virmani",
+          "linkedin_url": "https://in.linkedin.com/in/rahul-virmani-656a0420b",
+          "company": "Manipal Fintech",
+          "search_snippet": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company) · Rahul is a seasoned Sales & Marketing, ..."
+        },
+        "detailed_profile": {
+          "id": "rahul-virmani-656a0420b",
+          "name": "Rahul Virmani",
+          "city": "Ghaziabad, Uttar Pradesh, India",
+          "country_code": "IN",
+          "position": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+          "about": "Rahul is a seasoned Sales & Marketing, Business Development professional with 21 years of experience in BPO/Contact Center in Banking, Financial Service & Insurance /Fin-tech & SME Financing domains for B2C & B2B segments. Expertise in taking up start-ups, successfully setting up & scaling telesales & sales teams for managing third party distribution products across pan india with a team size of 400+ agents through telesales, direct sales & channel partner sales. Responsible for Managing P&L, sales operations, business development, target planning & strategy, decision making, revenue generation, productivity enhancement and data management",
+          "current_company": {
+            "name": "Manipal Fintech",
+            "company_id": "manipalfintech",
+            "title": "Vice President & National Sales Head",
+            "location": "Gurugram, Haryana, India"
+          },
+          "experience": [
+            {
+              "title": "Vice President & National Sales Head",
+              "location": "Gurugram, Haryana, India",
+              "description_html": null,
+              "start_date": "Jul 2022",
+              "end_date": "Present",
+              "company": "Manipal Fintech",
+              "company_id": "manipalfintech",
+              "url": "https://in.linkedin.com/company/manipalfintech",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH6sBU5tYUt5w/company-logo_100_100/B56Zde8RKqHEAQ-/0/1749644547203/manipalfintech_logo?e=2147483647&v=beta&t=fRePz3tDk9Sx3uKvOcwyBCnhdDY8IsijI-HNjd9dM40"
+            },
+            {
+              "title": "Head - Inside Sales (Business Operations)",
+              "location": "Gurugram, Haryana, India",
+              "description_html": null,
+              "start_date": "May 2019",
+              "end_date": "Jul 2022",
+              "company": "Power2SME",
+              "company_id": "power2sme",
+              "url": "https://in.linkedin.com/company/power2sme",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEoHJQT7isWxA/company-logo_100_100/company-logo_100_100/0/1688119179619/power2sme_logo?e=2147483647&v=beta&t=ma_Do0nAijdaoBjiQiDK0_5QCMIBchhLTsj3Fh0eV68"
+            },
+            {
+              "title": "Business Head",
+              "location": "Delhi, India",
+              "description_html": null,
+              "start_date": "Aug 2015",
+              "end_date": "Jan 2019",
+              "company": "Accura Financial Solutions LLP/Policy Volicy",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Vice President- Inside Sales",
+              "location": "Delhi, India",
+              "description": "Setting up the distribution network for selling third party financial products. Set up the telesales & sales team of 450+ agents for managing business pan india. Managed business with telesales, channel sales & direct sales team. Responsible for busines volumes, per seat productivity and P&L.",
+              "description_html": "Setting up the distribution network for selling third party financial products. Set up the telesales &amp; sales team of 450+ agents for managing business pan india. Managed business with telesales, channel sales &amp; direct sales team. Responsible for busines volumes, per seat productivity and P&amp;L. <!---->",
+              "start_date": "Aug 2009",
+              "end_date": "Apr 2015",
+              "company": "BMA Wealth Creators Ltd",
+              "company_id": "bma-wealth-creators-ltd",
+              "url": "https://in.linkedin.com/company/bma-wealth-creators-ltd",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQExtwTeP6aT_g/company-logo_100_100/company-logo_100_100/0/1631344632250?e=2147483647&v=beta&t=wO6F_rem5c-l_0bhCJW4YWyHYdC-2ZLPEk_izYeIe-4"
+            },
+            {
+              "title": "Area Manager - Telesales",
+              "location": "Delhi, India",
+              "description": "Setting up of Insurance distribution network in Haryana & Delhi. Developed, lead & managed a team of 150+ telesales & sales team from scratch to transform the life insurance vertical for the company. Developed telesales, channel sales and direct sales team to sell third party financial products pan india.",
+              "description_html": "Setting up of Insurance distribution network in Haryana &amp; Delhi. Developed, lead &amp; managed a team of 150+ telesales &amp; sales team from scratch to transform the life insurance vertical for the company. Developed telesales, channel sales and direct sales team to sell third party financial products pan india. <!---->",
+              "start_date": "Apr 2007",
+              "end_date": "Jul 2009",
+              "company": "Unicon Securities Private Limited",
+              "company_id": "unicon-securities-private-limited",
+              "url": "https://in.linkedin.com/company/unicon-securities-private-limited",
+              "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f"
+            },
+            {
+              "title": "Territory Manager- Telesales",
+              "location": "Dehradun, Uttarakhand, India",
+              "description_html": null,
+              "start_date": "Apr 2005",
+              "end_date": "Mar 2007",
+              "company": "IIFL (India Infoline Group)",
+              "company_id": "iifl",
+              "url": "https://in.linkedin.com/company/iifl",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHY5nLoOyFlXw/company-logo_100_100/company-logo_100_100/0/1654593737698/india_infoline_ltd_logo?e=2147483647&v=beta&t=MoWm8e4-RCpO645aSSHWpF4Rc82YPa-EJdB5S4GIoqY"
+            },
+            {
+              "title": "Territory Manager",
+              "location": "Delhi, India",
+              "description_html": null,
+              "start_date": "Feb 2002",
+              "end_date": "Mar 2005",
+              "company": "NetAmbit Infosource & e-Services Pvt. Ltd.",
+              "company_id": "netambit-infosource-&-e-services-pvt-ltd",
+              "url": "https://in.linkedin.com/company/netambit-infosource-&-e-services-pvt-ltd",
+              "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQGbR9QF-auwjg/company-logo_100_100/company-logo_100_100/0/1630569003285/netambit_infosource__e_services_pvt_ltd_logo?e=2147483647&v=beta&t=6ZvNJbDKdV88y1uuD9-Qi93soAqIGZTFQO7iCh2jrio"
+            }
+          ],
+          "url": "https://in.linkedin.com/in/rahul-virmani-656a0420b",
+          "educations_details": "Indian Institute of Management, Kozhikode",
+          "education": [
+            {
+              "title": "Indian Institute of Management, Kozhikode",
+              "degree": "Professional Certificate Program in Marketing & Sales Management",
+              "field": "Sales & Marketing",
+              "url": "https://in.linkedin.com/school/indian-institute-of-management-kozhikode/?trk=public_profile_school_profile-section-card_image-click",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQFqQ8SUCcSnIg/company-logo_100_100/company-logo_100_100/0/1631426856714/indian_institute_of_management_kozhikode_logo?e=2147483647&v=beta&t=YgcwGsx1GcP6p8dqQTCoQLj7Izo-YJ5_PqHK-kA6GD0"
+            },
+            {
+              "title": "Shri Guru Ram Rai Institute of Technology and Science",
+              "degree": "PGDBM - Marketing",
+              "field": "Sales & Marketing",
+              "description": null,
+              "description_html": null,
+              "institute_logo_url": "https://static.licdn.com/aero-v1/sc/h/6qpnald1ddva78jx4bnnl3vw"
+            }
+          ],
+          "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEjnoKSGMoD8g/profile-displayphoto-shrink_200_200/B56ZQ.rd2QHoAg-/0/1736218371391?e=2147483647&v=beta&t=GIwylCnYYUmaQMzgxjHqw30RdBOMd7e8z9YLbzuXGR0",
+          "followers": 327,
+          "connections": 301,
+          "current_company_company_id": "manipalfintech",
+          "current_company_name": "Manipal Fintech",
+          "location": "Ghaziabad",
+          "input_url": "https://in.linkedin.com/in/rahul-virmani-656a0420b",
+          "linkedin_id": "rahul-virmani-656a0420b",
+          "activity": [
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipal-business-solutions-private-limited_coffeewithceo-leadershipconnect-openconversations-activity-7359554419459244032-82sx",
+              "title": "Our very first ‘Coffee with the CEO’ marked the beginning of a new way to connect at Manipal Business Solutions. CEO Vishal Jain joined employees…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQEUzMc8vhqWAA/feedshare-shrink_800/B4DZiJjvUeHYAs-/0/1754654505377?e=2147483647&v=beta&t=ltaVP1y4LlkvmebgBNKbEIhKaNFqofTv22U2mGrxZOk",
+              "id": "7359554419459244032"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/sumitjaggi_exhibitions-are-all-about-networking-exploring-activity-7364650354409426944-ttEj",
+              "title": "Exhibitions are all about networking, exploring innovations, and discovering the latest trends. Had the privilege of meeting industry stalwarts -…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHRqkiSApNXNg/feedshare-shrink_1280/B56ZjR.a6xHcAs-/0/1755869460757?e=2147483647&v=beta&t=jaD-4eM_xppiWOF7t1j_Jj8f7wko7JwkUZNAyBEPUY0",
+              "id": "7364650354409426944"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_independenceday-freedomfiesta2025-lifeatmanipalfintech-activity-7361969971138056192-_Igc",
+              "title": "🇮🇳 Freedom Fiesta 2025 – Celebrating Azadi, Manipal Fintech Way! 🧡🤍💚 It’s a moment to come together, honour our nation’s journey, and celebrate…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGnn65LU4jhhw/feedshare-shrink_800/B56ZipxRG5G0Ak-/0/1755194922418?e=2147483647&v=beta&t=-bca3lqM9_tB15FrHKfq3YlgrV2pZXxOrmzqMcJWbq8",
+              "id": "7361969971138056192"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_leadership-townhall2025-fintechindia-activity-7359458508548829186-k5ck",
+              "title": "We kicked off August with a high-energy, purpose-driven Townhall led by our CEO, Puja Abhishek Singh, at Manipal Fintech. A session that served as…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQH5sXQ8at3L9g/feedshare-shrink_800/B56ZiIMfhuHQAg-/0/1754631637165?e=2147483647&v=beta&t=_vp6ccUQmzc9K1fOc3GStY_sDOn7uLhO6Vpi3yKV2CU",
+              "id": "7359458508548829186"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/ashish-choudhary-52697b1_few-glimpses-from-our-strategy-meet-2025-activity-7358334776379871232-pDpK",
+              "title": "Few glimpses from our Strategy Meet 2025 (1st & 2nd Aug) at our new office in Gurgaon. Two days of bonding and ideation with the team. Good times…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQE5U8Y-JIGpAA/feedshare-shrink_2048_1536/B4DZh4Oa6dHsAo-/0/1754363719924?e=2147483647&v=beta&t=0qfKRNWBinuymrevBAj3aSrpG3Z1oo2QagIwrvoMGlg",
+              "id": "2025"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipal-business-solutions-private-limited_mbsadorday-16yearsofcreatingimpact-anniversary-activity-7358118540777869312-f5UM",
+              "title": "Manipal Business Solutions turned #16, and we celebrated this milestone with everything that makes us who we are — energy, creativity, and…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEp79_7-nHL7w/feedshare-shrink_2048_1536/B56Zh1JjYJH0As-/0/1754312110887?e=2147483647&v=beta&t=C0UFZ-7p442u4gkLbVHOt3cJ-prR2cmyyUs0dnijPcg",
+              "id": "7358118540777869312"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/pujasingh27_teammanipalfintech-innovationinbharat-activity-7357649346823114752-yDZC",
+              "title": "\"We may all have come on different ships, but we are in the same boat now!\" Last week, we at Manipal Fintech came together for a high-energy…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGzzM38VTSFoA/feedshare-shrink_800/B56ZhufCO.HMAo-/0/1754200287494?e=2147483647&v=beta&t=dP_b7OCMrgZDmRn7ahalt8gXwpRpp2wBiEXM_CXxMXc",
+              "id": "7357649346823114752"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/saiprasanth-kumar-karnapu-4812a3162_leansixsigma-blackbeltcertified-gratitude-activity-7354030700771110913-XSap",
+              "title": "I'm thrilled to share that I've successfully completed my Lean Six Sigma Black Belt (LSSBB) certification, thanks to the incredible opportunity and…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEp0cDpyCthvw/feedshare-shrink_1280/B56Zg7D80VH0As-/0/1753337549251?e=2147483647&v=beta&t=bty3fEwqJ-ZAZjkIWSDjSSMDmcToIADkDAIYluRaAec",
+              "id": "7354030700771110913"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_bridging-indias-underserved-activity-7354408208418983936-XwyD",
+              "title": "\"We’re focusing on India’s underserved segments – farmers, SMEs & women-led businesses, using tech as a bridge.\" – Puja Abhishek Singh, CEO, Manipal…",
+              "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFJqiTevyDNJg/articleshare-shrink_1280_800/B4DZg29NEWGgAQ-/0/1753268671337?e=2147483647&v=beta&t=1qImQMVBxvYyvsHTNrPzDckdTObHxfC40Rt6tgqG9aI",
+              "id": "7354408208418983936"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_manipalfintech-fintechleadership-digitalcredit-activity-7346461826466856960-TW1e",
+              "title": "Proud to share, our CEO Puja Abhishek Singh, represented Manipal Fintech at the BW Businessworld 5th Edition of Festival of FinTech – Conclave &…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQGrl-WBbZYOUA/feedshare-shrink_800/B56ZfPgF1RHEAo-/0/1751532987387?e=2147483647&v=beta&t=0EASD69ZzaAdVkOcz0rqM075nQdHCnzS33wGLbNc7vY",
+              "id": "7346461826466856960"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_leansixsigma-processexcellence-teammanipal-activity-7345477947790643200-r0SY",
+              "title": "At Manipal Fintech, we’re committed to building a culture rooted in process excellence, data-driven decision-making, and customer-first innovation…",
+              "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+              "id": "7345477947790643200"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/ashish-choudhary-52697b1_dear-linkedin-family-two-years-back-i-started-activity-7349695499462979584-jRgJ",
+              "title": "Dear Linkedin Family, Two years back I started my journey on a path that I had never imagined. While I was always fond of music, I accidentally took…",
+              "img": "https://media.licdn.com/dms/image/v2/D4D22AQHZngCS57mauQ/feedshare-shrink_800/B4DZf9dEAfH0Ag-/0/1752303955849?e=2147483647&v=beta&t=JenBQi5zS6K1lQHhzMrsiodgVDjusgllvpYl-IbIcxI",
+              "id": "7349695499462979584"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/zfunds_zfunds-wealthtech-bw2025-activity-7346742309197107200-_P-L",
+              "title": "Firsts are always special. So this definitely is a special post for us. ZFunds has been recognized and awarded in the 'Wealth Tech of the Year 2025'…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQEQRndPTUgrQw/feedshare-shrink_1280/B56ZfTfMdYHoAk-/0/1751599860481?e=2147483647&v=beta&t=wvsT5jeJ2sd-q5AdHQboNvpyXI_KblPXBinotNhUrB8",
+              "id": "7346742309197107200"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/manipalfintech_newhiring-newjoining-workculture-activity-7346127477527760896-w4_L",
+              "title": "Manipal Fintech Welcomes Shivi Gautam as Head – Strategic Alliances We are excited to have Shivi Gautam join Manipal Fintech Family as Head -…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQFzgUQ8dzCrPw/feedshare-shrink_2048_1536/B56ZfKwA1QGoAs-/0/1751453274091?e=2147483647&v=beta&t=NF1L8CmwgNxakpS0NlyUXBOowMHrHE_cB7Sh8ltVWHM",
+              "id": "7346127477527760896"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/pujasingh27_leansixsigma-fintech-processexcellence-activity-7345070343897718784-dU9C",
+              "title": "Driving Excellence with Lean Six Sigma at Manipal Fintech In the dynamic fintech space, efficiency and quality are paramount. At Manipal Fintech…",
+              "img": "https://media.licdn.com/dms/image/v2/D5622AQHovLpWxNFWxA/feedshare-shrink_800/B56Ze7ugUbGoAk-/0/1751201226981?e=2147483647&v=beta&t=F7oOd19jq2ABy6vNuPGiqV-CRTValBjAC2x3dMMy2io",
+              "id": "7345070343897718784"
+            },
+            {
+              "interaction": "Liked by Rahul Virmani",
+              "link": "https://www.linkedin.com/posts/accredianedu_thechampionmindset-promotion-techleadership-activity-7334542669269913600-P7n2",
+              "title": "From building dashboards to building the future—Vinayak Godse has been promoted to Technology Lead at Accredian. 🚀 His journey is a masterclass in…",
+              "img": "https://media.licdn.com/dms/image/v2/D5605AQHz86Y-r9z6Gw/videocover-high/B56ZcmHkYpGQBc-/0/1748691222227?e=2147483647&v=beta&t=pr-R0ERnlys7TiDztiweg6pxPRl0dI9c8vDM64bFZOk",
+              "id": "7334542669269913600"
+            }
+          ],
+          "linkedin_num_id": "895305378",
+          "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+          "honors_and_awards": null,
+          "similar_profiles": [],
+          "default_avatar": false,
+          "memorialized_account": false,
+          "bio_links": [],
+          "first_name": "Rahul",
+          "last_name": "Virmani",
+          "timestamp": "2025-08-30T17:09:33.419Z",
+          "input": {
+            "url": "https://in.linkedin.com/in/rahul-virmani-656a0420b"
+          }
+        },
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": true,
+          "scraping_error": null
+        },
+        "summary": {
+          "full_name": "Rahul Virmani",
+          "current_position": "Vice President & National Sales Head",
+          "location": "Ghaziabad",
+          "experience_years": 0,
+          "skills_count": 0,
+          "education_count": 2,
+          "connections": "301"
+        }
+      }
+    ]
+  },
+  "analytics": {
+    "employee_analytics": {
+      "totals": {
+        "employees_found": 100,
+        "profiles_scraped": 99,
+        "scraping_success_rate": 99.0
+      },
+      "top_positions": [
+        {
+          "position": "Manipal Fintech",
+          "count": 9
+        },
+        {
+          "position": "Regional Sales Head",
+          "count": 3
+        },
+        {
+          "position": "Regional Head",
+          "count": 3
+        },
+        {
+          "position": "Area Head",
+          "count": 3
+        },
+        {
+          "position": "Cluster Head",
+          "count": 2
+        },
+        {
+          "position": "Human Resources Intern",
+          "count": 2
+        },
+        {
+          "position": "Sales Manager",
+          "count": 2
+        },
+        {
+          "position": "Vice President & National Sales Head",
+          "count": 1
+        },
+        {
+          "position": "Head of Human Resources",
+          "count": 1
+        },
+        {
+          "position": "Manager, Business Strategy, CEO Office",
+          "count": 1
+        }
+      ],
+      "top_skills": [],
+      "top_locations": [
+        {
+          "location": "Gurugram",
+          "count": 20
+        },
+        {
+          "location": "Delhi",
+          "count": 9
+        },
+        {
+          "location": "Bengaluru",
+          "count": 9
+        },
+        {
+          "location": "Mumbai",
+          "count": 8
+        },
+        {
+          "location": "Gurgaon",
+          "count": 7
+        },
+        {
+          "location": "New Delhi",
+          "count": 3
+        },
+        {
+          "location": "Noida",
+          "count": 3
+        },
+        {
+          "location": "Bhopal",
+          "count": 3
+        },
+        {
+          "location": "Jaipur",
+          "count": 3
+        },
+        {
+          "location": "Udupi",
+          "count": 3
+        }
+      ],
+      "experience_distribution": {
+        "0-2_years": 99,
+        "3-5_years": 0,
+        "6-10_years": 0,
+        "11+_years": 0
+      }
+    },
+    "company_analytics": {
+      "web_presence": {
+        "social_platforms": 5,
+        "platforms": [
+          "linkedin",
+          "twitter",
+          "facebook",
+          "instagram",
+          "youtube"
+        ]
+      },
+      "data_richness": {
+        "has_revenue_data": false,
+        "has_employee_estimate": true,
+        "has_founding_info": true,
+        "has_location_info": true,
+        "has_business_description": true
+      }
+    },
+    "data_quality": {
+      "sources_analyzed": 0,
+      "confidence_score": 99.0,
+      "completeness_score": 89.4
+    }
+  },
+  "executive_summary": "Company Overview: Manipal Fintech. headquartered in Gurugram, HaryanaTypePrivately. founded in 2018. Employee Intelligence: Found 100 employees on LinkedIn, scraped 99 detailed profiles (99.0% success). Most common position: Manipal Fintech. Overall data completeness: 89.4%."
+}

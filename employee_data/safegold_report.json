@@ -1,0 +1,4294 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_SAFEGOLD",
+    "target_company": "SafeGold",
+    "mission_timestamp": "2025-09-30T10:18:32.221283",
+    "completion_timestamp": "2025-09-30T10:18:32.221283",
+    "mission_status": "COMPLETED",
+    "note": "Contains ONLY top 3 matched employees per target"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_top_matches": 225,
+      "detailed_profiles_scraped": 0,
+      "scraping_success_rate": 0.0
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with employee relations and engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "CS Khushboo Mittal",
+          "linkedin_url": "https://in.linkedin.com/in/cs-khushboo-mittal-180984b1",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 60.0,
+            "match_rationale": "Qualified Company Secretary with experience in corporate areas, some overlap with HR functions."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 60.0,
+            "match_rationale": "Both work in administrative roles with some overlap in employee relations and engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are in managerial roles within HR-related functions, likely involving employee development and training."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 65.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with employee development and training."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 60.0,
+            "match_rationale": "Overlap in administrative and development roles, though different seniority and specific focus areas."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sachin Ke B4232b266",
+            "similarity_score": 65.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, but Rina's role is unspecified and may not be in HR."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Yadav",
+            "similarity_score": 75.0,
+            "match_rationale": "Works in marketing and has experience in customer service and operations, which overlaps with digital marketing and content marketing."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Yadav",
+            "similarity_score": 60.0,
+            "match_rationale": "Vanessa works in a sales development role which involves marketing activities, though her primary focus is administrative tasks."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with employee engagement and performance management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 65.0,
+            "match_rationale": "Both work in administrative roles with some overlap in employee engagement and management responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "CS Khushboo Mittal",
+          "linkedin_url": "https://in.linkedin.com/in/cs-khushboo-mittal-180984b1",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 60.0,
+            "match_rationale": "Qualified Company Secretary with experience in corporate governance, which has some overlap with HR functions."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Soumil Gada is involved in architecting software/hardware requirements, which aligns closely with the Solution Architect role of Kshitiz Agrawal. Both roles involve high-level design and technical lea"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Felipe Augusto Vieira Zampa",
+          "linkedin_url": "https://br.linkedin.com/in/felipeavzampa",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are developers with relevant technical skills. Felipe's experience with Python and user-centered design complements Kshitiz's expertise in Java, Spring Boot, and React."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 70.0,
+            "match_rationale": "Nikhil Dorai is the Senior Vice President Engineering at SafeGold, which is a related role in the same department. However, the seniority level is different."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior positions in the engineering department with significant experience in software development and leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 75.0,
+            "match_rationale": "Involved in software/hardware architecture, which is related to software development, but lacks explicit mention of leadership and project management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 70.0,
+            "match_rationale": "Specializes in software engineering with relevant experience, but at a lower seniority level and specific technology focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vicky Yadav 50a596229",
+            "similarity_score": 65.0,
+            "match_rationale": "Both are software engineers at SafeGold, but Priyank specializes in PHP/Laravel while Vicky specializes in C#, .NET, and Angular."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vicky Yadav 50a596229",
+            "similarity_score": 60.0,
+            "match_rationale": "Soumil is involved in software/hardware architecture at SafeGold, which overlaps with Vicky's software development role but differs in focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "André Michel",
+          "linkedin_url": "https://br.linkedin.com/in/andreasii/en",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are analysts with a focus on business intelligence and data analysis, working in related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mateus Müller",
+          "linkedin_url": "https://br.linkedin.com/in/mateusmuller",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are analysts with a focus on business intelligence and data-driven decision making, significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rodrigo Binotto",
+          "linkedin_url": "https://br.linkedin.com/in/rodrigo-binotto-3a2543174",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 65.0,
+            "match_rationale": "Rodrigo Binotto is a Coordinator in Controladoria at SafeGold. While his role is in a different department, there is some overlap in skills related to data analysis and financial control."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 60.0,
+            "match_rationale": "Soumil Gada is involved in architecting software/hardware requirements, which overlaps with the engineering aspect of .NET development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 60.0,
+            "match_rationale": "Nikhil Dorai is a Senior Vice President Engineering at SafeGold, indicating a higher seniority but within the same engineering domain."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 40.0,
+            "match_rationale": "Priyank Jain specializes in PHP/Laravel, which is a different technology stack but still within software engineering."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Yashu Mishra",
+          "linkedin_url": "https://in.linkedin.com/in/yashu-mishra-00bba7190",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 60.0,
+            "match_rationale": "Lead- Legal & Policy at SafeGold, some overlap in department but different seniority."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 60.0,
+            "match_rationale": "Overlap in administrative functions, but different specific roles and seniority."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rhea Chaterji",
+          "linkedin_url": "https://in.linkedin.com/in/rheachaterji",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 55.0,
+            "match_rationale": "Co-Founder at SafeGold, minimal similarity in roles."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 85.0,
+            "match_rationale": "Soumil Gada is involved in architecting software/hardware requirements, which is very similar to software development. There is significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 70.0,
+            "match_rationale": "Priyank Jain is a seasoned software engineer specializing in PHP/Laravel. While the specific technologies differ, both roles are within the software engineering department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 60.0,
+            "match_rationale": "Nikhil Dorai is a Senior Vice President Engineering, indicating a higher seniority level but still within the engineering domain."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Yashu Mishra",
+          "linkedin_url": "https://in.linkedin.com/in/yashu-mishra-00bba7190",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have experience at SafeGold, Yashu Mishra's role in Legal & Policy suggests some overlap in operational aspects."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rhea Chaterji",
+          "linkedin_url": "https://in.linkedin.com/in/rheachaterji",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 55.0,
+            "match_rationale": "Both have experience at SafeGold, but Rhea Chaterji's role as Co-Founder indicates a different seniority and focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "CS Khushboo Mittal",
+          "linkedin_url": "https://in.linkedin.com/in/cs-khushboo-mittal-180984b1",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 55.0,
+            "match_rationale": "Both have experience at SafeGold, but Khushboo Mittal's role as Company Secretary suggests different skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Felipe Augusto Vieira Zampa",
+          "linkedin_url": "https://br.linkedin.com/in/felipeavzampa",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are developers with a focus on software development. Felipe's experience with Python and user-centered design suggests significant skill overlap with Priyal's expertise in Flutter and Android Dev"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 70.0,
+            "match_rationale": "Soumil Gada is involved in architecting software/hardware requirements, which is related to software development. However, specific skills in Flutter and Android Development are not mentioned."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 60.0,
+            "match_rationale": "Priyank Jain is a seasoned software engineer specializing in PHP/Laravel, which indicates some overlap in software development but different technology stacks."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshita Tyagi",
+            "similarity_score": 85.0,
+            "match_rationale": "Priyank Jain is a seasoned software engineer at SafeGold with 6 years of experience specializing in PHP/Laravel. Although the specific technologies differ, the role and department are very similar, in"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshita Tyagi",
+            "similarity_score": 70.0,
+            "match_rationale": "Soumil Gada is involved in architecting software/hardware requirements at SafeGold. While the role is related and within the same department, the focus on architecture suggests a different seniority a"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are current employees at SafeGold, with Keyur Shah working in the Bullion Desk (Gold), which may have some overlap with Ashish's skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are current employees at SafeGold, with Soumil Gada dealing in software/hardware requirements, which may have some overlap with Ashish's skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are current employees at SafeGold, with Meghna Thapliyal managing operations and relationship management, which may have some overlap with Ashish's skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Agrawal",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa's role as an SDR (Sales Development Representative) involves sales-related activities, which overlap with Gaurav's skills in Sales Management, Customer Relationship, and Negotiation."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Agrawal",
+            "similarity_score": 60.0,
+            "match_rationale": "Rina holds a managerial position at SafeGold, which suggests some overlap in seniority and management responsibilities, though the specific department is not clear."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Keyur Shah works at the Bullion Desk (Gold) at SafeGold, which involves significant overlap with gold loan management and financial analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 75.0,
+            "match_rationale": "Gabriela Masaro is a Gestora Financeira at SafeGold, which is related to finance and involves financial management skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 70.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças at SafeGold, which is related to financial analysis and management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 85.0,
+            "match_rationale": "Both roles involve partnerships, with Shraddha focusing on brand partnerships and Shivithegautam on strategic partnerships. Significant skill overlap in managing relationships and operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 75.0,
+            "match_rationale": "Meghna's experience in managing operations and relationship management is related to Shivithegautam's role in strategic partnerships, though Meghna's focus is broader."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 75.0,
+            "match_rationale": "Both work in roles related to strategic operations and development, with Vanessa focusing on administrative and sales development which overlaps with strategic partnerships."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro is a Gestora Financeira at SafeGold with over 5 years of experience as a consultant/manager. Her role in financial management and consulting is very similar to Atul Shukla's role in BF"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 80.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças at SafeGold, focusing on FP&A. This role is very similar to Atul Shukla's role in finance, with significant overlap in financial services and planning"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 80.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a Gestor de Controladoria, FP&A at SafeGold. His role in financial planning and analysis is very similar to Atul Shukla's role in BFSI growth strategy, with significant skill "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which aligns closely with operations management and team coordination."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 80.0,
+            "match_rationale": "Manager at SafeGold with experience in operations, likely involving process improvement and team coordination."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in marketing, customer service, and operations teams, indicating a related role within the operations department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro holds a role in financial management at SafeGold, similar to Ramkumar's role in finance with a focus on banking operations and growth strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 80.0,
+            "match_rationale": "Kelvin Furuhata works in FP&A and financial control at SafeGold, which overlaps significantly with Ramkumar's expertise in finance and banking operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 80.0,
+            "match_rationale": "Gabriel Andre Arcanjo's role in FP&A and financial control at SafeGold is very similar to Ramkumar's role in finance, with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hihariom",
+            "similarity_score": 85.0,
+            "match_rationale": "Shraddha's role in brand partnership involves significant overlap with marketing, customer service, and operations, which aligns closely with Hihariom's expertise in brand management and business grow"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hihariom",
+            "similarity_score": 70.0,
+            "match_rationale": "Rina's position as Manager at SafeGold suggests involvement in various managerial tasks which could be related to marketing and brand management, though the specific department is not clear."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are associated with SafeGold, but Keyur Shah has a specific role in Bullion Desk (Gold)."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gaurav Mathur",
+          "linkedin_url": "https://in.linkedin.com/in/gauravmathur-safegold",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 45.0,
+            "match_rationale": "Both have unspecified roles at SafeGold with minimal information available."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 45.0,
+            "match_rationale": "Both are associated with SafeGold, but Soumil Gada has a specific role in software/hardware requirements."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles in engineering with significant overlap in responsibilities related to software development and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 80.0,
+            "match_rationale": "Involved in architecting software/hardware requirements, which is closely related to software development and project management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 70.0,
+            "match_rationale": "Specializes in software engineering with a focus on PHP/Laravel, indicating a related role within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gaurav Mathur",
+          "linkedin_url": "https://in.linkedin.com/in/gauravmathur-safegold",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are associated with SafeGold, but no specific role or skills are mentioned for Atul Aggarwal."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are associated with SafeGold, but no specific role or skills are mentioned for Atul Aggarwal."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Yashu Mishra",
+          "linkedin_url": "https://in.linkedin.com/in/yashu-mishra-00bba7190",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are associated with SafeGold, but no specific role or skills are mentioned for Atul Aggarwal."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, with Rina Dalbera being a Manager and Avadhesh Verma being a Sales Leader. They likely share some overlap in leadership and management skills, though their "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 70.0,
+            "match_rationale": "Vanessa works as an SDR in the Sales department, which is related to Avadhesh's role in sales leadership and channel expansion."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 60.0,
+            "match_rationale": "Shraddha's role in brand partnership involves marketing and customer service, which has some overlap with sales and merchant acquisition."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vinodreddy Yaragudri",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which aligns closely with cluster management and operational strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vinodreddy Yaragudri",
+            "similarity_score": 70.0,
+            "match_rationale": "Manager at SafeGold with experience in operations, indicating a related role within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kishore Kondeti",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in sales roles, with Vanessa working as a Sales Development Representative. There is significant overlap in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kishore Kondeti",
+            "similarity_score": 70.0,
+            "match_rationale": "Rina is a Manager at SafeGold, which likely involves some level of team leadership and management, similar to Kishore's role as Zonal Head."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niloy Dutta",
+            "similarity_score": 85.0,
+            "match_rationale": "Vanessa's role as an SDR (Sales Development Representative) at SafeGold is very similar to Niloy's role as a Business Development Representative at SahiBandhu. Both positions involve sales and client "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niloy Dutta",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are in managerial roles within the sales department, likely involving client acquisition and market research."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 80.0,
+            "match_rationale": "Manager at SafeGold, likely involved in operations and reporting, significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 70.0,
+            "match_rationale": "Experienced in managing operations, which is related to the Operations department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 60.0,
+            "match_rationale": "Involved in operations and customer service, some overlap with MIS and reporting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 85.0,
+            "match_rationale": "Meghna's experience in managing operations and relationship management is very similar to Animesh's role in operations management and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa's role as an SDR in the Sales department involves sales development, which overlaps with Animesh's sales strategy and operations management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 70.0,
+            "match_rationale": "Shraddha's involvement in operations teams and customer service is related to Animesh's operations management role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amarjeet Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Rina is a Manager at SafeGold, which involves leadership and management skills similar to Amarjeet's role as Regional Head. Both positions are within the sales domain."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amarjeet Singh",
+            "similarity_score": 70.0,
+            "match_rationale": "Vanessa works in sales development at SafeGold, which is related to Amarjeet's role in sales. However, her position is more junior and focused on administrative tasks."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriel's role as Gestor de Controladoria, FP&A involves financial planning and analysis, which overlaps significantly with Mukesh's skills in financial analysis, accounting, and budgeting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 85.0,
+            "match_rationale": "Kelvin's role in Controladoria e Finanças, FP&A involves financial control and planning, which is very similar to Mukesh's role in finance and accounts."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rodrigo Binotto",
+          "linkedin_url": "https://br.linkedin.com/in/rodrigo-binotto-3a2543174",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 85.0,
+            "match_rationale": "Rodrigo Binotto is the Coordinator of Controladoria at SafeGold, which involves financial management and oversight, similar to Mukesh Das's role in Finance & Accounts."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Navanit Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Rina is a Manager at SafeGold, which is a very similar role to Navanit's Zonal Head in terms of responsibilities and skills required."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Navanit Yadav",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are in the Sales department, but Vanessa's role as an SDR is more junior compared to Navanit's Zonal Head position."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 75.0,
+            "match_rationale": "Shraddha's role in brand partnership involves customer service and operations, which overlaps with Karishma's skills in customer service and problem solving."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 70.0,
+            "match_rationale": "Meghna's experience in managing operations and relationship management is related to customer support, indicating some overlap in skills and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 60.0,
+            "match_rationale": "Both work in customer-facing roles, though Vanessa's role is more sales-oriented while Karishma's is support-oriented."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Felipe Augusto Vieira Zampa",
+          "linkedin_url": "https://br.linkedin.com/in/felipeavzampa",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 85.0,
+            "match_rationale": "Both have roles related to development and technical skills, significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Soumil Gada",
+          "linkedin_url": "https://in.linkedin.com/in/soumilgada",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are associated with SafeGold, Soumil Gada deals in architecting software/hardware requirements which might have some overlap with Tanmay's skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are associated with SafeGold, Priyank Jain specializes in software engineering which might have some overlap with Tanmay's skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which aligns closely with operations management and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 75.0,
+            "match_rationale": "Manager at SafeGold with experience in operations, suggesting a related role within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in marketing, customer service, and operations teams, indicating a related role within the operations department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with HR Strategy and People Management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, likely involving people management and stakeholder management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "CS Khushboo Mittal",
+          "linkedin_url": "https://in.linkedin.com/in/cs-khushboo-mittal-180984b1",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 65.0,
+            "match_rationale": "Qualified Company Secretary with experience in Corporate Governance, which has some overlap with HR Strategy and Stakeholder Management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 85.0,
+            "match_rationale": "Meghna is experienced in managing operations and relationship management, which is very similar to Anil's role in customer relationship management and gold loan processing."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa works in sales development, which overlaps with customer relationship management and sales."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Yashu Mishra",
+          "linkedin_url": "https://in.linkedin.com/in/yashu-mishra-00bba7190",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 45.0,
+            "match_rationale": "Lead- Legal & Policy at SafeGold. Minimal similarity in terms of department and role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with HR responsibilities such as employee relations and talent acquisition."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 65.0,
+            "match_rationale": "Rina Dalbera is a Manager at SafeGold, which indicates some overlap in managerial responsibilities and employee relations, though the specific HR skills may differ."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "CS Khushboo Mittal",
+          "linkedin_url": "https://in.linkedin.com/in/cs-khushboo-mittal-180984b1",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 60.0,
+            "match_rationale": "A qualified Company Secretary with experience in corporate governance, which has some overlap with HR policies and employee relations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in financial planning and analysis, with significant overlap in financial management skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in financial planning and analysis, with significant overlap in financial management skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 80.0,
+            "match_rationale": "Both hold senior financial roles with a focus on financial management and consulting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "André Michel",
+          "linkedin_url": "https://br.linkedin.com/in/andreasii/en",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in Business Intelligence and data analysis, with André Michel being a BI Analyst at SafeGold."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mateus Müller",
+          "linkedin_url": "https://br.linkedin.com/in/mateusmuller",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Mateus Müller is an Analista de BI at SafeGold, which overlaps significantly with Kapil Yadav's role in Business Analysis and Data Visualization."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 70.0,
+            "match_rationale": "Both work in administrative roles with some overlap in business analysis and HR-related functions."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "André Michel",
+          "linkedin_url": "https://br.linkedin.com/in/andreasii/en",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are BI Analysts with significant experience in data analysis and business intelligence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mateus Müller",
+          "linkedin_url": "https://br.linkedin.com/in/mateusmuller",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are BI Analysts with collaborative experience in data-driven environments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "André Scheidt",
+          "linkedin_url": "https://br.linkedin.com/in/andreasii",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are BI Analysts with experience in business intelligence and data management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have general skills and work in the financial sector, but Keyur Shah has a more specialized role in Bullion Desk."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have general administrative roles with some overlap in skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 55.0,
+            "match_rationale": "Meghna Thapliyal manages operations and relationship management, which has some overlap with general skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 75.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças (FP&A) at SafeGold, which involves financial planning and analysis, similar to Pooja Thakran's business analysis role in the finance department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 75.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a Gestor de Controladoria, FP&A at SafeGold, which involves financial planning and analysis, similar to Pooja Thakran's business analysis role in the finance department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 70.0,
+            "match_rationale": "Gabriela Masaro holds a financial management role at SafeGold, which is related to Pooja Thakran's role in finance. Both have significant experience in financial management and analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have administrative roles with general skills, but Vanessa's role includes sales development which may not align directly."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 55.0,
+            "match_rationale": "Both have general skills and experience at SafeGold, with Shraddha Ravindra Deshmukh involved in brand partnership and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 50.0,
+            "match_rationale": "Both have general skills and experience at SafeGold, with Meghna Thapliyal focusing on operations and relationship management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rhea Chaterji",
+          "linkedin_url": "https://in.linkedin.com/in/rheachaterji",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 90.0,
+            "match_rationale": "Co-Founder at SafeGold with over eight years of experience in the financial services industry, indicating a high level of leadership and strategic planning similar to Anuj Arora's role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which aligns closely with Anuj Arora's skills in operations management and strategic planning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alec Lau",
+          "linkedin_url": "https://uk.linkedin.com/in/alec-lau-41a5a336",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles at SafeGold with significant overlap in strategic planning and operations management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 80.0,
+            "match_rationale": "Involved in gold-related activities at SafeGold, likely significant overlap in industry knowledge and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alec Lau",
+          "linkedin_url": "https://uk.linkedin.com/in/alec-lau-41a5a336",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 70.0,
+            "match_rationale": "Both hold director-level positions in companies dealing with gold, likely involving strategic decision-making."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rael Demby",
+          "linkedin_url": "https://za.linkedin.com/in/rael-demby-30b6735a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 60.0,
+            "match_rationale": "Both hold senior leadership roles in companies dealing with gold, but different departments and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with operational planning and executive support."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in operations and marketing, which relates to business strategy and operational planning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 60.0,
+            "match_rationale": "Both roles involve strategic planning and financial oversight, though Gabriel's focus is more on financial planning and analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which involves teamwork, communication, and adaptability."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in brand partnership, marketing, customer service, and operations, which requires teamwork and communication skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 60.0,
+            "match_rationale": "Both are in administrative roles with some overlap in skills such as communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alec Lau",
+          "linkedin_url": "https://uk.linkedin.com/in/alec-lau-41a5a336",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Allan Fernandes",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles at SafeGold with significant strategic responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Allan Fernandes",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are senior leaders in their respective departments, with Nikhil focusing on engineering and Allan on product."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akkama S.",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, likely involving similar responsibilities and skills in management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which involves teamwork, communication, and adaptability."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in brand partnership, marketing, customer service, and operations, which requires teamwork and communication skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have administrative roles with some overlap in skills such as communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pramod Naidu",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa works in the Sales department as an SDR, which involves sales development and customer relationship management, similar to Pramod's role in sales management and regional strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pramod Naidu",
+            "similarity_score": 65.0,
+            "match_rationale": "Rina is a Manager at SafeGold, which suggests some overlap in managerial responsibilities and customer relationship management, though her specific role and seniority differ from Pramod's."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 75.0,
+            "match_rationale": "Involved in operations and customer service, which overlaps with digital transformation and customer experience."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 70.0,
+            "match_rationale": "Experienced in managing operations, which is related to digital transformation and process excellence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 45.0,
+            "match_rationale": "Both work at SafeGold, but Vanessa's role in administrative and sales development is minimally related to digital transformation."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both have experience in managing operations and relationship management, which involves teamwork, communication, and adaptability."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in brand partnership, marketing, customer service, and operations, which are related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 65.0,
+            "match_rationale": "Both have roles that involve administrative tasks and communication skills. Vanessa's role as an Analista Administrativa and SDR involves significant overlap in teamwork and communication."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Salman Ahmed",
+            "similarity_score": 85.0,
+            "match_rationale": "Vanessa's role as an Analista Administrativa e SDR (Sales Development Representative) involves significant overlap with sales management and strategic thinking, making her role very similar to Salman "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Salman Ahmed",
+            "similarity_score": 70.0,
+            "match_rationale": "Rina's role as a Manager at SafeGold is related to Salman's role in terms of department and seniority, though the specific managerial responsibilities may differ."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Himanshu .",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, likely within the same department, but specific skills and focus areas are not detailed."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Himanshu .",
+            "similarity_score": 65.0,
+            "match_rationale": "Senior Vice President Engineering at SafeGold, indicating some overlap in seniority but different focus areas."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pinaki Dasgupta",
+            "similarity_score": 85.0,
+            "match_rationale": "Rina is a Manager at SafeGold, which involves leadership and management responsibilities similar to Pinaki's role as Area Head in Sales."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pinaki Dasgupta",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are in the Sales department, but Vanessa's role as an SDR is more junior compared to Pinaki's Area Head position."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshay Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Rina Dalbera is a Manager at SafeGold, which involves leadership and team management skills similar to Akshay Jain's role as Regional Head in Sales."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshay Jain",
+            "similarity_score": 60.0,
+            "match_rationale": "Vanessa Gasparetto Lange is an Analista Administrativa e SDR at SafeGold, which involves sales development but at a different seniority level compared to Akshay Jain's Regional Head role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Felipe Augusto Vieira Zampa",
+          "linkedin_url": "https://br.linkedin.com/in/felipeavzampa",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vivekanand Jha",
+            "similarity_score": 75.0,
+            "match_rationale": "Felipe is a developer with skills in Python and user-centered design, which overlaps with database management and performance tuning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyank Jain",
+          "linkedin_url": "https://in.linkedin.com/in/priyank-jain-293984158",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vivekanand Jha",
+            "similarity_score": 60.0,
+            "match_rationale": "Priyank Jain is a seasoned software engineer with experience in PHP/Laravel, which involves database management and performance tuning, albeit in a different context."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahul Virmani",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are in managerial roles within the same company, SafeGold, and likely have overlapping responsibilities in leadership and management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rhea Chaterji",
+          "linkedin_url": "https://in.linkedin.com/in/rheachaterji",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahul Virmani",
+            "similarity_score": 60.0,
+            "match_rationale": "Rhea Chaterji is a Co-Founder with experience in the financial services industry, indicating some overlap in industry knowledge and strategic roles."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro holds the title of Gestora Financeira at SafeGold, which translates to Financial Manager. This role is very similar to Gold Loan Manager in terms of financial management and customer s"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 75.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças (Controllership and Finance) at SafeGold. While the role is related to finance, it focuses more on financial planning and analysis rather than loan ma"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 70.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a Gestor de Controladoria, FP&A (Manager of Controllership, FP&A) at SafeGold. This role is related to finance but focuses on financial planning and analysis rather than loan "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps significantly with Manish Baghel's skills in operations and business development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 70.0,
+            "match_rationale": "Involvement in operations and customer service, which relates to Manish Baghel's experience in operations, though with a different focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 65.0,
+            "match_rationale": "Both involved in business-related roles with some overlap in administrative and sales development responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Rina Dalbera is a Manager at SafeGold, which involves leadership and team management skills similar to Rajesh Agrawal's role as Regional Head in Sales."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alec Lau",
+          "linkedin_url": "https://uk.linkedin.com/in/alec-lau-41a5a336",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 70.0,
+            "match_rationale": "Alec Lau is a Director at SafeGold Ltd, which is a related role within the same department, likely involving strategic oversight and leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 60.0,
+            "match_rationale": "Vanessa Gasparetto Lange is an Analista Administrativa e SDR at SafeGold, which involves some overlap in sales strategy but at a different seniority level."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps significantly with Ajay Kapoor's skills in operations management and leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 75.0,
+            "match_rationale": "Manager at SafeGold with experience in operations, which is related to Ajay Kapoor's role as General Manager in Operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in operations teams and customer service, which relates to Ajay Kapoor's role in operations management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro holds the title of Gestora Financeira at SafeGold, which is very similar to Pushpendra Dangi's role as Cluster Head in Finance. Both roles involve significant financial management and "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 80.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças at SafeGold, which overlaps significantly with Pushpendra Dangi's expertise in Finance. Both roles involve financial planning and analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 80.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a Gestor de Controladoria, FP&A at SafeGold, which is very similar to Pushpendra Dangi's role in Finance. Both positions involve financial planning and analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Saurabh Jha",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with HR management and employee engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Shraddha's role in brand partnership involves marketing and customer service, which overlaps significantly with Vaishali's skills in digital marketing and partnership management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 75.0,
+            "match_rationale": "Meghna's experience in managing operations and relationship management is related to Vaishali's partnership management and telesales strategy, indicating a departmental overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa Gasparetto Lange is an Analista Administrativa e SDR (Sales Development Representative) at SafeGold. Her role involves sales development, which overlaps with telesales strategy. However, her a"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro holds the title of 'Gestora Financeira' at SafeGold, which translates to Finance Manager. Her role and skills in financial management are very similar to those of CA Rahul Kabira."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 80.0,
+            "match_rationale": "Kelvin Furuhata works in 'Controladoria e Finanças' at SafeGold, which involves financial planning and analysis (FP&A). This role has significant overlap with financial analysis and budgeting, making "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 79.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a 'Gestor de Controladoria, FP&A' at SafeGold. His role in financial planning and analysis is related to CA Rahul Kabira's role in finance management, though it may involve di"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ravi Jadhav",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial roles in the sales department with significant experience."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pallavi Jain",
+            "similarity_score": 65.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which overlaps with employee onboarding and HR functions."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pallavi Jain",
+            "similarity_score": 60.0,
+            "match_rationale": "Both work in administrative roles with some overlap in HR-related tasks, but different seniority and primary focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Harshit Singh Rajawat",
+            "similarity_score": 85.0,
+            "match_rationale": "Vanessa's role as an Analista Administrativa e SDR (Sales Development Representative) at SafeGold involves significant overlap with Harshit's role in sales, including customer service and sales strate"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Dorai",
+          "linkedin_url": "https://in.linkedin.com/in/nikhil-dorai-00333296",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Harshit Singh Rajawat",
+            "similarity_score": 45.0,
+            "match_rationale": "Nikhil Dorai is in a senior engineering role at SafeGold, which has minimal overlap with Harshit Singh Rajawat's sales role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which aligns closely with Prasanna Kumari's skills in operational efficiency, process improvement, and project management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 75.0,
+            "match_rationale": "Both work in operational roles with a focus on administrative tasks and process improvement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 65.0,
+            "match_rationale": "Involved in operations teams, but primarily focused on marketing and customer service, indicating some overlap but different seniority and focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keyur Shah",
+          "linkedin_url": "https://in.linkedin.com/in/keyur-shah-29379b2b9",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 85.0,
+            "match_rationale": "Keyur Shah works at the Bullion Desk (Gold) at SafeGold, which is highly relevant to gold loan management and involves significant skill overlap in handling gold-related financial services."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 75.0,
+            "match_rationale": "Gabriela Masaro is a Gestora Financeira at SafeGold, which is related to the finance department and involves financial management. This role has some overlap with Gold Loan Management and Risk Assessm"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 70.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças at SafeGold, which is related to financial planning and analysis. This role is in the same department but focuses more on financial control rather tha"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 85.0,
+            "match_rationale": "Both have roles involving administrative tasks and communication skills. Vanessa's role as an Analista Administrativa and SDR involves significant overlap in skills such as teamwork and general admini"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 75.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which involves communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in brand partnership, marketing, customer service, and operations, which requires general skills, communication, and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in managing operations and relationship management, which involves communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in brand partnership, marketing, customer service, and operations, which are related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 65.0,
+            "match_rationale": "Both are in administrative roles with a focus on communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 90.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças (Controllership and Finance) at SafeGold, with experience in FP&A (Financial Planning & Analysis). This role is nearly identical to Niranjan Bhat's po"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriel Andre Arcanjo",
+          "linkedin_url": "https://br.linkedin.com/in/gabrielandrearcanjo",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 90.0,
+            "match_rationale": "Gabriel Andre Arcanjo is a Gestor de Controladoria, FP&A (Manager of Controllership, FP&A) at SafeGold. His role directly aligns with Niranjan Bhat's expertise in Financial Planning & Analysis, Financ"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Gabriela Masaro holds the title of Gestora Financeira at SafeGold, which translates to Finance Manager. Her role involves financial management, which overlaps significantly with Niranjan Bhat's expert"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mahima Singh Chauhan",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, likely involved in strategic decision-making and team management within their respective departments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 85.0,
+            "match_rationale": "Meghna Thapliyal is experienced in managing operations and relationship management, which aligns closely with Hari Prasad's role in Administration & Facilities Management and Operational Excellence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 85.0,
+            "match_rationale": "Vanessa holds a role in administration at SafeGold, which overlaps significantly with Hari's expertise in administration and facilities management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 75.0,
+            "match_rationale": "Shraddha Ravindra Deshmukh works with marketing, customer service, and operations teams, which is related to Hari Prasad's role in the Operations department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Gabriela Masaro",
+          "linkedin_url": "https://br.linkedin.com/in/gabriela-masaro-analista-financeiro-senior",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 75.0,
+            "match_rationale": "Gabriela Masaro is a Gestora Financeira at SafeGold, which is a related role in the finance department. Both roles involve financial management, though Gabriela's role may be broader than Rushikesh's "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rodrigo Binotto",
+          "linkedin_url": "https://br.linkedin.com/in/rodrigo-binotto-3a2543174",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 75.0,
+            "match_rationale": "Both work in finance-related roles with a focus on capital management and control."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kelvin Furuhata",
+          "linkedin_url": "https://br.linkedin.com/in/kelvin-furuhata-91b86219a",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 70.0,
+            "match_rationale": "Kelvin Furuhata works in Controladoria e Finanças at SafeGold, which is related to financial management. There is some overlap in financial analysis skills, though the specific focus on gold loans is "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 75.0,
+            "match_rationale": "Vanessa works in sales development which overlaps with Rajnish's expertise in sales strategy and business development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold with significant experience in their respective fields. While Rajnish Sah focuses on sales and business development, Rina Dalbera's role as a manager likely "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 65.0,
+            "match_rationale": "Meghna's experience in operations and relationship management has some overlap with Rajnish's team leadership and business growth skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rina Dalbera",
+          "linkedin_url": "https://in.linkedin.com/in/rina-dalbera-06b151196",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "ABHISHEK KUMAR BAJAJ",
+            "similarity_score": 75.0,
+            "match_rationale": "Both hold managerial positions at SafeGold, likely involved in leadership and strategy within their respective departments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 60.0,
+            "match_rationale": "Shraddha Ravindra Deshmukh's role in brand partnership involves marketing and operations, which has some overlap with general skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 60.0,
+            "match_rationale": "Both have administrative roles with general skills, but Vanessa has a sales development focus."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Meghna Thapliyal",
+          "linkedin_url": "https://in.linkedin.com/in/meghna-thapliyal-b776a3137",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 55.0,
+            "match_rationale": "Meghna Thapliyal's experience in operations and relationship management has some overlap with general skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vanessa Gasparetto Lange",
+          "linkedin_url": "https://br.linkedin.com/in/vanessa-gasparetto-lange-18599982",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tarun Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Vanessa's role as an Analista Administrativa e SDR (Sales Development Representative) at SafeGold involves sales development, which overlaps significantly with Tarun's experience in sales management a"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shraddha Ravindra Deshmukh",
+          "linkedin_url": "https://in.linkedin.com/in/shraddharavindra",
+          "company": "SafeGold",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tarun Singh",
+            "similarity_score": 60.0,
+            "match_rationale": "Shraddha's role in brand partnership involves customer service and operations, which has some overlap with Tarun's skills in customer service and retail operations, though her focus is more on marketi"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      }
+    ]
+  }
+}

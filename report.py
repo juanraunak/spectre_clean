@@ -26,13 +26,20 @@ class SkillBoostPlanGenerator:
         )
 
     def load_course_data(self, file_path: str) -> list:
-        """Load course data from JSON file"""
+        """Load course data from JSON file and return a list of employees."""
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
-                return json.load(file)
+                data = json.load(file)
+                if isinstance(data, dict) and 'employees' in data:
+                    return data['employees']          # handle {"employees": [...]}
+                elif isinstance(data, list):
+                    return data                        # handle [...]
+                else:
+                    raise ValueError("Unsupported course JSON shape")
         except Exception as e:
             print(f"Error loading file: {e}")
             return []
+
     
     def load_skill_gaps_data(self, file_path: str = "final_skill_gaps_detailed_gpt.json") -> dict:
         """Load skill gaps data from JSON file and create a lookup dictionary"""

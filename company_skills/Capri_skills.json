@@ -1,0 +1,3823 @@
+{
+  "company_name": "Capri",
+  "employees": [
+    {
+      "name": "Nishchhal Katiyar",
+      "position": "HR at Capri Global Capital Ltd.",
+      "employee_id": "Cap_001",
+      "skills": [
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Conflict Resolution",
+        "HR Policies",
+        "Labor Laws"
+      ]
+    },
+    {
+      "name": "Nikhil Subrahmaniyam",
+      "position": "",
+      "employee_id": "Cap_002",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "MEHAK AHLUWALIA",
+      "position": "",
+      "employee_id": "Cap_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_004",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Onboarding",
+        "HR Strategy",
+        "Team Leadership",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Sarah Jane Lister",
+      "position": "Benefits Coordinator at Capri Holdings | I-O Psychology M.S. Student | HR Operations | Leave Administration | Bilingual (Spanish/English)",
+      "employee_id": "Cap_005",
+      "skills": [
+        "Benefits Coordination",
+        "HR Operations",
+        "Leave Administration",
+        "Bilingual (Spanish/English)"
+      ]
+    },
+    {
+      "name": "Lucy Pezzuto (Oliveri)",
+      "position": "Human Resources Manager - Australia & New Zealand at Capri Holdings Limited",
+      "employee_id": "Cap_006",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Conflict Resolution",
+        "Organizational Development",
+        "HR Policies",
+        "Training and Development",
+        "Recruitment",
+        "HR Compliance",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_007",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Onboarding",
+        "Performance Management",
+        "HR Strategy",
+        "Team Leadership",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Rachel Martínez",
+      "position": "Senior Talent Partner EMEA at Capri Holdings Limited (Versace, Jimmy Choo & Michael Kors)",
+      "employee_id": "Cap_008",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Relations",
+        "HR Strategy",
+        "Performance Management",
+        "Succession Planning",
+        "Stakeholder Management",
+        "Diversity and Inclusion",
+        "HR Compliance",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Charmain Danforth",
+      "position": "Talent Acquisition Specialist at Capri Senior Communities",
+      "employee_id": "Cap_009",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Compliance",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Paige Tuszynski",
+      "position": "Marketing Manager at Capri Communities",
+      "employee_id": "Cap_010",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Public Relations",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Chelsey Rayala",
+      "position": "Marketing Coordinator at Capri Communities",
+      "employee_id": "Cap_011",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Analytics",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Keri Lipscomb",
+      "position": "Sr. Brand Manager - Capri Blue",
+      "employee_id": "Cap_012",
+      "skills": [
+        "Brand Management",
+        "Marketing Strategy",
+        "Product Development",
+        "Team Leadership",
+        "Market Research",
+        "Project Management",
+        "Digital Marketing",
+        "Consumer Insights",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nikhil Subrahmaniyam",
+      "position": "",
+      "employee_id": "Cap_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Paridhi Sood",
+      "position": "HRBP at Capri Global Capital Limited | IT Recruiter",
+      "employee_id": "Cap_014",
+      "skills": [
+        "HRBP",
+        "IT Recruitment",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "HR Strategy",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Compliance"
+      ]
+    },
+    {
+      "name": "Kanika Suri",
+      "position": "Deputy Vice President Human Resources at Capri Global Capital Ltd. Specialist : HR Operations , HR Automation, HR Analytics, HR Business Partnering",
+      "employee_id": "Cap_015",
+      "skills": [
+        "HR Operations",
+        "HR Automation",
+        "HR Analytics",
+        "HR Business Partnering"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_016",
+      "skills": [
+        "Software Engineering",
+        "Coding",
+        "Problem Solving",
+        "Python",
+        "Java",
+        "C++",
+        "Algorithm Design",
+        "Data Structures",
+        "Team Collaboration",
+        "Hackathons"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_017",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Cybersecurity",
+        "System Integration",
+        "Cloud Computing",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_018",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging",
+        "Version Control (Git)"
+      ]
+    },
+    {
+      "name": "Manish Dixit",
+      "position": "AVP -Regional Technical manager at Capri global housing finance ltd.",
+      "employee_id": "Cap_019",
+      "skills": [
+        "Technical Management",
+        "Housing Finance",
+        "Regional Management",
+        "Team Leadership",
+        "Project Management",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_020",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Cybersecurity",
+        "Network Administration",
+        "System Integration",
+        "Cloud Computing",
+        "Business Continuity Planning",
+        "Disaster Recovery",
+        "Compliance",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Kartik Chawla",
+      "position": "Technical Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_021",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Technical Strategy",
+        "Software Development",
+        "System Integration",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Communication Skills",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_022",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "Problem Solving",
+        "Algorithm Design",
+        "Data Structures",
+        "Team Collaboration",
+        "Code Optimization",
+        "Debugging",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_023",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_024",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_025",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "arvind yadav",
+      "position": "Business Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_026",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Sales Strategy",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Manuel Neto",
+      "position": "",
+      "employee_id": "Cap_027",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_028",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "Web Development",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_029",
+      "skills": [
+        "Software Engineering",
+        "Coding",
+        "Problem Solving",
+        "Python",
+        "Java",
+        "C++",
+        "Algorithms",
+        "Data Structures",
+        "Team Collaboration",
+        "Hackathons"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_030",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Jordan Kaplan",
+      "position": "Talent Acquisition Recruiter at Capri Holdings Limited (Versace, Jimmy Choo & Michael Kors)",
+      "employee_id": "Cap_031",
+      "skills": [
+        "Talent Acquisition",
+        "Recruiting",
+        "Human Resources",
+        "Interviewing",
+        "Employee Onboarding",
+        "Talent Management",
+        "Applicant Tracking Systems",
+        "Networking",
+        "Candidate Sourcing",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_032",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "Web Development",
+        "API Integration",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Allison Suflas",
+      "position": "Assistant General Counsel, Employment & Litigation at Capri Holdings Limited (Versace, Jimmy Choo, Michael Kors)",
+      "employee_id": "Cap_033",
+      "skills": [
+        "Employment Law",
+        "Litigation",
+        "Legal Compliance",
+        "Contract Negotiation",
+        "Dispute Resolution",
+        "Corporate Governance",
+        "Risk Management",
+        "Legal Research",
+        "Policy Development"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_034",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_035",
+      "skills": [
+        "Software Engineering",
+        "Coding Competitions",
+        "Problem Solving",
+        "Python",
+        "Java",
+        "C++",
+        "Algorithm Design",
+        "Data Structures",
+        "Team Collaboration",
+        "Hackathons"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_036",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_037",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration",
+        "Version Control (Git)",
+        "Debugging",
+        "Unit Testing"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_038",
+      "skills": [
+        "Python",
+        "Software Development",
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pulkit kaushik",
+      "position": "Data Analyst- Operations Executive at Capri Global Capital Limited MBA From Maharshi Dayanand University",
+      "employee_id": "Cap_039",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_040",
+      "skills": [
+        "Software Engineering",
+        "Competitive Programming",
+        "Hackathons",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_041",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration",
+        "Software Development",
+        "Debugging",
+        "Version Control (Git)",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_042",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Debugging",
+        "Code Review"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_043",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "Problem Solving",
+        "Algorithm Design",
+        "Data Structures",
+        "Team Collaboration",
+        "Project Management",
+        "Competitive Programming"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_044",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_045",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_046",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Software Development",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_047",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pulkit kaushik",
+      "position": "Data Analyst- Operations Executive at Capri Global Capital Limited MBA From Maharshi Dayanand University",
+      "employee_id": "Cap_048",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_049",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Product Launch",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_050",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Market Analysis",
+        "Brand Management",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Negotiation",
+        "Project Management",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_051",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Deepak Marmat",
+      "position": "Area Credit Manager at Capri Global Housing Finance Ltd.",
+      "employee_id": "Cap_052",
+      "skills": [
+        "Credit Management",
+        "Housing Finance",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Loan Processing",
+        "Customer Service",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Amit Setia",
+      "position": "Director :: Car Loans at Capri Global Capital Ltd.",
+      "employee_id": "Cap_053",
+      "skills": [
+        "Leadership",
+        "Car Loans",
+        "Financial Services",
+        "Team Management",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_054",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_055",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Budgeting",
+        "Project Management",
+        "Process Improvement",
+        "Vendor Management",
+        "Staff Development"
+      ]
+    },
+    {
+      "name": "Hua Chin Teo",
+      "position": "Director of Finance at Capri by Fraser Changi City, Singapore",
+      "employee_id": "Cap_056",
+      "skills": [
+        "Financial Management",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Negotiation",
+        "Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Tarun Aggarwal",
+      "position": "",
+      "employee_id": "Cap_057",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Abhishek Sinha",
+      "position": "",
+      "employee_id": "Cap_058",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mamillapalli Arun Kiran",
+      "position": "MANAGING DIRECTOR at CAPRI FINANCIAL SERVICES PRIVATE LIMITED",
+      "employee_id": "Cap_059",
+      "skills": [
+        "Financial Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Leadership",
+        "Business Development",
+        "Team Management",
+        "Project Management",
+        "Negotiation",
+        "Budgeting",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Neeta Joshi",
+      "position": "",
+      "employee_id": "Cap_060",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_061",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Process Improvement",
+        "Vendor Management",
+        "Staff Development",
+        "Performance Metrics",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rebecca Koepsell, LNHA",
+      "position": "Operations Specialist at Capri Senior Communities",
+      "employee_id": "Cap_062",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Healthcare Administration",
+        "Project Management",
+        "Process Improvement",
+        "Budgeting",
+        "Staff Training",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_063",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Coordination",
+        "Process Improvement",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_064",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Khalil Basha Mohammad",
+      "position": "",
+      "employee_id": "Cap_065",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Abhishek Sinha",
+      "position": "",
+      "employee_id": "Cap_066",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Business Analysis",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Paige Tuszynski",
+      "position": "Marketing Manager at Capri Communities",
+      "employee_id": "Cap_067",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Market Research",
+        "Brand Management",
+        "Campaign Management",
+        "Analytics",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "Keri Lipscomb",
+      "position": "Sr. Brand Manager - Capri Blue",
+      "employee_id": "Cap_068",
+      "skills": [
+        "Brand Management",
+        "Marketing Strategy",
+        "Product Development",
+        "Market Research",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Consumer Insights",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_069",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Strategic Planning",
+        "Market Analysis",
+        "Brand Management",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kaushik Parida",
+      "position": "Data Engineering Intern @ Capri | Tech × Strategy × Process Optimization | Exploring Enterprise Systems & Business Transformation",
+      "employee_id": "Cap_070",
+      "skills": [
+        "Data Engineering",
+        "Tech Strategy",
+        "Process Optimization",
+        "Enterprise Systems",
+        "Business Transformation"
+      ]
+    },
+    {
+      "name": "Pulkit kaushik",
+      "position": "Data Analyst- Operations Executive at Capri Global Capital Limited MBA From Maharshi Dayanand University",
+      "employee_id": "Cap_071",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arya Mishra",
+      "position": "Product Management Intern @ Capri Global Capital | Media and Publicity Head @ Aakaar, IIT Bombay",
+      "employee_id": "Cap_072",
+      "skills": [
+        "Product Management",
+        "Media and Publicity",
+        "Team Leadership",
+        "Project Management",
+        "Communication Skills",
+        "Marketing Strategy",
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_073",
+      "skills": [
+        "Software Engineering",
+        "Coding Competitions",
+        "Python",
+        "Problem Solving",
+        "Algorithm Design"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_074",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Debugging",
+        "Software Development Life Cycle (SDLC)"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_075",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "System Integration",
+        "Cybersecurity",
+        "Compliance",
+        "Business Continuity"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_076",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Strategic Planning",
+        "Leadership Development",
+        "Onboarding",
+        "HR Compliance",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "MEHAK AHLUWALIA",
+      "position": "",
+      "employee_id": "Cap_077",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Erika Simonelli",
+      "position": "",
+      "employee_id": "Cap_078",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Machine Learning",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_079",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Forecasting",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_080",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Patrick Kley",
+      "position": "Distribution Development Engineer | Capri Holdings | Michael Kors EMEA",
+      "employee_id": "Cap_081",
+      "skills": [
+        "Distribution Development",
+        "Engineering",
+        "Supply Chain Management",
+        "Logistics",
+        "Project Management",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_082",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Process Improvement",
+        "Vendor Management",
+        "Staff Development",
+        "Performance Metrics",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Ryan Anaya",
+      "position": "General Manager - Capri By The Sea",
+      "employee_id": "Cap_083",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Customer Service",
+        "Project Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Sales",
+        "Marketing",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Carol Marco",
+      "position": "General Manager at Capri Group",
+      "employee_id": "Cap_084",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Team Building",
+        "Project Management",
+        "Negotiation",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_085",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Forecasting",
+        "Sales Training",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_086",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Shirleyn Koh",
+      "position": "Assistant Director of Sales at Capri by Fraser, China Square",
+      "employee_id": "Cap_087",
+      "skills": [
+        "Sales Management",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "John Morton",
+      "position": "Sales And Marketing Specialist at Capri Marine",
+      "employee_id": "Cap_088",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Brand Development",
+        "Negotiation",
+        "Public Speaking",
+        "Content Creation"
+      ]
+    },
+    {
+      "name": "arvind yadav",
+      "position": "Business Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_089",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "April Zwaschka",
+      "position": "Regional Senior Sales Specialist at Capri Senior Communities",
+      "employee_id": "Cap_090",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Sales Forecasting",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_091",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Budget Management",
+        "Project Management",
+        "Vendor Relations",
+        "Staff Development",
+        "Performance Metrics",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Manish Dixit",
+      "position": "AVP -Regional Technical manager at Capri global housing finance ltd.",
+      "employee_id": "Cap_092",
+      "skills": [
+        "Technical Management",
+        "Housing Finance",
+        "Regional Management",
+        "Team Leadership",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_093",
+      "skills": [
+        "IT Management",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "IT Infrastructure",
+        "Cybersecurity",
+        "Cloud Computing",
+        "Business Continuity Planning",
+        "Disaster Recovery"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_094",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Operations"
+      ]
+    },
+    {
+      "name": "April Zwaschka",
+      "position": "Regional Senior Sales Specialist at Capri Senior Communities",
+      "employee_id": "Cap_095",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Communication Skills",
+        "Client Retention",
+        "Sales Forecasting",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_096",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_097",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Forecasting",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_098",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_099",
+      "skills": [
+        "Sales Management",
+        "Marketing Strategy",
+        "Market Analysis",
+        "Brand Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Khalil Basha Mohammad",
+      "position": "",
+      "employee_id": "Cap_100",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_101",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Bryan Gabriel, CPA",
+      "position": "",
+      "employee_id": "Cap_102",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Tax Planning",
+        "Auditing",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Budgeting",
+        "CPA"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_103",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amit Setia",
+      "position": "Director :: Car Loans at Capri Global Capital Ltd.",
+      "employee_id": "Cap_104",
+      "skills": [
+        "Car Loans",
+        "Financial Services",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sachin Sharma",
+      "position": "Zonal Collections Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_105",
+      "skills": [
+        "Collections Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Debt Recovery",
+        "Compliance Management"
+      ]
+    },
+    {
+      "name": "Lin QianPing",
+      "position": "Executive, S&M Support at Capri by Fraser, China Square",
+      "employee_id": "Cap_106",
+      "skills": [
+        "Customer Service",
+        "Sales Support",
+        "Marketing Support",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Collaboration",
+        "Time Management",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_107",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Charmain Danforth",
+      "position": "Talent Acquisition Specialist at Capri Senior Communities",
+      "employee_id": "Cap_108",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources",
+        "Interviewing",
+        "Employee Onboarding",
+        "Candidate Sourcing",
+        "Applicant Tracking Systems (ATS)",
+        "Employee Relations",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Kaushik Parida",
+      "position": "Data Engineering Intern @ Capri | Tech × Strategy × Process Optimization | Exploring Enterprise Systems & Business Transformation",
+      "employee_id": "Cap_109",
+      "skills": [
+        "Data Engineering",
+        "Tech Strategy",
+        "Process Optimization",
+        "Enterprise Systems",
+        "Business Transformation"
+      ]
+    },
+    {
+      "name": "Pulkit kaushik",
+      "position": "Data Analyst- Operations Executive at Capri Global Capital Limited MBA From Maharshi Dayanand University",
+      "employee_id": "Cap_110",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Analysis",
+        "Business Intelligence",
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_111",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging",
+        "Version Control (Git)"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_112",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Process Improvement",
+        "Vendor Management",
+        "Staff Development",
+        "Performance Metrics",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_113",
+      "skills": [
+        "Operations Management",
+        "Project Coordination",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Geri Krupp-Gordon, RN, JD",
+      "position": "Chief Operating Officer at Capri Senior Communities",
+      "employee_id": "Cap_114",
+      "skills": [
+        "Healthcare Management",
+        "Legal Expertise",
+        "Operational Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Senior Care Administration",
+        "Compliance",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Neeta Joshi",
+      "position": "",
+      "employee_id": "Cap_115",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Lucy Pezzuto (Oliveri)",
+      "position": "Human Resources Manager - Australia & New Zealand at Capri Holdings Limited",
+      "employee_id": "Cap_116",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Recruitment",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Strategic Planning",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_117",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Onboarding",
+        "HR Strategy",
+        "Team Leadership",
+        "Conflict Resolution",
+        "Employee Engagement"
+      ]
+    },
+    {
+      "name": "Steve Ostrander",
+      "position": "Sales at Capri & Associates",
+      "employee_id": "Cap_118",
+      "skills": [
+        "Sales",
+        "Client Relations",
+        "Negotiation",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Abhishek Sinha",
+      "position": "",
+      "employee_id": "Cap_119",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rishav Anand",
+      "position": "Collections Coordinator at Capri Global Capital Ltd.",
+      "employee_id": "Cap_120",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Debt Recovery",
+        "Financial Analysis",
+        "Negotiation Skills",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Lucy Pezzuto (Oliveri)",
+      "position": "Human Resources Manager - Australia & New Zealand at Capri Holdings Limited",
+      "employee_id": "Cap_121",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Organizational Development",
+        "HRIS Systems"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_122",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Strategic Planning",
+        "Leadership Development",
+        "Onboarding",
+        "HR Compliance",
+        "Workforce Planning"
+      ]
+    },
+    {
+      "name": "MEHAK AHLUWALIA",
+      "position": "",
+      "employee_id": "Cap_123",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Khalil Basha Mohammad",
+      "position": "",
+      "employee_id": "Cap_124",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_125",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_126",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Nishchhal Katiyar",
+      "position": "HR at Capri Global Capital Ltd.",
+      "employee_id": "Cap_127",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Training and Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Compliance",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Amod Joshi",
+      "position": "",
+      "employee_id": "Cap_128",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Jordan Kaplan",
+      "position": "Talent Acquisition Recruiter at Capri Holdings Limited (Versace, Jimmy Choo & Michael Kors)",
+      "employee_id": "Cap_129",
+      "skills": [
+        "Talent Acquisition",
+        "Recruiting",
+        "Human Resources",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "Networking",
+        "Communication Skills",
+        "Negotiation",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Amod Joshi",
+      "position": "",
+      "employee_id": "Cap_131",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sumit Soni",
+      "position": "",
+      "employee_id": "Cap_132",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_133",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Hester Bovingdon",
+      "position": "Operations & Logistics Specialist at Capri Sun",
+      "employee_id": "Cap_134",
+      "skills": [
+        "Operations Management",
+        "Logistics",
+        "Supply Chain Management",
+        "Inventory Control",
+        "Process Improvement",
+        "Vendor Management",
+        "Project Management",
+        "Data Analysis",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sumit Soni",
+      "position": "",
+      "employee_id": "Cap_135",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tarun Aggarwal",
+      "position": "",
+      "employee_id": "Cap_136",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rahul Gala",
+      "position": "AVP Credit at Capri Global Capital Ltd.",
+      "employee_id": "Cap_137",
+      "skills": [
+        "Credit Analysis",
+        "Risk Assessment",
+        "Financial Modeling",
+        "Portfolio Management",
+        "Credit Underwriting",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_138",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sakshi Tanwar",
+      "position": "Software Engineer at Capri Global Capital Ltd. | 2nd Position in BNY Mellon Code-Divas'24 | Flipkart Grid 5.0 Semi-Finalist | Google Girl Hackathon '23 Semi-Finalist",
+      "employee_id": "Cap_139",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "Problem Solving",
+        "Algorithm Design",
+        "Data Structures",
+        "Team Collaboration",
+        "Competitive Programming"
+      ]
+    },
+    {
+      "name": "Piyush Jain",
+      "position": "Software Engineer at Capri Global",
+      "employee_id": "Cap_140",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Paridhi Sood",
+      "position": "HRBP at Capri Global Capital Limited | IT Recruiter",
+      "employee_id": "Cap_141",
+      "skills": [
+        "HRBP",
+        "IT Recruitment",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "HR Strategy",
+        "Conflict Resolution",
+        "Onboarding",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Philip Marco",
+      "position": "President at Capri Group LLC",
+      "employee_id": "Cap_142",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Building",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Neeta Joshi",
+      "position": "",
+      "employee_id": "Cap_143",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Amit Jain",
+      "position": "C.E.O @ Capri- Manufacturers of Automatic voltage Stabilizers / Regulators, servo Stabilizers | static converters I Trustee @ Medi- Dialysis Centre,a non profit organisation providing affordable health care I Mech. Engr.",
+      "employee_id": "Cap_144",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Project Management",
+        "Nonprofit Management",
+        "Healthcare Management"
+      ]
+    },
+    {
+      "name": "Manny Glatt",
+      "position": "Director of Sales at Capri Optics",
+      "employee_id": "Cap_145",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relations",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Account Management",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Sachin Sharma",
+      "position": "Zonal Collections Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_146",
+      "skills": [
+        "Collections Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Debt Recovery",
+        "Strategic Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_147",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Forecasting",
+        "Product Launches",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Lin QianPing",
+      "position": "Executive, S&M Support at Capri by Fraser, China Square",
+      "employee_id": "Cap_148",
+      "skills": [
+        "Customer Service",
+        "Sales Support",
+        "Market Analysis",
+        "Communication Skills",
+        "Team Leadership",
+        "Problem Solving",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Philip Marco",
+      "position": "President at Capri Group LLC",
+      "employee_id": "Cap_149",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Management",
+        "Team Building",
+        "Negotiation",
+        "Project Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Sue Kim",
+      "position": "Director @ Capri Holdings Limited | MBA in Marketing, Corporate Finance",
+      "employee_id": "Cap_150",
+      "skills": [
+        "Marketing",
+        "Corporate Finance",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_151",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Hester Bovingdon",
+      "position": "Operations & Logistics Specialist at Capri Sun",
+      "employee_id": "Cap_152",
+      "skills": [
+        "Operations Management",
+        "Logistics",
+        "Supply Chain Management",
+        "Inventory Control",
+        "Process Improvement",
+        "Vendor Management",
+        "Project Management",
+        "Data Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Arya Mishra",
+      "position": "Product Management Intern @ Capri Global Capital | Media and Publicity Head @ Aakaar, IIT Bombay",
+      "employee_id": "Cap_153",
+      "skills": [
+        "Product Management",
+        "Media and Publicity",
+        "Project Coordination",
+        "Team Leadership",
+        "Communication Skills",
+        "Marketing Strategy",
+        "Event Management"
+      ]
+    },
+    {
+      "name": "Jessica Agudelo",
+      "position": "",
+      "employee_id": "Cap_154",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Richard Hopkin",
+      "position": "Managing Director at Capri Finance Limited",
+      "employee_id": "Cap_155",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Team Management",
+        "Negotiation",
+        "Project Management",
+        "Budgeting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_156",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Lucy Pezzuto (Oliveri)",
+      "position": "Human Resources Manager - Australia & New Zealand at Capri Holdings Limited",
+      "employee_id": "Cap_157",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Organizational Development",
+        "Compliance",
+        "Labor Laws",
+        "Strategic Planning",
+        "Recruitment",
+        "HRIS",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "Kanika Suri",
+      "position": "Deputy Vice President Human Resources at Capri Global Capital Ltd. Specialist : HR Operations , HR Automation, HR Analytics, HR Business Partnering",
+      "employee_id": "Cap_158",
+      "skills": [
+        "HR Operations",
+        "HR Automation",
+        "HR Analytics",
+        "HR Business Partnering"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_159",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Employee Relations",
+        "Recruitment Strategies",
+        "Performance Management",
+        "Conflict Resolution",
+        "Organizational Development",
+        "Training and Development",
+        "HR Compliance",
+        "Interviewing"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_160",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Arya Mishra",
+      "position": "Product Management Intern @ Capri Global Capital | Media and Publicity Head @ Aakaar, IIT Bombay",
+      "employee_id": "Cap_161",
+      "skills": [
+        "Product Management",
+        "Media and Publicity",
+        "Project Coordination",
+        "Team Leadership",
+        "Communication Skills",
+        "Marketing Strategies",
+        "Event Planning",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "Rishav Anand",
+      "position": "Collections Coordinator at Capri Global Capital Ltd.",
+      "employee_id": "Cap_162",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Debt Recovery",
+        "Communication Skills",
+        "Negotiation Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_163",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_164",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "arvind yadav",
+      "position": "Business Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_165",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_166",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tarun Aggarwal",
+      "position": "",
+      "employee_id": "Cap_167",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_168",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Technology Implementation",
+        "Problem Solving",
+        "Risk Assessment",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_169",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Time Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Pulkit kaushik",
+      "position": "Data Analyst- Operations Executive at Capri Global Capital Limited MBA From Maharshi Dayanand University",
+      "employee_id": "Cap_170",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Reporting",
+        "Excel",
+        "SQL",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Yin Kwan Lee",
+      "position": "CAPRI Associate | LSE | Driving Resilience, Innovation & Impact in the Asia-Pacific",
+      "employee_id": "Cap_171",
+      "skills": [
+        "Resilience",
+        "Innovation",
+        "Impact Analysis",
+        "Asia-Pacific Expertise"
+      ]
+    },
+    {
+      "name": "Shirleyn Koh",
+      "position": "Assistant Director of Sales at Capri by Fraser, China Square",
+      "employee_id": "Cap_172",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_173",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Forecasting",
+        "Sales Operations"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_174",
+      "skills": [
+        "Sales Management",
+        "Marketing Strategy",
+        "Market Analysis",
+        "Brand Management",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Project Management",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kumar Saket",
+      "position": "Associate Product Manager | Capri Loans",
+      "employee_id": "Cap_175",
+      "skills": [
+        "Product Management",
+        "Financial Services",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kartik Chawla",
+      "position": "Technical Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_176",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Technical Strategy",
+        "Software Development",
+        "System Architecture",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Amit Setia",
+      "position": "Director :: Car Loans at Capri Global Capital Ltd.",
+      "employee_id": "Cap_177",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Management",
+        "Business Development",
+        "Loan Processing",
+        "Credit Analysis",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_178",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Forecasting",
+        "Business Development",
+        "Product Launch",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_179",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_180",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Brand Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Project Management",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_181",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_182",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_183",
+      "skills": [
+        "Sales Management",
+        "Marketing Strategy",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Brand Development",
+        "Digital Marketing",
+        "Team Leadership",
+        "Strategic Planning",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Hassib Hassan",
+      "position": "",
+      "employee_id": "Cap_184",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kartik Chawla",
+      "position": "Technical Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_185",
+      "skills": [
+        "Technical Management",
+        "Project Management",
+        "Team Leadership",
+        "Financial Services",
+        "Risk Management",
+        "Strategic Planning",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Satish Chincholi",
+      "position": "AVP-IT at Capri Global Capital Ltd.",
+      "employee_id": "Cap_186",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Technology Implementation",
+        "Systems Integration",
+        "Cybersecurity",
+        "Business Continuity Planning"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_187",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Business Development",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Richard Hopkin",
+      "position": "Managing Director at Capri Finance Limited",
+      "employee_id": "Cap_188",
+      "skills": [
+        "Financial Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Leadership",
+        "Business Development",
+        "Team Management",
+        "Budgeting",
+        "Financial Analysis",
+        "Investment Strategies",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_189",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Risk Management",
+        "Financial Analysis",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Mamillapalli Arun Kiran",
+      "position": "MANAGING DIRECTOR at CAPRI FINANCIAL SERVICES PRIVATE LIMITED",
+      "employee_id": "Cap_190",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Business Development",
+        "Project Management",
+        "Team Management",
+        "Negotiation",
+        "Decision Making",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Sachin Sharma",
+      "position": "Zonal Collections Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_191",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Debt Recovery",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "arvind yadav",
+      "position": "Business Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_192",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_193",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sumit Soni",
+      "position": "",
+      "employee_id": "Cap_194",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rebecca Koepsell, LNHA",
+      "position": "Operations Specialist at Capri Senior Communities",
+      "employee_id": "Cap_195",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Healthcare Administration",
+        "Regulatory Compliance",
+        "Process Improvement",
+        "Budget Management",
+        "Staff Development"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_196",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_197",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Maja Widera",
+      "position": "Sales & Marketing Manager Nordics at Capri Sun Group",
+      "employee_id": "Cap_198",
+      "skills": [
+        "Sales Management",
+        "Marketing Strategy",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Brand Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Strategic Planning",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Claude Sterling",
+      "position": "Owner - General Manager at Capri Shipping & Logistics",
+      "employee_id": "Cap_199",
+      "skills": [
+        "Logistics Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Business Development",
+        "Strategic Planning",
+        "Customer Service",
+        "Operations Management",
+        "Project Management",
+        "Negotiation",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Ryan Anaya",
+      "position": "General Manager - Capri By The Sea",
+      "employee_id": "Cap_200",
+      "skills": [
+        "Team Leadership",
+        "Strategic Planning",
+        "Operations Management",
+        "Customer Service",
+        "Budget Management",
+        "Staff Training",
+        "Conflict Resolution",
+        "Sales Management",
+        "Marketing Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Carol Marco",
+      "position": "General Manager at Capri Group",
+      "employee_id": "Cap_201",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Budgeting",
+        "Operations Management",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Negotiation",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Hua Chin Teo",
+      "position": "Director of Finance at Capri by Fraser Changi City, Singapore",
+      "employee_id": "Cap_202",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Strategic Planning",
+        "Financial Reporting",
+        "Team Leadership",
+        "Risk Management",
+        "Compliance",
+        "Cost Control",
+        "Revenue Management"
+      ]
+    },
+    {
+      "name": "arvind yadav",
+      "position": "Business Manager at Capri Global Capital Ltd.",
+      "employee_id": "Cap_203",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy",
+        "Budgeting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_204",
+      "skills": [
+        "Credit Management",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Kanika Suri",
+      "position": "Deputy Vice President Human Resources at Capri Global Capital Ltd. Specialist : HR Operations , HR Automation, HR Analytics, HR Business Partnering",
+      "employee_id": "Cap_205",
+      "skills": [
+        "HR Operations",
+        "HR Automation",
+        "HR Analytics",
+        "HR Business Partnering"
+      ]
+    },
+    {
+      "name": "Lucy Pezzuto (Oliveri)",
+      "position": "Human Resources Manager - Australia & New Zealand at Capri Holdings Limited",
+      "employee_id": "Cap_206",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Training and Development",
+        "HR Policies",
+        "Conflict Resolution",
+        "Organizational Development",
+        "HR Compliance"
+      ]
+    },
+    {
+      "name": "Nikhil Subrahmaniyam",
+      "position": "",
+      "employee_id": "Cap_207",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kim Irwin",
+      "position": "Sr. Director of Marketing at Capri Senior Communities",
+      "employee_id": "Cap_208",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Team Leadership",
+        "Market Research",
+        "Project Management",
+        "Strategic Planning",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "Jessica Agudelo",
+      "position": "",
+      "employee_id": "Cap_209",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Paige Tuszynski",
+      "position": "Marketing Manager at Capri Communities",
+      "employee_id": "Cap_210",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Public Relations",
+        "Communication Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Hua Chin Teo",
+      "position": "Director of Finance at Capri by Fraser Changi City, Singapore",
+      "employee_id": "Cap_211",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Strategic Planning",
+        "Risk Management",
+        "Team Leadership",
+        "Financial Reporting",
+        "Compliance",
+        "Cost Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Carmine Goldsack",
+      "position": "FP&A Manager at Capri Holdings Limited",
+      "employee_id": "Cap_212",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Variance Analysis",
+        "Strategic Planning",
+        "Excel",
+        "Financial Modeling",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Mamillapalli Arun Kiran",
+      "position": "MANAGING DIRECTOR at CAPRI FINANCIAL SERVICES PRIVATE LIMITED",
+      "employee_id": "Cap_213",
+      "skills": [
+        "Financial Management",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Business Development",
+        "Team Management",
+        "Financial Analysis",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_214",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Strategic Planning",
+        "Sales Forecasting",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_215",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Manish Dixit",
+      "position": "AVP -Regional Technical manager at Capri global housing finance ltd.",
+      "employee_id": "Cap_216",
+      "skills": [
+        "Technical Management",
+        "Regional Management",
+        "Housing Finance",
+        "Team Leadership",
+        "Project Management",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Jordan Kaplan",
+      "position": "Talent Acquisition Recruiter at Capri Holdings Limited (Versace, Jimmy Choo & Michael Kors)",
+      "employee_id": "Cap_217",
+      "skills": [
+        "Talent Acquisition",
+        "Recruiting",
+        "Human Resources",
+        "Interviewing",
+        "Candidate Screening",
+        "Employee Onboarding",
+        "Talent Management",
+        "Networking",
+        "Communication",
+        "Negotiation",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Sam Smith",
+      "position": "Sr. HR Business Partner - Talent Acquisition Manager at Capri Senior Communities",
+      "employee_id": "Cap_218",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Employee Relations",
+        "Recruitment Strategies",
+        "Performance Management",
+        "Onboarding",
+        "Training and Development",
+        "Succession Planning",
+        "HR Compliance",
+        "Workforce Planning"
+      ]
+    },
+    {
+      "name": "Erika Simonelli",
+      "position": "",
+      "employee_id": "Cap_219",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_220",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Strategy",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "John Morton",
+      "position": "Sales And Marketing Specialist at Capri Marine",
+      "employee_id": "Cap_221",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Content Creation",
+        "Social Media Marketing",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Manny Glatt",
+      "position": "Director of Sales at Capri Optics",
+      "employee_id": "Cap_222",
+      "skills": [
+        "Sales Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Hester Bovingdon",
+      "position": "Operations & Logistics Specialist at Capri Sun",
+      "employee_id": "Cap_223",
+      "skills": [
+        "Operations Management",
+        "Logistics",
+        "Supply Chain Management",
+        "Inventory Control",
+        "Process Improvement",
+        "Vendor Management",
+        "Project Management",
+        "Data Analysis",
+        "Team Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_224",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rebecca Koepsell, LNHA",
+      "position": "Operations Specialist at Capri Senior Communities",
+      "employee_id": "Cap_225",
+      "skills": [
+        "Operations Management",
+        "Senior Care",
+        "Healthcare Administration",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Regulatory Compliance",
+        "Staff Training",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Vaibhav Shah",
+      "position": "Associate Director - Head Credit | Business Relationship Management | Digital Transformation",
+      "employee_id": "Cap_226",
+      "skills": [
+        "Credit Analysis",
+        "Business Relationship Management",
+        "Digital Transformation",
+        "Leadership",
+        "Strategic Planning",
+        "Risk Management",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Richard Hopkin",
+      "position": "Managing Director at Capri Finance Limited",
+      "employee_id": "Cap_227",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Business Development",
+        "Risk Assessment",
+        "Team Management",
+        "Negotiation",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_228",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_229",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Team Leadership",
+        "Customer Service",
+        "Project Coordination",
+        "Time Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Arya Mishra",
+      "position": "Product Management Intern @ Capri Global Capital | Media and Publicity Head @ Aakaar, IIT Bombay",
+      "employee_id": "Cap_230",
+      "skills": [
+        "Product Management",
+        "Media and Publicity",
+        "Project Coordination",
+        "Marketing Strategy",
+        "Event Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rishav Anand",
+      "position": "Collections Coordinator at Capri Global Capital Ltd.",
+      "employee_id": "Cap_231",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Debt Recovery",
+        "Communication Skills",
+        "Negotiation Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_232",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Coordination",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rishav Anand",
+      "position": "Collections Coordinator at Capri Global Capital Ltd.",
+      "employee_id": "Cap_233",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Negotiation",
+        "Debt Recovery",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Hester Bovingdon",
+      "position": "Operations & Logistics Specialist at Capri Sun",
+      "employee_id": "Cap_234",
+      "skills": [
+        "Operations Management",
+        "Logistics",
+        "Supply Chain Management",
+        "Inventory Control",
+        "Process Improvement",
+        "Vendor Management",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Hua Chin Teo",
+      "position": "Director of Finance at Capri by Fraser Changi City, Singapore",
+      "employee_id": "Cap_235",
+      "skills": [
+        "Financial Management",
+        "Budgeting",
+        "Forecasting",
+        "Strategic Planning",
+        "Risk Management",
+        "Team Leadership",
+        "Negotiation",
+        "Compliance",
+        "Financial Reporting",
+        "Cost Control"
+      ]
+    },
+    {
+      "name": "Carmine Goldsack",
+      "position": "FP&A Manager at Capri Holdings Limited",
+      "employee_id": "Cap_236",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Variance Analysis",
+        "Strategic Planning",
+        "Excel",
+        "PowerPoint",
+        "Financial Modeling",
+        "Data Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_237",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Jessica Agudelo",
+      "position": "",
+      "employee_id": "Cap_238",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kumar Saket",
+      "position": "Associate Product Manager | Capri Loans",
+      "employee_id": "Cap_239",
+      "skills": [
+        "Product Management",
+        "Financial Services",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Morgan Shepherd",
+      "position": "Assistant Brand Manager- Capri Blue",
+      "employee_id": "Cap_240",
+      "skills": [
+        "Brand Management",
+        "Marketing Strategy",
+        "Project Management",
+        "Market Research",
+        "Product Development",
+        "Team Leadership",
+        "Communication Skills",
+        "Data Analysis",
+        "Social Media Marketing",
+        "Customer Insights"
+      ]
+    },
+    {
+      "name": "Jennifer Kessel",
+      "position": "Director of Operations at Capri Communities LLC",
+      "employee_id": "Cap_241",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Budgeting",
+        "Project Management",
+        "Process Improvement",
+        "Vendor Management",
+        "Compliance",
+        "Staff Development",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_242",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Eric Pitts, FMP",
+      "position": "",
+      "employee_id": "Cap_243",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Leadership",
+        "Strategic Planning",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Khalil Basha Mohammad",
+      "position": "",
+      "employee_id": "Cap_244",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Business Intelligence",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "Sanjeev Srivastava",
+      "position": "",
+      "employee_id": "Cap_245",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Richard Hopkin",
+      "position": "Managing Director at Capri Finance Limited",
+      "employee_id": "Cap_246",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Team Management",
+        "Negotiation",
+        "Project Management",
+        "Budgeting",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_247",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Forecasting",
+        "Product Launches",
+        "Sales Training"
+      ]
+    },
+    {
+      "name": "April Zwaschka",
+      "position": "Regional Senior Sales Specialist at Capri Senior Communities",
+      "employee_id": "Cap_248",
+      "skills": [
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_249",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_250",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Business Development",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Forecasting",
+        "Sales Training",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_251",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    },
+    {
+      "name": "Manish Dixit",
+      "position": "AVP -Regional Technical manager at Capri global housing finance ltd.",
+      "employee_id": "Cap_252",
+      "skills": [
+        "Technical Management",
+        "Housing Finance",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Rishabh Singal",
+      "position": "SWE @ Capri Global Capital Ltd. | IIIT ALLAHABAD",
+      "employee_id": "Cap_253",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kaushik Parida",
+      "position": "Data Engineering Intern @ Capri | Tech × Strategy × Process Optimization | Exploring Enterprise Systems & Business Transformation",
+      "employee_id": "Cap_254",
+      "skills": [
+        "Data Engineering",
+        "Tech Strategy",
+        "Process Optimization",
+        "Enterprise Systems",
+        "Business Transformation"
+      ]
+    },
+    {
+      "name": "Heather Stachowiak",
+      "position": "Operations Specialist at Capri Communities",
+      "employee_id": "Cap_255",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Coordination",
+        "Process Improvement",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Gemma Liston (Kinsman)",
+      "position": "Head of Sales @ Capri Sun",
+      "employee_id": "Cap_256",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Sales Forecasting",
+        "Performance Metrics",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "April Zwaschka",
+      "position": "Regional Senior Sales Specialist at Capri Senior Communities",
+      "employee_id": "Cap_257",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Communication Skills",
+        "Problem Solving",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Matt Done",
+      "position": "Sales Director, GB&I @ Capri Sun Group | Leadership | Coaching | Commercial Strategy | High Performing Teams",
+      "employee_id": "Cap_258",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Commercial Strategy",
+        "High Performing Teams"
+      ]
+    }
+  ]
+}

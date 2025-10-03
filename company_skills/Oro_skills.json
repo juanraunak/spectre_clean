@@ -1,0 +1,3722 @@
+{
+  "company_name": "Oro",
+  "employees": [
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_001",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Training and Development",
+        "Conflict Resolution",
+        "Performance Management",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Vinayak Chaudhary",
+      "position": "Head - HR Department at ORO Precious Metals Pvt Ltd",
+      "employee_id": "Oro_002",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Jim Valenzuela",
+      "position": "Founder and CEO at ORO HR and OROLEAF HR",
+      "employee_id": "Oro_003",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Human Resources",
+        "Business Development",
+        "Entrepreneurship",
+        "Team Management",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Scott Ward",
+      "position": "ORO Water Projects - VALE, Senior Training Specialist (IBI/ARCADIS retired), Retired Water Treatment Supervisor",
+      "employee_id": "Oro_004",
+      "skills": [
+        "Water Treatment",
+        "Training",
+        "Project Management",
+        "Environmental Compliance",
+        "Team Leadership",
+        "Safety Procedures",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_005",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Staff Development",
+        "Conflict Resolution",
+        "Performance Evaluation",
+        "Labor Laws",
+        "Benefits Administration",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Aishwerya Narayan",
+      "position": "",
+      "employee_id": "Oro_006",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vinayak Chaudhary",
+      "position": "Head - HR Department at ORO Precious Metals Pvt Ltd",
+      "employee_id": "Oro_007",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HR Policies",
+        "Labor Law Compliance",
+        "Strategic Planning",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_008",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_009",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "Labor Law Compliance",
+        "Strategic Planning",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_010",
+      "skills": [
+        "Marketing",
+        "Product Marketing",
+        "CRM",
+        "Healthcare Marketing",
+        "Strategic Planning",
+        "Brand Management",
+        "Market Research",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_011",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Social Media Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_012",
+      "skills": [
+        "Event Marketing",
+        "Pipeline Building",
+        "Customer Experience",
+        "Global Marketing",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_013",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Conflict Resolution",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Scott Ward",
+      "position": "ORO Water Projects - VALE, Senior Training Specialist (IBI/ARCADIS retired), Retired Water Treatment Supervisor",
+      "employee_id": "Oro_014",
+      "skills": [
+        "Water Treatment",
+        "Training",
+        "Project Management",
+        "Environmental Compliance",
+        "Team Leadership",
+        "Safety Procedures",
+        "Technical Writing"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_015",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Performance Management",
+        "Recruitment",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_016",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Ibrahim Azhar",
+      "position": "Head Of Technology at Oro Media Lab",
+      "employee_id": "Oro_017",
+      "skills": [
+        "Technology Management",
+        "Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Software Development",
+        "Team Collaboration",
+        "Innovation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_018",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Praveen Babu",
+      "position": "",
+      "employee_id": "Oro_019",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Siva Santhalingam",
+      "position": "",
+      "employee_id": "Oro_020",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Ibrahim Azhar",
+      "position": "Head Of Technology at Oro Media Lab",
+      "employee_id": "Oro_021",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Software Development",
+        "Team Management",
+        "Technology Integration",
+        "Problem Solving",
+        "Communication",
+        "Innovation"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_022",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Ibrahim Azhar",
+      "position": "Head Of Technology at Oro Media Lab",
+      "employee_id": "Oro_023",
+      "skills": [
+        "Technology Management",
+        "Project Management",
+        "Team Leadership",
+        "Software Development",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Development",
+        "Technical Architecture",
+        "Innovation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_024",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_025",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "David Valencia",
+      "position": "",
+      "employee_id": "Oro_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Matt Hugo",
+      "position": "",
+      "employee_id": "Oro_027",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Steven Weigand",
+      "position": "",
+      "employee_id": "Oro_028",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Praveen Babu",
+      "position": "",
+      "employee_id": "Oro_029",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_030",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_031",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication Skills",
+        "Product Knowledge",
+        "Technical Documentation",
+        "Software Installation",
+        "System Configuration",
+        "Network Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_032",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Siva Santhalingam",
+      "position": "",
+      "employee_id": "Oro_033",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_034",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Ibrahim Azhar",
+      "position": "Head Of Technology at Oro Media Lab",
+      "employee_id": "Oro_035",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Technology Strategy",
+        "Software Development",
+        "Team Management",
+        "Agile Methodologies",
+        "Digital Transformation",
+        "Product Development",
+        "Technical Architecture",
+        "Innovation"
+      ]
+    },
+    {
+      "name": "Shubham Saket",
+      "position": "Principal Data Scientist, R&D (GenAI) at Oro Labs| NLP | Computer Vision",
+      "employee_id": "Oro_036",
+      "skills": [
+        "Python",
+        "NLP",
+        "Computer Vision",
+        "Data Science",
+        "Machine Learning",
+        "Deep Learning",
+        "R&D",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_037",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Software Installation",
+        "System Configuration",
+        "Technical Documentation",
+        "Remote Support",
+        "Ticketing Systems"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_038",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_039",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Ibrahim Azhar",
+      "position": "Head Of Technology at Oro Media Lab",
+      "employee_id": "Oro_040",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Technology Strategy",
+        "Team Management",
+        "Agile Methodologies",
+        "Digital Transformation",
+        "Technical Architecture",
+        "Innovation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_041",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Shubham Saket",
+      "position": "Principal Data Scientist, R&D (GenAI) at Oro Labs| NLP | Computer Vision",
+      "employee_id": "Oro_042",
+      "skills": [
+        "Python",
+        "NLP",
+        "Computer Vision",
+        "Data Science",
+        "R&D",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Shubham Saket",
+      "position": "Principal Data Scientist, R&D (GenAI) at Oro Labs| NLP | Computer Vision",
+      "employee_id": "Oro_043",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "NLP",
+        "Computer Vision",
+        "R&D",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_044",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_045",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_046",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Software Installation",
+        "System Configuration",
+        "Technical Documentation",
+        "Remote Support",
+        "Incident Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_047",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_048",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_049",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_050",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Financial Services",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_051",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Brand Development",
+        "Market Research",
+        "Digital Marketing",
+        "Social Media Management",
+        "Content Creation",
+        "Lead Generation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_052",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Reconciliation",
+        "Financial Analysis",
+        "Excel",
+        "SAP",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_053",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Manoj Purswani",
+      "position": "Manager - Product Development at ORO Precious Metals Pvt. Ltd.",
+      "employee_id": "Oro_054",
+      "skills": [
+        "Product Development",
+        "Project Management",
+        "Team Leadership",
+        "Market Research",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relations",
+        "Negotiation",
+        "Budget Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_055",
+      "skills": [
+        "Event Marketing",
+        "Strategic Planning",
+        "Customer Experience",
+        "Pipeline Building",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_056",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Business Development",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_057",
+      "skills": [
+        "Presales Solutions Consulting",
+        "Procurement",
+        "Solution Design",
+        "Client Engagement",
+        "Technical Presentations",
+        "Requirement Analysis",
+        "Vendor Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pamela Rodriguez CFP®",
+      "position": "",
+      "employee_id": "Oro_058",
+      "skills": [
+        "Financial Planning",
+        "Investment Strategies",
+        "Retirement Planning",
+        "Tax Planning",
+        "Estate Planning",
+        "Risk Management",
+        "Client Relations",
+        "CFP® Certification"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_059",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_060",
+      "skills": [
+        "Presales Solutions Consulting",
+        "Procurement",
+        "Client Relationship Management",
+        "Solution Design",
+        "Technical Sales",
+        "Business Analysis",
+        "Project Management",
+        "Product Demonstrations",
+        "Market Research",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_061",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design"
+      ]
+    },
+    {
+      "name": "Pawan Jaiswal",
+      "position": "Planning Head at Oro Group",
+      "employee_id": "Oro_062",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Forecasting",
+        "Supply Chain Management",
+        "Vendor Management",
+        "Negotiation",
+        "Market Analysis",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Zaneta Luna, MPA, CSDM",
+      "position": "Administrative Services Manager at Oro Loma Sanitary District",
+      "employee_id": "Oro_063",
+      "skills": [
+        "Administrative Services",
+        "Management",
+        "Public Administration",
+        "Customer Service Data Management"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_064",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Communication",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_065",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Team Management",
+        "Client Relations",
+        "Negotiation",
+        "Market Analysis",
+        "Budgeting",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_066",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Budgeting",
+        "Tax Preparation",
+        "Financial Analysis",
+        "Excel",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_067",
+      "skills": [
+        "Marketing Strategy",
+        "Product Marketing",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_068",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_069",
+      "skills": [
+        "Strategic Event Marketing",
+        "Pipeline Building",
+        "Customer Experience Management",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_070",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_071",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Praveen Babu",
+      "position": "",
+      "employee_id": "Oro_072",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Business Intelligence",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "name": "Michael Bessolov",
+      "position": "",
+      "employee_id": "Oro_073",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Praveen Babu",
+      "position": "",
+      "employee_id": "Oro_074",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistical Analysis",
+        "Predictive Modeling",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Siva Santhalingam",
+      "position": "",
+      "employee_id": "Oro_075",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_076",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Product Knowledge",
+        "Technical Documentation",
+        "Software Installation",
+        "System Configuration",
+        "Issue Resolution"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_077",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_078",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_079",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Development",
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "Advertising",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_080",
+      "skills": [
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Customer Service",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_081",
+      "skills": [
+        "Marketing",
+        "Product Marketing",
+        "Customer Relationship Management",
+        "Healthcare Marketing",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Troy Jaeger",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_082",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Client Relations",
+        "Market Analysis",
+        "Budget Management",
+        "Agricultural Industry Knowledge"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_083",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_084",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Team Management",
+        "Client Relations",
+        "Negotiation",
+        "Financial Analysis",
+        "Market Research",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_085",
+      "skills": [
+        "Sales Management",
+        "Corporate Sales",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Revenue Growth",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_086",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_087",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Team Management",
+        "Client Relations",
+        "Negotiation",
+        "Budgeting",
+        "Market Analysis",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_088",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Account Management",
+        "Business Development",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_089",
+      "skills": [
+        "Strategic Event Marketing",
+        "Pipeline Building",
+        "Customer Experience Management",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_090",
+      "skills": [
+        "Marketing",
+        "Product Marketing",
+        "Customer Relationship Management",
+        "Healthcare Marketing",
+        "Strategic Planning",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Lin Kay",
+      "position": "Data Officer at Oro Provincial Administration",
+      "employee_id": "Oro_091",
+      "skills": [
+        "Data Analysis",
+        "Data Management",
+        "SQL",
+        "Excel",
+        "Report Generation",
+        "Database Administration"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_092",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_093",
+      "skills": [
+        "Presales Solutions Consulting",
+        "Procurement",
+        "Solution Design",
+        "Client Relationship Management",
+        "Technical Sales",
+        "Product Demonstrations",
+        "Requirement Analysis",
+        "Business Process Optimization"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_094",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_095",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Development",
+        "Digital Marketing",
+        "Social Media Management",
+        "Content Creation",
+        "Lead Generation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_096",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Agricultural Industry Knowledge",
+        "Market Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_097",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_098",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budget Management",
+        "Performance Monitoring",
+        "Agricultural Industry Knowledge"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_099",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Client Acquisition",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_100",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Accounts Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Auditing",
+        "Microsoft Excel",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_101",
+      "skills": [
+        "Marketing Strategy",
+        "Product Marketing",
+        "Customer Relationship Management (CRM)",
+        "Healthcare Marketing",
+        "MBA"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_102",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_103",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_104",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_105",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Software Installation",
+        "System Configuration",
+        "Network Management",
+        "Technical Documentation",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rogie Baix",
+      "position": "Technical Support Engineer at Oro Admin",
+      "employee_id": "Oro_106",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Network Configuration",
+        "Software Installation",
+        "System Maintenance",
+        "Technical Documentation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_107",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Client Acquisition",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_108",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Software Installation",
+        "System Configuration",
+        "Network Management",
+        "Technical Documentation",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_109",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_110",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_111",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design"
+      ]
+    },
+    {
+      "name": "Zaneta Luna, MPA, CSDM",
+      "position": "Administrative Services Manager at Oro Loma Sanitary District",
+      "employee_id": "Oro_112",
+      "skills": [
+        "Administrative Management",
+        "Customer Service",
+        "Project Coordination",
+        "Budgeting",
+        "Team Leadership",
+        "Strategic Planning",
+        "Public Administration",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Guillaume Rousset",
+      "position": "AVP - Operational Risk Management at BNP Paribas CIB",
+      "employee_id": "Oro_113",
+      "skills": [
+        "Operational Risk Management",
+        "Financial Risk",
+        "Risk Assessment",
+        "Risk Mitigation",
+        "Regulatory Compliance",
+        "Financial Analysis",
+        "Banking Operations",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Jim Valenzuela",
+      "position": "Founder and CEO at ORO HR and OROLEAF HR",
+      "employee_id": "Oro_114",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Human Resources Management",
+        "Business Development",
+        "Team Building",
+        "Entrepreneurship",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Vinayak Chaudhary",
+      "position": "Head - HR Department at ORO Precious Metals Pvt Ltd",
+      "employee_id": "Oro_115",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Strategy",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Labor Law Compliance",
+        "Leadership",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_116",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Training and Development",
+        "Conflict Resolution",
+        "Performance Management",
+        "Compliance",
+        "Strategic Planning",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_117",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Financial Services",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_118",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_119",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Brand Development",
+        "Market Research",
+        "Digital Marketing",
+        "Social Media Management",
+        "Advertising",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_120",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Staff Development",
+        "Conflict Resolution",
+        "Performance Evaluation",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Aishwerya Narayan",
+      "position": "",
+      "employee_id": "Oro_121",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shachi Rai Gupta",
+      "position": "",
+      "employee_id": "Oro_122",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Machine Learning",
+        "Business Intelligence",
+        "Statistical Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_123",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_124",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Accounts Management",
+        "Financial Reporting",
+        "Taxation",
+        "Budgeting",
+        "Financial Analysis",
+        "Excel",
+        "ERP Systems",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_125",
+      "skills": [
+        "Presales Solutions Consulting",
+        "Procurement",
+        "Client Engagement",
+        "Solution Design",
+        "Technical Presentations",
+        "Business Analysis",
+        "Project Management",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Pamela Rodriguez CFP®",
+      "position": "",
+      "employee_id": "Oro_126",
+      "skills": [
+        "Financial Planning",
+        "Investment Strategies",
+        "Retirement Planning",
+        "Tax Planning",
+        "Estate Planning",
+        "Risk Management",
+        "Client Relations",
+        "CFP® Certification"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_127",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Staff Development",
+        "Conflict Resolution",
+        "Performance Management",
+        "Policy Implementation",
+        "Labor Law Compliance",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Aishwerya Narayan",
+      "position": "",
+      "employee_id": "Oro_128",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Lin Kay",
+      "position": "Data Officer at Oro Provincial Administration",
+      "employee_id": "Oro_129",
+      "skills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Database Management",
+        "SQL",
+        "Data Visualization",
+        "Excel",
+        "Report Writing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_130",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_131",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design",
+        "Brand Enhancement"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_132",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_133",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Shubham Saket",
+      "position": "Principal Data Scientist, R&D (GenAI) at Oro Labs| NLP | Computer Vision",
+      "employee_id": "Oro_134",
+      "skills": [
+        "Python",
+        "NLP",
+        "Computer Vision",
+        "Data Science",
+        "R&D",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Pamela Rodriguez CFP®",
+      "position": "",
+      "employee_id": "Oro_135",
+      "skills": [
+        "Financial Planning",
+        "Investment Strategies",
+        "Risk Management",
+        "Client Relations",
+        "Retirement Planning",
+        "Tax Planning",
+        "Estate Planning",
+        "CFP® Certification"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_136",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Budgeting",
+        "Tax Preparation",
+        "Financial Analysis",
+        "Microsoft Excel",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Matt Hugo",
+      "position": "",
+      "employee_id": "Oro_137",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Project Management",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Dr.Shelly Gupta",
+      "position": "General Dentist at Oro dental clinic",
+      "employee_id": "Oro_138",
+      "skills": [
+        "Dentistry",
+        "Patient Care",
+        "Oral Surgery",
+        "Dental Hygiene",
+        "Restorative Dentistry",
+        "Prosthodontics",
+        "Endodontics",
+        "Periodontics",
+        "Radiology",
+        "Dental Implants",
+        "Cosmetic Dentistry",
+        "Preventive Dentistry"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_139",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Nihal Shaikh",
+      "position": "SDE 2 @ Oro | Frontend Development, Javascript, React",
+      "employee_id": "Oro_140",
+      "skills": [
+        "Frontend Development",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_141",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design",
+        "Brand Enhancement"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_142",
+      "skills": [
+        "Presales Solutions",
+        "Procurement",
+        "Consulting",
+        "Solution Design",
+        "Client Engagement",
+        "Technical Presentations",
+        "Requirement Analysis",
+        "Proposal Development",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "MUSKAN BHARTIYA",
+      "position": "Director @ Oro buildcon pvt. Ltd. | Real Estate Transactions",
+      "employee_id": "Oro_143",
+      "skills": [
+        "Real Estate Transactions",
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_144",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_145",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_146",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Tomas Montvila",
+      "position": "Chief Operations Officer at ORO NAVIGACIJA",
+      "employee_id": "Oro_147",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Process Improvement",
+        "Budget Management",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Jim Valenzuela",
+      "position": "Founder and CEO at ORO HR and OROLEAF HR",
+      "employee_id": "Oro_148",
+      "skills": [
+        "Leadership",
+        "Entrepreneurship",
+        "Human Resources",
+        "Business Development",
+        "Strategic Planning",
+        "Team Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pawan Jaiswal",
+      "position": "Planning Head at Oro Group",
+      "employee_id": "Oro_149",
+      "skills": [
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Supply Chain Management",
+        "Risk Assessment",
+        "Operational Efficiency",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_150",
+      "skills": [
+        "Strategic Event Marketing",
+        "Pipeline Building",
+        "Customer Experience Management",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_151",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Brand Management",
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "Lead Generation"
+      ]
+    },
+    {
+      "name": "Lin Kay",
+      "position": "Data Officer at Oro Provincial Administration",
+      "employee_id": "Oro_152",
+      "skills": [
+        "Data Analysis",
+        "Data Management",
+        "SQL",
+        "Excel",
+        "Report Writing",
+        "Database Administration"
+      ]
+    },
+    {
+      "name": "Itay Braverman",
+      "position": "VP of Product at OroCommerce",
+      "employee_id": "Oro_153",
+      "skills": [
+        "Product Management",
+        "E-commerce",
+        "B2B Commerce",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Product Development",
+        "Agile Methodologies",
+        "Cross-functional Collaboration",
+        "Customer Insights"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_154",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design",
+        "Brand Enhancement"
+      ]
+    },
+    {
+      "name": "Pawan Jaiswal",
+      "position": "Planning Head at Oro Group",
+      "employee_id": "Oro_155",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Forecasting",
+        "Supply Chain Management",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Vinayak Chaudhary",
+      "position": "Head - HR Department at ORO Precious Metals Pvt Ltd",
+      "employee_id": "Oro_156",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Training and Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_157",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Zaneta Luna, MPA, CSDM",
+      "position": "Administrative Services Manager at Oro Loma Sanitary District",
+      "employee_id": "Oro_158",
+      "skills": [
+        "Administrative Services",
+        "Management",
+        "Public Administration",
+        "Customer Service Data Management (CSDM)",
+        "Sanitary District Operations"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_159",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Dr.Shelly Gupta",
+      "position": "General Dentist at Oro dental clinic",
+      "employee_id": "Oro_160",
+      "skills": [
+        "Dentistry",
+        "Patient Care",
+        "Oral Surgery",
+        "Dental Implants",
+        "Cosmetic Dentistry",
+        "Preventive Dentistry",
+        "Restorative Dentistry",
+        "Endodontics",
+        "Periodontics",
+        "Prosthodontics",
+        "Dental Radiography",
+        "Dental Hygiene",
+        "Treatment Planning",
+        "Medical History Review",
+        "Pain Management"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_161",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Software Installation",
+        "System Configuration",
+        "Technical Documentation",
+        "Remote Assistance",
+        "Product Training"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_162",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_163",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budget Management",
+        "Operational Efficiency",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_164",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Financial Services",
+        "Communication",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_165",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelancing",
+        "Brand Enhancement"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_166",
+      "skills": [
+        "Event Marketing",
+        "Pipeline Building",
+        "Customer Experience",
+        "Global Marketing",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Arjun Manikandan",
+      "position": "Technical Implementation & Integration Engineer @ ORO Labs #HumanizeProcurement #MakingProcurementAwesome 😉❤️ Workato Certified | ERP | NetSuite | SAP Ariba | CRM | Helpdesk | Freshmarketer | Shopify",
+      "employee_id": "Oro_167",
+      "skills": [
+        "Technical Implementation",
+        "Integration",
+        "Workato Certified",
+        "ERP",
+        "NetSuite",
+        "SAP Ariba",
+        "CRM",
+        "Helpdesk",
+        "Freshmarketer",
+        "Shopify"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_168",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Social Media Marketing",
+        "Content Creation",
+        "Lead Generation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_169",
+      "skills": [
+        "Strategic Event Marketing",
+        "Pipeline Building",
+        "Customer Experience Management",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_170",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_171",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_172",
+      "skills": [
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Customer Service",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_173",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Communication Skills",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Manoj Purswani",
+      "position": "Manager - Product Development at ORO Precious Metals Pvt. Ltd.",
+      "employee_id": "Oro_174",
+      "skills": [
+        "Product Development",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Precious Metals Industry Knowledge"
+      ]
+    },
+    {
+      "name": "Itay Braverman",
+      "position": "VP of Product at OroCommerce",
+      "employee_id": "Oro_175",
+      "skills": [
+        "Product Management",
+        "E-commerce",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Project Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_176",
+      "skills": [
+        "Presales Solutions",
+        "Procurement",
+        "Consulting",
+        "Solution Design",
+        "Client Engagement",
+        "Technical Presentations",
+        "Requirement Analysis",
+        "Vendor Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Troy Jaeger",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_177",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Agricultural Industry Knowledge",
+        "Budgeting",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_178",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_179",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_180",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_181",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_182",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Brand Management",
+        "Digital Marketing",
+        "Lead Generation"
+      ]
+    },
+    {
+      "name": "Shravani Kamthankar",
+      "position": "Technical Support Engineer @ ORO Labs",
+      "employee_id": "Oro_183",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication Skills",
+        "Software Installation",
+        "System Configuration",
+        "Technical Documentation",
+        "Remote Support",
+        "Issue Resolution"
+      ]
+    },
+    {
+      "name": "Swaraj Gosavi",
+      "position": "Software Engineer @ ORO Labs | PICT'25 | Backend Development, Research & Development",
+      "employee_id": "Oro_184",
+      "skills": [
+        "Backend Development",
+        "Research & Development"
+      ]
+    },
+    {
+      "name": "Rogie Baix",
+      "position": "Technical Support Engineer at Oro Admin",
+      "employee_id": "Oro_185",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Network Configuration",
+        "Software Installation",
+        "System Maintenance",
+        "Technical Documentation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_186",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_187",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budget Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_188",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Financial Services",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_189",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Analysis",
+        "Microsoft Excel",
+        "SAP",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Manoj Purswani",
+      "position": "Manager - Product Development at ORO Precious Metals Pvt. Ltd.",
+      "employee_id": "Oro_190",
+      "skills": [
+        "Product Development",
+        "Team Management",
+        "Project Management",
+        "Strategic Planning",
+        "Market Research",
+        "Product Lifecycle Management",
+        "Stakeholder Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ketan Manval",
+      "position": "Sr Accountant at ORO Precious Metals DMCC",
+      "employee_id": "Oro_191",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Tax Compliance",
+        "Budgeting",
+        "Auditing",
+        "Financial Analysis",
+        "Excel",
+        "SAP",
+        "QuickBooks",
+        "Reconciliation"
+      ]
+    },
+    {
+      "name": "Riley Reynolds",
+      "position": "Crop Advisor - Simplot \"The posts I may make are my opinions alone, and do not represent Simplot”",
+      "employee_id": "Oro_192",
+      "skills": [
+        "Agronomy",
+        "Crop Management",
+        "Soil Science",
+        "Pest Control",
+        "Irrigation Systems",
+        "Plant Nutrition",
+        "Sustainable Agriculture",
+        "Field Research",
+        "Data Collection",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Pawan Jaiswal",
+      "position": "Planning Head at Oro Group",
+      "employee_id": "Oro_193",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Resource Allocation",
+        "Risk Assessment",
+        "Market Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_194",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_195",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_196",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budgeting",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_197",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Strategic Planning",
+        "Content Creation",
+        "Social Media Management"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_198",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Client Relations",
+        "Team Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Maxwell Commey",
+      "position": "general manager at oro oil ghana ltd",
+      "employee_id": "Oro_199",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Operations Management",
+        "Team Building",
+        "Project Management",
+        "Budgeting",
+        "Negotiation",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Pawan Jaiswal",
+      "position": "Planning Head at Oro Group",
+      "employee_id": "Oro_200",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Forecasting",
+        "Supply Chain Management",
+        "Vendor Management",
+        "Negotiation",
+        "Process Improvement",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_201",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Analysis",
+        "Excel",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_202",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_203",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Client Relations",
+        "Team Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Aishwerya Narayan",
+      "position": "",
+      "employee_id": "Oro_204",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_205",
+      "skills": [
+        "Human Resources",
+        "Personnel Management",
+        "Employee Relations",
+        "Recruitment",
+        "Staff Development",
+        "Conflict Resolution",
+        "Performance Management",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_206",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_207",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Manoj Purswani",
+      "position": "Manager - Product Development at ORO Precious Metals Pvt. Ltd.",
+      "employee_id": "Oro_208",
+      "skills": [
+        "Product Development",
+        "Project Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Irene Wong",
+      "position": "General Manager at Oro Consultants Pte Ltd",
+      "employee_id": "Oro_209",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Team Management",
+        "Client Relations",
+        "Negotiation",
+        "Financial Analysis",
+        "Market Research",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_210",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Taxation",
+        "Budgeting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Reconciliation",
+        "Financial Analysis",
+        "Excel",
+        "SAP",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Guillaume Rousset",
+      "position": "AVP - Operational Risk Management at BNP Paribas CIB",
+      "employee_id": "Oro_211",
+      "skills": [
+        "Operational Risk Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Regulatory Compliance",
+        "Project Management",
+        "Data Analysis",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_212",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_213",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Riley Reynolds",
+      "position": "Crop Advisor - Simplot \"The posts I may make are my opinions alone, and do not represent Simplot”",
+      "employee_id": "Oro_214",
+      "skills": [
+        "Crop Management",
+        "Agronomy",
+        "Soil Science",
+        "Plant Nutrition",
+        "Pest Control",
+        "Irrigation Systems",
+        "Farm Planning",
+        "Sustainable Agriculture",
+        "Field Research",
+        "Data Collection"
+      ]
+    },
+    {
+      "name": "S. Shawn Bell",
+      "position": "Assistant Superintendent Personnel/HR at Oro Grande School District",
+      "employee_id": "Oro_215",
+      "skills": [
+        "Personnel Management",
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Staff Development",
+        "Conflict Resolution",
+        "Performance Management",
+        "Policy Implementation",
+        "Labor Laws",
+        "Training Programs"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_216",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Training and Development",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Labor Law Compliance",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Aishwerya Narayan",
+      "position": "",
+      "employee_id": "Oro_217",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_218",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Business Development",
+        "Communication Skills",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_219",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Social Media Marketing",
+        "Advertising",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_220",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_221",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design"
+      ]
+    },
+    {
+      "name": "Wardman Ogamie",
+      "position": "Project Development Officer- IT Support and Services (PGSTD Project) at Oro Provincial Government",
+      "employee_id": "Oro_222",
+      "skills": [
+        "Project Management",
+        "IT Support",
+        "Technical Services",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Stakeholder Engagement",
+        "Project Development"
+      ]
+    },
+    {
+      "name": "Adrian Calderon-Flores",
+      "position": "Project Coordinator & Industrial Waste Administrator at Oro Loma Sanitary District",
+      "employee_id": "Oro_223",
+      "skills": [
+        "Project Coordination",
+        "Industrial Waste Management",
+        "Team Leadership",
+        "Environmental Compliance",
+        "Process Improvement",
+        "Data Analysis",
+        "Report Writing",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_224",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Business Development",
+        "Financial Services",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_225",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Budgeting",
+        "Tax Preparation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Analysis",
+        "Microsoft Excel",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Pragadeesh N",
+      "position": "Lead-Product Ops at Oro | Freelance UX Designer | Helping brands improve their user experience",
+      "employee_id": "Oro_226",
+      "skills": [
+        "Product Operations",
+        "UX Design",
+        "User Experience Improvement",
+        "Freelance Design",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_227",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "VIJEETA DAS",
+      "position": "Assistant GM Marketing @ ORO Healthcare | MBA, CRM| Product Marketing",
+      "employee_id": "Oro_228",
+      "skills": [
+        "Marketing",
+        "Product Marketing",
+        "CRM",
+        "Healthcare Marketing",
+        "Strategic Planning",
+        "Brand Management",
+        "Market Research",
+        "Digital Marketing",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pamela Rodriguez CFP®",
+      "position": "",
+      "employee_id": "Oro_229",
+      "skills": [
+        "Financial Planning",
+        "Investment Strategies",
+        "Retirement Planning",
+        "Tax Planning",
+        "Estate Planning",
+        "Risk Management",
+        "Client Relations",
+        "CFP® Certification"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_230",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_231",
+      "skills": [
+        "Event Planning",
+        "Strategic Marketing",
+        "Customer Experience Management",
+        "Pipeline Building",
+        "Global Marketing",
+        "Project Management",
+        "Brand Development",
+        "Market Research",
+        "Digital Marketing",
+        "Content Creation"
+      ]
+    },
+    {
+      "name": "Simran Jhinger",
+      "position": "Product Management Intern @ ORO Labs | Computer Science & Engineering @ UCM",
+      "employee_id": "Oro_232",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Engineering",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_233",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Analysis",
+        "Excel",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Jennifer Sadr",
+      "position": "",
+      "employee_id": "Oro_234",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Client Relations",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ketan Manval",
+      "position": "Sr Accountant at ORO Precious Metals DMCC",
+      "employee_id": "Oro_235",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Tax Compliance",
+        "Budgeting",
+        "Financial Analysis",
+        "Excel",
+        "SAP",
+        "Auditing",
+        "Cost Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Manoj Purswani",
+      "position": "Manager - Product Development at ORO Precious Metals Pvt. Ltd.",
+      "employee_id": "Oro_236",
+      "skills": [
+        "Product Development",
+        "Project Management",
+        "Team Leadership",
+        "Market Research",
+        "Strategic Planning",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Itay Braverman",
+      "position": "VP of Product at OroCommerce",
+      "employee_id": "Oro_237",
+      "skills": [
+        "Product Management",
+        "E-commerce",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Project Management",
+        "Business Development",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Kasie Stamp",
+      "position": "Senior Presales Solutions Consultant & Procurement Geek",
+      "employee_id": "Oro_238",
+      "skills": [
+        "Presales Solutions Consulting",
+        "Procurement",
+        "Client Relations",
+        "Technical Presentations",
+        "Solution Design",
+        "Product Demonstrations",
+        "Business Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ashton Arndt",
+      "position": "Assistant Administrator at Oro Valley Hospital | Community Health Systems",
+      "employee_id": "Oro_239",
+      "skills": [
+        "Healthcare Management",
+        "Administrative Support",
+        "Patient Coordination",
+        "Medical Records Management",
+        "Scheduling",
+        "Communication Skills",
+        "Team Collaboration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Maricel Defeles",
+      "position": "AVP-HR & Admin at Oro Oxygen Corporation",
+      "employee_id": "Oro_240",
+      "skills": [
+        "Human Resources Management",
+        "Administration",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Lin Kay",
+      "position": "Data Officer at Oro Provincial Administration",
+      "employee_id": "Oro_241",
+      "skills": [
+        "Data Analysis",
+        "Data Management",
+        "SQL",
+        "Excel",
+        "Report Generation",
+        "Database Administration"
+      ]
+    },
+    {
+      "name": "Snehal Kalokhe",
+      "position": "Accounts Executive @ ORO Precious Metals | Accounting and Finance",
+      "employee_id": "Oro_242",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Accounts Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Auditing",
+        "Excel",
+        "QuickBooks",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_243",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Business Development",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_244",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Allison Aronstam",
+      "position": "Sales & Marketing at Oro de Sonora",
+      "employee_id": "Oro_245",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Development",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kate Jeter",
+      "position": "Strategic Event Marketer | Building Pipeline & Customer Experiences Globally @ ORO",
+      "employee_id": "Oro_246",
+      "skills": [
+        "Event Marketing",
+        "Strategic Planning",
+        "Customer Experience Management",
+        "Pipeline Building",
+        "Global Marketing"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_247",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Maxwell Commey",
+      "position": "general manager at oro oil ghana ltd",
+      "employee_id": "Oro_248",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Operations Management",
+        "Financial Analysis",
+        "Team Building",
+        "Project Management",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_249",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Financial Services",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Siva Santhalingam",
+      "position": "",
+      "employee_id": "Oro_250",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Matthew Tillman",
+      "position": "",
+      "employee_id": "Oro_251",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Machine Learning",
+        "Business Intelligence",
+        "Statistical Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Anil Mandava",
+      "position": "",
+      "employee_id": "Oro_252",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yasin Ansari",
+      "position": "ORO Sales Head - Corporate",
+      "employee_id": "Oro_253",
+      "skills": [
+        "Sales Strategy",
+        "Corporate Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Nasim Shaikh",
+      "position": "Sales Partner At Oro Money",
+      "employee_id": "Oro_254",
+      "skills": [
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Financial Services",
+        "Negotiation",
+        "Market Analysis",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Patrick McDonald",
+      "position": "Area Manager at ORO AGRI",
+      "employee_id": "Oro_255",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Market Analysis",
+        "Negotiation"
+      ]
+    }
+  ]
+}

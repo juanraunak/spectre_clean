@@ -1,0 +1,4319 @@
+[
+  {
+    "manipal_employee": "GAURAV AGRAWAL",
+    "role": "Sales Manager",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 18/39 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 18/39 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 19/39 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 21/39 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 14/39 competitors; examples: capri, cred, etmoney",
+      "sales management": "Present in 12/39 competitors; examples: bharatpe, capri, jar",
+      "strategic planning": "Present in 20/39 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 23/39 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Amit Gupta",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Critical"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 19/42 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 16/42 competitors; examples: capri, etmoney, indiagold",
+      "problem solving": "Present in 16/42 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 20/42 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, project management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pallavi Jain",
+    "role": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "interviewing",
+      "recruitment",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "employee relations": "Nice-to-have",
+      "interviewing": "Nice-to-have",
+      "recruitment": "Critical",
+      "talent acquisition": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "employee relations": "Present in 11/38 competitors; examples: bharatpe, capri, cred",
+      "interviewing": "Present in 12/38 competitors; examples: capri, cred, groww",
+      "recruitment": "Present in 17/38 competitors; examples: bharatpe, cred, groww",
+      "talent acquisition": "Present in 21/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on recruitment, talent acquisition"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Mukesh Bhatia",
+    "role": "Manipal Fintech (The Manipal Group)",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Critical",
+      "project management": "Nice-to-have",
+      "python": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 20/41 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 13/41 competitors; examples: etmoney, indiagold, jar",
+      "problem solving": "Present in 19/41 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 15/41 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 12/41 competitors; examples: etmoney, jar, oro"
+    },
+    "overall_assessment": "Found 5 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, problem solving"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "ABHISHEK KUMAR BAJAJ",
+    "role": "Regional Head",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 13/34 competitors; examples: bharatpe, capri, groww",
+      "customer relationship management": "Present in 13/34 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 15/34 competitors; examples: bharatpe, capri, jar",
+      "negotiation": "Present in 17/34 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 12/34 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 16/34 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 21/34 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 34 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop market analysis, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 34,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sajeesh ko",
+    "role": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 18/38 competitors; examples: bharatpe, capri, etmoney",
+      "excel": "Present in 12/38 competitors; examples: cred, oro, paytm",
+      "financial analysis": "Present in 14/38 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 11/38 competitors; examples: bharatpe, capri, jar",
+      "project management": "Present in 14/38 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 17/38 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 12/38 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Yati Singal",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "problem solving": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 14/40 competitors; examples: bharatpe, cred, groww",
+      "financial modeling": "Present in 13/40 competitors; examples: bharatpe, cred, groww",
+      "problem solving": "Present in 17/40 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 14/40 competitors; examples: bharatpe, cred, groww",
+      "python": "Present in 22/40 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 14/40 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 20/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, sql",
+      "📈 STRATEGIC: Develop problem solving",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jaya Shrivastava",
+    "role": "Data Analyst | Power BI| 6+ Years of QA & Banking Experience |",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial modeling": "Important",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Important",
+      "sql": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 27/38 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 12/38 competitors; examples: bharatpe, oro, phonepe",
+      "financial modeling": "Present in 16/38 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 12/38 competitors; examples: indiagold, jar, oro",
+      "python": "Present in 26/38 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 16/38 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 18/38 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop financial modeling, risk management, sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "vinodreddy yaragudri",
+    "role": "Cluster Head Manipal Fintech Bagalkote",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "operations management": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 12/38 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 12/38 competitors; examples: cred, groww, indiagold",
+      "operations management": "Present in 15/38 competitors; examples: bharatpe, capri, groww",
+      "problem solving": "Present in 11/38 competitors; examples: bharatpe, capri, etmoney",
+      "process improvement": "Present in 11/38 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 25/38 competitors; examples: bharatpe, capri, etmoney",
+      "strategic planning": "Present in 23/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 22/38 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, strategic planning",
+      "📈 STRATEGIC: Develop team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Gaurav Srivastava",
+    "role": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "risk management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 20/41 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 18/41 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 21/41 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 22/41 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 15/41 competitors; examples: bharatpe, cred, etmoney",
+      "risk management": "Present in 12/41 competitors; examples: capri, cred, indiagold",
+      "sales management": "Present in 13/41 competitors; examples: bharatpe, jar, oro",
+      "strategic planning": "Present in 20/41 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 22/41 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Joya Roy",
+    "role": "senior executive human resources",
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "performance management",
+      "python",
+      "recruitment",
+      "risk management",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "employee relations": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "performance management": "Nice-to-have",
+      "python": "Nice-to-have",
+      "recruitment": "Critical",
+      "risk management": "Nice-to-have",
+      "talent acquisition": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 12/37 competitors; examples: bharatpe, capri, indiagold",
+      "employee relations": "Present in 14/37 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 11/37 competitors; examples: bharatpe, capri, indiagold",
+      "performance management": "Present in 13/37 competitors; examples: bharatpe, capri, cred",
+      "python": "Present in 11/37 competitors; examples: bharatpe, capri, indiagold",
+      "recruitment": "Present in 17/37 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 11/37 competitors; examples: bharatpe, capri, indiagold",
+      "talent acquisition": "Present in 18/37 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on recruitment, talent acquisition",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Mahima Singh Chauhan",
+    "role": "Product Manager || Ex Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "market research",
+      "product management",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "market research": "Nice-to-have",
+      "product management": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 25/35 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "market research": "Present in 11/35 competitors; examples: capri, cred, groww",
+      "product management": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 20/35 competitors; examples: capri, cred, groww",
+      "python": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 14/35 competitors; examples: cred, groww, indiagold",
+      "team leadership": "Present in 14/35 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 35 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop strategic planning, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 35,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "MAYYANK BHOTIKA",
+    "role": "Manipal Technologies Limited",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 14/42 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 18/42 competitors; examples: cred, groww, indiagold",
+      "financial modeling": "Present in 13/42 competitors; examples: cred, groww, jar",
+      "problem solving": "Present in 13/42 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 16/42 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 18/42 competitors; examples: capri, cred, etmoney",
+      "risk management": "Present in 13/42 competitors; examples: cred, groww, jar",
+      "sql": "Present in 13/42 competitors; examples: capri, etmoney, groww",
+      "team leadership": "Present in 13/42 competitors; examples: capri, etmoney, groww"
+    },
+    "overall_assessment": "Found 9 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Firoj khan",
+    "role": "Gold Loan manager at Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "financial analysis": "Critical",
+      "project management": "Critical",
+      "risk management": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 13/39 competitors; examples: bharatpe, cred, etmoney",
+      "financial analysis": "Present in 19/39 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 19/39 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 16/39 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 19/39 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 16/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 6 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, project management",
+      "📈 STRATEGIC: Develop risk management, strategic planning, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 17/42 competitors; examples: bharatpe, etmoney, groww",
+      "data analysis": "Present in 14/42 competitors; examples: groww, indiagold, jar",
+      "problem solving": "Present in 16/42 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 14/42 competitors; examples: etmoney, groww, indiagold",
+      "python": "Present in 13/42 competitors; examples: capri, etmoney, groww"
+    },
+    "overall_assessment": "Found 5 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, python"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Romi Rai",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Critical",
+      "project management": "Important"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 21/41 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 15/41 competitors; examples: capri, etmoney, indiagold",
+      "problem solving": "Present in 18/41 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 18/41 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, problem solving",
+      "📈 STRATEGIC: Develop project management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Niranjan Bhat",
+    "role": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "forecasting",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "data analysis": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial modeling": "Nice-to-have",
+      "financial reporting": "Nice-to-have",
+      "forecasting": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 19/36 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 17/36 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 17/36 competitors; examples: capri, cred, jar",
+      "financial analysis": "Present in 15/36 competitors; examples: bharatpe, cred, etmoney",
+      "financial modeling": "Present in 12/36 competitors; examples: bharatpe, capri, groww",
+      "financial reporting": "Present in 14/36 competitors; examples: bharatpe, capri, cred",
+      "forecasting": "Present in 12/36 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 21/36 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 17/36 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 9 priority gaps from 36 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on budgeting, risk management",
+      "📈 STRATEGIC: Develop data analysis, excel, financial analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 36,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "kalyan Sharma",
+    "role": "Software professional",
+    "missing_skills": [
+      "agile methodologies",
+      "java",
+      "javascript",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "java": "Critical",
+      "javascript": "Important",
+      "node.js": "Nice-to-have",
+      "problem solving": "Important",
+      "python": "Critical",
+      "react": "Nice-to-have",
+      "sql": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 21/39 competitors; examples: bharatpe, capri, cred",
+      "java": "Present in 23/39 competitors; examples: bharatpe, capri, cred",
+      "javascript": "Present in 16/39 competitors; examples: bharatpe, capri, cred",
+      "node.js": "Present in 14/39 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 18/39 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 31/39 competitors; examples: bharatpe, capri, cred",
+      "react": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 25/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop agile methodologies, javascript, problem solving",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Manish Dhoundiyal",
+    "role": "Sr. Trainer at Manipal Fintech",
+    "missing_skills": [
+      "conflict resolution",
+      "data analysis",
+      "employee relations",
+      "performance management",
+      "recruitment"
+    ],
+    "skill_importance": {
+      "conflict resolution": "Nice-to-have",
+      "data analysis": "Critical",
+      "employee relations": "Nice-to-have",
+      "performance management": "Critical",
+      "recruitment": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "conflict resolution": "Present in 11/38 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 12/38 competitors; examples: bharatpe, indiagold, jar",
+      "employee relations": "Present in 11/38 competitors; examples: bharatpe, capri, cred",
+      "performance management": "Present in 14/38 competitors; examples: bharatpe, capri, cred",
+      "recruitment": "Present in 11/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, performance management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vaishali Bhat",
+    "role": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+    "missing_skills": [
+      "data analysis",
+      "digital marketing",
+      "market research",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "digital marketing": "Nice-to-have",
+      "market research": "Nice-to-have",
+      "negotiation": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 11/38 competitors; examples: capri, groww, indiagold",
+      "digital marketing": "Present in 11/38 competitors; examples: bharatpe, capri, cred",
+      "market research": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 11/38 competitors; examples: bharatpe, jar, oro",
+      "project management": "Present in 19/38 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 13/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 15/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "CA Rahul Kabira",
+    "role": "Finance Manager at Manipal Fintech| EX-EY | EX-ICICI Bank",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "data analysis": "Important",
+      "excel": "Nice-to-have",
+      "financial analysis": "Important",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 13/32 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 13/32 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 12/32 competitors; examples: capri, cred, oro",
+      "financial analysis": "Present in 13/32 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 10/32 competitors; examples: capri, cred, jar",
+      "project management": "Present in 11/32 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 20/32 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 15/32 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 32 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on risk management, strategic planning",
+      "📈 STRATEGIC: Develop budgeting, data analysis, financial analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 32,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Harshit Singh Rajawat",
+    "role": "sales business officer in Gold loan Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 14/38 competitors; examples: bharatpe, capri, cred",
+      "communication skills": "Present in 13/38 competitors; examples: bharatpe, etmoney, groww",
+      "customer relationship management": "Present in 15/38 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 11/38 competitors; examples: cred, etmoney, groww",
+      "market analysis": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 18/38 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 14/38 competitors; examples: cred, etmoney, groww",
+      "strategic planning": "Present in 13/38 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 21/38 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Mukesh Das",
+    "role": "Executive Finance & accounts",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "data analysis": "Important",
+      "excel": "Important",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Important",
+      "financial reporting": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Critical",
+      "sql": "Nice-to-have",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 17/35 competitors; examples: capri, cred, jar",
+      "excel": "Present in 16/35 competitors; examples: cred, groww, oro",
+      "financial analysis": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 15/35 competitors; examples: capri, cred, jar",
+      "financial reporting": "Present in 10/35 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 10/35 competitors; examples: capri, indiagold, oro",
+      "python": "Present in 13/35 competitors; examples: capri, cred, jar",
+      "risk management": "Present in 21/35 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 11/35 competitors; examples: capri, paytm, rupeek",
+      "strategic planning": "Present in 11/35 competitors; examples: bharatpe, cred, groww"
+    },
+    "overall_assessment": "Found 11 priority gaps from 35 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management",
+      "📈 STRATEGIC: Develop data analysis, excel, financial modeling",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 35,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Atul Aggarwal",
+    "role": "Head - Legal & Compliance",
+    "missing_skills": [
+      "data analysis",
+      "python",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "python": "Critical",
+      "sql": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 18/41 competitors; examples: capri, cred, indiagold",
+      "python": "Present in 16/41 competitors; examples: capri, cred, etmoney",
+      "sql": "Present in 13/41 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 3 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ajay Kapoor",
+    "role": "General Manager",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "leadership",
+      "operations management",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "leadership": "Nice-to-have",
+      "operations management": "Important",
+      "project management": "Critical",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 12/39 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 13/39 competitors; examples: cred, indiagold, paytm",
+      "leadership": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "operations management": "Present in 16/39 competitors; examples: bharatpe, capri, indiagold",
+      "project management": "Present in 25/39 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 23/39 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 17/39 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, strategic planning",
+      "📈 STRATEGIC: Develop operations management, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Avadhesh Verma",
+    "role": "Distribution & Channel Expansion Expert | Sales Leader | Tech-Driven Merchant Acquisition Specialist | 14+ Years of Market Growth",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Important",
+      "project management": "Critical",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 13/40 competitors; examples: bharatpe, capri, groww",
+      "customer relationship management": "Present in 15/40 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 12/40 competitors; examples: capri, cred, etmoney",
+      "market analysis": "Present in 14/40 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 16/40 competitors; examples: bharatpe, capri, jar",
+      "project management": "Present in 18/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 18/40 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 22/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, team leadership",
+      "📈 STRATEGIC: Develop negotiation, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pushpendra dangi",
+    "role": "Cluster Head at Manipal Fintech-Gold Loan | 11+ Years in Banking & Finance | Gold Loan, Branch Sales & Operations Expert",
+    "missing_skills": [
+      "budgeting",
+      "business development",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "business development": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "excel": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 14/40 competitors; examples: bharatpe, capri, cred",
+      "business development": "Present in 12/40 competitors; examples: bharatpe, groww, indiagold",
+      "data analysis": "Present in 12/40 competitors; examples: cred, indiagold, jar",
+      "excel": "Present in 12/40 competitors; examples: cred, oro, paytm",
+      "financial analysis": "Present in 13/40 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 13/40 competitors; examples: capri, etmoney, indiagold",
+      "risk management": "Present in 18/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 24/40 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 18/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 9 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on risk management, strategic planning",
+      "📈 STRATEGIC: Develop team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "akshay jain",
+    "role": "Regional Head at Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 14/38 competitors; examples: bharatpe, capri, groww",
+      "communication skills": "Present in 12/38 competitors; examples: bharatpe, etmoney, groww",
+      "customer relationship management": "Present in 19/38 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 18/38 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 21/38 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 15/38 competitors; examples: capri, cred, etmoney",
+      "strategic planning": "Present in 21/38 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 20/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, strategic planning",
+      "📈 STRATEGIC: Develop customer relationship management, market analysis, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Jha",
+    "role": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+    "missing_skills": [
+      "conflict resolution",
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "performance management",
+      "python",
+      "recruitment",
+      "risk management",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "conflict resolution": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "employee relations": "Critical",
+      "financial modeling": "Nice-to-have",
+      "performance management": "Nice-to-have",
+      "python": "Critical",
+      "recruitment": "Important",
+      "risk management": "Nice-to-have",
+      "talent acquisition": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "conflict resolution": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 11/35 competitors; examples: bharatpe, capri, cred",
+      "employee relations": "Present in 14/35 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 11/35 competitors; examples: bharatpe, capri, cred",
+      "performance management": "Present in 13/35 competitors; examples: bharatpe, capri, cred",
+      "python": "Present in 11/35 competitors; examples: bharatpe, capri, cred",
+      "recruitment": "Present in 14/35 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 11/35 competitors; examples: bharatpe, capri, cred",
+      "talent acquisition": "Present in 13/35 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 9 priority gaps from 35 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on employee relations, python",
+      "📈 STRATEGIC: Develop recruitment",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 35,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rishabh Jain",
+    "role": "Cluster Head Gold loan",
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Nice-to-have",
+      "financial analysis": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Present in 11/36 competitors; examples: bharatpe, cred, etmoney",
+      "financial analysis": "Present in 17/36 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 12/36 competitors; examples: capri, etmoney, groww",
+      "risk management": "Present in 13/36 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 16/36 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 15/36 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 36 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on financial analysis, strategic planning",
+      "📈 STRATEGIC: Develop team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 36,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Atul Shukla",
+    "role": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "strategic planning": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 12/40 competitors; examples: capri, etmoney, groww",
+      "data analysis": "Present in 15/40 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 14/40 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 16/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 14/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, risk management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Anuj Arora",
+    "role": "Founding Member at Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "operations management",
+      "process improvement",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "operations management": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Important",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 24/39 competitors; examples: capri, cred, etmoney",
+      "financial modeling": "Present in 14/39 competitors; examples: capri, cred, groww",
+      "operations management": "Present in 13/39 competitors; examples: bharatpe, indiagold, jar",
+      "process improvement": "Present in 12/39 competitors; examples: bharatpe, indiagold, jar",
+      "project management": "Present in 25/39 competitors; examples: bharatpe, capri, etmoney",
+      "python": "Present in 14/39 competitors; examples: capri, cred, groww",
+      "risk management": "Present in 17/39 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 15/39 competitors; examples: bharatpe, capri, groww",
+      "team leadership": "Present in 12/39 competitors; examples: bharatpe, etmoney, indiagold"
+    },
+    "overall_assessment": "Found 9 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Sylvester Domingo",
+    "role": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 22/39 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 14/39 competitors; examples: capri, cred, groww",
+      "project management": "Present in 20/39 competitors; examples: bharatpe, capri, cred",
+      "python": "Present in 14/39 competitors; examples: capri, cred, jar",
+      "risk management": "Present in 14/39 competitors; examples: capri, cred, groww"
+    },
+    "overall_assessment": "Found 5 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop project management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Kishore Kondeti",
+    "role": "Zonal Head at SahiBandhu",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 16/38 competitors; examples: bharatpe, capri, groww",
+      "customer relationship management": "Present in 18/38 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 19/38 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 20/38 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 14/38 competitors; examples: bharatpe, cred, etmoney",
+      "strategic planning": "Present in 20/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 22/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Palash Srivastava",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "project management",
+      "python"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "project management": "Nice-to-have",
+      "python": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 15/42 competitors; examples: capri, indiagold, jar",
+      "project management": "Present in 13/42 competitors; examples: capri, indiagold, jar",
+      "python": "Present in 15/42 competitors; examples: capri, etmoney, jar"
+    },
+    "overall_assessment": "Found 3 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jyotika Satija",
+    "role": "Manipal Fintech Private Limited",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Important",
+      "project management": "Critical",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 20/41 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 13/41 competitors; examples: etmoney, groww, indiagold",
+      "problem solving": "Present in 17/41 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 18/41 competitors; examples: capri, cred, etmoney",
+      "team leadership": "Present in 14/41 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 5 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, project management",
+      "📈 STRATEGIC: Develop problem solving"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ashish CHOUDHARY",
+    "role": "",
+    "missing_skills": [
+      "data analysis",
+      "problem solving",
+      "python",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "python": "Critical",
+      "sql": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 16/42 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 15/42 competitors; examples: capri, etmoney, groww",
+      "python": "Present in 18/42 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 18/42 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, sql"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Animesh Kumar",
+    "role": "Sales & Operations Leader",
+    "missing_skills": [
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 14/39 competitors; examples: bharatpe, capri, etmoney",
+      "customer relationship management": "Present in 15/39 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 14/39 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 14/39 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 16/39 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 12/39 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 18/39 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Kshitiz Agrawal",
+    "role": "Lead Full Stack Developer | Solution Architect | Java • Spring Boot • React • System Design • Microservices",
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "java",
+      "javascript",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "data analysis": "Nice-to-have",
+      "java": "Critical",
+      "javascript": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "python": "Critical",
+      "react": "Nice-to-have",
+      "sql": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 19/39 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 13/39 competitors; examples: bharatpe, cred, jar",
+      "java": "Present in 18/39 competitors; examples: bharatpe, capri, cred",
+      "javascript": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 13/39 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 27/39 competitors; examples: bharatpe, capri, cred",
+      "react": "Present in 12/39 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 19/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop agile methodologies, sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pooja Thakran",
+    "role": "Business analyst at Sahibandhu fintech pvt ltd II BFSI Domain I IRDA Certified | NISM Certified I Ex- AXIS BANK",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Important",
+      "sql": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 19/40 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 12/40 competitors; examples: capri, cred, oro",
+      "financial modeling": "Present in 12/40 competitors; examples: capri, groww, paytm",
+      "project management": "Present in 16/40 competitors; examples: bharatpe, capri, etmoney",
+      "python": "Present in 13/40 competitors; examples: capri, cred, groww",
+      "risk management": "Present in 18/40 competitors; examples: bharatpe, capri, groww",
+      "sql": "Present in 13/40 competitors; examples: capri, cred, oro"
+    },
+    "overall_assessment": "Found 7 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop project management, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Allan Fernandes",
+    "role": "Head of Product - Fintech | Product Strategy & Growth | Agent Network Onboarding | GTM | Operational Efficiency | IIM B | Ex-PwC",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "product management",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "product management": "Nice-to-have",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 23/38 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 15/38 competitors; examples: bharatpe, capri, cred",
+      "product management": "Present in 14/38 competitors; examples: bharatpe, cred, etmoney",
+      "project management": "Present in 22/38 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 16/38 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 18/38 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 16/38 competitors; examples: capri, cred, etmoney",
+      "team leadership": "Present in 12/38 competitors; examples: cred, etmoney, groww"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop project management, risk management, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Manish Baghel",
+    "role": "Tha Manipal Group",
+    "missing_skills": [
+      "data analysis",
+      "project management",
+      "python",
+      "risk management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Important",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 17/40 competitors; examples: capri, cred, groww",
+      "project management": "Present in 18/40 competitors; examples: bharatpe, capri, cred",
+      "python": "Present in 12/40 competitors; examples: capri, cred, jar",
+      "risk management": "Present in 13/40 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 18/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, team leadership",
+      "📈 STRATEGIC: Develop data analysis"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Jaya Yadav",
+    "role": "MBA in Digital Marketing with the help of Imarticus learning.",
+    "missing_skills": [
+      "communication skills",
+      "digital marketing",
+      "market research",
+      "project management",
+      "seo",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "digital marketing": "Nice-to-have",
+      "market research": "Nice-to-have",
+      "project management": "Critical",
+      "seo": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 13/36 competitors; examples: bharatpe, capri, cred",
+      "digital marketing": "Present in 13/36 competitors; examples: bharatpe, capri, cred",
+      "market research": "Present in 13/36 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 18/36 competitors; examples: capri, cred, etmoney",
+      "seo": "Present in 11/36 competitors; examples: capri, cred, groww",
+      "strategic planning": "Present in 12/36 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 12/36 competitors; examples: capri, cred, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 36 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 36,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Karishma Rajput",
+    "role": "customer support Executive at Manipal group of solutions",
+    "missing_skills": [
+      "communication skills",
+      "customer service",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "customer service": "Important",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Critical",
+      "project management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 18/37 competitors; examples: bharatpe, capri, etmoney",
+      "customer service": "Present in 15/37 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 12/37 competitors; examples: bharatpe, etmoney, groww",
+      "problem solving": "Present in 19/37 competitors; examples: bharatpe, capri, etmoney",
+      "project management": "Present in 14/37 competitors; examples: capri, etmoney, groww"
+    },
+    "overall_assessment": "Found 5 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, problem solving",
+      "📈 STRATEGIC: Develop customer service"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rajesh Agrawal",
+    "role": "Regional Head at Manipal Fintech Private Limited",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 14/39 competitors; examples: bharatpe, capri, groww",
+      "customer relationship management": "Present in 20/39 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 17/39 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 20/39 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 14/39 competitors; examples: capri, cred, etmoney",
+      "strategic planning": "Present in 21/39 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 21/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership",
+      "📈 STRATEGIC: Develop customer relationship management, market analysis, negotiation",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ayushi Rai",
+    "role": "Fintech |Manipal Fintech| Ex- Per Annum by Lendbox",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Nice-to-have",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 21/38 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 14/38 competitors; examples: bharatpe, cred, oro",
+      "financial analysis": "Present in 11/38 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 15/38 competitors; examples: capri, cred, indiagold",
+      "project management": "Present in 11/38 competitors; examples: bharatpe, capri, indiagold",
+      "python": "Present in 13/38 competitors; examples: capri, cred, indiagold",
+      "risk management": "Present in 22/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rajnish Sah",
+    "role": "Strategic Sales & Business Development Leader | Team Performance Expert | Business Growth Specialist | All financial product",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "customer relationship management": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "market analysis": "Nice-to-have",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 13/41 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 14/41 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 12/41 competitors; examples: cred, etmoney, indiagold",
+      "market analysis": "Present in 14/41 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 16/41 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 15/41 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 13/41 competitors; examples: cred, groww, indiagold",
+      "strategic planning": "Present in 15/41 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 20/41 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Vivekanand Jha",
+    "role": "Lead DBA at Manipal Fintech Pvt. Ltd.",
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "financial modeling",
+      "machine learning",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "machine learning": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "risk management": "Nice-to-have",
+      "sql": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 11/37 competitors; examples: capri, etmoney, groww",
+      "data analysis": "Present in 21/37 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 11/37 competitors; examples: bharatpe, capri, cred",
+      "machine learning": "Present in 11/37 competitors; examples: bharatpe, cred, paytm",
+      "problem solving": "Present in 11/37 competitors; examples: capri, cred, groww",
+      "project management": "Present in 11/37 competitors; examples: capri, cred, jar",
+      "python": "Present in 28/37 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 11/37 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 21/37 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "📈 STRATEGIC: Develop sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pramod Naidu",
+    "role": "Regional Head Sales Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 16/35 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 16/35 competitors; examples: bharatpe, capri, groww",
+      "market analysis": "Present in 18/35 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 20/35 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 10/35 competitors; examples: bharatpe, capri, cred",
+      "sales management": "Present in 10/35 competitors; examples: bharatpe, jar, oro",
+      "strategic planning": "Present in 19/35 competitors; examples: bharatpe, capri, groww",
+      "team leadership": "Present in 20/35 competitors; examples: bharatpe, capri, groww"
+    },
+    "overall_assessment": "Found 8 priority gaps from 35 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 35,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ankur Mathur",
+    "role": "HR Leader | Strategy, Partnering & People Management | Stakeholder Management | IIM Lucknow",
+    "missing_skills": [
+      "conflict resolution",
+      "employee relations",
+      "performance management",
+      "recruitment",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "conflict resolution": "Nice-to-have",
+      "employee relations": "Critical",
+      "performance management": "Critical",
+      "recruitment": "Nice-to-have",
+      "talent acquisition": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "conflict resolution": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "employee relations": "Present in 17/38 competitors; examples: bharatpe, capri, cred",
+      "performance management": "Present in 16/38 competitors; examples: bharatpe, capri, cred",
+      "recruitment": "Present in 15/38 competitors; examples: bharatpe, capri, cred",
+      "talent acquisition": "Present in 15/38 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 5 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on employee relations, performance management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Amarjeet singh",
+    "role": "Regional Head at Sahibandhu",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 16/40 competitors; examples: bharatpe, capri, groww",
+      "customer relationship management": "Present in 18/40 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 19/40 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 18/40 competitors; examples: bharatpe, capri, jar",
+      "project management": "Present in 15/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 22/40 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 21/40 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "niloy dutta",
+    "role": "Business Development Representative at SahiBandhu",
+    "missing_skills": [
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "market research",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Important",
+      "market analysis": "Nice-to-have",
+      "market research": "Nice-to-have",
+      "negotiation": "Critical",
+      "project management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 13/40 competitors; examples: capri, etmoney, groww",
+      "customer relationship management": "Present in 17/40 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 12/40 competitors; examples: bharatpe, capri, cred",
+      "market research": "Present in 15/40 competitors; examples: bharatpe, capri, etmoney",
+      "negotiation": "Present in 18/40 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 15/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 16/40 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 18/40 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop customer relationship management, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rushikesh Tate",
+    "role": "sahi bandhu gold loan (The manipal group)",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "risk management": "Critical",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 17/39 competitors; examples: bharatpe, capri, cred",
+      "excel": "Present in 14/39 competitors; examples: cred, groww, oro",
+      "financial analysis": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 13/39 competitors; examples: bharatpe, capri, etmoney",
+      "risk management": "Present in 17/39 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 13/39 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 6 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, risk management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Amrit ViRk",
+    "role": "Assistant Manager Central Operations",
+    "missing_skills": [
+      "communication skills",
+      "customer service",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Important",
+      "customer service": "Nice-to-have",
+      "data analysis": "Important",
+      "operations management": "Nice-to-have",
+      "problem solving": "Important",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 17/39 competitors; examples: bharatpe, capri, etmoney",
+      "customer service": "Present in 14/39 competitors; examples: bharatpe, capri, groww",
+      "data analysis": "Present in 17/39 competitors; examples: bharatpe, etmoney, groww",
+      "operations management": "Present in 14/39 competitors; examples: bharatpe, capri, groww",
+      "problem solving": "Present in 16/39 competitors; examples: bharatpe, capri, etmoney",
+      "process improvement": "Present in 15/39 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 22/39 competitors; examples: bharatpe, capri, etmoney",
+      "strategic planning": "Present in 14/39 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 21/39 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on project management, team leadership",
+      "📈 STRATEGIC: Develop communication skills, data analysis, problem solving",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Akkama S.",
+    "role": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+    "missing_skills": [
+      "compensation and benefits",
+      "conflict resolution",
+      "employee relations",
+      "hr policies",
+      "organizational development",
+      "performance management",
+      "recruitment",
+      "strategic planning",
+      "talent acquisition",
+      "training and development"
+    ],
+    "skill_importance": {
+      "compensation and benefits": "Nice-to-have",
+      "conflict resolution": "Important",
+      "employee relations": "Critical",
+      "hr policies": "Nice-to-have",
+      "organizational development": "Nice-to-have",
+      "performance management": "Important",
+      "recruitment": "Important",
+      "strategic planning": "Nice-to-have",
+      "talent acquisition": "Critical",
+      "training and development": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "compensation and benefits": "Present in 10/33 competitors; examples: bharatpe, capri, cred",
+      "conflict resolution": "Present in 15/33 competitors; examples: bharatpe, capri, cred",
+      "employee relations": "Present in 18/33 competitors; examples: bharatpe, capri, cred",
+      "hr policies": "Present in 12/33 competitors; examples: bharatpe, capri, cred",
+      "organizational development": "Present in 10/33 competitors; examples: bharatpe, capri, groww",
+      "performance management": "Present in 17/33 competitors; examples: bharatpe, capri, cred",
+      "recruitment": "Present in 16/33 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 10/33 competitors; examples: capri, etmoney, groww",
+      "talent acquisition": "Present in 19/33 competitors; examples: bharatpe, capri, cred",
+      "training and development": "Present in 13/33 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 10 priority gaps from 33 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on employee relations, talent acquisition",
+      "📈 STRATEGIC: Develop conflict resolution, performance management, recruitment",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 33,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Shivam Gupta",
+    "role": "Business Strategy | CEO's Office | Manipal Fintech",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "problem solving": "Nice-to-have",
+      "project management": "Critical",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 14/40 competitors; examples: capri, cred, etmoney",
+      "data analysis": "Present in 18/40 competitors; examples: bharatpe, cred, etmoney",
+      "problem solving": "Present in 14/40 competitors; examples: bharatpe, capri, etmoney",
+      "project management": "Present in 25/40 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 12/40 competitors; examples: bharatpe, cred, jar",
+      "strategic planning": "Present in 17/40 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 13/40 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Kapil Yadav",
+    "role": "HR Executive/Business analyst/Tableau/ Power BI/ MS Excel/IBM",
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "python",
+      "recruitment",
+      "risk management",
+      "sql",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "employee relations": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "python": "Critical",
+      "recruitment": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "sql": "Nice-to-have",
+      "talent acquisition": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 17/38 competitors; examples: bharatpe, capri, cred",
+      "employee relations": "Present in 12/38 competitors; examples: capri, cred, groww",
+      "financial modeling": "Present in 12/38 competitors; examples: bharatpe, capri, indiagold",
+      "python": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "recruitment": "Present in 11/38 competitors; examples: capri, cred, groww",
+      "risk management": "Present in 13/38 competitors; examples: bharatpe, capri, indiagold",
+      "sql": "Present in 12/38 competitors; examples: bharatpe, cred, indiagold",
+      "talent acquisition": "Present in 15/38 competitors; examples: capri, cred, groww"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, python",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Ravi Jadhav",
+    "role": "Manipal Fintech | Regional Head",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Critical",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 16/35 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 17/35 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 18/35 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 18/35 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 11/35 competitors; examples: capri, cred, etmoney",
+      "sales management": "Present in 10/35 competitors; examples: bharatpe, jar, oro",
+      "strategic planning": "Present in 17/35 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 19/35 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 35 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on market analysis, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, negotiation",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 35,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Priyal Jadon",
+    "role": "Manipal Fintech || SDE || Flutter Developer || Android Developer",
+    "missing_skills": [
+      "agile methodologies",
+      "aws",
+      "data analysis",
+      "docker",
+      "java",
+      "javascript",
+      "kubernetes",
+      "microservices",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "aws": "Nice-to-have",
+      "data analysis": "Nice-to-have",
+      "docker": "Nice-to-have",
+      "java": "Critical",
+      "javascript": "Important",
+      "kubernetes": "Nice-to-have",
+      "microservices": "Nice-to-have",
+      "node.js": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "python": "Critical",
+      "react": "Nice-to-have",
+      "sql": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 23/39 competitors; examples: bharatpe, capri, cred",
+      "aws": "Present in 13/39 competitors; examples: bharatpe, cred, etmoney",
+      "data analysis": "Present in 14/39 competitors; examples: bharatpe, cred, groww",
+      "docker": "Present in 13/39 competitors; examples: bharatpe, cred, etmoney",
+      "java": "Present in 23/39 competitors; examples: bharatpe, capri, cred",
+      "javascript": "Present in 18/39 competitors; examples: bharatpe, capri, cred",
+      "kubernetes": "Present in 12/39 competitors; examples: bharatpe, cred, etmoney",
+      "microservices": "Present in 12/39 competitors; examples: bharatpe, cred, etmoney",
+      "node.js": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 12/39 competitors; examples: capri, etmoney, groww",
+      "python": "Present in 34/39 competitors; examples: bharatpe, capri, cred",
+      "react": "Present in 13/39 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 26/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 13 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop agile methodologies, javascript, sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Pinaki Dasgupta 🇮🇳",
+    "role": "Area Head @ Manipal Fintech | Bachelor of Arts",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 16/38 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 16/38 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 19/38 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 18/38 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "sales management": "Present in 14/38 competitors; examples: bharatpe, capri, jar",
+      "strategic planning": "Present in 20/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 22/38 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Himanshu .",
+    "role": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "market research",
+      "product management",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "market research": "Nice-to-have",
+      "product management": "Nice-to-have",
+      "project management": "Critical",
+      "risk management": "Nice-to-have",
+      "strategic planning": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 24/39 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 12/39 competitors; examples: bharatpe, cred, groww",
+      "market research": "Present in 12/39 competitors; examples: capri, cred, groww",
+      "product management": "Present in 15/39 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 22/39 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 14/39 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 17/39 competitors; examples: bharatpe, capri, cred",
+      "team leadership": "Present in 18/39 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 8 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop strategic planning, team leadership",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rahul Virmani",
+    "role": "National Sales Head - Financial Services at Nearby Technologies Private Limited",
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "project management": "Nice-to-have",
+      "sales management": "Nice-to-have",
+      "strategic planning": "Critical",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 18/38 competitors; examples: bharatpe, capri, cred",
+      "customer relationship management": "Present in 16/38 competitors; examples: bharatpe, capri, indiagold",
+      "market analysis": "Present in 21/38 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 19/38 competitors; examples: bharatpe, capri, cred",
+      "project management": "Present in 13/38 competitors; examples: bharatpe, capri, cred",
+      "sales management": "Present in 12/38 competitors; examples: bharatpe, jar, oro",
+      "strategic planning": "Present in 23/38 competitors; examples: bharatpe, capri, groww",
+      "team leadership": "Present in 22/38 competitors; examples: bharatpe, capri, groww"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on strategic planning, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Megha shree",
+    "role": "AVP OPERATIONS at Pranil Property Point Pvt. Ltd.",
+    "missing_skills": [
+      "customer service",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "customer service": "Nice-to-have",
+      "data analysis": "Critical",
+      "operations management": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "customer service": "Present in 11/38 competitors; examples: bharatpe, capri, groww",
+      "data analysis": "Present in 15/38 competitors; examples: cred, groww, indiagold",
+      "operations management": "Present in 15/38 competitors; examples: bharatpe, capri, groww",
+      "problem solving": "Present in 13/38 competitors; examples: bharatpe, capri, etmoney",
+      "process improvement": "Present in 14/38 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 19/38 competitors; examples: bharatpe, capri, etmoney",
+      "strategic planning": "Present in 15/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 15/38 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Rozi Bisht",
+    "role": "Manipal Fintech",
+    "missing_skills": [
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python",
+      "sql"
+    ],
+    "skill_importance": {
+      "data analysis": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "python": "Critical",
+      "sql": "Critical"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 14/42 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 16/42 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 13/42 competitors; examples: bharatpe, cred, groww",
+      "python": "Present in 21/42 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 20/42 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 5 priority gaps from 42 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, sql"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 42,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "RAMKUMAR SUBRAMONIAN",
+    "role": "Senior Banking Professional / IIM Calcutta / CBO/ Growth Leader",
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "data analysis": "Important",
+      "excel": "Nice-to-have",
+      "financial analysis": "Nice-to-have",
+      "financial modeling": "Important",
+      "project management": "Important",
+      "python": "Critical",
+      "risk management": "Critical",
+      "strategic planning": "Important"
+    },
+    "gap_reasoning": {
+      "data analysis": "Present in 19/40 competitors; examples: capri, cred, indiagold",
+      "excel": "Present in 13/40 competitors; examples: capri, cred, groww",
+      "financial analysis": "Present in 12/40 competitors; examples: bharatpe, cred, etmoney",
+      "financial modeling": "Present in 16/40 competitors; examples: capri, cred, indiagold",
+      "project management": "Present in 16/40 competitors; examples: bharatpe, capri, etmoney",
+      "python": "Present in 15/40 competitors; examples: capri, cred, indiagold",
+      "risk management": "Present in 21/40 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 16/40 competitors; examples: bharatpe, cred, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on python, risk management",
+      "📈 STRATEGIC: Develop data analysis, financial modeling, project management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Akshita Tyagi",
+    "role": "Software Developer at SahiBandhu Fintech Services Pvt Ltd",
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "java",
+      "javascript",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql",
+      "team collaboration"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "data analysis": "Nice-to-have",
+      "java": "Critical",
+      "javascript": "Nice-to-have",
+      "node.js": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "python": "Critical",
+      "react": "Nice-to-have",
+      "sql": "Important",
+      "team collaboration": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Present in 16/37 competitors; examples: bharatpe, capri, cred",
+      "data analysis": "Present in 11/37 competitors; examples: capri, cred, groww",
+      "java": "Present in 20/37 competitors; examples: bharatpe, capri, cred",
+      "javascript": "Present in 12/37 competitors; examples: bharatpe, capri, cred",
+      "node.js": "Present in 13/37 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 13/37 competitors; examples: bharatpe, capri, cred",
+      "python": "Present in 30/37 competitors; examples: bharatpe, capri, cred",
+      "react": "Present in 12/37 competitors; examples: bharatpe, capri, cred",
+      "sql": "Present in 21/37 competitors; examples: bharatpe, capri, cred",
+      "team collaboration": "Present in 11/37 competitors; examples: capri, cred, groww"
+    },
+    "overall_assessment": "Found 10 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on java, python",
+      "📈 STRATEGIC: Develop agile methodologies, sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Salman Ahmed",
+    "role": "Assistant Manager @ Manipal Fintech | Strategic Thinking, Team Building | Driving Sales | Project Management | PMP Basics | Customer Service Specialist | Insurance Expert | B2B & B2C | Direct Sales |",
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Nice-to-have",
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Critical",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 14/38 competitors; examples: capri, cred, groww",
+      "communication skills": "Present in 13/38 competitors; examples: bharatpe, etmoney, groww",
+      "customer relationship management": "Present in 21/38 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 16/38 competitors; examples: capri, cred, indiagold",
+      "negotiation": "Present in 20/38 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 17/38 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 22/38 competitors; examples: capri, etmoney, groww"
+    },
+    "overall_assessment": "Found 7 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on customer relationship management, team leadership",
+      "📈 STRATEGIC: Develop market analysis, negotiation, strategic planning",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Navanit Yadav",
+    "role": "Zonal Head 10 years of experience in Gold loan industries",
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Critical",
+      "market analysis": "Important",
+      "negotiation": "Important",
+      "strategic planning": "Critical",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 15/37 competitors; examples: bharatpe, capri, groww",
+      "communication skills": "Present in 11/37 competitors; examples: bharatpe, etmoney, groww",
+      "customer relationship management": "Present in 19/37 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 17/37 competitors; examples: bharatpe, capri, indiagold",
+      "negotiation": "Present in 18/37 competitors; examples: bharatpe, capri, groww",
+      "strategic planning": "Present in 20/37 competitors; examples: bharatpe, capri, etmoney",
+      "team leadership": "Present in 19/37 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 7 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on customer relationship management, strategic planning",
+      "📈 STRATEGIC: Develop business development, market analysis, negotiation",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Hari Prasad",
+    "role": "Administration & Facilities Management | Driving Operational Excellence at EqualizeRCM",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "financial modeling",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "python",
+      "risk management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "financial modeling": "Nice-to-have",
+      "operations management": "Nice-to-have",
+      "problem solving": "Important",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 12/40 competitors; examples: bharatpe, capri, etmoney",
+      "data analysis": "Present in 25/40 competitors; examples: bharatpe, capri, cred",
+      "financial modeling": "Present in 13/40 competitors; examples: capri, cred, etmoney",
+      "operations management": "Present in 14/40 competitors; examples: bharatpe, capri, groww",
+      "problem solving": "Present in 16/40 competitors; examples: bharatpe, capri, etmoney",
+      "process improvement": "Present in 15/40 competitors; examples: capri, cred, groww",
+      "project management": "Present in 22/40 competitors; examples: bharatpe, capri, etmoney",
+      "python": "Present in 12/40 competitors; examples: capri, cred, etmoney",
+      "risk management": "Present in 14/40 competitors; examples: capri, cred, etmoney",
+      "team leadership": "Present in 14/40 competitors; examples: bharatpe, capri, cred"
+    },
+    "overall_assessment": "Found 10 priority gaps from 40 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop problem solving",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 40,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Alokit Nath Mishra",
+    "role": "Assistant Manager MIS",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "excel": "Nice-to-have",
+      "financial modeling": "Nice-to-have",
+      "problem solving": "Nice-to-have",
+      "project management": "Critical",
+      "python": "Nice-to-have",
+      "risk management": "Nice-to-have",
+      "sql": "Important",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 13/38 competitors; examples: etmoney, groww, indiagold",
+      "data analysis": "Present in 26/38 competitors; examples: bharatpe, cred, etmoney",
+      "excel": "Present in 15/38 competitors; examples: bharatpe, cred, groww",
+      "financial modeling": "Present in 12/38 competitors; examples: cred, groww, phonepe",
+      "problem solving": "Present in 13/38 competitors; examples: etmoney, groww, indiagold",
+      "project management": "Present in 28/38 competitors; examples: capri, cred, etmoney",
+      "python": "Present in 12/38 competitors; examples: bharatpe, cred, groww",
+      "risk management": "Present in 13/38 competitors; examples: cred, groww, phonepe",
+      "sql": "Present in 16/38 competitors; examples: bharatpe, cred, groww",
+      "strategic planning": "Present in 11/38 competitors; examples: capri, etmoney, groww",
+      "team leadership": "Present in 12/38 competitors; examples: capri, etmoney, groww"
+    },
+    "overall_assessment": "Found 11 priority gaps from 38 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop sql",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 38,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Kavita Mitra",
+    "role": "Manipal Business Solutions",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "skill_importance": {
+      "communication skills": "Critical",
+      "data analysis": "Nice-to-have",
+      "problem solving": "Critical",
+      "project management": "Important"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 20/41 competitors; examples: capri, etmoney, groww",
+      "data analysis": "Present in 16/41 competitors; examples: bharatpe, capri, etmoney",
+      "problem solving": "Present in 18/41 competitors; examples: capri, etmoney, groww",
+      "project management": "Present in 18/41 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 4 priority gaps from 41 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on communication skills, problem solving",
+      "📈 STRATEGIC: Develop project management"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 41,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Tarun Singh",
+    "role": "senior sales officer at Reliance Retail",
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "problem solving",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "communication skills": "Nice-to-have",
+      "customer relationship management": "Important",
+      "market analysis": "Important",
+      "negotiation": "Critical",
+      "problem solving": "Nice-to-have",
+      "project management": "Nice-to-have",
+      "strategic planning": "Nice-to-have",
+      "team leadership": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Present in 17/37 competitors; examples: bharatpe, capri, cred",
+      "communication skills": "Present in 13/37 competitors; examples: bharatpe, capri, etmoney",
+      "customer relationship management": "Present in 19/37 competitors; examples: bharatpe, capri, etmoney",
+      "market analysis": "Present in 20/37 competitors; examples: bharatpe, capri, cred",
+      "negotiation": "Present in 21/37 competitors; examples: bharatpe, capri, cred",
+      "problem solving": "Present in 13/37 competitors; examples: bharatpe, capri, etmoney",
+      "project management": "Present in 13/37 competitors; examples: bharatpe, capri, cred",
+      "strategic planning": "Present in 14/37 competitors; examples: bharatpe, etmoney, groww",
+      "team leadership": "Present in 24/37 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 9 priority gaps from 37 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on negotiation, team leadership",
+      "📈 STRATEGIC: Develop business development, customer relationship management, market analysis",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 37,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  },
+  {
+    "manipal_employee": "Prasanna Kumari",
+    "role": "Manipal Technologies Limited",
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "communication skills": "Nice-to-have",
+      "data analysis": "Critical",
+      "operations management": "Important",
+      "problem solving": "Nice-to-have",
+      "process improvement": "Nice-to-have",
+      "project management": "Critical",
+      "risk management": "Nice-to-have",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "communication skills": "Present in 14/39 competitors; examples: capri, etmoney, groww",
+      "data analysis": "Present in 23/39 competitors; examples: bharatpe, capri, cred",
+      "operations management": "Present in 16/39 competitors; examples: bharatpe, capri, groww",
+      "problem solving": "Present in 12/39 competitors; examples: bharatpe, capri, etmoney",
+      "process improvement": "Present in 15/39 competitors; examples: bharatpe, capri, groww",
+      "project management": "Present in 26/39 competitors; examples: bharatpe, capri, cred",
+      "risk management": "Present in 12/39 competitors; examples: cred, groww, paytm",
+      "team leadership": "Present in 15/39 competitors; examples: bharatpe, capri, etmoney"
+    },
+    "overall_assessment": "Found 8 priority gaps from 39 matched competitors",
+    "recommendations": [
+      "🚨 PRIORITY: Focus on data analysis, project management",
+      "📈 STRATEGIC: Develop operations management",
+      "🎯 FOCUS: Prioritize top 3–5 skills for best ROI"
+    ],
+    "competitor_companies": [
+      "bharatpe",
+      "capri",
+      "cred",
+      "etmoney",
+      "groww",
+      "indiagold",
+      "jar",
+      "oro",
+      "paytm",
+      "phonepe",
+      "policybazaar",
+      "rupeek",
+      "safegold",
+      "zerodha"
+    ],
+    "competitor_count": 39,
+    "evidence_flags": {
+      "used_llm": false,
+      "confidence_score": 0.95,
+      "top2_covered": 2
+    }
+  }
+]

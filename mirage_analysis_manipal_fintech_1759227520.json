@@ -1,0 +1,42 @@
+{
+  "mirage_metadata": {
+    "analysis_timestamp": "2025-09-30T10:18:40.771353",
+    "target_company": "Manipal Fintech",
+    "execution_time_seconds": 3429.48,
+    "version": "3.0-Optimized-Top3"
+  },
+  "results_summary": {
+    "competitors_detected": 15,
+    "target_profiles_built": 86,
+    "total_candidates_found": 1110,
+    "companies_with_matches": 15,
+    "targets_with_kept_matches": 86,
+    "total_matches_kept": 3551,
+    "note": "Limited to top 3 matches per target employee"
+  },
+  "token_usage": {
+    "gpt": {
+      "total_calls": 4495,
+      "input_tokens": 4486215,
+      "output_tokens": 862015,
+      "total_tokens": 5348230,
+      "cost_usd": 19.84,
+      "breakdown": {
+        "input_cost": 11.22,
+        "output_cost": 8.62
+      }
+    },
+    "google": {
+      "total_queries": 288,
+      "total_results": 5250,
+      "cost_usd": 1.44
+    },
+    "total_cost_usd": 21.28
+  },
+  "estimated_cost_usd": 21.28,
+  "output_files": {
+    "spectre_matches": "spectre_matches.json",
+    "employee_reports_dir": "employee_data",
+    "matched_details_dir": "matched_data"
+  }
+}

@@ -1,0 +1,3594 @@
+{
+  "company_name": "Cred",
+  "employees": [
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_001",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Onboarding",
+        "HR Strategy",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Irene Titus",
+      "position": "Talent & Culture @ CRED",
+      "employee_id": "Cre_002",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "HR Strategy",
+        "Performance Management",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Training and Development",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Arun Jathin",
+      "position": "Talent and Culture @ CRED",
+      "employee_id": "Cre_003",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "HR Strategy",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Radha Soni",
+      "position": "HR Manager at CRED.",
+      "employee_id": "Cre_004",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Recruitment",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_005",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "HR Strategy",
+        "Employer Branding",
+        "Staffing",
+        "Networking",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_006",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Organizational Development",
+        "HR Strategy",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_007",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "Performance Management",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_008",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "Talent Management",
+        "HR Strategy",
+        "Employer Branding",
+        "Networking",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Chaitra Shashikumar",
+      "position": "",
+      "employee_id": "Cre_009",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_010",
+      "skills": [
+        "Growth Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Business Development",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Acquisition",
+        "Digital Marketing",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_011",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Teresa Lui",
+      "position": "Office Manager at Cred Communications Ltd, delivering 1st class consumer products PR services",
+      "employee_id": "Cre_012",
+      "skills": [
+        "Office Management",
+        "Public Relations",
+        "Consumer Products",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Client Relations",
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "Devangi Katiyar",
+      "position": "",
+      "employee_id": "Cre_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_014",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "Training and Development",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Irene Titus",
+      "position": "Talent & Culture @ CRED",
+      "employee_id": "Cre_015",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "HR Strategy",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "Organizational Development",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Kavya Ravindra",
+      "position": "Senior Software Engineer @ CRED",
+      "employee_id": "Cre_016",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Athul L.S",
+      "position": "Sr Software Engineer at cred.ai",
+      "employee_id": "Cre_017",
+      "skills": [
+        "Python",
+        "Software Engineering",
+        "Data Analysis",
+        "Financial Technology",
+        "Risk Management",
+        "Machine Learning",
+        "API Development",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Nicholas Cornish",
+      "position": "",
+      "employee_id": "Cre_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": ".Pavan Yadav",
+      "position": "",
+      "employee_id": "Cre_019",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Athul L.S",
+      "position": "Sr Software Engineer at cred.ai",
+      "employee_id": "Cre_020",
+      "skills": [
+        "Python",
+        "Software Engineering",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kavya Ravindra",
+      "position": "Senior Software Engineer @ CRED",
+      "employee_id": "Cre_021",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Shashank Gupta",
+      "position": "Software Engineer | CRED I NSIT",
+      "employee_id": "Cre_022",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Aarti Rajly",
+      "position": "Backend Support Engineer @ CRED",
+      "employee_id": "Cre_023",
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "API Development",
+        "Troubleshooting",
+        "Customer Support",
+        "Technical Documentation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Shantanu Srivastava",
+      "position": "",
+      "employee_id": "Cre_024",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Raman Vashisht",
+      "position": "Matched Employee",
+      "employee_id": "Cre_025",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Jayakrishnan Nair",
+      "position": "",
+      "employee_id": "Cre_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Priyanshee Singh",
+      "position": "Data Analyst | Analytics @ CRED| SQL,Python,PowerBI ,Stats |Converting Raw Data into Strategic Actions",
+      "employee_id": "Cre_027",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Statistics",
+        "Data Analysis",
+        "Strategic Actions"
+      ]
+    },
+    {
+      "name": "Aarti Rajly",
+      "position": "Backend Support Engineer @ CRED",
+      "employee_id": "Cre_028",
+      "skills": [
+        "Python",
+        "SQL",
+        "Linux",
+        "Troubleshooting",
+        "Customer Support",
+        "API Integration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Nicholas Cornish",
+      "position": "",
+      "employee_id": "Cre_029",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ajin Sanu",
+      "position": "SDE at CRED",
+      "employee_id": "Cre_030",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Git"
+      ]
+    },
+    {
+      "name": "Ayush P.",
+      "position": "",
+      "employee_id": "Cre_031",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yadhu Krishna M",
+      "position": "Security Engineer @ CRED | BlackHat, Nullcon 2025 | Team bi0s",
+      "employee_id": "Cre_032",
+      "skills": [
+        "Security Engineering",
+        "Cybersecurity",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Network Security",
+        "Threat Intelligence",
+        "Security Operations",
+        "Ethical Hacking",
+        "Security Research"
+      ]
+    },
+    {
+      "name": "Raman Vashisht",
+      "position": "Matched Employee",
+      "employee_id": "Cre_033",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Excel",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Kavya Ravindra",
+      "position": "Senior Software Engineer @ CRED",
+      "employee_id": "Cre_034",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Shashank Gupta",
+      "position": "Software Engineer | CRED I NSIT",
+      "employee_id": "Cre_035",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Aarti Rajly",
+      "position": "Backend Support Engineer @ CRED",
+      "employee_id": "Cre_036",
+      "skills": [
+        "Python",
+        "SQL",
+        "Linux",
+        "Customer Support",
+        "Troubleshooting",
+        "API Integration",
+        "Technical Documentation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ayush P.",
+      "position": "",
+      "employee_id": "Cre_037",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yadhu Krishna M",
+      "position": "Security Engineer @ CRED | BlackHat, Nullcon 2025 | Team bi0s",
+      "employee_id": "Cre_038",
+      "skills": [
+        "Security Engineering",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Network Security",
+        "Cybersecurity",
+        "Threat Analysis",
+        "Security Auditing"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_039",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "Analytics",
+        "Project Management",
+        "Communication",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rithik Rajesh",
+      "position": "SDE @ cred.ai",
+      "employee_id": "Cre_040",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Microservices",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Ajin Sanu",
+      "position": "SDE at CRED",
+      "employee_id": "Cre_041",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Development",
+        "Test-Driven Development",
+        "Continuous Integration",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Nicholas Cornish",
+      "position": "",
+      "employee_id": "Cre_042",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shashank Gupta",
+      "position": "Software Engineer | CRED I NSIT",
+      "employee_id": "Cre_043",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Aarti Rajly",
+      "position": "Backend Support Engineer @ CRED",
+      "employee_id": "Cre_044",
+      "skills": [
+        "Python",
+        "SQL",
+        "Linux",
+        "Customer Support",
+        "Troubleshooting",
+        "API Integration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Shantanu Srivastava",
+      "position": "",
+      "employee_id": "Cre_045",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ayush P.",
+      "position": "",
+      "employee_id": "Cre_046",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yadhu Krishna M",
+      "position": "Security Engineer @ CRED | BlackHat, Nullcon 2025 | Team bi0s",
+      "employee_id": "Cre_047",
+      "skills": [
+        "Security Engineering",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Network Security",
+        "Cybersecurity",
+        "Threat Analysis",
+        "Security Auditing",
+        "Security Tools",
+        "Malware Analysis"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_048",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_049",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Risk Assessment",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_050",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Business Intelligence",
+        "Statistical Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_051",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_052",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Financial Reporting",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_053",
+      "skills": [
+        "Finance",
+        "Chartered Accountant",
+        "Accounting",
+        "Financial Analysis",
+        "Taxation",
+        "Auditing",
+        "Budgeting",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_054",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Emily Perretti",
+      "position": "",
+      "employee_id": "Cre_055",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Excel",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_056",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Project Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sarah Eckersley",
+      "position": "",
+      "employee_id": "Cre_057",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_058",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Excel",
+        "Accounting",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Emily Perretti",
+      "position": "",
+      "employee_id": "Cre_059",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_060",
+      "skills": [
+        "Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Accounting",
+        "Taxation",
+        "Auditing",
+        "Budgeting",
+        "Financial Reporting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_061",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "Buy Now Pay Later (BNPL)",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Revathi Podila",
+      "position": "Deputy Manager – Customer Lifecycle | Fintech | Voice & Non-Voice Operations | Customer Experience | CRED",
+      "employee_id": "Cre_062",
+      "skills": [
+        "Customer Lifecycle Management",
+        "Voice Operations",
+        "Non-Voice Operations",
+        "Customer Experience",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Gayathri Manjunath",
+      "position": "As a seasoned HR Administrative Specialist, I deliver expert support in HR operations, talent acquisition, and employee relations, driving seamless execution and a positive work environment.",
+      "employee_id": "Cre_063",
+      "skills": [
+        "HR operations",
+        "talent acquisition",
+        "employee relations",
+        "administrative support"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_064",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Pratik Upacharya",
+      "position": "",
+      "employee_id": "Cre_065",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mavleen Dhir",
+      "position": "Co-Founder at CRED Financial Services, Founder of Singhs Foundation; an Entrepreneur and Philanthropist",
+      "employee_id": "Cre_066",
+      "skills": [
+        "Entrepreneurship",
+        "Philanthropy",
+        "Financial Services",
+        "Leadership",
+        "Business Development",
+        "Strategic Planning",
+        "Nonprofit Management",
+        "Fundraising"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_067",
+      "skills": [
+        "Growth Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Business Development",
+        "Digital Marketing",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Acquisition",
+        "Revenue Growth",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_068",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "Social Media Strategy",
+        "Content Creation",
+        "SEO",
+        "Analytics",
+        "Project Management",
+        "Communication",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_069",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Kumar",
+      "position": "",
+      "employee_id": "Cre_070",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Srinivas Iyengar",
+      "position": "",
+      "employee_id": "Cre_071",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chaitanya Shah",
+      "position": "",
+      "employee_id": "Cre_072",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": ".Pavan Yadav",
+      "position": "",
+      "employee_id": "Cre_073",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anagha Joshi",
+      "position": "",
+      "employee_id": "Cre_074",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rajeev Bharshetty",
+      "position": "",
+      "employee_id": "Cre_075",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Harsh Rusiya",
+      "position": "Data Scientist @ CRED | MTech Computational and Data Science at IISc Bangalore",
+      "employee_id": "Cre_076",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Big Data",
+        "Deep Learning",
+        "Natural Language Processing",
+        "SQL",
+        "R",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "name": "Atish Munje",
+      "position": "Data Science at CRED",
+      "employee_id": "Cre_077",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "Big Data",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Priyanshee Singh",
+      "position": "Data Analyst | Analytics @ CRED| SQL,Python,PowerBI ,Stats |Converting Raw Data into Strategic Actions",
+      "employee_id": "Cre_078",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Statistics",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_079",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_080",
+      "skills": [
+        "Growth Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Business Development",
+        "Sales Optimization",
+        "Customer Acquisition",
+        "Digital Marketing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_081",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_082",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Rakesh Gowda",
+      "position": "Customer Success | CRED Store Reward Operation, Logistics, and Vendor Management at CRED",
+      "employee_id": "Cre_083",
+      "skills": [
+        "Customer Success",
+        "Reward Operation",
+        "Logistics",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Joji Thomas",
+      "position": "Fraud operations at CRED",
+      "employee_id": "Cre_084",
+      "skills": [
+        "Fraud Detection",
+        "Risk Management",
+        "Data Analysis",
+        "Financial Investigation",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_085",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_086",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_087",
+      "skills": [
+        "Growth Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Team Leadership",
+        "Project Management",
+        "Sales Optimization",
+        "Customer Acquisition",
+        "Digital Marketing",
+        "Data Analytics",
+        "Performance Tracking"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_088",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Project Management",
+        "Negotiation",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_089",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Vikash Kumar",
+      "position": "",
+      "employee_id": "Cre_090",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_091",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Jayakrishnan Nair",
+      "position": "",
+      "employee_id": "Cre_092",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Nitish Tiwari",
+      "position": "",
+      "employee_id": "Cre_093",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_094",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Risk Assessment",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_095",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_096",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_097",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_098",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "AMRITA AGRAWAL",
+      "position": "Leadership Team at Cred",
+      "employee_id": "Cre_099",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_100",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Excel",
+        "Financial Modeling",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_101",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Data Analysis",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_102",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_103",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Communication",
+        "Problem Solving",
+        "Microsoft Office",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_104",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Rakesh Gowda",
+      "position": "Customer Success | CRED Store Reward Operation, Logistics, and Vendor Management at CRED",
+      "employee_id": "Cre_105",
+      "skills": [
+        "Customer Success",
+        "Reward Operation",
+        "Logistics",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Aarti Rajly",
+      "position": "Backend Support Engineer @ CRED",
+      "employee_id": "Cre_106",
+      "skills": [
+        "Python",
+        "Backend Development",
+        "Technical Support",
+        "Troubleshooting",
+        "Database Management",
+        "API Integration",
+        "Linux",
+        "Networking",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_107",
+      "skills": [
+        "Talent Management",
+        "Employee Engagement",
+        "Recruitment",
+        "Organizational Development",
+        "Training and Development",
+        "Performance Management",
+        "HR Strategy",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Ayush P.",
+      "position": "",
+      "employee_id": "Cre_108",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yadhu Krishna M",
+      "position": "Security Engineer @ CRED | BlackHat, Nullcon 2025 | Team bi0s",
+      "employee_id": "Cre_109",
+      "skills": [
+        "Security Engineering",
+        "Cybersecurity",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Network Security",
+        "Ethical Hacking",
+        "BlackHat",
+        "Nullcon",
+        "Team bi0s"
+      ]
+    },
+    {
+      "name": "Atish Munje",
+      "position": "Data Science at CRED",
+      "employee_id": "Cre_110",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "Big Data",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_111",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Anneka Meza",
+      "position": "",
+      "employee_id": "Cre_112",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Revathi Podila",
+      "position": "Deputy Manager – Customer Lifecycle | Fintech | Voice & Non-Voice Operations | Customer Experience | CRED",
+      "employee_id": "Cre_113",
+      "skills": [
+        "Customer Lifecycle Management",
+        "Voice Operations",
+        "Non-Voice Operations",
+        "Customer Experience",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_114",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Human Resources",
+        "Candidate Sourcing",
+        "Applicant Tracking Systems",
+        "Employee Relations",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Radha Soni",
+      "position": "HR Manager at CRED.",
+      "employee_id": "Cre_115",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Irene Titus",
+      "position": "Talent & Culture @ CRED",
+      "employee_id": "Cre_116",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "HR Strategy",
+        "Performance Management",
+        "Recruitment",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_117",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Business Development",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_118",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Engagement",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_119",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_120",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "HR Management",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "Talent Strategy",
+        "Stakeholder Management",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Irene Titus",
+      "position": "Talent & Culture @ CRED",
+      "employee_id": "Cre_121",
+      "skills": [
+        "Talent Management",
+        "Employee Engagement",
+        "Recruitment",
+        "HR Strategy",
+        "Performance Management",
+        "Organizational Development",
+        "Culture Building"
+      ]
+    },
+    {
+      "name": "Arun Jathin",
+      "position": "Talent and Culture @ CRED",
+      "employee_id": "Cre_122",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "HR Strategy",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_123",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Strategic Planning",
+        "Excel",
+        "Accounting",
+        "Team Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_124",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Anagha Joshi",
+      "position": "",
+      "employee_id": "Cre_125",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arun Jathin",
+      "position": "Talent and Culture @ CRED",
+      "employee_id": "Cre_126",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "HR Strategy",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_127",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "HR Management",
+        "Talent Strategy",
+        "Communication Skills",
+        "Negotiation",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Priyanshee Singh",
+      "position": "Data Analyst | Analytics @ CRED| SQL,Python,PowerBI ,Stats |Converting Raw Data into Strategic Actions",
+      "employee_id": "Cre_128",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Statistics",
+        "Data Analysis",
+        "Strategic Actions"
+      ]
+    },
+    {
+      "name": "Priyanshee Singh",
+      "position": "Data Analyst | Analytics @ CRED| SQL,Python,PowerBI ,Stats |Converting Raw Data into Strategic Actions",
+      "employee_id": "Cre_129",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Statistics",
+        "Data Analysis",
+        "Strategic Actions"
+      ]
+    },
+    {
+      "name": "Nitish Tiwari",
+      "position": "",
+      "employee_id": "Cre_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dhruvit Jhaveri",
+      "position": "Solving Fraud @ CRED || B.E. Computer Science @ BITS Pilani, Goa || Minor in Finance",
+      "employee_id": "Cre_131",
+      "skills": [
+        "Fraud Detection",
+        "Computer Science",
+        "Finance",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_132",
+      "skills": [
+        "Merchant Operations",
+        "Building at CRED",
+        "Operational Management",
+        "Team Leadership",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_133",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Management",
+        "Talent Management",
+        "Communication Skills",
+        "Negotiation",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_134",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_135",
+      "skills": [
+        "Finance",
+        "Chartered Accountant",
+        "Accounting",
+        "Financial Analysis",
+        "Taxation",
+        "Auditing",
+        "Budgeting",
+        "Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Priyanshee Singh",
+      "position": "Data Analyst | Analytics @ CRED| SQL,Python,PowerBI ,Stats |Converting Raw Data into Strategic Actions",
+      "employee_id": "Cre_136",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Statistics",
+        "Data Analysis",
+        "Strategic Actions"
+      ]
+    },
+    {
+      "name": "Yokesh Kumar",
+      "position": "Analytics @ CRED | Analytics Engineering & Automations",
+      "employee_id": "Cre_137",
+      "skills": [
+        "Analytics",
+        "Analytics Engineering",
+        "Automations"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_138",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Human Resources",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_139",
+      "skills": [
+        "Talent Management",
+        "Employee Engagement",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Irene Titus",
+      "position": "Talent & Culture @ CRED",
+      "employee_id": "Cre_140",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Human Resources",
+        "Recruitment",
+        "Onboarding",
+        "Performance Management",
+        "Employee Relations",
+        "HR Policies",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Jon Carr-Harris",
+      "position": "",
+      "employee_id": "Cre_141",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Michael Haas",
+      "position": "Founder & CEO at CRED iQ ● CRE & CMBS market data provider ●",
+      "employee_id": "Cre_142",
+      "skills": [
+        "Market Data Analysis",
+        "Commercial Real Estate",
+        "CMBS",
+        "Leadership",
+        "Entrepreneurship",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Abhay Pruthi",
+      "position": "",
+      "employee_id": "Cre_143",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_144",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Business Development",
+        "Client Relations",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_145",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_146",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_147",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "priya vadivel",
+      "position": "TPM - Founder's Office at CRED",
+      "employee_id": "Cre_148",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "Process Improvement",
+        "Team Leadership",
+        "Risk Assessment",
+        "Budgeting",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_149",
+      "skills": [
+        "Merchant Operations",
+        "Building Operations",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Destiny Evans",
+      "position": "Marketing & Communications Professional",
+      "employee_id": "Cre_150",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "Public Relations",
+        "Brand Development",
+        "Copywriting",
+        "SEO",
+        "Email Marketing",
+        "Market Research",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Lily Roeller",
+      "position": "PR Associate at cred.",
+      "employee_id": "Cre_151",
+      "skills": [
+        "Public Relations",
+        "Communication",
+        "Media Relations",
+        "Event Planning",
+        "Social Media Management",
+        "Content Creation",
+        "Brand Management",
+        "Marketing Strategy",
+        "Press Release Writing",
+        "Crisis Management"
+      ]
+    },
+    {
+      "name": "Justine Pallas",
+      "position": "Thought leadership and events at cred.",
+      "employee_id": "Cre_152",
+      "skills": [
+        "Thought leadership",
+        "Event planning",
+        "Public speaking",
+        "Strategic planning",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Pratik Upacharya",
+      "position": "",
+      "employee_id": "Cre_153",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anmol Batra",
+      "position": "",
+      "employee_id": "Cre_154",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chintan Shah",
+      "position": "Product @ CRED",
+      "employee_id": "Cre_155",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Radha Soni",
+      "position": "HR Manager at CRED.",
+      "employee_id": "Cre_156",
+      "skills": [
+        "Employee Relations",
+        "Recruitment",
+        "Talent Management",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_157",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Strategy",
+        "Employer Branding",
+        "Applicant Tracking Systems (ATS)",
+        "Talent Management",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_158",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HR Strategy",
+        "Onboarding",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Destiny Evans",
+      "position": "Marketing & Communications Professional",
+      "employee_id": "Cre_159",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "Public Relations",
+        "Brand Development",
+        "Copywriting",
+        "SEO",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_160",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HR Strategy",
+        "Onboarding",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Lily Roeller",
+      "position": "PR Associate at cred.",
+      "employee_id": "Cre_161",
+      "skills": [
+        "Public Relations",
+        "Communication",
+        "Media Relations",
+        "Event Planning",
+        "Social Media Management",
+        "Content Creation",
+        "Brand Management",
+        "Press Release Writing",
+        "Crisis Communication",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_162",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Stakeholder Communication",
+        "Problem Solving",
+        "Microsoft Office",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_163",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_164",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Revathi Podila",
+      "position": "Deputy Manager – Customer Lifecycle | Fintech | Voice & Non-Voice Operations | Customer Experience | CRED",
+      "employee_id": "Cre_165",
+      "skills": [
+        "Customer Lifecycle Management",
+        "Voice Operations",
+        "Non-Voice Operations",
+        "Customer Experience",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Anagha Joshi",
+      "position": "",
+      "employee_id": "Cre_166",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Jayakrishnan Nair",
+      "position": "",
+      "employee_id": "Cre_167",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Destiny Evans",
+      "position": "Marketing & Communications Professional",
+      "employee_id": "Cre_168",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "Public Relations",
+        "Brand Development",
+        "Email Marketing",
+        "SEO",
+        "Copywriting",
+        "Market Research",
+        "Analytics",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_169",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "HR Management",
+        "Talent Management",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Lily Roeller",
+      "position": "PR Associate at cred.",
+      "employee_id": "Cre_170",
+      "skills": [
+        "Public Relations",
+        "Communication",
+        "Media Relations",
+        "Content Creation",
+        "Social Media Management",
+        "Event Planning",
+        "Brand Management",
+        "Press Release Writing",
+        "Crisis Communication",
+        "Marketing Strategy"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_171",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Gayathri Manjunath",
+      "position": "As a seasoned HR Administrative Specialist, I deliver expert support in HR operations, talent acquisition, and employee relations, driving seamless execution and a positive work environment.",
+      "employee_id": "Cre_172",
+      "skills": [
+        "HR operations",
+        "talent acquisition",
+        "employee relations",
+        "administrative support"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_173",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chintan Shah",
+      "position": "Product @ CRED",
+      "employee_id": "Cre_174",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Market Research",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Anmol Batra",
+      "position": "",
+      "employee_id": "Cre_175",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Gagandeep B K",
+      "position": "Product | Meesho | CRED",
+      "employee_id": "Cre_176",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Market Research",
+        "Strategic Planning",
+        "Project Management",
+        "User Experience (UX) Design",
+        "Agile Methodologies",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_177",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Statistical Analysis",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_178",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_179",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_180",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_181",
+      "skills": [
+        "Growth Strategy",
+        "Business Development",
+        "Marketing",
+        "Team Leadership",
+        "Project Management",
+        "Market Research",
+        "Customer Acquisition",
+        "Data Analysis",
+        "Performance Metrics",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "AMRITA AGRAWAL",
+      "position": "Leadership Team at Cred",
+      "employee_id": "Cre_182",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Murali A",
+      "position": "Senior Database Reliability Engineer at CRED",
+      "employee_id": "Cre_183",
+      "skills": [
+        "Database Reliability",
+        "SQL",
+        "Python",
+        "Data Analysis",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Database Security",
+        "Troubleshooting",
+        "Monitoring and Alerting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Rajeev Bharshetty",
+      "position": "",
+      "employee_id": "Cre_184",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Business Intelligence",
+        "Statistical Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Dhruvit Jhaveri",
+      "position": "Solving Fraud @ CRED || B.E. Computer Science @ BITS Pilani, Goa || Minor in Finance",
+      "employee_id": "Cre_185",
+      "skills": [
+        "Fraud Detection",
+        "Computer Science",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_186",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Business Development",
+        "Client Relations",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_187",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_188",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_189",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "AMRITA AGRAWAL",
+      "position": "Leadership Team at Cred",
+      "employee_id": "Cre_190",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_191",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Reporting",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_192",
+      "skills": [
+        "Merchant Operations",
+        "Building",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_193",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Excel",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Emily Perretti",
+      "position": "",
+      "employee_id": "Cre_194",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "AMRITA AGRAWAL",
+      "position": "Leadership Team at Cred",
+      "employee_id": "Cre_195",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_196",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_197",
+      "skills": [
+        "Growth Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development",
+        "Project Management",
+        "Data Analytics",
+        "Customer Acquisition",
+        "Revenue Optimization"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_198",
+      "skills": [
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "Buy Now Pay Later (BNPL)",
+        "Process Management"
+      ]
+    },
+    {
+      "name": "Anneka Meza",
+      "position": "",
+      "employee_id": "Cre_199",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Taylor Belshause",
+      "position": "Managing Director at cred",
+      "employee_id": "Cre_200",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Management",
+        "Team Building",
+        "Project Management",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_201",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling",
+        "Team Leadership",
+        "Strategic Planning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Salin Agarwal",
+      "position": "",
+      "employee_id": "Cre_202",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_203",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Devangi Katiyar",
+      "position": "",
+      "employee_id": "Cre_204",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_205",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Talent Management",
+        "HR Strategy",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_206",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Strategy",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_207",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_208",
+      "skills": [
+        "Growth Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Analytics",
+        "Team Leadership",
+        "Project Management",
+        "Market Research",
+        "Customer Acquisition",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "Gayathri Manjunath",
+      "position": "As a seasoned HR Administrative Specialist, I deliver expert support in HR operations, talent acquisition, and employee relations, driving seamless execution and a positive work environment.",
+      "employee_id": "Cre_209",
+      "skills": [
+        "HR operations",
+        "talent acquisition",
+        "employee relations",
+        "administrative support",
+        "expert support",
+        "positive work environment"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_210",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Excel",
+        "Financial Modeling",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Salin Agarwal",
+      "position": "",
+      "employee_id": "Cre_211",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "AMRITA AGRAWAL",
+      "position": "Leadership Team at Cred",
+      "employee_id": "Cre_212",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_213",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_214",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relationship Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Anoop Sahani",
+      "position": "Process Manager | Credit Risk & Collections | Driving Operational Excellence at CRED | Handling Cred Flash | Driving the Buy Now, Pay Later (BNPL) Experience",
+      "employee_id": "Cre_215",
+      "skills": [
+        "Process Management",
+        "Credit Risk",
+        "Collections",
+        "Operational Excellence",
+        "BNPL Experience"
+      ]
+    },
+    {
+      "name": "Sakshi Sharma",
+      "position": "Senior Talent Acquisition Specialist at Cred",
+      "employee_id": "Cre_216",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HR Strategy",
+        "Team Management",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Devangi Katiyar",
+      "position": "",
+      "employee_id": "Cre_217",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_218",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "HR Management",
+        "Talent Strategy",
+        "Communication Skills",
+        "Negotiation Skills",
+        "Relationship Building"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_219",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Excel",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_220",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Jake Wood",
+      "position": "",
+      "employee_id": "Cre_221",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Emily Perretti",
+      "position": "",
+      "employee_id": "Cre_222",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_223",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Joji Thomas",
+      "position": "Fraud operations at CRED",
+      "employee_id": "Cre_224",
+      "skills": [
+        "Fraud Detection",
+        "Risk Management",
+        "Data Analysis",
+        "Financial Investigation",
+        "Compliance",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_225",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Excel",
+        "Accounting",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_226",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Risk Assessment",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_227",
+      "skills": [
+        "Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Accounting",
+        "Taxation",
+        "Auditing",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_228",
+      "skills": [
+        "Merchant Operations",
+        "Building",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Destiny Evans",
+      "position": "Marketing & Communications Professional",
+      "employee_id": "Cre_229",
+      "skills": [
+        "Marketing Strategy",
+        "Communications",
+        "Public Relations",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Management",
+        "Market Research",
+        "SEO",
+        "Copywriting",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_230",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Strategy",
+        "Employer Branding",
+        "Talent Management",
+        "Networking",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_231",
+      "skills": [
+        "Merchant Operations",
+        "Building",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Maria Santhosh",
+      "position": "Talent Partner @ CRED | Talent Acquisition",
+      "employee_id": "Cre_232",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Onboarding",
+        "Employee Relations",
+        "HR Strategy",
+        "Talent Management",
+        "Networking",
+        "Communication",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Melveena Hilton",
+      "position": "CRED Talent & Culture | St Xavier's College, Mumbai.",
+      "employee_id": "Cre_233",
+      "skills": [
+        "Talent Management",
+        "Culture Development",
+        "Employee Engagement",
+        "Recruitment",
+        "Training and Development",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Strategy"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_234",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Taxation",
+        "Auditing",
+        "Compliance",
+        "Financial Reporting",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_235",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Excel",
+        "Accounting",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_236",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pratik Upacharya",
+      "position": "",
+      "employee_id": "Cre_237",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chintan Shah",
+      "position": "Product @ CRED",
+      "employee_id": "Cre_238",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Team Leadership",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Raman Vashisht",
+      "position": "Matched Employee",
+      "employee_id": "Cre_239",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Avery Webb",
+      "position": "Healthcare Demographic Provider | Credentialing | Cred Coordinator | Medical Records | Administration | Data Entry | Home Infusion",
+      "employee_id": "Cre_240",
+      "skills": [
+        "Healthcare Demographic Provider",
+        "Credentialing",
+        "Medical Records",
+        "Administration",
+        "Data Entry",
+        "Home Infusion"
+      ]
+    },
+    {
+      "name": "Ajith Kumar",
+      "position": "Building at CRED | Merchant Operations",
+      "employee_id": "Cre_241",
+      "skills": [
+        "Merchant Operations",
+        "Building Operations",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Takkallapalli Nishanth",
+      "position": "",
+      "employee_id": "Cre_242",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Reddy Shravani N",
+      "position": "CRED - Finance team || Chartered Accountant (May-24) || B.com graduate.",
+      "employee_id": "Cre_243",
+      "skills": [
+        "Finance",
+        "Chartered Accountant",
+        "Accounting",
+        "Financial Analysis",
+        "Taxation",
+        "Auditing",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Siddharth Sarawgi",
+      "position": "Finance Manager at CRED",
+      "employee_id": "Cre_244",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Team Management",
+        "Strategic Planning",
+        "Excel",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Tanisha Jain",
+      "position": "Finance at CRED",
+      "employee_id": "Cre_245",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_246",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Client Relations",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_247",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Excel",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ravi Kumar",
+      "position": "",
+      "employee_id": "Cre_248",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mary Sue Lundy",
+      "position": "",
+      "employee_id": "Cre_249",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "Statistical Analysis",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Harrison Cox",
+      "position": "Head of Growth at Cred.",
+      "employee_id": "Cre_250",
+      "skills": [
+        "Growth Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Analytics",
+        "Team Leadership",
+        "Project Management",
+        "Customer Acquisition",
+        "Market Research",
+        "Brand Development"
+      ]
+    },
+    {
+      "name": "Shwetabh Gupta",
+      "position": "Consultant at CRED",
+      "employee_id": "Cre_251",
+      "skills": [
+        "Consulting",
+        "Project Management",
+        "Client Relations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Devangi Katiyar",
+      "position": "",
+      "employee_id": "Cre_252",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anshul Mudliar",
+      "position": "Solution Engineer at CRED",
+      "employee_id": "Cre_253",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sneha Khoday",
+      "position": "Campaign Specialist @ CRED",
+      "employee_id": "Cre_254",
+      "skills": [
+        "Campaign Management",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Analytics",
+        "Project Management",
+        "Social Media Marketing",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Dimitri Goulas",
+      "position": "",
+      "employee_id": "Cre_255",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divya Hariharan",
+      "position": "Partner - Commercial and Healthcare at Cred Financial Services",
+      "employee_id": "Cre_256",
+      "skills": [
+        "Commercial Strategy",
+        "Healthcare Management",
+        "Financial Services",
+        "Business Development",
+        "Client Relations",
+        "Market Analysis",
+        "Project Management",
+        "Negotiation",
+        "Leadership"
+      ]
+    }
+  ]
+}

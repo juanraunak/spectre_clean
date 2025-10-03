@@ -1,0 +1,3516 @@
+{
+  "company_name": "Groww",
+  "employees": [
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_001",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Training and Development",
+        "Payroll Management",
+        "Compliance",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_002",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Talent Sourcing",
+        "Applicant Tracking Systems",
+        "Employee Engagement"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_003",
+      "skills": [
+        "Business Partnering",
+        "Human Resources",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "HR Strategy",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_004",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Training and Development",
+        "HR Software"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_005",
+      "skills": [
+        "HR Operations",
+        "Employee-Centric Payroll Solutions",
+        "Building Lasting Relationships",
+        "Driving Client Value & Growth"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_006",
+      "skills": [
+        "Business Partnering",
+        "HR",
+        "Talent Acquisition",
+        "Employee Engagement",
+        "Performance Management",
+        "HR Strategy",
+        "Leadership Development",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_007",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Talent Sourcing"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar K R",
+      "position": "Assistant Manager - Business at Groww, India",
+      "employee_id": "Gro_008",
+      "skills": [
+        "Business Development",
+        "Team Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_009",
+      "skills": [
+        "Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Mrinmoy Mishra",
+      "position": "SEO @ Groww | AIO | GEO | AEO",
+      "employee_id": "Gro_010",
+      "skills": [
+        "SEO",
+        "AIO",
+        "GEO",
+        "AEO"
+      ]
+    },
+    {
+      "name": "Sampada Gonal",
+      "position": "Senior executive at Cognizant | Digital Marketing | SEO | Strategic Marketing & AI | Google Ads",
+      "employee_id": "Gro_011",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Strategic Marketing",
+        "AI",
+        "Google Ads"
+      ]
+    },
+    {
+      "name": "Arjun Tiwari",
+      "position": "Content Marketing @ Groww || Blogger || Co-Author",
+      "employee_id": "Gro_012",
+      "skills": [
+        "Content Marketing",
+        "Blogging",
+        "Co-Authoring"
+      ]
+    },
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_013",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Onboarding",
+        "HRIS",
+        "Conflict Resolution",
+        "Training and Development",
+        "Payroll Management"
+      ]
+    },
+    {
+      "name": "Komal Saini",
+      "position": "MBA student | Dual Specialisation in Finance and HR | Aspiring Financial Analyst and HR Strategist. Customer Success Executive at Groww",
+      "employee_id": "Gro_014",
+      "skills": [
+        "Finance",
+        "Human Resources",
+        "Customer Success",
+        "Financial Analysis",
+        "HR Strategy"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_015",
+      "skills": [
+        "HR Operations",
+        "Payroll Solutions",
+        "Client Relationship Management",
+        "Employee Engagement",
+        "Client Value Growth"
+      ]
+    },
+    {
+      "name": "Manas Jain",
+      "position": "Senior Software Engineer at Groww, India",
+      "employee_id": "Gro_016",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Leadership",
+        "Code Review",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Saheb Giri",
+      "position": "Software Engineer at Groww",
+      "employee_id": "Gro_017",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Ashutosh Jaipuriyar",
+      "position": "Senior Backend Engineer at Groww",
+      "employee_id": "Gro_018",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Anshul Garg",
+      "position": "",
+      "employee_id": "Gro_019",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Manas Jain",
+      "position": "Senior Software Engineer at Groww, India",
+      "employee_id": "Gro_020",
+      "skills": [
+        "Python",
+        "Software Development",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Mohammed Ibrahim",
+      "position": "",
+      "employee_id": "Gro_021",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vamsi K",
+      "position": "SDE @ Groww | IIITA '25",
+      "employee_id": "Gro_022",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "Problem Solving",
+        "Data Structures",
+        "Algorithms"
+      ]
+    },
+    {
+      "name": "Aakash Sharma",
+      "position": "SDE Web @ Groww",
+      "employee_id": "Gro_023",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Web Development",
+        "REST APIs",
+        "Git",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Tejas Hirawat",
+      "position": "SDE1 at Groww | AI enthusiast | Full-stack Web Developer",
+      "employee_id": "Gro_024",
+      "skills": [
+        "Python",
+        "AI",
+        "Full-stack Web Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "name": "Khwaish Bansal",
+      "position": "Product Analytics @ Groww | IIT Roorkee’ 24",
+      "employee_id": "Gro_025",
+      "skills": [
+        "Product Analytics",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Manju Parekh",
+      "position": "Data Scientist at Groww",
+      "employee_id": "Gro_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "Big Data",
+        "Predictive Analytics",
+        "R",
+        "Natural Language Processing",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Srihari Viswajit",
+      "position": "Product at Groww | IIT Kharagpur '23",
+      "employee_id": "Gro_027",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tejas Hirawat",
+      "position": "SDE1 at Groww | AI enthusiast | Full-stack Web Developer",
+      "employee_id": "Gro_028",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Full-stack Development",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Meghal Bisht",
+      "position": "SDE II at Groww | CSE'22",
+      "employee_id": "Gro_029",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithms",
+        "Data Structures",
+        "Problem Solving",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Nikhil Dixit",
+      "position": "SDE-1 @ Groww | Expert @ Codeforces | Guardian @ Leetcode | @ ABV-IIITM GWALIOR",
+      "employee_id": "Gro_030",
+      "skills": [
+        "Software Development",
+        "Competitive Programming",
+        "Problem Solving",
+        "Algorithms",
+        "Data Structures"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_031",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Heenal Agrawal",
+      "position": "CSE at Groww",
+      "employee_id": "Gro_032",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_033",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Preparing Research Report",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Vamsi K",
+      "position": "SDE @ Groww | IIITA '25",
+      "employee_id": "Gro_034",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Web Development",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Aakash Sharma",
+      "position": "SDE Web @ Groww",
+      "employee_id": "Gro_035",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Web Development",
+        "API Integration",
+        "Agile Methodologies",
+        "Version Control",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Tejas Hirawat",
+      "position": "SDE1 at Groww | AI enthusiast | Full-stack Web Developer",
+      "employee_id": "Gro_036",
+      "skills": [
+        "Python",
+        "AI",
+        "Full-stack Web Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_037",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_038",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Research Report Preparation",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Heenal Agrawal",
+      "position": "CSE at Groww",
+      "employee_id": "Gro_039",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divyansh Pratap Singh",
+      "position": "",
+      "employee_id": "Gro_040",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tejas Hirawat",
+      "position": "SDE1 at Groww | AI enthusiast | Full-stack Web Developer",
+      "employee_id": "Gro_041",
+      "skills": [
+        "Python",
+        "AI",
+        "Full-stack Web Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Ashutosh Kumar Kushwaha",
+      "position": "Software Engineer @ Groww",
+      "employee_id": "Gro_042",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Vamsi K",
+      "position": "SDE @ Groww | IIITA '25",
+      "employee_id": "Gro_043",
+      "skills": [
+        "Python",
+        "Software Development",
+        "Problem Solving",
+        "Algorithm Design",
+        "Data Structures"
+      ]
+    },
+    {
+      "name": "Tejas Hirawat",
+      "position": "SDE1 at Groww | AI enthusiast | Full-stack Web Developer",
+      "employee_id": "Gro_044",
+      "skills": [
+        "Python",
+        "AI",
+        "Full-stack Web Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Kartik Ukhalkar",
+      "position": "",
+      "employee_id": "Gro_045",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_046",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_047",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Preparing Research Report",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_048",
+      "skills": [
+        "Business Partnering",
+        "HR Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Strategic Planning",
+        "Organizational Development",
+        "Change Management",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_049",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_050",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Financial Services",
+        "Investment Management"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_051",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relations",
+        "Business Development",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_052",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_053",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_054",
+      "skills": [
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Pooja Naik",
+      "position": "Senior Associate @ Groww | Business Operations",
+      "employee_id": "Gro_055",
+      "skills": [
+        "Business Operations",
+        "Project Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Aastha Rani",
+      "position": "Growth @ Groww | IIT (BHU)",
+      "employee_id": "Gro_056",
+      "skills": [
+        "Growth Strategy",
+        "Market Analysis",
+        "Business Development",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Priya Harwani",
+      "position": "Startup Investments, Strategy, M&A at Groww",
+      "employee_id": "Gro_057",
+      "skills": [
+        "Startup Investments",
+        "Strategy",
+        "M&A"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_058",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_059",
+      "skills": [
+        "Investment Banking Operations",
+        "Mutual Fund Distribution",
+        "Financial Analysis",
+        "Client Management",
+        "Regulatory Compliance",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_060",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Risk Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_061",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Financial Services",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_062",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "NISHITA HALAI",
+      "position": "Senior Executive at Groww Financial Services",
+      "employee_id": "Gro_063",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Client Relations",
+        "Market Research",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Communication Skills",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_064",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Taxation",
+        "Auditing",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "NISHITA HALAI",
+      "position": "Senior Executive at Groww Financial Services",
+      "employee_id": "Gro_065",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Client Relations",
+        "Market Research",
+        "Portfolio Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_066",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Team Management",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar K R",
+      "position": "Assistant Manager - Business at Groww, India",
+      "employee_id": "Gro_067",
+      "skills": [
+        "Business Strategy",
+        "Team Management",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Sampada Gonal",
+      "position": "Senior executive at Cognizant | Digital Marketing | SEO | Strategic Marketing & AI | Google Ads",
+      "employee_id": "Gro_068",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Strategic Marketing",
+        "AI",
+        "Google Ads"
+      ]
+    },
+    {
+      "name": "Tamanna Tanaz",
+      "position": "Director - Creative | Groww",
+      "employee_id": "Gro_069",
+      "skills": [
+        "Creative Direction",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Brand Development",
+        "Marketing Strategy",
+        "Content Creation",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_070",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_071",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Preparing Research Report",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_072",
+      "skills": [
+        "Business Partnering",
+        "HR",
+        "Talent Management",
+        "Employee Relations",
+        "Performance Management",
+        "Recruitment",
+        "Training and Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manas Jain",
+      "position": "Senior Software Engineer at Groww, India",
+      "employee_id": "Gro_073",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anshul Garg",
+      "position": "",
+      "employee_id": "Gro_074",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ashutosh Jaipuriyar",
+      "position": "Senior Backend Engineer at Groww",
+      "employee_id": "Gro_075",
+      "skills": [
+        "Backend Development",
+        "Python",
+        "Java",
+        "SQL",
+        "API Development",
+        "Microservices",
+        "Cloud Computing",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_076",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_077",
+      "skills": [
+        "Business Partnering",
+        "HR",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Organizational Development",
+        "HR Strategy",
+        "Leadership Development",
+        "Change Management",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "Raghav Mahawar",
+      "position": "Content at Groww | RVCE'27 | Built a community of 8000+ students",
+      "employee_id": "Gro_078",
+      "skills": [
+        "Content Creation",
+        "Community Building",
+        "Student Engagement"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_079",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_080",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_081",
+      "skills": [
+        "Investment Banking Operations",
+        "Mutual Fund Distribution",
+        "Financial Analysis",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_082",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_083",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_084",
+      "skills": [
+        "Collections Management",
+        "Territory Management",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_085",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_086",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Project Management",
+        "Risk Assessment",
+        "Client Relations",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_087",
+      "skills": [
+        "Collections Management",
+        "Territory Management",
+        "Financial Analysis",
+        "Customer Relations",
+        "Risk Assessment",
+        "Debt Recovery",
+        "Team Leadership",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_088",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Somendra Singh Jadon",
+      "position": "Business Strategy and Product Development | Groww | IIT Delhi",
+      "employee_id": "Gro_089",
+      "skills": [
+        "Business Strategy",
+        "Product Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Priya Harwani",
+      "position": "Startup Investments, Strategy, M&A at Groww",
+      "employee_id": "Gro_090",
+      "skills": [
+        "Startup Investments",
+        "Strategy",
+        "M&A"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_091",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar K R",
+      "position": "Assistant Manager - Business at Groww, India",
+      "employee_id": "Gro_092",
+      "skills": [
+        "Business Strategy",
+        "Team Management",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relations",
+        "Data Interpretation",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Devika Shaji",
+      "position": "Senior Executive at Groww",
+      "employee_id": "Gro_093",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Leadership",
+        "Strategic Planning",
+        "Market Research",
+        "Excel",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_094",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_095",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Project Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Somendra Singh Jadon",
+      "position": "Business Strategy and Product Development | Groww | IIT Delhi",
+      "employee_id": "Gro_096",
+      "skills": [
+        "Business Strategy",
+        "Product Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_097",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Services",
+        "Investment Management",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_098",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Team Building",
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Ankita Joshi",
+      "position": "Senior Associate at Groww",
+      "employee_id": "Gro_099",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Machine Learning",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_100",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Taxation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_101",
+      "skills": [
+        "Finance",
+        "NISM VA Certified",
+        "Staffing Solutions",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "NISHITA HALAI",
+      "position": "Senior Executive at Groww Financial Services",
+      "employee_id": "Gro_102",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Client Relations",
+        "Market Research",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_103",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_104",
+      "skills": [
+        "Collections Management",
+        "Territory Management",
+        "Financial Analysis",
+        "Customer Relations",
+        "Risk Assessment",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Sumit Damor",
+      "position": "Chief Marketing Officer at Groww Mutual Fund",
+      "employee_id": "Gro_105",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Market Research",
+        "Team Leadership",
+        "Public Relations",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Heenal Agrawal",
+      "position": "CSE at Groww",
+      "employee_id": "Gro_106",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kavya.k Kavya.k",
+      "position": "Customer Support Executive at Groww",
+      "employee_id": "Gro_107",
+      "skills": [
+        "Customer Support",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Team Collaboration",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Harish Mishra",
+      "position": "Senior Executive at Groww, India",
+      "employee_id": "Gro_108",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_109",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Sharda Jha",
+      "position": "SDE at Groww, India",
+      "employee_id": "Gro_110",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Mohammed Ibrahim",
+      "position": "",
+      "employee_id": "Gro_111",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_112",
+      "skills": [
+        "Investment Banking Operations",
+        "Mutual Fund Distribution",
+        "Financial Analysis",
+        "Client Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_113",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Risk Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_114",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Customer Service",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_115",
+      "skills": [
+        "HR Operations",
+        "Employee-Centric Payroll Solutions",
+        "Building Lasting Relationships",
+        "Driving Client Value & Growth"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_116",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Talent Sourcing",
+        "Applicant Tracking Systems",
+        "HR Compliance",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_117",
+      "skills": [
+        "Business Partnering",
+        "HR",
+        "Employee Engagement",
+        "Talent Management",
+        "Organizational Development",
+        "Performance Management",
+        "Strategic Planning",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_118",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Research",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Neelu Saw",
+      "position": "Senior Customer Support Executive at Groww, India",
+      "employee_id": "Gro_119",
+      "skills": [
+        "Customer Support",
+        "Communication",
+        "Problem Solving",
+        "Team Management",
+        "Conflict Resolution",
+        "CRM Software",
+        "Time Management",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_120",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Financial Services",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_121",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HR Policies",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_122",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Onboarding",
+        "Training and Development",
+        "Conflict Resolution",
+        "HRIS",
+        "Payroll Management"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_123",
+      "skills": [
+        "HR Operations",
+        "Employee-Centric Payroll Solutions",
+        "Building Lasting Relationships",
+        "Driving Client Value & Growth"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_124",
+      "skills": [
+        "Finance",
+        "NISM VA Certified",
+        "Staffing Solutions",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_125",
+      "skills": [
+        "Investment Banking Operations",
+        "Mutual Fund Distribution",
+        "Financial Analysis",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_126",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Customer Service",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_127",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Onboarding",
+        "Training and Development",
+        "HR Software",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_128",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Talent Sourcing",
+        "Candidate Screening",
+        "HR Policies",
+        "Employee Engagement"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_129",
+      "skills": [
+        "Business Partnering",
+        "Human Resources",
+        "HR Strategy",
+        "Employee Engagement",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Manju Parekh",
+      "position": "Data Scientist at Groww",
+      "employee_id": "Gro_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "R",
+        "Big Data",
+        "Predictive Analytics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Rakshitha T M",
+      "position": "QA Engineer 3 @Lumos labs || Groww || Jodo || Amazon",
+      "employee_id": "Gro_131",
+      "skills": [
+        "Quality Assurance",
+        "Test Automation",
+        "Manual Testing",
+        "Selenium",
+        "Java",
+        "Python",
+        "API Testing",
+        "Performance Testing",
+        "Regression Testing",
+        "Agile Methodologies",
+        "JIRA",
+        "Test Planning",
+        "Test Case Design",
+        "Bug Tracking",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Khwaish Bansal",
+      "position": "Product Analytics @ Groww | IIT Roorkee’ 24",
+      "employee_id": "Gro_132",
+      "skills": [
+        "Product Analytics",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arjun Tiwari",
+      "position": "Content Marketing @ Groww || Blogger || Co-Author",
+      "employee_id": "Gro_133",
+      "skills": [
+        "Content Marketing",
+        "Blogging",
+        "Co-Authoring"
+      ]
+    },
+    {
+      "name": "Raghav Mahawar",
+      "position": "Content at Groww | RVCE'27 | Built a community of 8000+ students",
+      "employee_id": "Gro_134",
+      "skills": [
+        "Content Creation",
+        "Community Building",
+        "Student Engagement"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_135",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Account Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Collaboration",
+        "Customer Support",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_136",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant"
+      ]
+    },
+    {
+      "name": "Khwaish Bansal",
+      "position": "Product Analytics @ Groww | IIT Roorkee’ 24",
+      "employee_id": "Gro_137",
+      "skills": [
+        "Product Analytics",
+        "Data Analysis",
+        "Python",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "gaurav seth",
+      "position": "Compliance At GROWW, India",
+      "employee_id": "Gro_138",
+      "skills": [
+        "Compliance",
+        "Risk Management",
+        "Financial Regulations",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_139",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_140",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Communication",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Heenal Agrawal",
+      "position": "CSE at Groww",
+      "employee_id": "Gro_141",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_142",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Somendra Singh Jadon",
+      "position": "Business Strategy and Product Development | Groww | IIT Delhi",
+      "employee_id": "Gro_143",
+      "skills": [
+        "Business Strategy",
+        "Product Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Girish Nerkar",
+      "position": "",
+      "employee_id": "Gro_144",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sumit Damor",
+      "position": "Chief Marketing Officer at Groww Mutual Fund",
+      "employee_id": "Gro_145",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Market Research",
+        "Team Leadership",
+        "Project Management",
+        "Communication Skills",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_146",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_147",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relations",
+        "Budgeting",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Somendra Singh Jadon",
+      "position": "Business Strategy and Product Development | Groww | IIT Delhi",
+      "employee_id": "Gro_148",
+      "skills": [
+        "Business Strategy",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Samir Singh",
+      "position": "Growth @ Groww | PES University",
+      "employee_id": "Gro_149",
+      "skills": [
+        "Growth Strategy",
+        "Data Analysis",
+        "Market Research",
+        "Financial Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_150",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_151",
+      "skills": [
+        "Team Leadership",
+        "Customer Support",
+        "NISM Certification",
+        "Communication Skills",
+        "Problem Solving",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_152",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_153",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Preparing Research Report",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Samruddhi Kankariya",
+      "position": "Product Manager @ Groww | IIT Bombay '23",
+      "employee_id": "Gro_154",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Srihari Viswajit",
+      "position": "Product at Groww | IIT Kharagpur '23",
+      "employee_id": "Gro_155",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Python",
+        "Market Research",
+        "User Experience (UX) Design",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Khwaish Bansal",
+      "position": "Product Analytics @ Groww | IIT Roorkee’ 24",
+      "employee_id": "Gro_156",
+      "skills": [
+        "Product Analytics",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_157",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HRIS",
+        "Talent Sourcing",
+        "Candidate Screening",
+        "Employer Branding"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_158",
+      "skills": [
+        "Business Partnering",
+        "HR",
+        "Leadership",
+        "Strategic Planning",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_159",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_160",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_161",
+      "skills": [
+        "Customer Support",
+        "Team Leadership",
+        "NISM Certification",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_162",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Product Knowledge",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_163",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sumit Damor",
+      "position": "Chief Marketing Officer at Groww Mutual Fund",
+      "employee_id": "Gro_164",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Market Research",
+        "Team Leadership",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_165",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_166",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rasika More",
+      "position": "Customer Success Executive | Aspiring Equity Research Analyst | Financial Statement Analysis | Investment Strategies | Preparing Research Report | Earnings Report Analysis",
+      "employee_id": "Gro_167",
+      "skills": [
+        "Customer Success",
+        "Equity Research",
+        "Financial Statement Analysis",
+        "Investment Strategies",
+        "Preparing Research Report",
+        "Earnings Report Analysis"
+      ]
+    },
+    {
+      "name": "Pooja Naik",
+      "position": "Senior Associate @ Groww | Business Operations",
+      "employee_id": "Gro_168",
+      "skills": [
+        "Business Operations",
+        "Project Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_169",
+      "skills": [
+        "Customer Experience",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_170",
+      "skills": [
+        "Customer Support",
+        "Team Leadership",
+        "NISM Certification"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_171",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Problem Solving",
+        "Communication",
+        "Team Collaboration",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar K R",
+      "position": "Assistant Manager - Business at Groww, India",
+      "employee_id": "Gro_172",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Market Research",
+        "Strategic Planning",
+        "Client Relations",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_173",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_174",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Financial Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Samruddhi Kankariya",
+      "position": "Product Manager @ Groww | IIT Bombay '23",
+      "employee_id": "Gro_175",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Srihari Viswajit",
+      "position": "Product at Groww | IIT Kharagpur '23",
+      "employee_id": "Gro_176",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_177",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Team Leadership",
+        "Customer Service",
+        "Financial Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_178",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relations",
+        "Project Management",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_179",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_180",
+      "skills": [
+        "Collections Management",
+        "Territory Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_181",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Financial Planning",
+        "Strategic Planning",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Sales Management",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_182",
+      "skills": [
+        "Collections Management",
+        "Territory Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Team Leadership",
+        "Communication Skills",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_183",
+      "skills": [
+        "Team Management",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Financial Analysis",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Meghal Bisht",
+      "position": "SDE II at Groww | CSE'22",
+      "employee_id": "Gro_184",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anshul Garg",
+      "position": "",
+      "employee_id": "Gro_185",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ashutosh Kumar Kushwaha",
+      "position": "Software Engineer @ Groww",
+      "employee_id": "Gro_186",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_187",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Services",
+        "Investment Management",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Sumit Damor",
+      "position": "Chief Marketing Officer at Groww Mutual Fund",
+      "employee_id": "Gro_188",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Market Research",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Customer Acquisition",
+        "Public Relations",
+        "Content Marketing"
+      ]
+    },
+    {
+      "name": "NISHITA HALAI",
+      "position": "Senior Executive at Groww Financial Services",
+      "employee_id": "Gro_189",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Client Relations",
+        "Market Research",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Communication Skills",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_190",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Debt Recovery",
+        "Negotiation Skills",
+        "Compliance Management",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_191",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Client Relations",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_192",
+      "skills": [
+        "Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Customer Relationship Management (CRM)",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "gaurav seth",
+      "position": "Compliance At GROWW, India",
+      "employee_id": "Gro_193",
+      "skills": [
+        "Compliance",
+        "Risk Management",
+        "Regulatory Compliance",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_194",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_195",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Business Development",
+        "Market Research",
+        "Strategic Planning",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_196",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Financial Planning",
+        "Investment Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_197",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Team Leadership",
+        "Risk Assessment",
+        "Negotiation",
+        "Financial Analysis",
+        "Debt Recovery",
+        "Compliance",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ankita Joshi",
+      "position": "Senior Associate at Groww",
+      "employee_id": "Gro_198",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_199",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Project Management",
+        "Risk Management",
+        "Client Relationship Management",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_200",
+      "skills": [
+        "Investment Banking",
+        "Operations Management",
+        "Mutual Funds",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_201",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Services",
+        "Investment Management",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_202",
+      "skills": [
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Services",
+        "Investment Management",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_203",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Taxation",
+        "Compliance",
+        "Auditing"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_204",
+      "skills": [
+        "NISM VA Certified",
+        "Finance",
+        "Staffing Solutions",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "Vivekanand Singh",
+      "position": "Business Partnering - HR | Groww, India | IIM BG",
+      "employee_id": "Gro_205",
+      "skills": [
+        "Business Partnering",
+        "HR"
+      ]
+    },
+    {
+      "name": "Komal Saini",
+      "position": "MBA student | Dual Specialisation in Finance and HR | Aspiring Financial Analyst and HR Strategist. Customer Success Executive at Groww",
+      "employee_id": "Gro_206",
+      "skills": [
+        "Finance",
+        "Human Resources",
+        "Customer Success",
+        "Financial Analysis",
+        "HR Strategy"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_207",
+      "skills": [
+        "HR Operations",
+        "Employee-Centric Payroll Solutions",
+        "Building Lasting Relationships",
+        "Driving Client Value & Growth"
+      ]
+    },
+    {
+      "name": "Mrinmoy Mishra",
+      "position": "SEO @ Groww | AIO | GEO | AEO",
+      "employee_id": "Gro_208",
+      "skills": [
+        "SEO",
+        "AIO",
+        "GEO",
+        "AEO"
+      ]
+    },
+    {
+      "name": "Samruddhi Kankariya",
+      "position": "Product Manager @ Groww | IIT Bombay '23",
+      "employee_id": "Gro_209",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Stakeholder Management",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Priya Harwani",
+      "position": "Startup Investments, Strategy, M&A at Groww",
+      "employee_id": "Gro_210",
+      "skills": [
+        "Startup Investments",
+        "Strategy",
+        "M&A"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_211",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Taxation",
+        "Compliance",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_212",
+      "skills": [
+        "Finance",
+        "NISM VA Certified",
+        "Staffing Solutions",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "gaurav seth",
+      "position": "Compliance At GROWW, India",
+      "employee_id": "Gro_213",
+      "skills": [
+        "Compliance",
+        "Risk Management",
+        "Regulatory Knowledge",
+        "Financial Services",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_214",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Market Research",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_215",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Team Leadership",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prakash Dubla",
+      "position": "Manager at Groww, India",
+      "employee_id": "Gro_216",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relations",
+        "Budgeting",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Nisha Tandon",
+      "position": "HR - Talent Acquisition at GROWW",
+      "employee_id": "Gro_217",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HRIS",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Sameer Rakheja",
+      "position": "Walmart || Zerodha || Groww || HR Operations Specialist at Walmart || Employee-Centric Payroll Solutions || Building Lasting Relationships || Driving Client Value & Growth",
+      "employee_id": "Gro_218",
+      "skills": [
+        "HR Operations",
+        "Employee-Centric Payroll Solutions",
+        "Building Lasting Relationships",
+        "Driving Client Value & Growth"
+      ]
+    },
+    {
+      "name": "Soumya Jyoti Sahu",
+      "position": "HR Executive at Groww",
+      "employee_id": "Gro_219",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Training and Development",
+        "Onboarding",
+        "HR Software",
+        "Payroll Management"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_220",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Somendra Singh Jadon",
+      "position": "Business Strategy and Product Development | Groww | IIT Delhi",
+      "employee_id": "Gro_221",
+      "skills": [
+        "Business Strategy",
+        "Product Development",
+        "Market Analysis",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_222",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_223",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Dhanush VR",
+      "position": "Certified Investment Banking Operations Professional Executive at Groww Certified Mutual Fund Distributor\"",
+      "employee_id": "Gro_224",
+      "skills": [
+        "Investment Banking Operations",
+        "Mutual Fund Distribution",
+        "Financial Analysis",
+        "Client Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pooja Naik",
+      "position": "Senior Associate @ Groww | Business Operations",
+      "employee_id": "Gro_225",
+      "skills": [
+        "Business Operations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_226",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Financial Services",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_227",
+      "skills": [
+        "Finance",
+        "NISM VA Certified",
+        "Staffing Solutions",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_228",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_229",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_230",
+      "skills": [
+        "Customer Support",
+        "Team Leadership",
+        "NISM Certification",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_231",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_232",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_233",
+      "skills": [
+        "Customer Support",
+        "Team Leadership",
+        "NISM Certification",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_234",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Gaurav Tiwari",
+      "position": "Business Finance @ Groww | Chartered Accountant",
+      "employee_id": "Gro_235",
+      "skills": [
+        "Business Finance",
+        "Chartered Accountant",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Cost Management",
+        "Investment Analysis"
+      ]
+    },
+    {
+      "name": "gaurav seth",
+      "position": "Compliance At GROWW, India",
+      "employee_id": "Gro_236",
+      "skills": [
+        "Compliance",
+        "Risk Management",
+        "Regulatory Knowledge",
+        "Financial Services",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Priya Harwani",
+      "position": "Startup Investments, Strategy, M&A at Groww",
+      "employee_id": "Gro_237",
+      "skills": [
+        "Startup Investments",
+        "Strategy",
+        "M&A",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Samruddhi Kankariya",
+      "position": "Product Manager @ Groww | IIT Bombay '23",
+      "employee_id": "Gro_238",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Financial Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Srihari Viswajit",
+      "position": "Product at Groww | IIT Kharagpur '23",
+      "employee_id": "Gro_239",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Khwaish Bansal",
+      "position": "Product Analytics @ Groww | IIT Roorkee’ 24",
+      "employee_id": "Gro_240",
+      "skills": [
+        "Product Analytics",
+        "Data Analysis",
+        "Python",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Noorain Saba C",
+      "position": "Operations Executive at Groww, India",
+      "employee_id": "Gro_241",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_242",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Pooja Naik",
+      "position": "Senior Associate @ Groww | Business Operations",
+      "employee_id": "Gro_243",
+      "skills": [
+        "Business Operations",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Darshani Sharma",
+      "position": "Groww||NISM VA CERTIFIED||FINANCE||STAFFIN SOLUTIONS LLP||MBA-FINANCE",
+      "employee_id": "Gro_244",
+      "skills": [
+        "Finance",
+        "NISM VA Certified",
+        "MBA-Finance"
+      ]
+    },
+    {
+      "name": "Harish Mishra",
+      "position": "Senior Executive at Groww, India",
+      "employee_id": "Gro_245",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Business Strategy",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Nizy K Babu",
+      "position": "Assistant Manager - Credit Operations and Escalations - Groww",
+      "employee_id": "Gro_246",
+      "skills": [
+        "Credit Operations",
+        "Escalations Management",
+        "Team Leadership",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_247",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Arun Kumar N",
+      "position": "Senior Manager at Groww",
+      "employee_id": "Gro_248",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Team Management",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Priya Harwani",
+      "position": "Startup Investments, Strategy, M&A at Groww",
+      "employee_id": "Gro_249",
+      "skills": [
+        "Startup Investments",
+        "Strategy",
+        "Mergers and Acquisitions (M&A)"
+      ]
+    },
+    {
+      "name": "Arpan Pandya",
+      "position": "Regional Head Gujarat- Groww AMC",
+      "employee_id": "Gro_250",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Business Development",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Mehul mahindrakar",
+      "position": "Team leader for customer support @ Groww NISM 5,7,8and16 certified",
+      "employee_id": "Gro_251",
+      "skills": [
+        "Customer Support",
+        "Team Leadership",
+        "NISM Certification",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Vikram Giri",
+      "position": "Territory Collections Manager at Groww India",
+      "employee_id": "Gro_252",
+      "skills": [
+        "Collections Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Team Leadership",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_253",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Client Relations",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pranay Pillai",
+      "position": "Customer Success at Groww",
+      "employee_id": "Gro_254",
+      "skills": [
+        "Customer Success",
+        "Client Relationship Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Heenal Agrawal",
+      "position": "CSE at Groww",
+      "employee_id": "Gro_255",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Moumita Saha",
+      "position": "Executive at GROWW ||MBA in Sales and Marketing",
+      "employee_id": "Gro_256",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Asha Sharma",
+      "position": "Executive at Groww | Customer Experience & Financial Services Enthusiast.",
+      "employee_id": "Gro_257",
+      "skills": [
+        "Customer Experience",
+        "Financial Services",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Ankita Joshi",
+      "position": "Senior Associate at Groww",
+      "employee_id": "Gro_258",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Client Relations"
+      ]
+    }
+  ]
+}

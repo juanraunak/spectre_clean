@@ -1,0 +1,3656 @@
+{
+  "company_name": "Phonepe",
+  "employees": [
+    {
+      "name": "Renjith Mathew",
+      "position": "HR Professional @ Phonepe",
+      "employee_id": "Pho_001",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Recruitment",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Zeena Verma",
+      "position": "Human Resource @ PhonePe",
+      "employee_id": "Pho_002",
+      "skills": [
+        "Human Resource Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HRIS"
+      ]
+    },
+    {
+      "name": "M Bhoomika",
+      "position": "Talent Acquisition Specialist at Phonepe. MBA| BSC. Expert in Human Resources Recruitment and operations| HR Analytics.",
+      "employee_id": "Pho_003",
+      "skills": [
+        "Human Resources Recruitment",
+        "HR Operations",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Syed Jawad",
+      "position": "TL Team Leader @ PhonePe | Sales, Marketing, Training",
+      "employee_id": "Pho_004",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Training",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sonia Rao",
+      "position": "People Operations Partner at PhonePe",
+      "employee_id": "Pho_005",
+      "skills": [
+        "People Operations",
+        "Employee Relations",
+        "Talent Management",
+        "HR Strategy",
+        "Recruitment",
+        "Onboarding",
+        "Performance Management",
+        "Employee Engagement",
+        "Conflict Resolution",
+        "HR Policies",
+        "Compliance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "priyanka gaur",
+      "position": "Amcc \"Team leader\" at PHONEPE Teleperformance ll SME at PHONEPE ll Teammate ll Technical support consultant at ASUS",
+      "employee_id": "Pho_006",
+      "skills": [
+        "Team Leadership",
+        "Technical Support",
+        "Consulting",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Dhwani Malhotra",
+      "position": "Talent Acquisition Tech (BFSI) : PhonePe",
+      "employee_id": "Pho_007",
+      "skills": [
+        "Talent Acquisition",
+        "BFSI",
+        "Recruitment",
+        "Tech Hiring",
+        "Phone Screening",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "HR Analytics",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_008",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "M Bhoomika",
+      "position": "Talent Acquisition Specialist at Phonepe. MBA| BSC. Expert in Human Resources Recruitment and operations| HR Analytics.",
+      "employee_id": "Pho_009",
+      "skills": [
+        "Human Resources Recruitment",
+        "HR Operations",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "BETHI CHANI",
+      "position": "Marketing Specialist at PhonePe",
+      "employee_id": "Pho_010",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Content Creation",
+        "SEO",
+        "Social Media Management",
+        "Analytics",
+        "Brand Management",
+        "Campaign Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Altaf Shaikh",
+      "position": "",
+      "employee_id": "Pho_011",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sunaina Verma",
+      "position": "Sales And Marketing Specialist at Phonepe pvt ltd",
+      "employee_id": "Pho_012",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Zeena Verma",
+      "position": "Human Resource @ PhonePe",
+      "employee_id": "Pho_013",
+      "skills": [
+        "Human Resource Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_014",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Policies",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Devi lakshmi k",
+      "position": "Talent Acquisition at Phonepe",
+      "employee_id": "Pho_015",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Akash Agarwal",
+      "position": "Software Developer @ PhonePe | Software Development",
+      "employee_id": "Pho_016",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "API Development",
+        "Microservices",
+        "Agile Methodologies",
+        "Version Control",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prasad Pai",
+      "position": "PhonePe | Engineering Manager | App Platform | App Support",
+      "employee_id": "Pho_017",
+      "skills": [
+        "Engineering Management",
+        "App Platform",
+        "App Support"
+      ]
+    },
+    {
+      "name": "Anil Kumar Passi",
+      "position": "Engineering Manager at PhonePe #ActivelyHiring #SystemIntegrations #APIEcosystem #TechInnovation#PhonePe #HyperGrowth #StartupCulture #FintechInnovation",
+      "employee_id": "Pho_018",
+      "skills": [
+        "System Integrations",
+        "API Ecosystem",
+        "Tech Innovation",
+        "Hyper Growth",
+        "Startup Culture",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Ramesh Perumalsamy",
+      "position": "",
+      "employee_id": "Pho_019",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shilp Gupta",
+      "position": "",
+      "employee_id": "Pho_020",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Navneet Rao",
+      "position": "Heading Payments Engineering at PhonePe",
+      "employee_id": "Pho_021",
+      "skills": [
+        "Payments Engineering",
+        "Team Leadership",
+        "Project Management",
+        "Software Development",
+        "Fintech",
+        "System Architecture",
+        "Agile Methodologies",
+        "Product Development",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Poulami Bar",
+      "position": "SDE @ Phonepe",
+      "employee_id": "Pho_022",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Pratik Lahiri",
+      "position": "SDE @ PhonePe | SWE Intern'24 @ Microsoft | Computer Science and Finance @ BITS Pilani Goa Campus",
+      "employee_id": "Pho_023",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Machine Learning",
+        "Problem Solving",
+        "Team Collaboration",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Akash Agarwal",
+      "position": "Software Developer @ PhonePe | Software Development",
+      "employee_id": "Pho_024",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Version Control",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prabhat Bhattacharya",
+      "position": "Business Analyst - TCS| PhonePe| General Secretary Of Placement(MBA-24)- Army Institute Of Management Kolkata| MBA (Marketing & Operations)| B.Tech (Civil Engineering)",
+      "employee_id": "Pho_025",
+      "skills": [
+        "Business Analysis",
+        "Marketing",
+        "Operations Management",
+        "Civil Engineering"
+      ]
+    },
+    {
+      "name": "Balaji Kasiraju",
+      "position": "",
+      "employee_id": "Pho_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chetan Joshi",
+      "position": "Business Operations Analyst at PhonePe",
+      "employee_id": "Pho_027",
+      "skills": [
+        "Business Operations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Process Improvement",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pavan Tohare",
+      "position": "Software Developer @ PhonePe | FinTech, Distributed Systems, Scalable Solutions",
+      "employee_id": "Pho_028",
+      "skills": [
+        "Software Development",
+        "FinTech",
+        "Distributed Systems",
+        "Scalable Solutions"
+      ]
+    },
+    {
+      "name": "Akash Agarwal",
+      "position": "Software Developer @ PhonePe | Software Development",
+      "employee_id": "Pho_029",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "API Development",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anuj Tiwari",
+      "position": "🚀 Backend Engineer @ PhonePe | Java & Python | Microservices & API Development | Product & Business Thinker | Problem Solver | Storyteller | Runner | Always Learning",
+      "employee_id": "Pho_030",
+      "skills": [
+        "Java",
+        "Python",
+        "Microservices",
+        "API Development",
+        "Product Thinking",
+        "Business Thinking",
+        "Problem Solving",
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Amber Kulkarni",
+      "position": "",
+      "employee_id": "Pho_031",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pratik Lahiri",
+      "position": "SDE @ PhonePe | SWE Intern'24 @ Microsoft | Computer Science and Finance @ BITS Pilani Goa Campus",
+      "employee_id": "Pho_032",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Machine Learning",
+        "Financial Analysis",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anuj Tiwari",
+      "position": "🚀 Backend Engineer @ PhonePe | Java & Python | Microservices & API Development | Product & Business Thinker | Problem Solver | Storyteller | Runner | Always Learning",
+      "employee_id": "Pho_033",
+      "skills": [
+        "Java",
+        "Python",
+        "Microservices",
+        "API Development",
+        "Product Thinking",
+        "Business Thinking",
+        "Problem Solving",
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Anuj Tiwari",
+      "position": "🚀 Backend Engineer @ PhonePe | Java & Python | Microservices & API Development | Product & Business Thinker | Problem Solver | Storyteller | Runner | Always Learning",
+      "employee_id": "Pho_034",
+      "skills": [
+        "Java",
+        "Python",
+        "Microservices",
+        "API Development",
+        "Product Thinking",
+        "Business Thinking",
+        "Problem Solving",
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Phaneesh Nagaraja",
+      "position": "",
+      "employee_id": "Pho_035",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Akash Agarwal",
+      "position": "Software Developer @ PhonePe | Software Development",
+      "employee_id": "Pho_036",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "API Development",
+        "Version Control",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_037",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_038",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_039",
+      "skills": [
+        "Data Analysis",
+        "Operations Management",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Deepesh Tiwari",
+      "position": "Software Engineer at PhonePe",
+      "employee_id": "Pho_040",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Poulami Bar",
+      "position": "SDE @ Phonepe",
+      "employee_id": "Pho_041",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Dhanu Bhardwaj",
+      "position": "",
+      "employee_id": "Pho_042",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Akash Agarwal",
+      "position": "Software Developer @ PhonePe | Software Development",
+      "employee_id": "Pho_043",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Kumar Sarthak",
+      "position": "Software Developer @ PhonePe | JP Morgan | BITS Pilani",
+      "employee_id": "Pho_044",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Node.js",
+        "Software Development",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anmol Pal",
+      "position": "SDE at PhonePe || IIT (ISM) Dhanbad || EE'24",
+      "employee_id": "Pho_045",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "Algorithms",
+        "Data Structures",
+        "Problem Solving",
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_046",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_047",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_048",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Operations Management",
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Shubham Chouhan",
+      "position": "Key Account Executive at PhonePe",
+      "employee_id": "Pho_049",
+      "skills": [
+        "Account Management",
+        "Customer Relationship Management",
+        "Sales",
+        "Negotiation",
+        "Communication",
+        "Problem Solving",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Shivprakash Maurya",
+      "position": "- Channel sales Manager At phonepe pvt ltd.",
+      "employee_id": "Pho_050",
+      "skills": [
+        "Channel Sales",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Business Development",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "RASHID KAMAL",
+      "position": "channel Sales Manager at Phonepe",
+      "employee_id": "Pho_051",
+      "skills": [
+        "Sales Management",
+        "Channel Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_052",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Excel",
+        "Financial Reporting",
+        "Variance Analysis",
+        "Cost Management"
+      ]
+    },
+    {
+      "name": "Amit Singh",
+      "position": "Enterprise Cluster Manager at PhonePe",
+      "employee_id": "Pho_053",
+      "skills": [
+        "Cluster Management",
+        "Enterprise Solutions",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Performance Optimization",
+        "Client Relations",
+        "Operational Efficiency",
+        "Problem Solving",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Nishita Manshani",
+      "position": "Finance Executive | PhonePe – Pincode | Finance & Accounting | MBA (Finance)",
+      "employee_id": "Pho_054",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_055",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_056",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Process Improvement",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_057",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_058",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Variance Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sunaina Verma",
+      "position": "Sales And Marketing Specialist at Phonepe pvt ltd",
+      "employee_id": "Pho_059",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "SEO",
+        "Content Creation",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analytics",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rukhsana Yousuf",
+      "position": "Sales Executive at PhonePe",
+      "employee_id": "Pho_060",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Communication Skills",
+        "Team Leadership",
+        "Sales Forecasting",
+        "Product Knowledge",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sanjana S",
+      "position": "Associate Manager | Payment Gateway Operations at PhonePe | Driving Strategic Payment Solutions",
+      "employee_id": "Pho_061",
+      "skills": [
+        "Payment Gateway Operations",
+        "Strategic Payment Solutions",
+        "Team Management",
+        "Project Management",
+        "Operational Efficiency",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_062",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Negotiation",
+        "Strategic Planning",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Swarnadeep Debnath",
+      "position": "Operation @phonepe | Product | Analytics | Building 0 -​>1 SaaS Product | Open for Opportunities",
+      "employee_id": "Pho_063",
+      "skills": [
+        "Product Management",
+        "Analytics",
+        "SaaS Product Development",
+        "Operations"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_064",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Nikhil Kumar",
+      "position": "Growth Consultant @ PhonePe | App Development, Marketing",
+      "employee_id": "Pho_065",
+      "skills": [
+        "App Development",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Neha Jishtu",
+      "position": "",
+      "employee_id": "Pho_066",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "BETHI CHANI",
+      "position": "Marketing Specialist at PhonePe",
+      "employee_id": "Pho_067",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Market Research",
+        "Brand Management",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Nikhil Kumar",
+      "position": "Growth Consultant @ PhonePe | App Development, Marketing",
+      "employee_id": "Pho_068",
+      "skills": [
+        "App Development",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Satyam Saxena",
+      "position": "",
+      "employee_id": "Pho_069",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_070",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_071",
+      "skills": [
+        "Operations Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Python",
+        "Excel",
+        "SQL",
+        "Business Intelligence",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Pooja Lakhotia",
+      "position": "Operations Analyst @ PhonePe | Fintech | Digital Lending| Lending Operations",
+      "employee_id": "Pho_072",
+      "skills": [
+        "Operations Analysis",
+        "Fintech",
+        "Digital Lending",
+        "Lending Operations"
+      ]
+    },
+    {
+      "name": "Ramesh Perumalsamy",
+      "position": "",
+      "employee_id": "Pho_073",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistical Analysis",
+        "Predictive Modeling",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "Navneet Rao",
+      "position": "Heading Payments Engineering at PhonePe",
+      "employee_id": "Pho_074",
+      "skills": [
+        "Payments Engineering",
+        "Team Leadership",
+        "Software Development",
+        "Project Management",
+        "Financial Technology"
+      ]
+    },
+    {
+      "name": "Abhiram Kaushik",
+      "position": "",
+      "employee_id": "Pho_075",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_076",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_077",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_078",
+      "skills": [
+        "Operations Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_079",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_080",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Chandan Kumar Swain",
+      "position": "Sales and Business Development Professional",
+      "employee_id": "Pho_081",
+      "skills": [
+        "Sales",
+        "Business Development",
+        "Market Research",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Lead Generation",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Amit Singh",
+      "position": "Enterprise Cluster Manager at PhonePe",
+      "employee_id": "Pho_082",
+      "skills": [
+        "Cluster Management",
+        "Enterprise Solutions",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Performance Optimization",
+        "Client Relations",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Harish Akarapu",
+      "position": "Cluster Manager at PhonePe",
+      "employee_id": "Pho_083",
+      "skills": [
+        "Team Management",
+        "Strategic Planning",
+        "Sales Operations",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Performance Metrics",
+        "Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shivakumar C H",
+      "position": "Regional Operations Manager at PhonePe",
+      "employee_id": "Pho_084",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Financial Reporting",
+        "Customer Service",
+        "Vendor Management",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Amit Ranjan Das",
+      "position": "Zonal Distribution Head ,Odisha n Jharkhand at PhonePe",
+      "employee_id": "Pho_085",
+      "skills": [
+        "Distribution Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_086",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Sarath Prabhahar  R",
+      "position": "State Head at PhonePe",
+      "employee_id": "Pho_087",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_088",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Aarav Kaushal",
+      "position": "Territory sales executive at phonepe at PhonePe",
+      "employee_id": "Pho_089",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shivprakash Maurya",
+      "position": "- Channel sales Manager At phonepe pvt ltd.",
+      "employee_id": "Pho_090",
+      "skills": [
+        "Channel Sales",
+        "Sales Management",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_091",
+      "skills": [
+        "Operations Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Python",
+        "Excel",
+        "SQL",
+        "Business Intelligence",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Kanishka Saravanan",
+      "position": "Business Operations Analyst at PhonePe",
+      "employee_id": "Pho_092",
+      "skills": [
+        "Data Analysis",
+        "Business Operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Swetha Venkatesh",
+      "position": "Senior Operation Analyst @ PhonePe",
+      "employee_id": "Pho_093",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Operations Management",
+        "Process Improvement",
+        "Project Management",
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Anagha Gangadharan",
+      "position": "Sales And Operation Associate At PhonePe",
+      "employee_id": "Pho_094",
+      "skills": [
+        "Sales",
+        "Operations",
+        "Customer Relationship Management",
+        "Team Collaboration",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Amit Phogat",
+      "position": "Area sales manager at PhonePe",
+      "employee_id": "Pho_095",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Alim Patel",
+      "position": "Channel Sales Manager at Phonepe",
+      "employee_id": "Pho_096",
+      "skills": [
+        "Sales Strategy",
+        "Channel Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_097",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Operations"
+      ]
+    },
+    {
+      "name": "Amit Ranjan Das",
+      "position": "Zonal Distribution Head ,Odisha n Jharkhand at PhonePe",
+      "employee_id": "Pho_098",
+      "skills": [
+        "Distribution Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Operational Efficiency",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sarath Prabhahar  R",
+      "position": "State Head at PhonePe",
+      "employee_id": "Pho_099",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nishita Manshani",
+      "position": "Finance Executive | PhonePe – Pincode | Finance & Accounting | MBA (Finance)",
+      "employee_id": "Pho_100",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "CA Rashmi Bhat",
+      "position": "Business Finance - Phonepe | Bibliophile | Chess",
+      "employee_id": "Pho_101",
+      "skills": [
+        "Business Finance",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_102",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_103",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Amit Ranjan Das",
+      "position": "Zonal Distribution Head ,Odisha n Jharkhand at PhonePe",
+      "employee_id": "Pho_104",
+      "skills": [
+        "Distribution Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Operations",
+        "Market Analysis",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Suggala sai santosh",
+      "position": "Senior State Head at Phonepe Limited",
+      "employee_id": "Pho_105",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Balakrishnan Murugan",
+      "position": "Customer Service Department at PhonePe",
+      "employee_id": "Pho_106",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Conflict Resolution",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rukhsana Yousuf",
+      "position": "Sales Executive at PhonePe",
+      "employee_id": "Pho_107",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Communication",
+        "Market Research",
+        "Lead Generation",
+        "Sales Strategy",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Shubham Chouhan",
+      "position": "Key Account Executive at PhonePe",
+      "employee_id": "Pho_108",
+      "skills": [
+        "Account Management",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Negotiation",
+        "Customer Service",
+        "Business Development",
+        "Market Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_109",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Amber Kulkarni",
+      "position": "",
+      "employee_id": "Pho_110",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Statistical Analysis",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "BETHI CHANI",
+      "position": "Marketing Specialist at PhonePe",
+      "employee_id": "Pho_111",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Market Research",
+        "Brand Management",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_112",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Vendor Management",
+        "Supply Chain Management",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Naushad Ansari",
+      "position": "General Manager at PhonePe",
+      "employee_id": "Pho_113",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Project Management",
+        "Financial Analysis",
+        "Business Development",
+        "Operations Management",
+        "Market Research",
+        "Customer Relationship Management (CRM)",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_114",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Negotiation",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Renjith Mathew",
+      "position": "HR Professional @ Phonepe",
+      "employee_id": "Pho_115",
+      "skills": [
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Anna Abraham",
+      "position": "HR Coordinator - Business Partnering @ PhonePe",
+      "employee_id": "Pho_116",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "HRIS",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Sonia Rao",
+      "position": "People Operations Partner at PhonePe",
+      "employee_id": "Pho_117",
+      "skills": [
+        "People Operations",
+        "Employee Relations",
+        "Talent Management",
+        "HR Strategy",
+        "Performance Management",
+        "Recruitment",
+        "Onboarding",
+        "Employee Engagement",
+        "Conflict Resolution",
+        "HR Policies",
+        "Compliance",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Aarav Kaushal",
+      "position": "Territory sales executive at phonepe at PhonePe",
+      "employee_id": "Pho_118",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Territory Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Team Leadership",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "RASHID KAMAL",
+      "position": "channel Sales Manager at Phonepe",
+      "employee_id": "Pho_119",
+      "skills": [
+        "Sales Management",
+        "Channel Sales",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Parmar Anil",
+      "position": "Area Sales Manager at Phonepe",
+      "employee_id": "Pho_120",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_121",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Zeena Verma",
+      "position": "Human Resource @ PhonePe",
+      "employee_id": "Pho_122",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Onboarding",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HRIS"
+      ]
+    },
+    {
+      "name": "Devi lakshmi k",
+      "position": "Talent Acquisition at Phonepe",
+      "employee_id": "Pho_123",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Management"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_124",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Neha Jishtu",
+      "position": "",
+      "employee_id": "Pho_125",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_126",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Anna Abraham",
+      "position": "HR Coordinator - Business Partnering @ PhonePe",
+      "employee_id": "Pho_127",
+      "skills": [
+        "Human Resources",
+        "Business Partnering",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Management",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Vinayak Gupta",
+      "position": "Data Scientist at PhonePe",
+      "employee_id": "Pho_128",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "Big Data",
+        "Predictive Analytics",
+        "Deep Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_129",
+      "skills": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "SYED AMEER S K",
+      "position": "",
+      "employee_id": "Pho_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_131",
+      "skills": [
+        "Data Analysis",
+        "Python",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Raju Naik",
+      "position": "Product Engineer @ Vxceed Solutions | SQL • Python • PowerBI • Tableau • AWS QuickSight • Excel • Statistical Analysis",
+      "employee_id": "Pho_132",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Tableau",
+        "AWS QuickSight",
+        "Excel",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "name": "syed yaseen hasan",
+      "position": "Sales And Marketing Specialist at Phonepe App",
+      "employee_id": "Pho_133",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Communication",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sunaina Verma",
+      "position": "Sales And Marketing Specialist at Phonepe pvt ltd",
+      "employee_id": "Pho_134",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Harish Dhingra",
+      "position": "Sales Specialist at PhonePe",
+      "employee_id": "Pho_135",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Team Leadership",
+        "Sales Forecasting",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Prabhat Bhattacharya",
+      "position": "Business Analyst - TCS| PhonePe| General Secretary Of Placement(MBA-24)- Army Institute Of Management Kolkata| MBA (Marketing & Operations)| B.Tech (Civil Engineering)",
+      "employee_id": "Pho_136",
+      "skills": [
+        "Business Analysis",
+        "Marketing",
+        "Operations Management",
+        "Civil Engineering",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_137",
+      "skills": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Pooja Lakhotia",
+      "position": "Operations Analyst @ PhonePe | Fintech | Digital Lending| Lending Operations",
+      "employee_id": "Pho_138",
+      "skills": [
+        "Operations Analysis",
+        "Fintech",
+        "Digital Lending",
+        "Lending Operations"
+      ]
+    },
+    {
+      "name": "syed yaseen hasan",
+      "position": "Sales And Marketing Specialist at Phonepe App",
+      "employee_id": "Pho_139",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sunaina Verma",
+      "position": "Sales And Marketing Specialist at Phonepe pvt ltd",
+      "employee_id": "Pho_140",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Strategic Planning",
+        "Communication Skills",
+        "Team Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Harish Dhingra",
+      "position": "Sales Specialist at PhonePe",
+      "employee_id": "Pho_141",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Communication Skills",
+        "Team Leadership",
+        "Problem Solving",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_142",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Process Improvement",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Vendor Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_143",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_144",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Negotiation",
+        "Team Leadership",
+        "Process Improvement",
+        "Vendor Relations",
+        "Project Management",
+        "Strategic Planning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_145",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Maniraj Kumar",
+      "position": "Senior Area Sales Manager at PhonePe || AIC-BIMTECH",
+      "employee_id": "Pho_146",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_147",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Chetan Joshi",
+      "position": "Business Operations Analyst at PhonePe",
+      "employee_id": "Pho_148",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Operations",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kanishka Saravanan",
+      "position": "Business Operations Analyst at PhonePe",
+      "employee_id": "Pho_149",
+      "skills": [
+        "Business Operations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Python",
+        "Excel",
+        "SQL",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_150",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Process Improvement",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_151",
+      "skills": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Balakrishnan Murugan",
+      "position": "Customer Service Department at PhonePe",
+      "employee_id": "Pho_152",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Conflict Resolution",
+        "Time Management",
+        "Teamwork"
+      ]
+    },
+    {
+      "name": "Kanishka Saravanan",
+      "position": "Business Operations Analyst at PhonePe",
+      "employee_id": "Pho_153",
+      "skills": [
+        "Business Operations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Aditya Jain",
+      "position": "Product Manager at PhonePe",
+      "employee_id": "Pho_154",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Research",
+        "Team Leadership",
+        "Agile Methodologies",
+        "Project Management",
+        "Stakeholder Management",
+        "Data Analysis",
+        "User Experience (UX) Design",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Praveen Kumathalli",
+      "position": "",
+      "employee_id": "Pho_155",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_156",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Process Improvement",
+        "Business Development",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Zeena Verma",
+      "position": "Human Resource @ PhonePe",
+      "employee_id": "Pho_157",
+      "skills": [
+        "Human Resource Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Anna Abraham",
+      "position": "HR Coordinator - Business Partnering @ PhonePe",
+      "employee_id": "Pho_158",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Onboarding",
+        "HRIS",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_159",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Policies",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Pooja Lakhotia",
+      "position": "Operations Analyst @ PhonePe | Fintech | Digital Lending| Lending Operations",
+      "employee_id": "Pho_160",
+      "skills": [
+        "Operations Analysis",
+        "Fintech",
+        "Digital Lending",
+        "Lending Operations"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_161",
+      "skills": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_162",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shrawan Kumar",
+      "position": "Channel Sale Manager at PhonePe",
+      "employee_id": "Pho_163",
+      "skills": [
+        "Channel Sales",
+        "Sales Management",
+        "Business Development",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_164",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_165",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Shankar Jayaraman",
+      "position": "Head of CX Digital Transformation @ PhonePe | Project Management, Leadership, Startup, Customer experience",
+      "employee_id": "Pho_166",
+      "skills": [
+        "Project Management",
+        "Leadership",
+        "Startup",
+        "Customer experience"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_167",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sonali Rastogi",
+      "position": "Product @ PhonePe | Innovator | NIT-A'23 (Gold)",
+      "employee_id": "Pho_168",
+      "skills": [
+        "Product Management",
+        "Innovation",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Pooja Lakhotia",
+      "position": "Operations Analyst @ PhonePe | Fintech | Digital Lending| Lending Operations",
+      "employee_id": "Pho_169",
+      "skills": [
+        "Operations Analysis",
+        "Fintech",
+        "Digital Lending",
+        "Lending Operations"
+      ]
+    },
+    {
+      "name": "Raju Naik",
+      "position": "Product Engineer @ Vxceed Solutions | SQL • Python • PowerBI • Tableau • AWS QuickSight • Excel • Statistical Analysis",
+      "employee_id": "Pho_170",
+      "skills": [
+        "SQL",
+        "Python",
+        "PowerBI",
+        "Tableau",
+        "AWS QuickSight",
+        "Excel",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "name": "Balakrishnan Murugan",
+      "position": "Customer Service Department at PhonePe",
+      "employee_id": "Pho_171",
+      "skills": [
+        "Customer Service",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Chandan Kumar Swain",
+      "position": "Sales and Business Development Professional",
+      "employee_id": "Pho_172",
+      "skills": [
+        "Sales",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Research",
+        "Lead Generation",
+        "Negotiation",
+        "Strategic Planning",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Harish Dhingra",
+      "position": "Sales Specialist at PhonePe",
+      "employee_id": "Pho_173",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Business Development",
+        "Communication Skills",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Shrawan Kumar",
+      "position": "Channel Sale Manager at PhonePe",
+      "employee_id": "Pho_174",
+      "skills": [
+        "Channel Sales",
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Aditya Jain",
+      "position": "Product Manager at PhonePe",
+      "employee_id": "Pho_175",
+      "skills": [
+        "Product Management",
+        "Agile Methodologies",
+        "User Experience (UX)",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Cross-functional Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Praveen Kumathalli",
+      "position": "",
+      "employee_id": "Pho_176",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Balaji Kasiraju",
+      "position": "",
+      "employee_id": "Pho_177",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_178",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_179",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_180",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Suggala sai santosh",
+      "position": "Senior State Head at Phonepe Limited",
+      "employee_id": "Pho_181",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sarath Prabhahar  R",
+      "position": "State Head at PhonePe",
+      "employee_id": "Pho_182",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Communication",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_183",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Vinayak Gupta",
+      "position": "Data Scientist at PhonePe",
+      "employee_id": "Pho_184",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "SQL",
+        "Big Data",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "name": "Sunil Prajapati",
+      "position": "Data Scientist at PhonePe | IIT Dhanbad",
+      "employee_id": "Pho_185",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Big Data",
+        "SQL",
+        "R",
+        "Deep Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "SYED AMEER S K",
+      "position": "",
+      "employee_id": "Pho_186",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_187",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_188",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Maniraj Kumar",
+      "position": "Senior Area Sales Manager at PhonePe || AIC-BIMTECH",
+      "employee_id": "Pho_189",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_190",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Naaveen Kumar B",
+      "position": "State Head - Lending at Phonepe",
+      "employee_id": "Pho_191",
+      "skills": [
+        "Lending",
+        "Financial Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Risk Management",
+        "Business Development",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Nishita Manshani",
+      "position": "Finance Executive | PhonePe – Pincode | Finance & Accounting | MBA (Finance)",
+      "employee_id": "Pho_192",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vidyalakshmi Anand",
+      "position": "",
+      "employee_id": "Pho_193",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mujtaba Bashir",
+      "position": "Business Development Executive @ PhonePe | Sales, Marketing",
+      "employee_id": "Pho_194",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_195",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_196",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Sarath Prabhahar  R",
+      "position": "State Head at PhonePe",
+      "employee_id": "Pho_197",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Marketing",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Naaveen Kumar B",
+      "position": "State Head - Lending at Phonepe",
+      "employee_id": "Pho_198",
+      "skills": [
+        "Lending",
+        "Financial Services",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Naushad Ansari",
+      "position": "General Manager at PhonePe",
+      "employee_id": "Pho_199",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Project Management",
+        "Financial Analysis",
+        "Business Development",
+        "Market Research",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_200",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Process Improvement",
+        "Project Management",
+        "Financial Acumen",
+        "Risk Management",
+        "Business Development",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_201",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis",
+        "Contract Negotiation",
+        "Stakeholder Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Amit Singh",
+      "position": "Enterprise Cluster Manager at PhonePe",
+      "employee_id": "Pho_202",
+      "skills": [
+        "Cluster Management",
+        "Enterprise Solutions",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Client Relations",
+        "Problem Solving",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_203",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Accounting",
+        "Excel",
+        "Financial Reporting",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Harish Akarapu",
+      "position": "Cluster Manager at PhonePe",
+      "employee_id": "Pho_204",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Performance Monitoring",
+        "Business Development",
+        "Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Renjith Mathew",
+      "position": "HR Professional @ Phonepe",
+      "employee_id": "Pho_205",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_206",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Software"
+      ]
+    },
+    {
+      "name": "Sonia Rao",
+      "position": "People Operations Partner at PhonePe",
+      "employee_id": "Pho_207",
+      "skills": [
+        "People Operations",
+        "Employee Relations",
+        "Talent Management",
+        "HR Strategy",
+        "Performance Management",
+        "Conflict Resolution",
+        "Recruitment",
+        "Onboarding",
+        "Employee Engagement",
+        "HR Policies",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "BETHI CHANI",
+      "position": "Marketing Specialist at PhonePe",
+      "employee_id": "Pho_208",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Market Research",
+        "Brand Management",
+        "Email Marketing",
+        "Analytics",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Paushali Majumder",
+      "position": "Senior Manager, Creative @ PhonePe",
+      "employee_id": "Pho_209",
+      "skills": [
+        "Creative Strategy",
+        "Team Leadership",
+        "Project Management",
+        "Marketing",
+        "Brand Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nikhil Kumar",
+      "position": "Growth Consultant @ PhonePe | App Development, Marketing",
+      "employee_id": "Pho_210",
+      "skills": [
+        "App Development",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_211",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Strategic Planning",
+        "Financial Reporting",
+        "Team Leadership",
+        "Microsoft Excel",
+        "SAP",
+        "Oracle Financials"
+      ]
+    },
+    {
+      "name": "Shone Antony",
+      "position": "BFSI Compliance | PhonePe CA Finalist",
+      "employee_id": "Pho_212",
+      "skills": [
+        "BFSI Compliance",
+        "Financial Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_213",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Sarath Prabhahar  R",
+      "position": "State Head at PhonePe",
+      "employee_id": "Pho_214",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Shrawan Kumar",
+      "position": "Channel Sale Manager at PhonePe",
+      "employee_id": "Pho_215",
+      "skills": [
+        "Channel Sales",
+        "Sales Management",
+        "Business Development",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_216",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management"
+      ]
+    },
+    {
+      "name": "M Bhoomika",
+      "position": "Talent Acquisition Specialist at Phonepe. MBA| BSC. Expert in Human Resources Recruitment and operations| HR Analytics.",
+      "employee_id": "Pho_217",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources Recruitment",
+        "HR Operations",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Payal Ojha",
+      "position": "Talent Acquisition Recruiter @ Phonepe | MBA in HR Management",
+      "employee_id": "Pho_218",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management"
+      ]
+    },
+    {
+      "name": "Varshini V",
+      "position": "Human resources - Talent acquisition at Phonepe",
+      "employee_id": "Pho_219",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Chandan Kumar Swain",
+      "position": "Sales and Business Development Professional",
+      "employee_id": "Pho_220",
+      "skills": [
+        "Sales",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Negotiation",
+        "Lead Generation",
+        "Account Management",
+        "Revenue Growth",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_221",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Parmar Anil",
+      "position": "Area Sales Manager at Phonepe",
+      "employee_id": "Pho_222",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shivakumar C H",
+      "position": "Regional Operations Manager at PhonePe",
+      "employee_id": "Pho_223",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Budget Management",
+        "Vendor Management",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Caif Malik",
+      "position": "Chief Operations Officer at PhonePe",
+      "employee_id": "Pho_224",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Project Management",
+        "Process Improvement",
+        "Business Development",
+        "Financial Analysis",
+        "Risk Management",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Syed Bilal",
+      "position": "Subject Matter Expert @ PhonePe | People Management, Data Management | Project Management",
+      "employee_id": "Pho_225",
+      "skills": [
+        "People Management",
+        "Data Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_226",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_227",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Nishita Manshani",
+      "position": "Finance Executive | PhonePe – Pincode | Finance & Accounting | MBA (Finance)",
+      "employee_id": "Pho_228",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Sonia Rao",
+      "position": "People Operations Partner at PhonePe",
+      "employee_id": "Pho_229",
+      "skills": [
+        "Employee Relations",
+        "Talent Management",
+        "HR Strategy",
+        "Performance Management",
+        "Recruitment",
+        "Onboarding",
+        "Employee Engagement",
+        "Conflict Resolution",
+        "HR Policies",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Pranav Agarwal",
+      "position": "HRBP - Phonepe | MDI Gurgaon",
+      "employee_id": "Pho_230",
+      "skills": [
+        "Human Resources",
+        "Business Partnering",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "HR Strategy",
+        "Organizational Development",
+        "Change Management",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Chandana H C",
+      "position": "Analyst 2 @ PhonePe | Data Analysis",
+      "employee_id": "Pho_231",
+      "skills": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Pooja Lakhotia",
+      "position": "Operations Analyst @ PhonePe | Fintech | Digital Lending| Lending Operations",
+      "employee_id": "Pho_232",
+      "skills": [
+        "Operations Analysis",
+        "Fintech",
+        "Digital Lending",
+        "Lending Operations"
+      ]
+    },
+    {
+      "name": "Balakrishnan Murugan",
+      "position": "Customer Service Department at PhonePe",
+      "employee_id": "Pho_233",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Conflict Resolution",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_234",
+      "skills": [
+        "Operations Management",
+        "Data Analysis",
+        "Financial Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Excel",
+        "SQL",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_235",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_236",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Excel",
+        "Accounting",
+        "Cost Management"
+      ]
+    },
+    {
+      "name": "CA Rashmi Bhat",
+      "position": "Business Finance - Phonepe | Bibliophile | Chess",
+      "employee_id": "Pho_237",
+      "skills": [
+        "Business Finance",
+        "Bibliophile",
+        "Chess"
+      ]
+    },
+    {
+      "name": "Aditya Jain",
+      "position": "Product Manager at PhonePe",
+      "employee_id": "Pho_238",
+      "skills": [
+        "Product Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Market Research",
+        "Data Analysis",
+        "User Experience (UX) Design",
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Praveen Kumathalli",
+      "position": "",
+      "employee_id": "Pho_239",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Balaji Kasiraju",
+      "position": "",
+      "employee_id": "Pho_240",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anju Chowdhary",
+      "position": "ABT - Operations at Phonepe",
+      "employee_id": "Pho_241",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rahul Singh Makhan",
+      "position": "Vendor Operations Manager @ PhonePe",
+      "employee_id": "Pho_242",
+      "skills": [
+        "Vendor Management",
+        "Operations Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Negotiation",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Madan H",
+      "position": "Operations Analyst at PhonePe",
+      "employee_id": "Pho_243",
+      "skills": [
+        "Operations Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Radha Agrawal",
+      "position": "FP&A at PhonePe",
+      "employee_id": "Pho_244",
+      "skills": [
+        "Financial Planning",
+        "Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Nishita Manshani",
+      "position": "Finance Executive | PhonePe – Pincode | Finance & Accounting | MBA (Finance)",
+      "employee_id": "Pho_245",
+      "skills": [
+        "Finance",
+        "Accounting",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vineethkumar Mutyala",
+      "position": "Finance Manager at PhonePe",
+      "employee_id": "Pho_246",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Financial Reporting",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Chandan Kumar Swain",
+      "position": "Sales and Business Development Professional",
+      "employee_id": "Pho_247",
+      "skills": [
+        "Sales",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Negotiation",
+        "Lead Generation",
+        "Customer Acquisition",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Vidyalakshmi Anand",
+      "position": "",
+      "employee_id": "Pho_248",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_249",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shivakumar C H",
+      "position": "Regional Operations Manager at PhonePe",
+      "employee_id": "Pho_250",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Mohammed Aqil",
+      "position": "Zonal distribution head @ PhonePe | PGDM in Marketing",
+      "employee_id": "Pho_251",
+      "skills": [
+        "Distribution Management",
+        "Marketing",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_252",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "syed yaseen hasan",
+      "position": "Sales And Marketing Specialist at Phonepe App",
+      "employee_id": "Pho_253",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Brand Management",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sunaina Verma",
+      "position": "Sales And Marketing Specialist at Phonepe pvt ltd",
+      "employee_id": "Pho_254",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "SEO",
+        "Content Creation",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Harish Dhingra",
+      "position": "Sales Specialist at PhonePe",
+      "employee_id": "Pho_255",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Communication",
+        "Strategic Planning",
+        "Team Leadership",
+        "Problem Solving",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Anuj Bhatt",
+      "position": "Senior Area Sales Manager @ PhonePe | MBA in Marketing and Operations",
+      "employee_id": "Pho_256",
+      "skills": [
+        "Sales Management",
+        "Marketing",
+        "Operations Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sharat Manhas",
+      "position": "Senior Area Sales Manager at PhonePe",
+      "employee_id": "Pho_257",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Performance Metrics",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Maniraj Kumar",
+      "position": "Senior Area Sales Manager at PhonePe || AIC-BIMTECH",
+      "employee_id": "Pho_258",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Performance Metrics"
+      ]
+    }
+  ]
+}

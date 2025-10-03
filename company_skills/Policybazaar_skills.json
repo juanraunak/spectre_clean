@@ -1,0 +1,3730 @@
+{
+  "company_name": "Policybazaar",
+  "employees": [
+    {
+      "name": "Devanshi Gulati",
+      "position": "Human Resource @ Policybazaar",
+      "employee_id": "Pol_001",
+      "skills": [
+        "Human Resource Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Training and Development",
+        "HR Policies",
+        "Conflict Resolution",
+        "Talent Acquisition",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Mohini Kuhar",
+      "position": "Talent Acquisition Leader | HR Campus Hiring | Corporate & Technology Recruitment | Policybazaar",
+      "employee_id": "Pol_002",
+      "skills": [
+        "Talent Acquisition",
+        "HR Campus Hiring",
+        "Corporate Recruitment",
+        "Technology Recruitment"
+      ]
+    },
+    {
+      "name": "Bhawna Singhal",
+      "position": "HR Executive at Policybazaar | MBA in HR (2025–2027) | Passionate About People & Culture",
+      "employee_id": "Pol_003",
+      "skills": [
+        "HR Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Training and Development",
+        "Conflict Resolution",
+        "Organizational Development",
+        "HR Policies",
+        "People Management",
+        "Culture Building"
+      ]
+    },
+    {
+      "name": "Garima Mahajan",
+      "position": "I-O Psychologist || Senior Trainer – L&D Strategy @ Policybazaar.com",
+      "employee_id": "Pol_004",
+      "skills": [
+        "I-O Psychology",
+        "Training",
+        "L&D Strategy",
+        "Policy Development",
+        "Employee Development",
+        "Organizational Behavior",
+        "Performance Management",
+        "Talent Management",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Urmila Negi",
+      "position": "Sr. Executive L&D @ Policybazaar",
+      "employee_id": "Pol_005",
+      "skills": [
+        "Learning and Development",
+        "Training",
+        "Employee Development",
+        "Performance Management",
+        "Instructional Design",
+        "Talent Management",
+        "Leadership Development",
+        "Organizational Development",
+        "Coaching",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Muskan Malik",
+      "position": "Human Resources Senior Executive @ Policybazaar.com | Talent Acquisition, Support Hiring",
+      "employee_id": "Pol_006",
+      "skills": [
+        "Talent Acquisition",
+        "Support Hiring",
+        "Human Resources"
+      ]
+    },
+    {
+      "name": "Gurdeep Kaur",
+      "position": "HR Executive @ Policybazaar.com | Talent Acquisition |End-to-End Recruitment | Bulk Hiring |Onboarding",
+      "employee_id": "Pol_007",
+      "skills": [
+        "Talent Acquisition",
+        "End-to-End Recruitment",
+        "Bulk Hiring",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Mohini Kuhar",
+      "position": "Talent Acquisition Leader | HR Campus Hiring | Corporate & Technology Recruitment | Policybazaar",
+      "employee_id": "Pol_008",
+      "skills": [
+        "Talent Acquisition",
+        "HR Campus Hiring",
+        "Corporate Recruitment",
+        "Technology Recruitment"
+      ]
+    },
+    {
+      "name": "Muskan Malik",
+      "position": "Human Resources Senior Executive @ Policybazaar.com | Talent Acquisition, Support Hiring",
+      "employee_id": "Pol_009",
+      "skills": [
+        "Talent Acquisition",
+        "Support Hiring",
+        "Human Resources"
+      ]
+    },
+    {
+      "name": "Vandana Kadian",
+      "position": "Team Lead – Online Marketing @ Policybazaar | B2B & B2C Marketing | Social Media | YouTube Growth | Brand Engagement",
+      "employee_id": "Pol_010",
+      "skills": [
+        "Online Marketing",
+        "B2B Marketing",
+        "B2C Marketing",
+        "Social Media",
+        "YouTube Growth",
+        "Brand Engagement"
+      ]
+    },
+    {
+      "name": "Samir Sethi",
+      "position": "",
+      "employee_id": "Pol_011",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_012",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Strategy",
+        "Data Analysis",
+        "Email Marketing",
+        "Social Media Marketing",
+        "Customer Acquisition",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Prerna Saraswat",
+      "position": "Human Resources Specialist @ Policybazaar.com | MBA in HR",
+      "employee_id": "Pol_013",
+      "skills": [
+        "Human Resources",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Management",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Onboarding",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Jitesh Mehtani",
+      "position": "",
+      "employee_id": "Pol_014",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Devanshi Gulati",
+      "position": "Human Resource @ Policybazaar",
+      "employee_id": "Pol_015",
+      "skills": [
+        "Human Resource Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "Training and Development",
+        "HR Policies",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Priyanshu Gupta",
+      "position": "SDE 1 @ PolicyBazaar | .NET | React | Django | DTU’25",
+      "employee_id": "Pol_016",
+      "skills": [
+        ".NET",
+        "React",
+        "Django"
+      ]
+    },
+    {
+      "name": "Suraj Singh Bisht",
+      "position": "Senior Software Engineer @ Policybazaar.com | MCA",
+      "employee_id": "Pol_017",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Yash Bhardwaj",
+      "position": "Software Engineer at Policybazaar",
+      "employee_id": "Pol_018",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies",
+        "Git",
+        "Jenkins",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Abhishek Chaturvedi",
+      "position": "AVP - Technology at PolicyBazaar.com | FMS - MBA",
+      "employee_id": "Pol_019",
+      "skills": [
+        "Technology Management",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Building",
+        "Problem Solving",
+        "Communication Skills",
+        "Business Development",
+        "MBA"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_020",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "S R Praveen",
+      "position": "SDE 2 at Policybazaar.com",
+      "employee_id": "Pol_021",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "Software Development",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Syed Atif Alam",
+      "position": "Software Developer - II at Policybazaar for Business || ASP.NET Core || C# || Web API || SQL Server || Azure || Angular",
+      "employee_id": "Pol_022",
+      "skills": [
+        "ASP.NET Core",
+        "C#",
+        "Web API",
+        "SQL Server",
+        "Azure",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_023",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Adityaraj Singh",
+      "position": "Software Development Engineer at Policybazaar.com | C#, ASP.NET, .NET Core, SQL,React | Vice President at ICFAI University | Passionate About Software Development & Leaders",
+      "employee_id": "Pol_024",
+      "skills": [
+        "C#",
+        "ASP.NET",
+        ".NET Core",
+        "SQL",
+        "React",
+        "Software Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Piyush Sehrawat",
+      "position": "Business Analyst at Policybazaar | DTU’25 | Data & Product Analyst",
+      "employee_id": "Pol_025",
+      "skills": [
+        "Data Analysis",
+        "Product Analysis",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "SHYAM MUDDASANI",
+      "position": "Product Analyst at Policybazaar.com",
+      "employee_id": "Pol_026",
+      "skills": [
+        "Product Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shashi Bhushan Pandey",
+      "position": "Team Leader-Data Analyst at Policybazaar",
+      "employee_id": "Pol_027",
+      "skills": [
+        "Data Analysis",
+        "Team Leadership",
+        "Policy Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Syed Atif Alam",
+      "position": "Software Developer - II at Policybazaar for Business || ASP.NET Core || C# || Web API || SQL Server || Azure || Angular",
+      "employee_id": "Pol_028",
+      "skills": [
+        "ASP.NET Core",
+        "C#",
+        "Web API",
+        "SQL Server",
+        "Azure",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Adityaraj Singh",
+      "position": "Software Development Engineer at Policybazaar.com | C#, ASP.NET, .NET Core, SQL,React | Vice President at ICFAI University | Passionate About Software Development & Leaders",
+      "employee_id": "Pol_029",
+      "skills": [
+        "C#",
+        "ASP.NET",
+        ".NET Core",
+        "SQL",
+        "React",
+        "Software Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Priyanshu Gupta",
+      "position": "SDE 1 @ PolicyBazaar | .NET | React | Django | DTU’25",
+      "employee_id": "Pol_030",
+      "skills": [
+        ".NET",
+        "React",
+        "Django"
+      ]
+    },
+    {
+      "name": "Syed Atif Alam",
+      "position": "Software Developer - II at Policybazaar for Business || ASP.NET Core || C# || Web API || SQL Server || Azure || Angular",
+      "employee_id": "Pol_031",
+      "skills": [
+        "ASP.NET Core",
+        "C#",
+        "Web API",
+        "SQL Server",
+        "Azure",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Deepanshi Chaudhary",
+      "position": "Software Developer at policybazaar.ae",
+      "employee_id": "Pol_032",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "API Integration",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Policy bazaar",
+      "position": "software engineer at PolicyBazaar.com",
+      "employee_id": "Pol_033",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Software Development",
+        "Web Development",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_034",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Suraj Singh Bisht",
+      "position": "Senior Software Engineer @ Policybazaar.com | MCA",
+      "employee_id": "Pol_035",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Problem Solving",
+        "System Design",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Yash Bhardwaj",
+      "position": "Software Engineer at Policybazaar",
+      "employee_id": "Pol_036",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "Git",
+        "RESTful APIs",
+        "Unit Testing",
+        "Debugging",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Syed Atif Alam",
+      "position": "Software Developer - II at Policybazaar for Business || ASP.NET Core || C# || Web API || SQL Server || Azure || Angular",
+      "employee_id": "Pol_037",
+      "skills": [
+        "ASP.NET Core",
+        "C#",
+        "Web API",
+        "SQL Server",
+        "Azure",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Deepanshi Chaudhary",
+      "position": "Software Developer at policybazaar.ae",
+      "employee_id": "Pol_038",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "API Integration",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Sagar kumar",
+      "position": "Software Development Engineer at PolicyBazaar.com",
+      "employee_id": "Pol_039",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control",
+        "Problem Solving",
+        "Debugging",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Mayank Wadhwa",
+      "position": "Software Development Engineer 2",
+      "employee_id": "Pol_040",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration",
+        "Debugging",
+        "Unit Testing",
+        "Version Control",
+        "API Development"
+      ]
+    },
+    {
+      "name": "S R Praveen",
+      "position": "SDE 2 at Policybazaar.com",
+      "employee_id": "Pol_041",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "RESTful APIs",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_042",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_043",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Yash Bhardwaj",
+      "position": "Software Engineer at Policybazaar",
+      "employee_id": "Pol_044",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Manish Prajapati",
+      "position": "Software Engineer at Policybazaar | MNNIT '23",
+      "employee_id": "Pol_045",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Syed Atif Alam",
+      "position": "Software Developer - II at Policybazaar for Business || ASP.NET Core || C# || Web API || SQL Server || Azure || Angular",
+      "employee_id": "Pol_046",
+      "skills": [
+        "ASP.NET Core",
+        "C#",
+        "Web API",
+        "SQL Server",
+        "Azure",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Priyanshu Gupta",
+      "position": "SDE 1 @ PolicyBazaar | .NET | React | Django | DTU’25",
+      "employee_id": "Pol_047",
+      "skills": [
+        ".NET",
+        "React",
+        "Django"
+      ]
+    },
+    {
+      "name": "Deepanshi Chaudhary",
+      "position": "Software Developer at policybazaar.ae",
+      "employee_id": "Pol_048",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "API Integration",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Samarth Chaddha",
+      "position": "Manager - Sales at PolicyBazaar.com",
+      "employee_id": "Pol_049",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Manohar Jha",
+      "position": "Sales Operations Manager @ Policybazaar | Driving Revenue Growth & Operational Excellence | Six Sigma Green Belt",
+      "employee_id": "Pol_050",
+      "skills": [
+        "Sales Operations",
+        "Revenue Growth",
+        "Operational Excellence",
+        "Six Sigma Green Belt"
+      ]
+    },
+    {
+      "name": "Karan Sahni",
+      "position": "Sr Manager | Policybazaar.Com | Outbound Sales | B2B | Business Analysis",
+      "employee_id": "Pol_051",
+      "skills": [
+        "Outbound Sales",
+        "B2B",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_052",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Accounting",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Richa Gairola",
+      "position": "Area Manager at Policybazaar.com | Driving Sales Excellence and Customer Satisfaction",
+      "employee_id": "Pol_053",
+      "skills": [
+        "Sales Management",
+        "Customer Satisfaction",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Performance Metrics",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Muskan Mahnot",
+      "position": "Senior executive at policybazaar in Finance|Taxation",
+      "employee_id": "Pol_054",
+      "skills": [
+        "Finance",
+        "Taxation",
+        "Financial Analysis",
+        "Risk Management",
+        "Policy Compliance",
+        "Budgeting",
+        "Tax Planning"
+      ]
+    },
+    {
+      "name": "Rasleen Kaur",
+      "position": "",
+      "employee_id": "Pol_055",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Radhika Binani",
+      "position": "",
+      "employee_id": "Pol_056",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Aruna Thakur",
+      "position": "Operations Excellence Lead | Policy Operations Lead (Insurance domain-specific) | Quality Assurance (QA) | SOP Documentation | Power BI (data extraction) | Open to Work",
+      "employee_id": "Pol_057",
+      "skills": [
+        "Operations Excellence",
+        "Policy Operations",
+        "Quality Assurance",
+        "SOP Documentation",
+        "Power BI",
+        "Data Extraction"
+      ]
+    },
+    {
+      "name": "Radhika Binani",
+      "position": "",
+      "employee_id": "Pol_058",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_059",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Analytics",
+        "Customer Acquisition",
+        "Market Research",
+        "Campaign Management",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Rakesh Yadav",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_060",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Lead Generation",
+        "Negotiation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashish Dobriyal",
+      "position": "Detail-Oriented Assistant Operations Manager at Policybazaar.ae | Streamlining Processes & Improving Efficiency | Experienced in Banking Sales and Customer Service | Passionate about Customer Satisfaction",
+      "employee_id": "Pol_061",
+      "skills": [
+        "Process Streamlining",
+        "Efficiency Improvement",
+        "Banking Sales",
+        "Customer Service",
+        "Customer Satisfaction"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_062",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ganesh Kumar Singh",
+      "position": "Assistant Manager at Policybazaar.com",
+      "employee_id": "Pol_063",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Insurance Products",
+        "Market Analysis",
+        "Negotiation Skills",
+        "Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Rahul Saini",
+      "position": "Senior Manager at Policybazaar.com",
+      "employee_id": "Pol_064",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "PARAG BANSAL",
+      "position": "Investment Department | Financial Advisor At PolicyBazaar",
+      "employee_id": "Pol_065",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Client Relations",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Anil Kumar",
+      "position": "Sr. team leader at PolicyBazaar.com",
+      "employee_id": "Pol_066",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Insurance Policies",
+        "Client Relations",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Vandana Kadian",
+      "position": "Team Lead – Online Marketing @ Policybazaar | B2B & B2C Marketing | Social Media | YouTube Growth | Brand Engagement",
+      "employee_id": "Pol_067",
+      "skills": [
+        "Online Marketing",
+        "B2B Marketing",
+        "B2C Marketing",
+        "Social Media",
+        "YouTube Growth",
+        "Brand Engagement"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_068",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Data Analysis",
+        "Email Marketing",
+        "Social Media Marketing",
+        "Google Analytics",
+        "Customer Acquisition",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_069",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Google Analytics",
+        "Campaign Management",
+        "Market Research",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_070",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Strategy",
+        "Data Analysis",
+        "Customer Acquisition",
+        "Email Marketing",
+        "Social Media Marketing",
+        "Google Analytics",
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_071",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Lead Generation",
+        "Campaign Management",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Anupam Karmarkar",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_072",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Digital Marketing",
+        "Customer Relationship Management (CRM)",
+        "Lead Generation",
+        "Market Research",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Rampratap Meel",
+      "position": "SDE-2 at Policybazaar.com",
+      "employee_id": "Pol_073",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Abhishek Chaturvedi",
+      "position": "AVP - Technology at PolicyBazaar.com | FMS - MBA",
+      "employee_id": "Pol_074",
+      "skills": [
+        "Technology Management",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Team Management",
+        "Business Development",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "S R Praveen",
+      "position": "SDE 2 at Policybazaar.com",
+      "employee_id": "Pol_075",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Microservices",
+        "REST APIs",
+        "Spring Boot",
+        "Hibernate",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Unit Testing",
+        "Integration Testing",
+        "Continuous Integration",
+        "Continuous Deployment"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_076",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Campaign Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_077",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Lead Generation",
+        "Market Research",
+        "Strategic Planning",
+        "Brand Management",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Anupam Karmarkar",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_078",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Lead Generation",
+        "Market Research",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication Skills",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Amol Sawant",
+      "position": "Senior Vice President of Sales at Policybazaar.com",
+      "employee_id": "Pol_079",
+      "skills": [
+        "Sales Management",
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Team Building",
+        "Negotiation",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Revenue Growth",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Ashish Pathak",
+      "position": "Sales Team Manager @ PolicyBazaar.com | Driving Revenue Growth",
+      "employee_id": "Pol_080",
+      "skills": [
+        "Sales Management",
+        "Revenue Growth",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Market Analysis",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_081",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sajjan Singh",
+      "position": "Manager Operations at PolicyBazaar.com",
+      "employee_id": "Pol_082",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Customer Service",
+        "Performance Metrics",
+        "Project Management",
+        "Budgeting",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Nilesh Chavan",
+      "position": "AREA HEAD | PBPARTNERS | POLICYBAZAAR | INSURANCE",
+      "employee_id": "Pol_083",
+      "skills": [
+        "Insurance",
+        "Sales Management",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Business Development",
+        "Strategic Planning",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Shubh Soni",
+      "position": "Area Head policy Bazaar pbpartners at Policybazaar.com",
+      "employee_id": "Pol_084",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Insurance Policies",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sanket Thorat",
+      "position": "Zonal Head - Health at Policybazaar.com",
+      "employee_id": "Pol_085",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Health Insurance",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_086",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ashish Pathak",
+      "position": "Sales Team Manager @ PolicyBazaar.com | Driving Revenue Growth",
+      "employee_id": "Pol_087",
+      "skills": [
+        "Sales Management",
+        "Revenue Growth",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_088",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Lead Generation",
+        "Market Research",
+        "Strategic Planning",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Anupam Karmarkar",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_089",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Lead Generation",
+        "Market Research",
+        "Strategic Planning",
+        "Brand Management",
+        "SEO",
+        "Content Marketing"
+      ]
+    },
+    {
+      "name": "Rakesh Yadav",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_090",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Lead Generation",
+        "Negotiation",
+        "Strategic Planning",
+        "Brand Management",
+        "Content Marketing"
+      ]
+    },
+    {
+      "name": "Aditya Gera",
+      "position": "Assistant Manager -Data Analyst at Policybazaar",
+      "employee_id": "Pol_091",
+      "skills": [
+        "Data Analysis",
+        "Python",
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "Statistical Analysis",
+        "Machine Learning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_092",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ganesh Kumar Singh",
+      "position": "Assistant Manager at Policybazaar.com",
+      "employee_id": "Pol_093",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Insurance Products",
+        "Communication Skills",
+        "Leadership",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_094",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Manohar Jha",
+      "position": "Sales Operations Manager @ Policybazaar | Driving Revenue Growth & Operational Excellence | Six Sigma Green Belt",
+      "employee_id": "Pol_095",
+      "skills": [
+        "Sales Operations",
+        "Revenue Growth",
+        "Operational Excellence",
+        "Six Sigma Green Belt"
+      ]
+    },
+    {
+      "name": "Ashish Pathak",
+      "position": "Sales Team Manager @ PolicyBazaar.com | Driving Revenue Growth",
+      "employee_id": "Pol_096",
+      "skills": [
+        "Sales Management",
+        "Revenue Growth",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_097",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_098",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Revenue Growth",
+        "Business Development",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_099",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_100",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Data Analysis",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Garima Sharma",
+      "position": "ASC at PolicyBazaar.com",
+      "employee_id": "Pol_101",
+      "skills": [
+        "Customer Service",
+        "Insurance Policies",
+        "Sales",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Muskan Mahnot",
+      "position": "Senior executive at policybazaar in Finance|Taxation",
+      "employee_id": "Pol_102",
+      "skills": [
+        "Finance",
+        "Taxation",
+        "Policy Analysis",
+        "Executive Leadership"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_103",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_104",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_105",
+      "skills": [
+        "Sales Strategy",
+        "Team Management",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Leadership",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Anjali baluni",
+      "position": "Customer Service Specialist at Policybazaar.com",
+      "employee_id": "Pol_106",
+      "skills": [
+        "Customer Service",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Conflict Resolution",
+        "CRM Software",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pooja Naagar",
+      "position": "Customer Service Associate at Policybazaar.com",
+      "employee_id": "Pol_107",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Kashish Gupta",
+      "position": "Senior Executive at Policybazaar | Skilled in Client Relationship Management, Insurance Support & Customer Service | MBA (Pursuing) | Experienced in Domestic & International Client Handling",
+      "employee_id": "Pol_108",
+      "skills": [
+        "Client Relationship Management",
+        "Insurance Support",
+        "Customer Service",
+        "Domestic Client Handling",
+        "International Client Handling"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_109",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Lead Generation",
+        "Customer Acquisition",
+        "Brand Strategy"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_110",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Lead Generation",
+        "Brand Management",
+        "Strategic Planning",
+        "Social Media Marketing",
+        "Content Creation"
+      ]
+    },
+    {
+      "name": "Anupam Karmarkar",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_111",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "SEO",
+        "Content Marketing",
+        "Brand Management",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Manohar Jha",
+      "position": "Sales Operations Manager @ Policybazaar | Driving Revenue Growth & Operational Excellence | Six Sigma Green Belt",
+      "employee_id": "Pol_112",
+      "skills": [
+        "Sales Operations",
+        "Revenue Growth",
+        "Operational Excellence",
+        "Six Sigma Green Belt"
+      ]
+    },
+    {
+      "name": "Sajjan Singh",
+      "position": "Manager Operations at PolicyBazaar.com",
+      "employee_id": "Pol_113",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Performance Metrics",
+        "Budgeting",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Subhash Sinha (AIII)",
+      "position": "AVP - Large Corporate Business at Policybazaar Insurance Brokers Pvt Ltd",
+      "employee_id": "Pol_114",
+      "skills": [
+        "Corporate Business Strategy",
+        "Insurance Brokerage",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Business Development",
+        "Negotiation",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Muskan Chopra",
+      "position": "Senior HRBP at Policybazaar for Business",
+      "employee_id": "Pol_115",
+      "skills": [
+        "Human Resources",
+        "Business Partnering",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "HR Strategy",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Employee Engagement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Suman Bhardwaj",
+      "position": "HR Team Leader at Policybazaar.com | Expert in Non Tech Sales & Customer services ( B2B & B2C)Leadership Hiring and Team Management for Bulk hiring | certified by LinkedIn and Naukri || Open to work",
+      "employee_id": "Pol_116",
+      "skills": [
+        "Non Tech Sales",
+        "Customer Services",
+        "B2B Sales",
+        "B2C Sales",
+        "Leadership Hiring",
+        "Team Management",
+        "Bulk Hiring"
+      ]
+    },
+    {
+      "name": "Muskan Malik",
+      "position": "Human Resources Senior Executive @ Policybazaar.com | Talent Acquisition, Support Hiring",
+      "employee_id": "Pol_117",
+      "skills": [
+        "Talent Acquisition",
+        "Support Hiring",
+        "Human Resources"
+      ]
+    },
+    {
+      "name": "Avnish Kumar",
+      "position": "Senior Sales representative at Policybazaar.com",
+      "employee_id": "Pol_118",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Lead Generation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Nahida Khan",
+      "position": "Senior Sales Consultant at Policybazaar.com",
+      "employee_id": "Pol_119",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Shourya Singh",
+      "position": "Driving Sales Success at PolicyBazaar | Team Leader | Expert in E-commerce, Loans, & Insurance",
+      "employee_id": "Pol_120",
+      "skills": [
+        "Sales",
+        "Team Leadership",
+        "E-commerce",
+        "Loans",
+        "Insurance"
+      ]
+    },
+    {
+      "name": "Muskan Malik",
+      "position": "Human Resources Senior Executive @ Policybazaar.com | Talent Acquisition, Support Hiring",
+      "employee_id": "Pol_121",
+      "skills": [
+        "Talent Acquisition",
+        "Support Hiring",
+        "Human Resources"
+      ]
+    },
+    {
+      "name": "Mohini Kuhar",
+      "position": "Talent Acquisition Leader | HR Campus Hiring | Corporate & Technology Recruitment | Policybazaar",
+      "employee_id": "Pol_122",
+      "skills": [
+        "Talent Acquisition",
+        "HR Campus Hiring",
+        "Corporate Recruitment",
+        "Technology Recruitment"
+      ]
+    },
+    {
+      "name": "Prerna Saraswat",
+      "position": "Human Resources Specialist @ Policybazaar.com | MBA in HR",
+      "employee_id": "Pol_123",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "MBA in HR"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_124",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Data Analysis",
+        "Accounting",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Garima Sharma",
+      "position": "ASC at PolicyBazaar.com",
+      "employee_id": "Pol_125",
+      "skills": [
+        "Customer Service",
+        "Sales",
+        "Insurance Policies",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Collaboration",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Diksha Sood",
+      "position": "Financial Advisor at Policybazaar.com",
+      "employee_id": "Pol_126",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Insurance Products",
+        "Market Research",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Bhawna Singhal",
+      "position": "HR Executive at Policybazaar | MBA in HR (2025–2027) | Passionate About People & Culture",
+      "employee_id": "Pol_127",
+      "skills": [
+        "HR Management",
+        "People & Culture",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Organizational Development",
+        "Training and Development",
+        "HR Policies",
+        "Employee Engagement"
+      ]
+    },
+    {
+      "name": "Yashvi Singh",
+      "position": "Human Resources Executive @ Policybazaar.com | Recruiting, HR Management",
+      "employee_id": "Pol_128",
+      "skills": [
+        "Recruiting",
+        "HR Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "HR Compliance",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Gurdeep Kaur",
+      "position": "HR Executive @ Policybazaar.com | Talent Acquisition |End-to-End Recruitment | Bulk Hiring |Onboarding",
+      "employee_id": "Pol_129",
+      "skills": [
+        "Talent Acquisition",
+        "End-to-End Recruitment",
+        "Bulk Hiring",
+        "Onboarding"
+      ]
+    },
+    {
+      "name": "Shashi Bhushan Pandey",
+      "position": "Team Leader-Data Analyst at Policybazaar",
+      "employee_id": "Pol_130",
+      "skills": [
+        "Data Analysis",
+        "Team Leadership",
+        "Policy Analysis",
+        "Risk Management",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Aditya Gera",
+      "position": "Assistant Manager -Data Analyst at Policybazaar",
+      "employee_id": "Pol_131",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Lokesh Kumar",
+      "position": "Immediate Joiner | Data Analyst @ Policybazaar | Microsoft Excel, SQL, Python, Tableau, Power BI | Data Mining & Visualization",
+      "employee_id": "Pol_132",
+      "skills": [
+        "Microsoft Excel",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Power BI",
+        "Data Mining",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Piyush Sehrawat",
+      "position": "Business Analyst at Policybazaar | DTU’25 | Data & Product Analyst",
+      "employee_id": "Pol_133",
+      "skills": [
+        "Data Analysis",
+        "Product Analysis",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "SHYAM MUDDASANI",
+      "position": "Product Analyst at Policybazaar.com",
+      "employee_id": "Pol_134",
+      "skills": [
+        "Product Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Achintya Goel",
+      "position": "Product at PolicyBazaar.com",
+      "employee_id": "Pol_135",
+      "skills": [
+        "Product Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Team Leadership",
+        "Customer Insights",
+        "Product Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Piyush Sehrawat",
+      "position": "Business Analyst at Policybazaar | DTU’25 | Data & Product Analyst",
+      "employee_id": "Pol_136",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Product Analysis"
+      ]
+    },
+    {
+      "name": "Diksha Sood",
+      "position": "Financial Advisor at Policybazaar.com",
+      "employee_id": "Pol_137",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Insurance Planning",
+        "Market Research",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Lokesh Kumar",
+      "position": "Immediate Joiner | Data Analyst @ Policybazaar | Microsoft Excel, SQL, Python, Tableau, Power BI | Data Mining & Visualization",
+      "employee_id": "Pol_138",
+      "skills": [
+        "Microsoft Excel",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Power BI",
+        "Data Mining",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_139",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "Customer Acquisition",
+        "Brand Strategy",
+        "Email Marketing",
+        "Marketing Automation"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_140",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Analytics",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_141",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Brand Management",
+        "Strategic Planning",
+        "Content Creation",
+        "SEO"
+      ]
+    },
+    {
+      "name": "Anshul Soni",
+      "position": "Operations Team Lead at PolicyBazaar.com",
+      "employee_id": "Pol_142",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Service",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Sajjan Singh",
+      "position": "Manager Operations at PolicyBazaar.com",
+      "employee_id": "Pol_143",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Service",
+        "Budgeting",
+        "Performance Analysis",
+        "Vendor Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_144",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Amol Sawant",
+      "position": "Senior Vice President of Sales at Policybazaar.com",
+      "employee_id": "Pol_145",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Business Development",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashutosh Mishra",
+      "position": "Sr. Vice President at PolicyBazaar.com",
+      "employee_id": "Pol_146",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Management",
+        "Market Research",
+        "Project Management",
+        "Negotiation",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_147",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_148",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ashish Kapoor",
+      "position": "Deputy Manager – Operations at Policybazaar.com | Leading Cross-Sell Strategy in Health Insurance | Multi-Center Ops | Growth-Focused",
+      "employee_id": "Pol_149",
+      "skills": [
+        "Cross-Sell Strategy",
+        "Health Insurance",
+        "Multi-Center Operations",
+        "Growth-Focused"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_150",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Driving Sales",
+        "Sales Management"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_151",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Strategy",
+        "Analytics",
+        "Lead Generation",
+        "Customer Acquisition",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_152",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Analytics",
+        "Campaign Management",
+        "Brand Management",
+        "Market Research",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_153",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Lead Generation",
+        "Digital Marketing",
+        "Market Research",
+        "Brand Management",
+        "Strategic Planning",
+        "Content Creation",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Sanchit Aggarwal",
+      "position": "Sr. Product Manager at PolicyBazaar",
+      "employee_id": "Pol_154",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Research",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vaibhav Jhanji",
+      "position": "Sr. Product Manager at PolicyBazaar.com",
+      "employee_id": "Pol_155",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX)"
+      ]
+    },
+    {
+      "name": "Reetika Chaudhary",
+      "position": "",
+      "employee_id": "Pol_156",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ishita Sikka",
+      "position": "Assistant Manager - Human Resources at PolicyBazaar.com",
+      "employee_id": "Pol_157",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Devanshi Gulati",
+      "position": "Human Resource @ Policybazaar",
+      "employee_id": "Pol_158",
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Training and Development",
+        "Compensation and Benefits",
+        "HRIS",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Mohini Kuhar",
+      "position": "Talent Acquisition Leader | HR Campus Hiring | Corporate & Technology Recruitment | Policybazaar",
+      "employee_id": "Pol_159",
+      "skills": [
+        "Talent Acquisition",
+        "HR Campus Hiring",
+        "Corporate Recruitment",
+        "Technology Recruitment"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_160",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Analytics",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Lead Generation",
+        "Customer Acquisition",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_161",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Campaign Management",
+        "Analytics",
+        "Brand Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_162",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Digital Marketing",
+        "Customer Relationship Management",
+        "Lead Generation",
+        "Market Research",
+        "Brand Management",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "SEM",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_163",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_164",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_165",
+      "skills": [
+        "Sales Strategy",
+        "Team Management",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Aruna Thakur",
+      "position": "Operations Excellence Lead | Policy Operations Lead (Insurance domain-specific) | Quality Assurance (QA) | SOP Documentation | Power BI (data extraction) | Open to Work",
+      "employee_id": "Pol_166",
+      "skills": [
+        "Operations Excellence",
+        "Policy Operations",
+        "Quality Assurance",
+        "SOP Documentation",
+        "Power BI",
+        "Data Extraction"
+      ]
+    },
+    {
+      "name": "Abhimanyu Chaturvedi",
+      "position": "Team Lead (Content Editor) - Policybazaar UAE || Digital Marketing",
+      "employee_id": "Pol_167",
+      "skills": [
+        "Content Editing",
+        "Team Leadership",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Rasleen Kaur",
+      "position": "",
+      "employee_id": "Pol_168",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_169",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Brand Strategy",
+        "Market Research",
+        "Customer Acquisition"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_170",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Analytics",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_171",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Digital Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Lead Generation",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Shourya Singh",
+      "position": "Driving Sales Success at PolicyBazaar | Team Leader | Expert in E-commerce, Loans, & Insurance",
+      "employee_id": "Pol_172",
+      "skills": [
+        "Sales",
+        "Team Leadership",
+        "E-commerce",
+        "Loans",
+        "Insurance"
+      ]
+    },
+    {
+      "name": "Ganesh Kumar Singh",
+      "position": "Assistant Manager at Policybazaar.com",
+      "employee_id": "Pol_173",
+      "skills": [
+        "Team Management",
+        "Client Relations",
+        "Sales Strategy",
+        "Market Analysis",
+        "Insurance Products",
+        "Communication Skills",
+        "Problem Solving",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Manohar Jha",
+      "position": "Sales Operations Manager @ Policybazaar | Driving Revenue Growth & Operational Excellence | Six Sigma Green Belt",
+      "employee_id": "Pol_174",
+      "skills": [
+        "Sales Operations",
+        "Revenue Growth",
+        "Operational Excellence",
+        "Six Sigma Green Belt"
+      ]
+    },
+    {
+      "name": "Vaibhav Jhanji",
+      "position": "Sr. Product Manager at PolicyBazaar.com",
+      "employee_id": "Pol_175",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Customer Insights",
+        "Agile Methodologies",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Reetika Chaudhary",
+      "position": "",
+      "employee_id": "Pol_176",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sanchit Aggarwal",
+      "position": "Sr. Product Manager at PolicyBazaar",
+      "employee_id": "Pol_177",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nilesh Chavan",
+      "position": "AREA HEAD | PBPARTNERS | POLICYBAZAAR | INSURANCE",
+      "employee_id": "Pol_178",
+      "skills": [
+        "Insurance",
+        "Sales Management",
+        "Team Leadership",
+        "Business Development",
+        "Client Relationship Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Shubh Soni",
+      "position": "Area Head policy Bazaar pbpartners at Policybazaar.com",
+      "employee_id": "Pol_179",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Insurance Policies",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_180",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_181",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_182",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_183",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Sujit Mor",
+      "position": "Data Analytics Team Leader at Policybazaar.com",
+      "employee_id": "Pol_184",
+      "skills": [
+        "Data Analysis",
+        "Team Leadership",
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Project Management",
+        "Business Intelligence",
+        "Data Visualization",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Adityaraj Singh",
+      "position": "Software Development Engineer at Policybazaar.com | C#, ASP.NET, .NET Core, SQL,React | Vice President at ICFAI University | Passionate About Software Development & Leaders",
+      "employee_id": "Pol_185",
+      "skills": [
+        "C#",
+        "ASP.NET",
+        ".NET Core",
+        "SQL",
+        "React",
+        "Software Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Shashi Bhushan Pandey",
+      "position": "Team Leader-Data Analyst at Policybazaar",
+      "employee_id": "Pol_186",
+      "skills": [
+        "Data Analysis",
+        "Team Leadership",
+        "Python",
+        "SQL",
+        "Excel",
+        "Data Visualization",
+        "Project Management",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_187",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "CRM Software",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_188",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Richa Gairola",
+      "position": "Area Manager at Policybazaar.com | Driving Sales Excellence and Customer Satisfaction",
+      "employee_id": "Pol_189",
+      "skills": [
+        "Sales Management",
+        "Customer Satisfaction",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Performance Optimization",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Pooja Naagar",
+      "position": "Customer Service Associate at Policybazaar.com",
+      "employee_id": "Pol_190",
+      "skills": [
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Anjali baluni",
+      "position": "Customer Service Specialist at Policybazaar.com",
+      "employee_id": "Pol_191",
+      "skills": [
+        "Customer Service",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Teamwork",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Muskan Mahnot",
+      "position": "Senior executive at policybazaar in Finance|Taxation",
+      "employee_id": "Pol_192",
+      "skills": [
+        "Finance",
+        "Taxation",
+        "Policy Analysis",
+        "Executive Management"
+      ]
+    },
+    {
+      "name": "Shourya Singh",
+      "position": "Driving Sales Success at PolicyBazaar | Team Leader | Expert in E-commerce, Loans, & Insurance",
+      "employee_id": "Pol_193",
+      "skills": [
+        "Sales",
+        "Team Leadership",
+        "E-commerce",
+        "Loans",
+        "Insurance"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_194",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Sales Forecasting",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_195",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_196",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_197",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "Performance Metrics",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_198",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Performance Management",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Sajjan Singh",
+      "position": "Manager Operations at PolicyBazaar.com",
+      "employee_id": "Pol_199",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Budgeting",
+        "Vendor Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Tarun Mathur",
+      "position": "Co-Founder & Chief Business Officer at PolicyBazaar.com",
+      "employee_id": "Pol_200",
+      "skills": [
+        "Business Development",
+        "Strategic Planning",
+        "Leadership",
+        "Team Management",
+        "Sales",
+        "Marketing",
+        "Negotiation",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Sarbvir Singh",
+      "position": "",
+      "employee_id": "Pol_201",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ashish Arya",
+      "position": "Accounts Payable Head at Policybazaar.com",
+      "employee_id": "Pol_202",
+      "skills": [
+        "Accounts Payable",
+        "Financial Management",
+        "Team Leadership",
+        "Vendor Management",
+        "Invoice Processing",
+        "Payment Processing",
+        "Reconciliation",
+        "Budgeting",
+        "Accounting Software",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Ashutosh Mishra",
+      "position": "Sr. Vice President at PolicyBazaar.com",
+      "employee_id": "Pol_203",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ashish Pathak",
+      "position": "Sales Team Manager @ PolicyBazaar.com | Driving Revenue Growth",
+      "employee_id": "Pol_204",
+      "skills": [
+        "Sales Management",
+        "Revenue Growth",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Ishita Sikka",
+      "position": "Assistant Manager - Human Resources at PolicyBazaar.com",
+      "employee_id": "Pol_205",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Training and Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Yashvi Singh",
+      "position": "Human Resources Executive @ Policybazaar.com | Recruiting, HR Management",
+      "employee_id": "Pol_206",
+      "skills": [
+        "Recruiting",
+        "HR Management"
+      ]
+    },
+    {
+      "name": "Simran Madan",
+      "position": "Talent Scout - Policybazaar.com || Tech and Product || Head Hunting || IT Recruiter",
+      "employee_id": "Pol_207",
+      "skills": [
+        "Talent Scouting",
+        "Head Hunting",
+        "IT Recruitment",
+        "Tech Recruitment",
+        "Product Recruitment"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_208",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Lead Generation",
+        "Customer Acquisition"
+      ]
+    },
+    {
+      "name": "Rahul Saini",
+      "position": "Senior Manager at Policybazaar.com",
+      "employee_id": "Pol_209",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_210",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Muskan Mahnot",
+      "position": "Senior executive at policybazaar in Finance|Taxation",
+      "employee_id": "Pol_211",
+      "skills": [
+        "Finance",
+        "Taxation"
+      ]
+    },
+    {
+      "name": "Ashish Arya",
+      "position": "Accounts Payable Head at Policybazaar.com",
+      "employee_id": "Pol_212",
+      "skills": [
+        "Accounts Payable",
+        "Financial Management",
+        "Team Leadership",
+        "Vendor Management",
+        "Invoice Processing",
+        "Payment Processing",
+        "Reconciliation",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Rahul Saini",
+      "position": "Senior Manager at Policybazaar.com",
+      "employee_id": "Pol_213",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_214",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_215",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Client Acquisition",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_216",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Analysis",
+        "Market Research",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mohini Kuhar",
+      "position": "Talent Acquisition Leader | HR Campus Hiring | Corporate & Technology Recruitment | Policybazaar",
+      "employee_id": "Pol_217",
+      "skills": [
+        "Talent Acquisition",
+        "HR Campus Hiring",
+        "Corporate Recruitment",
+        "Technology Recruitment"
+      ]
+    },
+    {
+      "name": "Muskan Malik",
+      "position": "Human Resources Senior Executive @ Policybazaar.com | Talent Acquisition, Support Hiring",
+      "employee_id": "Pol_218",
+      "skills": [
+        "Talent Acquisition",
+        "Support Hiring",
+        "Human Resources"
+      ]
+    },
+    {
+      "name": "Soniya Tomar",
+      "position": "HR Recruiter at Policybazaar | Immediate Joiner | Actively Looking for Opportunities in Talent Acquisition / Recruitment",
+      "employee_id": "Pol_219",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "HR Management",
+        "Interviewing",
+        "Employee Onboarding",
+        "Candidate Sourcing",
+        "Job Posting",
+        "Screening Resumes",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Shourya Singh",
+      "position": "Driving Sales Success at PolicyBazaar | Team Leader | Expert in E-commerce, Loans, & Insurance",
+      "employee_id": "Pol_220",
+      "skills": [
+        "Sales",
+        "Team Leadership",
+        "E-commerce",
+        "Loans",
+        "Insurance"
+      ]
+    },
+    {
+      "name": "Samarth Chaddha",
+      "position": "Manager - Sales at PolicyBazaar.com",
+      "employee_id": "Pol_221",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tarun Mathur",
+      "position": "Co-Founder & Chief Business Officer at PolicyBazaar.com",
+      "employee_id": "Pol_222",
+      "skills": [
+        "Business Strategy",
+        "Leadership",
+        "Team Management",
+        "Sales",
+        "Marketing",
+        "Insurance",
+        "Financial Services",
+        "Start-ups",
+        "Entrepreneurship",
+        "Strategic Partnerships"
+      ]
+    },
+    {
+      "name": "Neeraj Bisht",
+      "position": "Assistant Manager Operations at Policybazaar.com",
+      "employee_id": "Pol_223",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sachin Prasad Bhatt",
+      "position": "I’m Manager at Policybazaar.com (Operations)",
+      "employee_id": "Pol_224",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Aruna Thakur",
+      "position": "Operations Excellence Lead | Policy Operations Lead (Insurance domain-specific) | Quality Assurance (QA) | SOP Documentation | Power BI (data extraction) | Open to Work",
+      "employee_id": "Pol_225",
+      "skills": [
+        "Operations Excellence",
+        "Policy Operations",
+        "Quality Assurance",
+        "SOP Documentation",
+        "Power BI",
+        "Data Extraction"
+      ]
+    },
+    {
+      "name": "Shourya Singh",
+      "position": "Driving Sales Success at PolicyBazaar | Team Leader | Expert in E-commerce, Loans, & Insurance",
+      "employee_id": "Pol_226",
+      "skills": [
+        "Sales",
+        "Team Leadership",
+        "E-commerce",
+        "Loans",
+        "Insurance"
+      ]
+    },
+    {
+      "name": "Diksha Sood",
+      "position": "Financial Advisor at Policybazaar.com",
+      "employee_id": "Pol_227",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Client Relations",
+        "Market Research",
+        "Financial Planning",
+        "Insurance Policies",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_228",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Anjali baluni",
+      "position": "Customer Service Specialist at Policybazaar.com",
+      "employee_id": "Pol_229",
+      "skills": [
+        "Customer Service",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Soumya Kumari",
+      "position": "Policybazaar.com | Health insurance| Claims|| Associate Service Consultant",
+      "employee_id": "Pol_230",
+      "skills": [
+        "Health Insurance",
+        "Claims Management",
+        "Customer Service",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Simran Madan",
+      "position": "Talent Scout - Policybazaar.com || Tech and Product || Head Hunting || IT Recruiter",
+      "employee_id": "Pol_231",
+      "skills": [
+        "Talent Scouting",
+        "Head Hunting",
+        "IT Recruitment",
+        "Tech Recruitment",
+        "Product Recruitment"
+      ]
+    },
+    {
+      "name": "Anjali baluni",
+      "position": "Customer Service Specialist at Policybazaar.com",
+      "employee_id": "Pol_232",
+      "skills": [
+        "Customer Service",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Soumya Kumari",
+      "position": "Policybazaar.com | Health insurance| Claims|| Associate Service Consultant",
+      "employee_id": "Pol_233",
+      "skills": [
+        "Health insurance",
+        "Claims processing",
+        "Customer service",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Simran Madan",
+      "position": "Talent Scout - Policybazaar.com || Tech and Product || Head Hunting || IT Recruiter",
+      "employee_id": "Pol_234",
+      "skills": [
+        "Talent Scouting",
+        "Head Hunting",
+        "IT Recruitment",
+        "Tech and Product Recruitment"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_235",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Accounting",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "PARAG BANSAL",
+      "position": "Investment Department | Financial Advisor At PolicyBazaar",
+      "employee_id": "Pol_236",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Client Relations",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Ashish Arya",
+      "position": "Accounts Payable Head at Policybazaar.com",
+      "employee_id": "Pol_237",
+      "skills": [
+        "Accounts Payable",
+        "Financial Management",
+        "Vendor Management",
+        "Invoice Processing",
+        "Payment Processing",
+        "Reconciliation",
+        "Expense Reporting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Vaibhav Jhanji",
+      "position": "Sr. Product Manager at PolicyBazaar.com",
+      "employee_id": "Pol_238",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Data-Driven Decision Making",
+        "User Experience (UX) Design",
+        "Product Lifecycle Management"
+      ]
+    },
+    {
+      "name": "Reetika Chaudhary",
+      "position": "",
+      "employee_id": "Pol_239",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divya A.",
+      "position": "Head of Consumer Insights at PolicyBazaar.com",
+      "employee_id": "Pol_240",
+      "skills": [
+        "Consumer Insights",
+        "Market Research",
+        "Data Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Aruna Thakur",
+      "position": "Operations Excellence Lead | Policy Operations Lead (Insurance domain-specific) | Quality Assurance (QA) | SOP Documentation | Power BI (data extraction) | Open to Work",
+      "employee_id": "Pol_241",
+      "skills": [
+        "Operations Excellence",
+        "Policy Operations",
+        "Quality Assurance",
+        "SOP Documentation",
+        "Power BI",
+        "Data Extraction"
+      ]
+    },
+    {
+      "name": "Sachin Prasad Bhatt",
+      "position": "I’m Manager at Policybazaar.com (Operations)",
+      "employee_id": "Pol_242",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Strategic Planning",
+        "Performance Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Anshul Soni",
+      "position": "Operations Team Lead at PolicyBazaar.com",
+      "employee_id": "Pol_243",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anjali Garg",
+      "position": "Finance Executive at Policybazaar.com",
+      "employee_id": "Pol_244",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Excel",
+        "Financial Reporting",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Garima Sharma",
+      "position": "ASC at PolicyBazaar.com",
+      "employee_id": "Pol_245",
+      "skills": [
+        "Customer Service",
+        "Sales",
+        "Insurance Policies",
+        "Communication Skills",
+        "Problem Solving",
+        "Teamwork",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Diksha Sood",
+      "position": "Financial Advisor at Policybazaar.com",
+      "employee_id": "Pol_246",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Client Relationship Management",
+        "Insurance Planning",
+        "Retirement Planning",
+        "Tax Planning"
+      ]
+    },
+    {
+      "name": "Pushpender Yadav",
+      "position": "Sales Team Lead @ Policybazaar.com | Driving Sales Strategy",
+      "employee_id": "Pol_247",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Sales Forecasting",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_248",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "CRM Software",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Ambroz khan",
+      "position": "Sales Manager at Policybazaar.com",
+      "employee_id": "Pol_249",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "PANKAJ JAIN",
+      "position": "Regional Head @ Policybazaar.com | Insurance, General Insurance, Motor Insurance",
+      "employee_id": "Pol_250",
+      "skills": [
+        "Insurance",
+        "General Insurance",
+        "Motor Insurance",
+        "Leadership",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_251",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_252",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Priya Rai",
+      "position": "Growth Marketing @ policybazaar.com",
+      "employee_id": "Pol_253",
+      "skills": [
+        "Growth Marketing",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Data Analysis",
+        "Email Marketing",
+        "Google Analytics",
+        "Customer Acquisition",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Nitin Jogdand",
+      "position": "Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_254",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analytics",
+        "Campaign Management",
+        "Brand Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "TRISHA MAJUMDER",
+      "position": "Sales And Marketing Specialist at Policybazaar.com",
+      "employee_id": "Pol_255",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Digital Marketing",
+        "Market Research",
+        "Lead Generation",
+        "Strategic Planning",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Avnish Kumar",
+      "position": "Senior Sales representative at Policybazaar.com",
+      "employee_id": "Pol_256",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Lead Generation",
+        "Market Analysis",
+        "Communication Skills",
+        "Team Leadership",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "David Oscar",
+      "position": "Sales Head - South India @ Policybazaar.com",
+      "employee_id": "Pol_257",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Kushagra Ghai",
+      "position": "Sales Head at PolicyBazaar.com",
+      "employee_id": "Pol_258",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    }
+  ]
+}

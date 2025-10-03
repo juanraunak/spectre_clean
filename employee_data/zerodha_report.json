@@ -1,0 +1,4921 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_ZERODHA",
+    "target_company": "Zerodha",
+    "mission_timestamp": "2025-09-30T10:18:35.712116",
+    "completion_timestamp": "2025-09-30T10:18:35.712116",
+    "mission_status": "COMPLETED",
+    "note": "Contains ONLY top 3 matched employees per target"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_top_matches": 258,
+      "detailed_profiles_scraped": 0,
+      "scraping_success_rate": 0.0
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals with a focus on connecting talented individuals with opportunities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals with a focus on fostering inclusive workplaces and employee relations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sameer Rakheja",
+          "linkedin_url": "https://in.linkedin.com/in/sameer-rakheja-47ba3b21b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Nk Neha Kumari",
+            "similarity_score": 85.0,
+            "match_rationale": "HR Operations Specialist with experience in employee-centric payroll solutions, similar to HR professional role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Akshay Kurup",
+          "linkedin_url": "https://in.linkedin.com/in/akshay-kurup-002783a0",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold roles related to training and quality management within their respective organizations, indicating significant skill overlap in training and employee development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in HR with a focus on connecting talent and employee development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sameer Rakheja",
+          "linkedin_url": "https://in.linkedin.com/in/sameer-rakheja-47ba3b21b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Dhoundiyal",
+            "similarity_score": 85.0,
+            "match_rationale": "Sameer Rakheja has experience in HR Operations, which overlaps significantly with the skills required for a Sr. Trainer in HR, such as employee development and training."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shameek Kolambkar",
+          "linkedin_url": "https://in.linkedin.com/in/shameek-kolambkar-4bb565122",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sachin Ke B4232b266",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold managerial positions in HR at Zerodha, likely involving similar responsibilities in talent acquisition and recruitment."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Anamika Kaur",
+          "linkedin_url": "https://in.linkedin.com/in/anamika-kaur-b1248320a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sachin Ke B4232b266",
+            "similarity_score": 90.0,
+            "match_rationale": "Anamika Kaur has experience in talent acquisition within the IT industry, which closely matches Sachin's role in talent acquisition and recruitment."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Seema Patil",
+          "linkedin_url": "https://in.linkedin.com/in/seema-patil-60381a2a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sachin Ke B4232b266",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in HR with managerial roles, significant skill overlap in human resources management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "SAMADHAN SALUNKHE",
+          "linkedin_url": "https://in.linkedin.com/in/samadhan-salunkhe-075192186",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in marketing roles at Zerodha with similar experience levels."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sagar Gawade",
+          "linkedin_url": "https://in.linkedin.com/in/sagar-gawade-970241120",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Similar marketing roles at Zerodha, likely significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Apurva Gururaj",
+          "linkedin_url": "https://in.linkedin.com/in/apurvagururaj",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Yadav",
+            "similarity_score": 80.0,
+            "match_rationale": "Involved in social media management and marketing, which overlaps with digital marketing and content strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals at Zerodha with a focus on fostering inclusive workplaces, which aligns closely with talent development and employee engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are HR professionals with a focus on talent management and employee engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sameer Rakheja",
+          "linkedin_url": "https://in.linkedin.com/in/sameer-rakheja-47ba3b21b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sathish Kumar A0291315",
+            "similarity_score": 85.0,
+            "match_rationale": "Sameer Rakheja has experience in HR Operations, which overlaps significantly with Talent Development and Performance Management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Building scalable, performant software in fintech. Likely involved in full stack development with similar technologies."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ajin Asokan",
+          "linkedin_url": "https://in.linkedin.com/in/ajin-asokan-3137b4123",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Ajin Asokan is involved in app development using Flutter, which indicates a strong overlap in software development skills. Both roles require proficiency in coding and software architecture."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kshitiz Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Full time programmer with a deep passion for web development and problem solving, indicating significant skill overlap in web development and programming."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in software development roles within the engineering department, indicating significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 80.0,
+            "match_rationale": "Involved in building scalable, performant software in fintech, which aligns closely with software development skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vinod Sathyaraj",
+          "linkedin_url": "https://in.linkedin.com/in/vinod-sathyaraj-997ba5328",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mohinder Singh 91b32753",
+            "similarity_score": 75.0,
+            "match_rationale": "Senior manager information technology role is related to software development and engineering, but with a focus on IT management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vicky Yadav 50a596229",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are software developers with similar roles in engineering at Zerodha."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vicky Yadav 50a596229",
+            "similarity_score": 85.0,
+            "match_rationale": "Full time programmer with a deep passion for web development and problem solving, similar to software development role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ajin Asokan",
+          "linkedin_url": "https://in.linkedin.com/in/ajin-asokan-3137b4123",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vicky Yadav 50a596229",
+            "similarity_score": 85.0,
+            "match_rationale": "Ajin Asokan has experience in making apps with Flutter, which indicates a strong background in software development. This role is very similar to Vicky Yadav's role as a Software Developer, with signi"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are Business Analysts at Zerodha with experience in business analysis and data analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Saher Patait",
+          "linkedin_url": "https://in.linkedin.com/in/saherpatait",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are Business Analysts at Zerodha Fund House with a strong focus on data analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sanjil Sharma 9b0834177",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in business analysis and investments, with significant skill overlap in business and data analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are software engineers with experience in similar technologies and roles within the engineering department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 85.0,
+            "match_rationale": "Full-time programmer with a deep passion for web development and problem solving, likely has significant overlap in skills such as ASP.NET Core, SQL Server, and Angular."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Omi123",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are involved in building scalable software solutions, likely with significant skill overlap in software development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Giri GV",
+          "linkedin_url": "https://in.linkedin.com/in/giri-gv",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are early in their careers with minimal experience, and Giri GV is an intern at Zerodha, which suggests a similar entry-level position."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 50.0,
+            "match_rationale": "Business Analyst role may have some overlap with general skills, but specific skills and experience are not provided."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shirin Sebastian",
+          "linkedin_url": "https://in.linkedin.com/in/shirin-sebastian-1a0868167",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Yati Singal",
+            "similarity_score": 50.0,
+            "match_rationale": "Quality and training at Zerodha, some overlap with general skills in 'Other' department"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are software professionals with similar titles and likely overlapping skills in software development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 85.0,
+            "match_rationale": "Involved in building scalable, performant software in fintech, which is closely related to software development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kalyan Sharma",
+            "similarity_score": 85.0,
+            "match_rationale": "Full time programmer with a passion for web development and problem solving, likely has significant skill overlap with software development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in business analysis, which suggests related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Saher Patait",
+          "linkedin_url": "https://in.linkedin.com/in/saherpatait",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in business analysis, indicating related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rozi Bisht",
+            "similarity_score": 65.0,
+            "match_rationale": "Involved in business and investments, which shows some overlap in skills but different seniority."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ajin Asokan",
+          "linkedin_url": "https://in.linkedin.com/in/ajin-asokan-3137b4123",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 92.0,
+            "match_rationale": "Ajin Asokan is involved in app development with Flutter, which is highly similar to Priyal Jadon's role as an SDE specializing in Flutter and Android Development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are software engineers with experience in software development. Likely significant skill overlap in engineering and development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Priyal Jadon",
+            "similarity_score": 85.0,
+            "match_rationale": "Vivek R is a full-time programmer with a deep passion for web development and problem-solving. This indicates significant overlap in software development skills, although the specific focus on Flutter"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshita Tyagi",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are software developers with similar roles in the engineering department at Zerodha."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek R",
+          "linkedin_url": "https://in.linkedin.com/in/vividvilla",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshita Tyagi",
+            "similarity_score": 85.0,
+            "match_rationale": "Full-time programmer with a passion for web development and problem solving, indicating significant skill overlap in software development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshita Tyagi",
+            "similarity_score": 80.0,
+            "match_rationale": "Involved in building scalable, performant software in fintech, which overlaps significantly with software development skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in business analysis roles, likely within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Saher Patait",
+          "linkedin_url": "https://in.linkedin.com/in/saherpatait",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are business analysts, indicating a related role within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ashish Choudhary",
+            "similarity_score": 75.0,
+            "match_rationale": "Quality Analyst at Zerodha, likely in a related department with some skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Agrawal",
+            "similarity_score": 95.0,
+            "match_rationale": "Both are sales managers at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "imran khan",
+          "linkedin_url": "https://in.linkedin.com/in/imran-khan-b7148528b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Agrawal",
+            "similarity_score": 95.0,
+            "match_rationale": "Both are sales managers at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "sadique raza",
+          "linkedin_url": "https://in.linkedin.com/in/sadique-raza-50189049",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Agrawal",
+            "similarity_score": 90.0,
+            "match_rationale": "Sadique Raza is a Manager of Sales at Zerodha, which is nearly identical to Gaurav Agrawal's role as Sales Manager."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior positions in finance-related roles within their respective companies. Abhilash SR is the Head of NBFC at Zerodha Capital, which involves significant financial management responsibilit"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Afreen Nagarji",
+          "linkedin_url": "https://in.linkedin.com/in/afreen-nagarji-41992b223",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 65.0,
+            "match_rationale": "Afreen Nagarji has experience in operations and internal auditing, which involves financial analysis and management, similar to Rishabh Jain's role in gold loan management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Naman Prakash Awasthi",
+          "linkedin_url": "https://in.linkedin.com/in/naman-prakash-awasthi-824670131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rishabh Jain",
+            "similarity_score": 60.0,
+            "match_rationale": "Naman Prakash Awasthi is a Support Manager at Zerodha with skills in Customer Service and Strategic Planning. While there is some overlap in customer service skills, the roles differ significantly in "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Austin Prakesh",
+          "linkedin_url": "https://in.linkedin.com/in/austin-prakesh-85040748",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced Strategy Director, significant overlap in strategic roles and financial services."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sagar Gawade",
+          "linkedin_url": "https://in.linkedin.com/in/sagar-gawade-970241120",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 85.0,
+            "match_rationale": "Sagar Gawade is a Marketing Partner at Zerodha, which involves strategic partnerships and revenue generation, similar to Shivithegautam's role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "SAMADHAN SALUNKHE",
+          "linkedin_url": "https://in.linkedin.com/in/samadhan-salunkhe-075192186",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivithegautam",
+            "similarity_score": 85.0,
+            "match_rationale": "SAMADHAN SALUNKHE is also a Marketing Partner at Zerodha, focusing on strategic partnerships and revenue generation, aligning closely with Shivithegautam's expertise."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Austin Prakesh",
+          "linkedin_url": "https://in.linkedin.com/in/austin-prakesh-85040748",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced Strategy Director with a proven track record in the financial services, similar strategic role in finance."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Piyush Dadheech",
+          "linkedin_url": "https://in.linkedin.com/in/dadheechpiyush",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 85.0,
+            "match_rationale": "Both work in financial services with a focus on mutual funds and retail lending, indicating significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rashmi H j",
+          "linkedin_url": "https://in.linkedin.com/in/rashmi-h-j-716615187",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Shukla",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are involved in sales within the financial services sector, suggesting a strong similarity in roles and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "SP Keshav",
+          "linkedin_url": "https://in.linkedin.com/in/sp-keshav-6882bb204",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold Assistant Manager roles in operations-related departments at Zerodha, with significant skill overlap in operations management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vimala G",
+          "linkedin_url": "https://in.linkedin.com/in/vimala-g-9ba41a17b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial roles in operations-related departments with a focus on administrative and operational management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amrit Virk",
+            "similarity_score": 80.0,
+            "match_rationale": "Lead Engineer- Operations at Zerodha, indicating a very similar role with significant skill overlap in operations management and process improvement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Akshay Halagatti",
+          "linkedin_url": "https://in.linkedin.com/in/akshay-halagatti-64513bb1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior managerial positions at Zerodha, likely involving leadership and strategic roles."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Govind Goel",
+          "linkedin_url": "https://in.linkedin.com/in/govindgoyal15",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 85.0,
+            "match_rationale": "Govind Goel is an Assistant Manager in financial services at Zerodha, which aligns closely with Ramkumar Subramonian's role in finance and banking operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "DRUHEEN DAS",
+          "linkedin_url": "https://in.linkedin.com/in/druheendas",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ramkumar Subramonian",
+            "similarity_score": 85.0,
+            "match_rationale": "Works at Zerodha Fund House with a focus on finance and investment, similar to Ramkumar's role in banking and growth strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Apurva Gururaj",
+          "linkedin_url": "https://in.linkedin.com/in/apurvagururaj",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hihariom",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in marketing roles with a focus on branding and content strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sagar Gawade",
+          "linkedin_url": "https://in.linkedin.com/in/sagar-gawade-970241120",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hihariom",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are involved in marketing roles, though specific responsibilities may differ."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "SAMADHAN SALUNKHE",
+          "linkedin_url": "https://in.linkedin.com/in/samadhan-salunkhe-075192186",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hihariom",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are involved in marketing roles, though specific responsibilities may differ."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Giri GV",
+          "linkedin_url": "https://in.linkedin.com/in/giri-gv",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are in early stages of their careers with minimal experience, and Giri GV is an intern at Zerodha, which is a related role in the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are in the 'Other' department with no specific skills or experience mentioned."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shobhit Srivastava",
+          "linkedin_url": "https://in.linkedin.com/in/ssrivastava91",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahulgupta450",
+            "similarity_score": 45.0,
+            "match_rationale": "Both profiles lack detailed information on roles and skills, making them minimally similar."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in software development at Zerodha, with significant skill overlap in software engineering."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shivam Saini",
+          "linkedin_url": "https://in.linkedin.com/in/shiv-am-saini",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in software development and integration of technologies, significant skill overlap in engineering and development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puneetsharma1909",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are involved in building scalable software in fintech, indicating very similar roles with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Giri GV",
+          "linkedin_url": "https://in.linkedin.com/in/giri-gv",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 75.0,
+            "match_rationale": "Both Atul Aggarwal and Giri GV are in the early stages of their careers with minimal experience. Giri GV is an intern at Zerodha, which aligns with Atul's lack of experience."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 50.0,
+            "match_rationale": "Both are in operations roles, but Atul's specific role and skills are unknown."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Atul Aggarwal",
+            "similarity_score": 45.0,
+            "match_rationale": "Both are in the 'Other' department, but roles are not specified."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 90.0,
+            "match_rationale": "AVP Partner Business at Zerodha, a senior role in sales with extensive experience and likely significant overlap in skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 85.0,
+            "match_rationale": "Sales Manager at Zerodha with significant experience in sales management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sagar Gawade",
+          "linkedin_url": "https://in.linkedin.com/in/sagar-gawade-970241120",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Avadhesh Verma",
+            "similarity_score": 85.0,
+            "match_rationale": "Sagar Gawade is a Marketing Partner at Zerodha, which involves significant overlap in skills related to sales, marketing, and channel expansion."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vinodreddy Yaragudri",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior roles in operations at Zerodha, with significant overlap in operational strategy and management responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Naman Prakash Awasthi",
+          "linkedin_url": "https://in.linkedin.com/in/naman-prakash-awasthi-824670131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vinodreddy Yaragudri",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial positions with significant experience in customer service and strategic planning, which overlaps with operational strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Divya Chandrashekar",
+          "linkedin_url": "https://in.linkedin.com/in/divya-chandrashekar-232a7b185",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vinodreddy Yaragudri",
+            "similarity_score": 80.0,
+            "match_rationale": "Manager in customer support with strong leadership skills, related to operations and team management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kishore Kondeti",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior roles in sales with significant overlap in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kishore Kondeti",
+            "similarity_score": 80.0,
+            "match_rationale": "Very similar roles in sales management with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "imran khan",
+          "linkedin_url": "https://in.linkedin.com/in/imran-khan-b7148528b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kishore Kondeti",
+            "similarity_score": 80.0,
+            "match_rationale": "Very similar roles in sales management with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niloy Dutta",
+            "similarity_score": 90.0,
+            "match_rationale": "AVP Partner Business at Zerodha with extensive experience in sales and business development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rashmi H j",
+          "linkedin_url": "https://in.linkedin.com/in/rashmi-h-j-716615187",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niloy Dutta",
+            "similarity_score": 85.0,
+            "match_rationale": "Associate sales manager at Zerodha with relevant experience in sales and business development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niloy Dutta",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in sales roles with managerial responsibilities, significant overlap in business development and client acquisition skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ridhima Shinde",
+          "linkedin_url": "https://in.linkedin.com/in/ridhima-shinde-5b352810a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold the title of Assistant Manager at Zerodha, likely involving similar managerial responsibilities and operational tasks."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "sadaf shamim",
+          "linkedin_url": "https://in.linkedin.com/in/sadaf-shamim-860567136",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold the title of Assistant Manager at Zerodha, likely involving similar responsibilities and skill sets in management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vinod Sathyaraj",
+          "linkedin_url": "https://in.linkedin.com/in/vinod-sathyaraj-997ba5328",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Alokit Nath Mishra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial positions in information technology and operations, with significant overlap in skills related to data analysis and reporting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold sales management positions at Zerodha with significant overlap in responsibilities related to sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in sales management at Zerodha, indicating a strong overlap in skills and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shubham Bhise",
+          "linkedin_url": "https://in.linkedin.com/in/shubham-bhise-9a53401b2",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Animesh Kumar",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold assistant sales manager positions at Zerodha, suggesting similar roles and skill sets."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amarjeet Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior sales positions with responsibilities in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amarjeet Singh",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are sales managers with significant experience in sales management and strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "imran khan",
+          "linkedin_url": "https://in.linkedin.com/in/imran-khan-b7148528b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amarjeet Singh",
+            "similarity_score": 80.0,
+            "match_rationale": "Both are sales managers with significant experience in sales management and strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in financial analysis and business operations, though Shruthi's role as a Business Analyst may involve broader responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are in finance-related roles, but Abhilash SR is in a more senior position as Head of NBFC at Zerodha Capital."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Piyush Dadheech",
+          "linkedin_url": "https://in.linkedin.com/in/dadheechpiyush",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Das",
+            "similarity_score": 70.0,
+            "match_rationale": "Piyush Dadheech works in Mutual Funds at Zerodha, which is related to finance and accounts but focuses on a specific financial product."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Navanit Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna is the AVP Sales at Zerodha, which involves significant overlap in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Navanit Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles in financial services with a focus on strategic management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Navanit Yadav",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, which is a very similar role in the same department with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold the title of Support Executive at Zerodha, indicating nearly identical roles with significant skill overlap in customer service and support."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Divya Chandrashekar",
+          "linkedin_url": "https://in.linkedin.com/in/divya-chandrashekar-232a7b185",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are in customer support roles with similar responsibilities and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Karishma Rajput",
+            "similarity_score": 85.0,
+            "match_rationale": "Shreya Rajput is a Customer Support Specialist at Zerodha, which is very similar to a Customer Support Executive. Both roles likely involve similar responsibilities and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 70.0,
+            "match_rationale": "Business Analyst at Zerodha, which is related to Tanmay's skills in business and finance."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Saher Patait",
+          "linkedin_url": "https://in.linkedin.com/in/saherpatait",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 70.0,
+            "match_rationale": "Business Analyst at Zerodha Fund House, which is related to Tanmay's skills in business and finance."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tanmay",
+            "similarity_score": 70.0,
+            "match_rationale": "Quality Analyst role at Zerodha suggests some overlap in skills related to quality and analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 85.0,
+            "match_rationale": "Nithin Pai holds a lead role in Operations at Zerodha, which involves significant overlap in operations management and process improvement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shashidhar M",
+          "linkedin_url": "https://in.linkedin.com/in/shashidhar-m-65a4b9125",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 80.0,
+            "match_rationale": "Shashidhar M is an AVP in Quality and Training at Zerodha, which involves operations and team leadership, though with a focus on quality and training."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Megha Shree",
+            "similarity_score": 75.0,
+            "match_rationale": "Dinesh Pai works on investments and business operations at Zerodha, which is related to operations management but with a broader scope."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals at Zerodha with a focus on connecting talent with opportunities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Seema Patil",
+          "linkedin_url": "https://in.linkedin.com/in/seema-patil-60381a2a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold senior HR roles at their respective companies, with significant overlap in HR strategy and people management responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ankur Mathur",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals with a focus on fostering inclusive workplaces and HR strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "sadique raza",
+          "linkedin_url": "https://in.linkedin.com/in/sadique-raza-50189049",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 85.0,
+            "match_rationale": "Manager of Sales at Zerodha with significant experience in sales, similar to Relationship Executive Gold Loan role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyanka Sahani",
+          "linkedin_url": "https://in.linkedin.com/in/priyanka-sahani-27120b104",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in customer support roles, with significant overlap in skills related to customer relationship management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rashmi H j",
+          "linkedin_url": "https://in.linkedin.com/in/rashmi-h-j-716615187",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anil Senn",
+            "similarity_score": 80.0,
+            "match_rationale": "Associate sales manager at Zerodha, involved in sales and customer service, similar skill set."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shameek Kolambkar",
+          "linkedin_url": "https://in.linkedin.com/in/shameek-kolambkar-4bb565122",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 95.0,
+            "match_rationale": "Both hold HR managerial positions at Zerodha with significant overlap in HR responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Seema Patil",
+          "linkedin_url": "https://in.linkedin.com/in/seema-patil-60381a2a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold senior HR roles with significant overlap in responsibilities such as HR management and employee relations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Joya Roy",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are HR professionals with a focus on fostering workplace culture and employee relations, though Pallavi's exact seniority is not specified."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Amogh R Kaushik",
+          "linkedin_url": "https://in.linkedin.com/in/amogh-r-kaushik-a48754138",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Amogh R Kaushik works in Risk Management Systems (RMS) at Zerodha, which involves risk management similar to Ayushi Rai's role in Fintech Solutions and Risk Management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shiva Murthy M S",
+          "linkedin_url": "https://in.linkedin.com/in/shiva-murthy-m-s-1922b2101",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in risk management within the finance sector, with Shiva Murthy M S specifically holding the title of Risk Analyst at Zerodha."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Piyush Dadheech",
+          "linkedin_url": "https://in.linkedin.com/in/dadheechpiyush",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ayushi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Piyush Dadheech works in Mutual Funds at Zerodha, which involves financial analysis and risk management, similar to Ayushi Rai's role in Fintech."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals at Zerodha with a focus on fostering inclusive workplaces."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shameek Kolambkar",
+          "linkedin_url": "https://in.linkedin.com/in/shameek-kolambkar-4bb565122",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals at Zerodha with managerial roles, likely sharing significant skill overlap in HR Management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kapil Yadav",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are HR professionals at their respective companies with a focus on connecting talent with opportunities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 85.0,
+            "match_rationale": "Pritam Dalvi is a Quality Analyst at Zerodha, which overlaps significantly with Jaya Shrivastava's experience in Quality Assurance and data-related roles."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 75.0,
+            "match_rationale": "Shruthi Ramprasad is a Business Analyst at Zerodha with over two years of experience. While the role is related to data analysis, it is not as closely aligned as a Quality Analyst role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jaya Shrivastava",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in technical roles within the data domain, with Abhinav being a Software Engineer and Jaya being a Data Analyst. There is a significant overlap in technical skills and experience."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in business operations and investments, indicating related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 75.0,
+            "match_rationale": "Both have general skills and work in support roles, likely in different departments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Palash Srivastava",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in business and investments, similar to the general skills and business focus of the target."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are Business Analysts with experience in finance-related roles. Shruthi has over two years of experience, which is less than Pooja's four years, but the role and skills are very similar."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Saher Patait",
+          "linkedin_url": "https://in.linkedin.com/in/saherpatait",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 85.0,
+            "match_rationale": "Saher is a Business Analyst at Zerodha Fund House, which aligns closely with Pooja's role in finance. Both have strong data analysis skills and work in finance-related domains."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nayan Nitesh",
+          "linkedin_url": "https://in.linkedin.com/in/nayan-nitesh-92b018a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pooja Thakran",
+            "similarity_score": 85.0,
+            "match_rationale": "Both work in the finance domain with compliance and certification management responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 75.0,
+            "match_rationale": "Both have general skills and work in support roles at Zerodha."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 70.0,
+            "match_rationale": "Both have roles related to business analysis and operations, with Shruthi having more experience."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shirin Sebastian",
+          "linkedin_url": "https://in.linkedin.com/in/shirin-sebastian-1a0868167",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Puja Abhishek Singh",
+            "similarity_score": 70.0,
+            "match_rationale": "Both have general skills and work in support and training roles at Zerodha."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 85.0,
+            "match_rationale": "Nithin Pai is a Lead Engineer in Operations at Zerodha, which involves significant overlap in operations management and strategic planning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Anoop Chauhan",
+          "linkedin_url": "https://in.linkedin.com/in/anoop0567",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 85.0,
+            "match_rationale": "Anoop Chauhan is an Engineer at Zerodha Fund House and has experience as a founding member, indicating significant overlap in leadership and strategic planning skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vimala G",
+          "linkedin_url": "https://in.linkedin.com/in/vimala-g-9ba41a17b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Anuj Arora",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial roles in operations with significant overlap in skills such as strategic planning and operations management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold senior positions in sales, with extensive experience in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial positions in sales at their respective companies, with significant overlap in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Gaurav Srivastava",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in sales management, with similar responsibilities in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 85.0,
+            "match_rationale": "Nithin Pai is a Lead Engineer- Operations at Zerodha, which involves significant overlap with business operations and strategy. Both roles are within the operations department and likely involve strat"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Austin Prakesh",
+          "linkedin_url": "https://in.linkedin.com/in/austin-prakesh-85040748",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced Strategy Director with a proven track record in the financial services, similar to Shivam Gupta's role in Business Strategy and Executive Support."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Shivam Gupta",
+            "similarity_score": 80.0,
+            "match_rationale": "Dinesh Pai works on investments and business operations at Zerodha. This role has a significant overlap with business strategy and operational planning, although it may include additional investment-r"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 85.0,
+            "match_rationale": "Both Amit Gupta and Shreya Rajput work in customer support roles, requiring strong communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pritam Dalvi",
+          "linkedin_url": "https://in.linkedin.com/in/pritam-dalvi-2317b6134",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 75.0,
+            "match_rationale": "Pritam Dalvi is a Quality Analyst, which involves teamwork and communication skills, similar to Amit Gupta's role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Amit Gupta",
+            "similarity_score": 70.0,
+            "match_rationale": "Arockiya Raja is a Business Analyst, which involves adaptability and communication skills, related to Amit Gupta's skill set."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Radhika Mane",
+          "linkedin_url": "https://in.linkedin.com/in/radhika-mane-51742628a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Allan Fernandes",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold product management roles at Zerodha, with significant overlap in skills related to product strategy and operational efficiency."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Allan Fernandes",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in product-related roles within the fintech domain, with Arockiya Raja working as a Business Analyst for a trading platform at Zerodha. There is significant overlap in skills related"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Allan Fernandes",
+            "similarity_score": 60.0,
+            "match_rationale": "Both hold senior management positions at Zerodha, though in different departments (NBFC vs. Product). Some overlap in strategic and operational skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Seema Patil",
+          "linkedin_url": "https://in.linkedin.com/in/seema-patil-60381a2a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akkama S.",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold the title of Human Resources Manager at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shameek Kolambkar",
+          "linkedin_url": "https://in.linkedin.com/in/shameek-kolambkar-4bb565122",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akkama S.",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR Managers at Zerodha, suggesting nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akkama S.",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold HR roles at Zerodha with a focus on fostering inclusive workplaces and employee relations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are support executives with similar skills in communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shirin Sebastian",
+          "linkedin_url": "https://in.linkedin.com/in/shirin-sebastian-1a0868167",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 80.0,
+            "match_rationale": "Quality and training role overlaps with support executive responsibilities, significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mukesh Bhatia",
+            "similarity_score": 75.0,
+            "match_rationale": "Both work in customer-facing roles requiring teamwork, communication, and adaptability."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pramod Naidu",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna holds the title of AVP Sales at Zerodha, which indicates a senior role in the sales department with significant overlap in sales management and strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pramod Naidu",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior management positions with significant experience in financial services. Abhilash SR is the Head of NBFC at Zerodha Capital, which involves strategic oversight similar to regional stra"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pramod Naidu",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, which is a similar role in the same department, likely involving customer relationship management and regional strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 85.0,
+            "match_rationale": "Nithin Pai is a Lead Engineer in Operations at Zerodha, which is closely related to digital transformation and process excellence in the operations department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 75.0,
+            "match_rationale": "Dinesh Pai works on investments and business operations at Zerodha, which is related to the operations department but with a focus on investments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sylvester Domingo",
+            "similarity_score": 75.0,
+            "match_rationale": "Business Analyst role in the same department (Operations) with relevant experience in process excellence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both Romi Rai and Shreya Rajput work in customer-facing roles requiring strong communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are support executives with similar experience and likely overlapping skills in communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shirin Sebastian",
+          "linkedin_url": "https://in.linkedin.com/in/shirin-sebastian-1a0868167",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Romi Rai",
+            "similarity_score": 80.0,
+            "match_rationale": "Quality and training roles involve significant communication and teamwork skills, similar to Romi Rai's profile."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "taha shaikh",
+          "linkedin_url": "https://in.linkedin.com/in/taha-shaikh-06b418117",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Salman Ahmed",
+            "similarity_score": 95.0,
+            "match_rationale": "Both hold the title of Assistant Manager at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "sadaf shamim",
+          "linkedin_url": "https://in.linkedin.com/in/sadaf-shamim-860567136",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Salman Ahmed",
+            "similarity_score": 95.0,
+            "match_rationale": "Both hold the title of Assistant Manager at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shubham Bhise",
+          "linkedin_url": "https://in.linkedin.com/in/shubham-bhise-9a53401b2",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Salman Ahmed",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold the title of Assistant Sales Manager at Zerodha, indicating nearly identical roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Radhika Mane",
+          "linkedin_url": "https://in.linkedin.com/in/radhika-mane-51742628a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Himanshu .",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold the title of Product Manager at their respective companies, indicating significant overlap in responsibilities and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Himanshu .",
+            "similarity_score": 75.0,
+            "match_rationale": "Both work in product-related roles within the financial sector, with Arockiya Raja focusing on trading platforms and Himanshu on digital lending."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Himanshu .",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are involved in financial services, with Abhilash SR heading NBFC operations which is related to digital lending."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pinaki Dasgupta",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna is the AVP Sales at Zerodha, which involves significant overlap in sales strategy and team leadership responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pinaki Dasgupta",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, indicating a very similar role with significant skill overlap in sales strategy and area management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "imran khan",
+          "linkedin_url": "https://in.linkedin.com/in/imran-khan-b7148528b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pinaki Dasgupta",
+            "similarity_score": 80.0,
+            "match_rationale": "Imran Khan is a Sales Manager at Zerodha, which involves similar responsibilities in sales strategy and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshay Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna is the AVP Sales at Zerodha, which involves leadership and sales strategy responsibilities similar to a Regional Head in Sales."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshay Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold head positions in their respective departments, likely involving leadership and strategic planning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Akshay Jain",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, which involves significant overlap in sales strategy and team management, though likely at a lower seniority level."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vinod Sathyaraj",
+          "linkedin_url": "https://in.linkedin.com/in/vinod-sathyaraj-997ba5328",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vivekanand Jha",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior roles in IT with significant overlap in technical skills and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Raut",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-raut",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vivekanand Jha",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in technical roles within the data department, with significant overlap in skills related to software engineering and database management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nikhil Raman",
+          "linkedin_url": "https://in.linkedin.com/in/nikhilraman93",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vivekanand Jha",
+            "similarity_score": 85.0,
+            "match_rationale": "Nikhil Raman is involved in building scalable, performant software in fintech, which likely involves database management and performance tuning, similar to Vivekanand Jha's role as Lead DBA."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahul Virmani",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna holds the position of AVP Sales at Zerodha, which involves significant overlap in sales strategy and leadership within the financial services sector."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahul Virmani",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles in financial services, with significant overlap in responsibilities and skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Austin Prakesh",
+          "linkedin_url": "https://in.linkedin.com/in/austin-prakesh-85040748",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rahul Virmani",
+            "similarity_score": 85.0,
+            "match_rationale": "Austin Prakesh is an experienced Strategy Director in financial services, which overlaps significantly with Rahul Virmani's role in sales strategy and financial services."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Govind Goel",
+          "linkedin_url": "https://in.linkedin.com/in/govindgoyal15",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 85.0,
+            "match_rationale": "Govind Goel is an Assistant Manager in financial services at Zerodha, with responsibilities that likely include loan management and financial analysis, similar to Firoj Khan's role as a Gold Loan Mana"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Maria Sushma . P",
+          "linkedin_url": "https://in.linkedin.com/in/maria-sushma-p-b9142b182",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 75.0,
+            "match_rationale": "Maria Sushma . P is an Assistant Manager Support at Zerodha, which involves customer service and support, related to Firoj Khan's skills in customer service and financial analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Divya Chandrashekar",
+          "linkedin_url": "https://in.linkedin.com/in/divya-chandrashekar-232a7b185",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Firoj Khan",
+            "similarity_score": 70.0,
+            "match_rationale": "Divya Chandrashekar is a Manager - customer support at Zerodha, which involves customer service and support, related to Firoj Khan's skills in customer service and financial analysis."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 85.0,
+            "match_rationale": "Working on investments and business operations at Zerodha, which aligns closely with Manish Baghel's experience in business development and operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in business development and investments, with significant skill overlap in strategic planning and operations."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Manish Baghel",
+            "similarity_score": 85.0,
+            "match_rationale": "Both have roles in business analysis and strategic planning within the financial sector."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna is the AVP Sales at Zerodha, which involves significant overlap in leadership, sales strategy, and team management skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior leadership roles with a focus on strategic management within their respective departments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajesh Agrawal",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, indicating a strong overlap in sales strategy and team management, though likely at a different seniority level."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior roles in operations at Zerodha with significant experience in the field."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Akshay Halagatti",
+          "linkedin_url": "https://in.linkedin.com/in/akshay-halagatti-64513bb1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior managerial positions at Zerodha with significant experience in management roles."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ajay Kapoor",
+            "similarity_score": 75.0,
+            "match_rationale": "Involved in business operations at Zerodha, though specific role details are less clear."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior positions in finance-related departments, with significant experience in the financial sector."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 85.0,
+            "match_rationale": "Asst. sales manager at Zerodha with experience in sales, similar to Pushpendra Dangi's role in branch sales within the finance department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pushpendra Dangi",
+            "similarity_score": 85.0,
+            "match_rationale": "Assistant Manager Sales at Zerodha with experience in sales, similar to Pushpendra Dangi's role in branch sales within the finance department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Saurabh Jha",
+            "similarity_score": 95.0,
+            "match_rationale": "Pallavi Bankar is a Human Resource professional at Zerodha with a focus on fostering inclusive workplaces, which aligns closely with Saurabh Jha's role and skills in HR Management, Employee Engagement"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Seema Patil",
+          "linkedin_url": "https://in.linkedin.com/in/seema-patil-60381a2a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Saurabh Jha",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are Human Resources Managers at their respective companies with similar roles and responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Saurabh Jha",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are HR professionals with a focus on connecting individuals with opportunities, likely sharing skills in HR Management and Employee Engagement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Apurva Gururaj",
+          "linkedin_url": "https://in.linkedin.com/in/apurvagururaj",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in marketing roles with a focus on digital strategies, branding, and content."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Naman Prakash Awasthi",
+          "linkedin_url": "https://in.linkedin.com/in/naman-prakash-awasthi-824670131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Naman Prakash Awasthi is a Support Manager at Zerodha with skills in Customer Service and Strategic Planning, which overlap significantly with Vaishali Bhat's skills in Telesales Strategy and Partners"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Vaishali Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Lakshmi thammineni is an Assistant Sales Manager at Zerodha, which involves sales management similar to Vaishali Bhat's role in telesales strategy. Both roles require strong sales skills and strategy "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Govind Goel",
+          "linkedin_url": "https://in.linkedin.com/in/govindgoyal15",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 85.0,
+            "match_rationale": "Govind Goel is a financial services professional at Zerodha with daily responsibilities revolving around ensuring compliance, which overlaps significantly with the skills of financial analysis, budget"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pranav Koranne",
+          "linkedin_url": "https://in.linkedin.com/in/pranav-koranne-8b262a78",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 85.0,
+            "match_rationale": "Pranav Koranne has over 10 years of experience and leads the legal and compliance team at Zerodha Fund House. His role involves significant overlap with financial management, including compliance and "
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vimala G",
+          "linkedin_url": "https://in.linkedin.com/in/vimala-g-9ba41a17b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "CA Rahul Kabira",
+            "similarity_score": 75.0,
+            "match_rationale": "Vimala G is an administrative manager in financial services at Zerodha, which is related to the finance department and involves some overlap in skills such as financial analysis and budgeting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ravi Jadhav",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna is the AVP Sales at Zerodha, which involves significant overlap in sales management, strategy, and leadership responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ravi Jadhav",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior management positions with a focus on strategic leadership and oversight within their respective departments."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Ravi Jadhav",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, which involves sales management and strategy, though likely at a different seniority level."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Pallavi Bankar",
+          "linkedin_url": "https://in.linkedin.com/in/pallavi-bankar-72a90b312?trk=people-guest_people_search-card",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pallavi Jain",
+            "similarity_score": 90.0,
+            "match_rationale": "Both are HR professionals with a focus on fostering inclusive workplaces and talent management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Anamika Kaur",
+          "linkedin_url": "https://in.linkedin.com/in/anamika-kaur-b1248320a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pallavi Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Experienced in talent acquisition within the IT industry, similar to Pallavi Jain's role in talent acquisition and head hunting."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ruchi Ved",
+          "linkedin_url": "https://in.linkedin.com/in/ruchi-ved-a141171b3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Pallavi Jain",
+            "similarity_score": 85.0,
+            "match_rationale": "Ruchi Ved is an HR professional at Zerodha, passionate about connecting talented individuals with opportunities, which aligns closely with Pallavi Jain's role in talent acquisition and employee onboar"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Harshit Singh Rajawat",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold sales roles at Zerodha with similar titles and responsibilities, significant skill overlap in sales strategy and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shubham Bhise",
+          "linkedin_url": "https://in.linkedin.com/in/shubham-bhise-9a53401b2",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Harshit Singh Rajawat",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold sales roles at Zerodha with similar titles and responsibilities, significant skill overlap in sales strategy and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "sadique raza",
+          "linkedin_url": "https://in.linkedin.com/in/sadique-raza-50189049",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Harshit Singh Rajawat",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold sales roles at Zerodha with similar titles and responsibilities, significant skill overlap in sales strategy and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in operations at Zerodha with significant overlap in skills related to operational efficiency and process improvement."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 85.0,
+            "match_rationale": "Both work in operations-related roles with a focus on process improvement and project management. Shruthi's role as a Business Analyst involves operational efficiency and resource management, which al"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Maria Sushma . P",
+          "linkedin_url": "https://in.linkedin.com/in/maria-sushma-p-b9142b182",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Prasanna Kumari",
+            "similarity_score": 85.0,
+            "match_rationale": "Both work in operations-related roles with a focus on support and management. Skills in operational efficiency and process improvement are likely to overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shiva Murthy M S",
+          "linkedin_url": "https://in.linkedin.com/in/shiva-murthy-m-s-1922b2101",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 85.0,
+            "match_rationale": "Shiva Murthy M S is a Risk Analyst at Zerodha, which involves risk assessment similar to Sajeesh Ko's role as a Gold Loan Specialist. Both roles require strong analytical skills and understanding of f"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nayan Nitesh",
+          "linkedin_url": "https://in.linkedin.com/in/nayan-nitesh-92b018a3",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 75.0,
+            "match_rationale": "Compliance Associate at Zerodha Capital with experience in NBFC, which is related to financial services and risk assessment."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shruthi Ramprasad",
+          "linkedin_url": "https://in.linkedin.com/in/shruthi-ramprasad",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Sajeesh ko",
+            "similarity_score": 70.0,
+            "match_rationale": "Business Analyst at Zerodha with experience in finance-related analysis, which overlaps with risk assessment and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 85.0,
+            "match_rationale": "Both Jyotika Satija and Shreya Rajput are involved in customer support roles, requiring strong communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in support roles with a focus on general skills, communication, and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyanka Sahani",
+          "linkedin_url": "https://in.linkedin.com/in/priyanka-sahani-27120b104",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Jyotika Satija",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in customer support and communication roles, with significant skill overlap in teamwork and general skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shreya Rajput",
+          "linkedin_url": "https://in.linkedin.com/in/shreya-rajput-27b79b241",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in customer support roles, requiring strong communication and teamwork skills."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are support executives with similar experience and likely overlapping skills in communication and teamwork."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Priyanka Sahani",
+          "linkedin_url": "https://in.linkedin.com/in/priyanka-sahani-27120b104",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Kavita Mitra",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in customer support and communication roles, with significant skill overlap."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Govind Goel",
+          "linkedin_url": "https://in.linkedin.com/in/govindgoyal15",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Govind Goel is an Assistant Manager in financial services at Zerodha with responsibilities that likely include financial planning and analysis, which aligns closely with Niranjan Bhat's role as a Fina"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "DRUHEEN DAS",
+          "linkedin_url": "https://in.linkedin.com/in/druheendas",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 85.0,
+            "match_rationale": "Works at Zerodha Fund House, likely involved in financial management and planning."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Karan Kalla",
+          "linkedin_url": "https://in.linkedin.com/in/karankalla12",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Niranjan Bhat",
+            "similarity_score": 80.0,
+            "match_rationale": "Backend at Zerodha Fund House, involved in mutual funds and technology, significant overlap in financial domain."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Radhika Mane",
+          "linkedin_url": "https://in.linkedin.com/in/radhika-mane-51742628a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mahima Singh Chauhan",
+            "similarity_score": 95.0,
+            "match_rationale": "Both are Product Managers at their respective companies, likely sharing similar responsibilities in product management, market research, and product development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Arockiya Raja",
+          "linkedin_url": "https://in.linkedin.com/in/arockiya-raja-956784ab",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mahima Singh Chauhan",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in product-related roles within the trading platform domain, likely sharing significant skill overlap in product management and development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Mahima Singh Chauhan",
+            "similarity_score": 75.0,
+            "match_rationale": "Both are in senior roles within their respective departments, with Sushma focusing on partner business and sales, which overlaps with product management in terms of strategic planning and market resea"
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Deepa Manjunath",
+          "linkedin_url": "https://in.linkedin.com/in/deepa-manjunath-0796b6165",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 95.0,
+            "match_rationale": "Both hold roles in Administration Management at Zerodha, with significant overlap in responsibilities related to facilities and operational excellence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nithin Pai",
+          "linkedin_url": "https://in.linkedin.com/in/nithin-pai-a2b96a55",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 85.0,
+            "match_rationale": "Lead Engineer- Operations at Zerodha with significant experience in operations, similar to Hari Prasad's role in driving operational excellence."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Hari Prasad",
+            "similarity_score": 75.0,
+            "match_rationale": "Working on investments and business operations at Zerodha, which relates to operational aspects similar to Hari Prasad's role."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in finance-related roles with a focus on loan management and financial services."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Giri GV",
+          "linkedin_url": "https://in.linkedin.com/in/giri-gv",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 75.0,
+            "match_rationale": "Both have experience in finance and accounting, though Giri GV is an intern and Rushikesh Tate has more specialized experience in gold loan management."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rushikesh Tate",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are involved in business and investments within the finance sector, but Abhinav Singh Negi's role is broader compared to Rushikesh Tate's specialized focus on gold loans."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 90.0,
+            "match_rationale": "Both hold senior sales positions at Zerodha, with extensive experience in business growth and team leadership."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold sales management positions at Zerodha with a focus on business development and sales strategy."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Rajnish Sah",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are involved in sales management at Zerodha, indicating significant skill overlap in sales strategy and business development."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sushma Somanna",
+          "linkedin_url": "https://in.linkedin.com/in/sushma-somanna%F0%9F%87%AE%F0%9F%87%B3-06243965",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "ABHISHEK KUMAR BAJAJ",
+            "similarity_score": 85.0,
+            "match_rationale": "Sushma Somanna holds the title of AVP Sales at Zerodha, which involves significant overlap in sales strategy and team leadership responsibilities similar to those of a Regional Head."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhilash SR",
+          "linkedin_url": "https://in.linkedin.com/in/abhilash-sr-a22b5a31b",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "ABHISHEK KUMAR BAJAJ",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold senior management positions with a focus on financial services and leadership responsibilities."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alamgir Haque",
+          "linkedin_url": "https://in.linkedin.com/in/alamgir-haque-584307161",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "ABHISHEK KUMAR BAJAJ",
+            "similarity_score": 80.0,
+            "match_rationale": "Alamgir Haque is a Sales Manager at Zerodha, which involves sales management and strategy, closely related to the role of Regional Head."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mitisha Kakati",
+          "linkedin_url": "https://in.linkedin.com/in/mitisha-kakati-7b1032131",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 75.0,
+            "match_rationale": "Both have general skills and are in support roles, likely within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Abhinav Singh Negi",
+          "linkedin_url": "https://in.linkedin.com/in/abhinav-singh-negi-a5ab133a",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 70.0,
+            "match_rationale": "Both are involved in business and investments, which suggests they work in related roles within the same department."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dinesh Pai",
+          "linkedin_url": "https://in.linkedin.com/in/paidinesh1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "MAYYANK BHOTIKA",
+            "similarity_score": 70.0,
+            "match_rationale": "Involved in investments and business operations, similar to the general business skills of the target."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lakshmi thammineni",
+          "linkedin_url": "https://in.linkedin.com/in/lakshmi-thammineni-7818b2105",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tarun Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Both hold managerial positions in sales with experience in sales management and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Shubham Bhise",
+          "linkedin_url": "https://in.linkedin.com/in/shubham-bhise-9a53401b2",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tarun Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in sales management roles with similar responsibilities and skills in sales and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Prabhu M R",
+          "linkedin_url": "https://in.linkedin.com/in/prabhu-m-r-965a39a1",
+          "company": "Zerodha",
+          "title": "Matched Employee",
+          "match_info": {
+            "target_employee": "Tarun Singh",
+            "similarity_score": 85.0,
+            "match_rationale": "Both are in sales management roles with a focus on sales and customer service."
+          }
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false,
+          "is_top_match": true
+        }
+      }
+    ]
+  }
+}

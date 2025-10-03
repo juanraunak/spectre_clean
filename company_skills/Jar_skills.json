@@ -1,0 +1,3717 @@
+{
+  "company_name": "Jar",
+  "employees": [
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_001",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_002",
+      "skills": [
+        "Human Resources Management",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Compliance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_003",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Team Leadership",
+        "Client Relations",
+        "Strategic Planning",
+        "Project Management",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Janet Makepeace",
+      "position": "",
+      "employee_id": "Jar_004",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_005",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Team Management",
+        "Client Relations",
+        "Policy Implementation",
+        "Regulatory Compliance",
+        "Strategic Planning",
+        "Employee Benefits Administration"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_006",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Paralegal Certification",
+        "Conflict Resolution",
+        "Performance Management",
+        "HR Policies",
+        "Talent Acquisition"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_007",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_008",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Marisol Garcia",
+      "position": "Marketing Coordinator @ JAR Insurance Services | Communications & Business Entertainment and Hospitality Management",
+      "employee_id": "Jar_009",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Event Planning",
+        "Public Relations",
+        "Brand Management",
+        "Market Research",
+        "Analytics",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sangeetha Murugesh",
+      "position": "UX Researcher @ Jar | Consumer Insights | Market Research | Product Operations | Freelance Content Writer",
+      "employee_id": "Jar_010",
+      "skills": [
+        "UX Research",
+        "Consumer Insights",
+        "Market Research",
+        "Product Operations",
+        "Content Writing"
+      ]
+    },
+    {
+      "name": "Roger Nairn",
+      "position": "",
+      "employee_id": "Jar_011",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_012",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_013",
+      "skills": [
+        "Human Resources Management",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Performance Management",
+        "Labor Law Compliance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_014",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Team Leadership",
+        "Client Relations",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_015",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_016",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_017",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_018",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_019",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Hibernate",
+        "Agile Methodologies",
+        "Git",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_020",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_021",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_022",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_023",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_024",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "User Experience (UX) Design",
+        "Agile Methodologies",
+        "Project Management",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Product Strategy"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_025",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Consumer Insights",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Sangeetha Murugesh",
+      "position": "UX Researcher @ Jar | Consumer Insights | Market Research | Product Operations | Freelance Content Writer",
+      "employee_id": "Jar_026",
+      "skills": [
+        "UX Research",
+        "Consumer Insights",
+        "Market Research",
+        "Product Operations",
+        "Content Writing"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_027",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_028",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_029",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Hibernate",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Manish Murgod",
+      "position": "✦Product Design @ JAR ✦ Building intuitive fintech experiences at India’s #1 savings platform✦ Featured in ADPList’s Top 50 Portfolios & Wall of Portfolios ✦ Softskills Cert. by IIT ROORKEE",
+      "employee_id": "Jar_030",
+      "skills": [
+        "Product Design",
+        "Fintech",
+        "User Experience (UX) Design",
+        "Portfolio Management",
+        "Softskills"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_031",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_032",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_033",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Hibernate",
+        "RESTful APIs",
+        "Microservices",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_034",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_035",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_036",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Marisol Garcia",
+      "position": "Marketing Coordinator @ JAR Insurance Services | Communications & Business Entertainment and Hospitality Management",
+      "employee_id": "Jar_037",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Event Planning",
+        "Public Relations",
+        "Brand Management",
+        "Market Research",
+        "Analytics",
+        "Project Management",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_038",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_039",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Mitesh soni",
+      "position": "",
+      "employee_id": "Jar_040",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_041",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_042",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "RESTful APIs",
+        "Microservices",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_043",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Mitesh soni",
+      "position": "",
+      "employee_id": "Jar_044",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_045",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_046",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_047",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_048",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Forecasting",
+        "CRM Software",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_049",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_050",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Insurance Services",
+        "Client Relations",
+        "Business Development",
+        "Regional Sales"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_051",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_052",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Coordination",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_053",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "User Experience (UX) Design",
+        "Product Development",
+        "Competitive Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_054",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_055",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ozzie Padilla",
+      "position": "Director at JAR Insurance Services",
+      "employee_id": "Jar_056",
+      "skills": [
+        "Insurance Services",
+        "Leadership",
+        "Strategic Planning",
+        "Risk Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_057",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Coordination",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Office",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_058",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_059",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Project Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_060",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "User Experience (UX) Design",
+        "Product Development",
+        "Competitive Analysis",
+        "Roadmap Planning"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_061",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_062",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM®",
+        "Project Management",
+        "Inventory Control",
+        "Logistics",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_063",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Marisol Garcia",
+      "position": "Marketing Coordinator @ JAR Insurance Services | Communications & Business Entertainment and Hospitality Management",
+      "employee_id": "Jar_064",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "Email Marketing",
+        "Event Planning",
+        "Public Relations",
+        "Brand Management",
+        "Market Research",
+        "Analytics",
+        "Communication Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Violeta Istatkova",
+      "position": "Marketing and Sales at JAR Computers",
+      "employee_id": "Jar_065",
+      "skills": [
+        "Marketing Strategy",
+        "Sales Management",
+        "Digital Marketing",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Brand Development",
+        "Content Creation",
+        "Social Media Marketing",
+        "SEO",
+        "Email Marketing",
+        "Lead Generation"
+      ]
+    },
+    {
+      "name": "Manish Murgod",
+      "position": "✦Product Design @ JAR ✦ Building intuitive fintech experiences at India’s #1 savings platform✦ Featured in ADPList’s Top 50 Portfolios & Wall of Portfolios ✦ Softskills Cert. by IIT ROORKEE",
+      "employee_id": "Jar_066",
+      "skills": [
+        "Product Design",
+        "Fintech",
+        "User Experience Design",
+        "Portfolio Management",
+        "Soft Skills"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_067",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_068",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Akashdeep Singal",
+      "position": "",
+      "employee_id": "Jar_069",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_070",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_071",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_072",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_073",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Marisol Garcia",
+      "position": "Marketing Coordinator @ JAR Insurance Services | Communications & Business Entertainment and Hospitality Management",
+      "employee_id": "Jar_074",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "Event Planning",
+        "Public Relations",
+        "Project Management",
+        "Customer Service",
+        "Brand Management",
+        "Market Research",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Violeta Istatkova",
+      "position": "Marketing and Sales at JAR Computers",
+      "employee_id": "Jar_075",
+      "skills": [
+        "Marketing Strategy",
+        "Sales Management",
+        "Digital Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Development",
+        "Advertising",
+        "Social Media Marketing",
+        "SEO",
+        "Content Creation",
+        "Lead Generation"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_076",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Client Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Revenue Growth",
+        "Account Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_077",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_078",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Insurance Services",
+        "Client Relationship Management",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sam Lewinson",
+      "position": "Co-Founder & Chief Operations Officer at JAR-Aerospace Pty Ltd",
+      "employee_id": "Jar_079",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Business Development",
+        "Aerospace Industry Knowledge",
+        "Process Improvement",
+        "Supply Chain Management",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Fradelyn Mendoza",
+      "position": "VP of Operations at Jar Joy",
+      "employee_id": "Jar_080",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Supply Chain Management",
+        "Budgeting",
+        "Vendor Relations",
+        "Quality Control"
+      ]
+    },
+    {
+      "name": "Lauren R. Simon",
+      "position": "Operations Manager at JAR Construction LLC",
+      "employee_id": "Jar_081",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Scheduling",
+        "Risk Management",
+        "Resource Allocation",
+        "Process Improvement",
+        "Vendor Management",
+        "Contract Negotiation",
+        "Quality Control"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_082",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Client Relations",
+        "Insurance Services",
+        "Business Development",
+        "Negotiation",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_083",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_084",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Account Management",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Violeta Istatkova",
+      "position": "Marketing and Sales at JAR Computers",
+      "employee_id": "Jar_085",
+      "skills": [
+        "Marketing Strategy",
+        "Sales Management",
+        "Digital Marketing",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Brand Management",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "Email Marketing",
+        "Analytics",
+        "Lead Generation",
+        "Negotiation",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "John McGee",
+      "position": "Territory Account Manager, at JAR Systems",
+      "employee_id": "Jar_086",
+      "skills": [
+        "Account Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Territory Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_087",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_088",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_089",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM®",
+        "Project Management",
+        "Inventory Management",
+        "Logistics"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_090",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Product Development",
+        "Competitive Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_091",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_092",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_093",
+      "skills": [
+        "Operations Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_094",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relations",
+        "Business Development",
+        "Regional Sales",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_095",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_096",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Forecasting",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_097",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "mukesh maurya",
+      "position": "",
+      "employee_id": "Jar_098",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_099",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Insurance Services",
+        "Regional Market Development",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_100",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_101",
+      "skills": [
+        "Sales Management",
+        "Territory Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_102",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Hugo Steenekamp",
+      "position": "General Worker at JAR MINNING",
+      "employee_id": "Jar_103",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_104",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_105",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_106",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "mukesh maurya",
+      "position": "",
+      "employee_id": "Jar_107",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_108",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_109",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Project Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Stephen Friddle",
+      "position": "General Manager at Jar Restaurant",
+      "employee_id": "Jar_110",
+      "skills": [
+        "Team Leadership",
+        "Restaurant Management",
+        "Customer Service",
+        "Inventory Management",
+        "Staff Training",
+        "Budgeting",
+        "Scheduling",
+        "Conflict Resolution",
+        "Food Safety",
+        "Vendor Relations"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_111",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_112",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Paralegal Certification",
+        "Conflict Resolution",
+        "Performance Management",
+        "HR Policies",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_113",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Risk Management",
+        "Team Leadership",
+        "Client Relations",
+        "Project Management",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_114",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_115",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_116",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_117",
+      "skills": [
+        "Human Resources Management",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Performance Management",
+        "HR Compliance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_118",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "MSW"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_119",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Team Leadership",
+        "Client Relations",
+        "Project Management",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_120",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Manish Murgod",
+      "position": "✦Product Design @ JAR ✦ Building intuitive fintech experiences at India’s #1 savings platform✦ Featured in ADPList’s Top 50 Portfolios & Wall of Portfolios ✦ Softskills Cert. by IIT ROORKEE",
+      "employee_id": "Jar_121",
+      "skills": [
+        "Product Design",
+        "Fintech",
+        "User Experience (UX)",
+        "Portfolio Management",
+        "Soft Skills"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_122",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_123",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Paralegal Certification",
+        "Conflict Resolution",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Labor Law Compliance",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_124",
+      "skills": [
+        "Talent Acquisition",
+        "HR",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "MSW"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_125",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "National Management",
+        "Senior Coordination"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_126",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "User Experience (UX)",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_127",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_128",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_129",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_130",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Excel",
+        "Project Coordination"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_131",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Ozzie Padilla",
+      "position": "Director at JAR Insurance Services",
+      "employee_id": "Jar_132",
+      "skills": [
+        "Leadership",
+        "Insurance Services",
+        "Risk Management",
+        "Strategic Planning",
+        "Team Management",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_133",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_134",
+      "skills": [
+        "Operations Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_135",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Market Research",
+        "User Experience (UX)",
+        "Agile Methodologies",
+        "Project Management",
+        "Data Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Rajneesh Lodhi",
+      "position": "Product @ Jar | IIT Roorkee | Lifepay | Phalbee| Clear Tax",
+      "employee_id": "Jar_136",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Technology",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_137",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_138",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Project Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_139",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_140",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_141",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Insurance Services",
+        "Regional Market Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_142",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_143",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Revenue Growth",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_144",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Project Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_145",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Akashdeep Singal",
+      "position": "",
+      "employee_id": "Jar_146",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_147",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_148",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Strategic Planning",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Customer Insights",
+        "Stakeholder Management",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Srinu Ami",
+      "position": "Java Software Engineer at Jar",
+      "employee_id": "Jar_149",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Spring Framework",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Sergej Schulga",
+      "position": "Director WW Product Management at JAR Systems",
+      "employee_id": "Jar_150",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Project Management",
+        "Business Development",
+        "Cross-functional Collaboration",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Rajneesh Lodhi",
+      "position": "Product @ Jar | IIT Roorkee | Lifepay | Phalbee| Clear Tax",
+      "employee_id": "Jar_151",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Research",
+        "Data Analysis",
+        "Financial Technology",
+        "Project Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_152",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Product Development",
+        "Competitive Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_153",
+      "skills": [
+        "Human Resources",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Talent Acquisition"
+      ]
+    },
+    {
+      "name": "Paul Rabert",
+      "position": "Sr. Project Manager at Jar & Glass Distribution Inc.",
+      "employee_id": "Jar_154",
+      "skills": [
+        "Project Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Vendor Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Stephen Friddle",
+      "position": "General Manager at Jar Restaurant",
+      "employee_id": "Jar_155",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Customer Service",
+        "Operations Management",
+        "Budgeting",
+        "Inventory Control",
+        "Staff Training",
+        "Conflict Resolution",
+        "Sales Strategy",
+        "Vendor Relations"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_156",
+      "skills": [
+        "Operations Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Team Collaboration",
+        "Project Coordination",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_157",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_158",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_159",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relations",
+        "Insurance Services",
+        "Regional Sales",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_160",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_161",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development",
+        "Account Management",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_162",
+      "skills": [
+        "Operations Management",
+        "Team Coordination",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Service",
+        "Project Management",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_163",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Project Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_164",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_165",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Service",
+        "Project Coordination",
+        "Microsoft Excel",
+        "Team Collaboration",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_166",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Competitive Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX)",
+        "Data Analysis",
+        "Strategic Planning",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sangeetha Murugesh",
+      "position": "UX Researcher @ Jar | Consumer Insights | Market Research | Product Operations | Freelance Content Writer",
+      "employee_id": "Jar_167",
+      "skills": [
+        "UX Research",
+        "Consumer Insights",
+        "Market Research",
+        "Product Operations",
+        "Content Writing"
+      ]
+    },
+    {
+      "name": "John McGee",
+      "position": "Territory Account Manager, at JAR Systems",
+      "employee_id": "Jar_168",
+      "skills": [
+        "Account Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Territory Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Client Retention"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_169",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_170",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_171",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "User Experience (UX)",
+        "User Interface (UI) Design",
+        "Stakeholder Management",
+        "Competitive Analysis",
+        "Strategic Planning",
+        "Product Development",
+        "Team Collaboration",
+        "Customer Insights",
+        "Roadmap Planning",
+        "Wireframing",
+        "Prototyping",
+        "A/B Testing",
+        "Metrics Tracking",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajneesh Lodhi",
+      "position": "Product @ Jar | IIT Roorkee | Lifepay | Phalbee| Clear Tax",
+      "employee_id": "Jar_172",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Technology",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_173",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "User Experience (UX)",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_174",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relations",
+        "Business Development",
+        "Regional Sales"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_175",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_176",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development",
+        "Account Management",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_177",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills",
+        "Regional Market Expertise"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_178",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_179",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Pratham Prabal R",
+      "position": "Software Development Engineer @ Jar |",
+      "employee_id": "Jar_180",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_181",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "User Experience (UX)",
+        "Agile Methodologies",
+        "Project Management",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Megha Malge",
+      "position": "Software Engineer at Jar",
+      "employee_id": "Jar_182",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Software Development",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_183",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_184",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_185",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "National Management",
+        "Team Leadership",
+        "Client Relations",
+        "Policy Development",
+        "Compliance",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_186",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_187",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Competitive Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "User Experience (UX)",
+        "Data Analysis",
+        "Strategic Planning",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_188",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM®",
+        "Inventory Management",
+        "Logistics",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Alexander Clark",
+      "position": "",
+      "employee_id": "Jar_189",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Excel",
+        "R",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Marisol Garcia",
+      "position": "Marketing Coordinator @ JAR Insurance Services | Communications & Business Entertainment and Hospitality Management",
+      "employee_id": "Jar_190",
+      "skills": [
+        "Marketing Strategy",
+        "Content Creation",
+        "Social Media Management",
+        "Event Planning",
+        "Public Relations",
+        "Brand Management",
+        "SEO",
+        "Email Marketing",
+        "Market Research",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_191",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Insurance Services",
+        "Client Relations",
+        "Business Development",
+        "Regional Sales"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_192",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_193",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Revenue Growth",
+        "Account Management",
+        "Business Development",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Fradelyn Mendoza",
+      "position": "VP of Operations at Jar Joy",
+      "employee_id": "Jar_194",
+      "skills": [
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Supply Chain Management",
+        "Budgeting",
+        "Vendor Management",
+        "Quality Control",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Lauren R. Simon",
+      "position": "Operations Manager at JAR Construction LLC",
+      "employee_id": "Jar_195",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Scheduling",
+        "Resource Allocation",
+        "Construction Management",
+        "Vendor Management",
+        "Risk Assessment",
+        "Quality Control"
+      ]
+    },
+    {
+      "name": "Stephen Friddle",
+      "position": "General Manager at Jar Restaurant",
+      "employee_id": "Jar_196",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Customer Service",
+        "Inventory Management",
+        "Staff Training",
+        "Budgeting",
+        "Scheduling",
+        "Vendor Relations",
+        "Quality Control",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_197",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ozzie Padilla",
+      "position": "Director at JAR Insurance Services",
+      "employee_id": "Jar_198",
+      "skills": [
+        "Leadership",
+        "Insurance Services",
+        "Risk Management",
+        "Strategic Planning",
+        "Team Management",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_199",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relations",
+        "Insurance Services",
+        "Regional Sales",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_200",
+      "skills": [
+        "Human Resources Management",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "HR Policies",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_201",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Rosa Gin",
+      "position": "National Manager, Senior Benefits Coordinator at JAR Insurance Services",
+      "employee_id": "Jar_202",
+      "skills": [
+        "Benefits Coordination",
+        "Insurance Services",
+        "Management",
+        "Team Leadership",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Violeta Istatkova",
+      "position": "Marketing and Sales at JAR Computers",
+      "employee_id": "Jar_203",
+      "skills": [
+        "Marketing Strategy",
+        "Sales Management",
+        "Digital Marketing",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Brand Management",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_204",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development",
+        "Product Knowledge",
+        "Forecasting",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_205",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Insurance Services",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_206",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_207",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Strategic Planning",
+        "Team Leadership",
+        "Client Relations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_208",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_209",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Account Management",
+        "Forecasting",
+        "Sales Reporting"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_210",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Lucy Ann Garcia",
+      "position": "Human Resources Executive @ Jar Transportation | Paralegal Certification",
+      "employee_id": "Jar_211",
+      "skills": [
+        "Human Resources Management",
+        "Paralegal Certification",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Conflict Resolution",
+        "Performance Management",
+        "HR Compliance"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_212",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Violeta Istatkova",
+      "position": "Marketing and Sales at JAR Computers",
+      "employee_id": "Jar_213",
+      "skills": [
+        "Marketing Strategy",
+        "Sales Management",
+        "Digital Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Development",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Email Marketing"
+      ]
+    },
+    {
+      "name": "Nishchay Ag",
+      "position": "",
+      "employee_id": "Jar_214",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_215",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Client Relations",
+        "Insurance Services",
+        "Business Development",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_216",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_217",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM® Certification"
+      ]
+    },
+    {
+      "name": "Paul Rabert",
+      "position": "Sr. Project Manager at Jar & Glass Distribution Inc.",
+      "employee_id": "Jar_218",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Resource Allocation",
+        "Time Management",
+        "Microsoft Office",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_219",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_220",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_221",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "User Experience (UX)",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_222",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_223",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Competitive Analysis",
+        "Strategic Planning",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Tejas Rajanna",
+      "position": "Engineering at Jar",
+      "employee_id": "Jar_224",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Akashdeep Singal",
+      "position": "",
+      "employee_id": "Jar_225",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_226",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_227",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Product Development",
+        "User Experience (UX) Design",
+        "Competitive Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "‏Murielle Layous, CMA‏",
+      "position": "Matched Employee",
+      "employee_id": "Jar_228",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Variance Analysis",
+        "Cost Control",
+        "Strategic Planning",
+        "Microsoft Excel",
+        "ERP Systems",
+        "GAAP",
+        "Internal Controls"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_229",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "CAPM®",
+        "Project Management",
+        "Inventory Management",
+        "Logistics",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Sergej Schulga",
+      "position": "Director WW Product Management at JAR Systems",
+      "employee_id": "Jar_230",
+      "skills": [
+        "Product Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Project Management",
+        "Business Development",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Divyani Singh",
+      "position": "Associate Product Manager at Jar | Clensta | Honasa Consumer (Mamaearth, The Derma Co, BBlunt, Aqualogica)",
+      "employee_id": "Jar_231",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Product Development",
+        "Competitive Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajneesh Lodhi",
+      "position": "Product @ Jar | IIT Roorkee | Lifepay | Phalbee| Clear Tax",
+      "employee_id": "Jar_232",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Financial Services",
+        "Product Development",
+        "Project Management",
+        "Data Analysis",
+        "Customer Insights",
+        "User Experience (UX)"
+      ]
+    },
+    {
+      "name": "Alexander Clark",
+      "position": "",
+      "employee_id": "Jar_233",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kunal Gogia",
+      "position": "Supply and Ops specialist at JAR | Operations | CAPM®",
+      "employee_id": "Jar_234",
+      "skills": [
+        "Supply Chain Management",
+        "Operations Management",
+        "Certified Associate in Project Management (CAPM)",
+        "Process Improvement",
+        "Inventory Management",
+        "Vendor Management",
+        "Logistics",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_235",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Customer Service",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_236",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Snehal Dinesh",
+      "position": "Talent Acquisition | Jar | MSW in HR",
+      "employee_id": "Jar_237",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "MSW in HR"
+      ]
+    },
+    {
+      "name": "Soumya Chaudhary",
+      "position": "Operations Associate",
+      "employee_id": "Jar_238",
+      "skills": [
+        "Operations Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Team Collaboration",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_239",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_240",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_241",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Client Relations",
+        "Insurance Services",
+        "Regional Sales Management",
+        "Business Development",
+        "Negotiation",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_242",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_243",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_244",
+      "skills": [
+        "Sales Management",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sandesh Nahar",
+      "position": "Jar",
+      "employee_id": "Jar_245",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ashwin Kulkarni",
+      "position": "Product@Jar",
+      "employee_id": "Jar_246",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "User Experience (UX)",
+        "Agile Methodologies",
+        "Data Analysis",
+        "Project Management",
+        "Stakeholder Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajneesh Lodhi",
+      "position": "Product @ Jar | IIT Roorkee | Lifepay | Phalbee| Clear Tax",
+      "employee_id": "Jar_247",
+      "skills": [
+        "Product Management",
+        "Data Analysis",
+        "Financial Technology",
+        "Team Leadership",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Tina Perjol",
+      "position": "Territory Sales Manager at JAR STORE",
+      "employee_id": "Jar_248",
+      "skills": [
+        "Sales Strategy",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Luis Uy",
+      "position": "National Sales Manager at JAR Insurance Services",
+      "employee_id": "Jar_249",
+      "skills": [
+        "Sales Management",
+        "Insurance Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Cesar Rivera JR",
+      "position": "JAR Insurance Services National Director of sales CA, AZ, NM, TX markets",
+      "employee_id": "Jar_250",
+      "skills": [
+        "Sales Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Insurance Services",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Regional Sales"
+      ]
+    }
+  ]
+}

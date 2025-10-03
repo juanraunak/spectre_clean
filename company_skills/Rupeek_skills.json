@@ -1,0 +1,3720 @@
+{
+  "company_name": "Rupeek",
+  "employees": [
+    {
+      "name": "Smitashree Panda",
+      "position": "Talent Acquisition Executive",
+      "employee_id": "Rup_001",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Sourcing",
+        "Onboarding",
+        "Employee Relations",
+        "HR Management",
+        "Communication",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_002",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ronit S.",
+      "position": "",
+      "employee_id": "Rup_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_004",
+      "skills": [
+        "Human Resources Management",
+        "Executive Assistance",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Organizational Development",
+        "Leadership",
+        "Conflict Resolution",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_005",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ronit S.",
+      "position": "",
+      "employee_id": "Rup_006",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Amit Kochhar",
+      "position": "Talent Acquisition Specialist at Rupeek",
+      "employee_id": "Rup_007",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "HR Strategy",
+        "Communication Skills",
+        "Negotiation",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Ronit S.",
+      "position": "",
+      "employee_id": "Rup_008",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohina Nayak",
+      "position": "",
+      "employee_id": "Rup_009",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_010",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_011",
+      "skills": [
+        "Human Resources",
+        "Executive Assistance",
+        "Leadership",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Syed Mehboob Ashfaq",
+      "position": "Human Resource Operations/Recruitment/Campus Coordinator - Intern.",
+      "employee_id": "Rup_012",
+      "skills": [
+        "Human Resource Operations",
+        "Recruitment",
+        "Campus Coordination"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_014",
+      "skills": [
+        "Human Resources",
+        "Executive Assistance",
+        "Team Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_015",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Saswat Mishra",
+      "position": "",
+      "employee_id": "Rup_016",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_017",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_018",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_019",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_020",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_021",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_022",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Suryansh Prajapati",
+      "position": "",
+      "employee_id": "Rup_023",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "Data Analysis",
+        "Machine Learning",
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_024",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_025",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Ajit Kumar",
+      "position": "",
+      "employee_id": "Rup_026",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vidyasagar Hiremath",
+      "position": "Database Engineer I @ Rupeek",
+      "employee_id": "Rup_027",
+      "skills": [
+        "SQL",
+        "Database Management",
+        "Data Warehousing",
+        "ETL Processes",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Database Security",
+        "Data Modeling",
+        "Python",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_028",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_029",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_030",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Stakeholder Management",
+        "Requirement Gathering"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_031",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "SQL",
+        "Excel",
+        "Presentation Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_032",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_033",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_034",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_035",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Suryansh Prajapati",
+      "position": "",
+      "employee_id": "Rup_036",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_037",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Khushboo Gadodia",
+      "position": "Technical Support Engineer at Rupeek Fintech Pvt. Ltd",
+      "employee_id": "Rup_038",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Software Installation",
+        "System Configuration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Suryansh Prajapati",
+      "position": "",
+      "employee_id": "Rup_039",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_040",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_041",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_042",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Problem Solving",
+        "Team Collaboration",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Prateek Kumar",
+      "position": "SDE-1 @ Rupeek Fintech | Full Stack Developer | Expert in Microservices, Node.js, Java Spring Boot, React.js | Delivering Scalable Solutions for Fintech Innovation",
+      "employee_id": "Rup_043",
+      "skills": [
+        "Microservices",
+        "Node.js",
+        "Java Spring Boot",
+        "React.js",
+        "Full Stack Development",
+        "Scalable Solutions",
+        "Fintech Innovation"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_044",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_045",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_046",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_047",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_048",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_049",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving",
+        "Goal Setting",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_050",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning",
+        "Financial Services",
+        "Gold Loans"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_051",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Team Leadership",
+        "Credit Evaluation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_052",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Credit Evaluation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_053",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Brand Management",
+        "Social Media Marketing",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_054",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Financial Management"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_055",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_056",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Stakeholder Management",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_057",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pavan Pavan",
+      "position": "Sales at Rupeek",
+      "employee_id": "Rup_058",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_059",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management",
+        "Sales Team Leadership"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_060",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_061",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_062",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_063",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Strategic Planning",
+        "Investment Analysis",
+        "Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_064",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Process Improvement",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_065",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_066",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Development",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Apala Gwalera",
+      "position": "Associate Product Manager",
+      "employee_id": "Rup_067",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Communication",
+        "Team Collaboration",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_068",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "PowerPoint",
+        "Tableau",
+        "Communication Skills",
+        "Problem-Solving"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_069",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_070",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_071",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Gold Loans"
+      ]
+    },
+    {
+      "name": "Yogita Kataria",
+      "position": "Software Development Engineer at Rupeek",
+      "employee_id": "Rup_072",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Suryansh Prajapati",
+      "position": "",
+      "employee_id": "Rup_073",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_074",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_075",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_076",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Management",
+        "Market Research",
+        "Analytics",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_077",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_078",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_079",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ajit Kumar",
+      "position": "",
+      "employee_id": "Rup_080",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_081",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Budget Management",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_082",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "AMIT TIWARI",
+      "position": "Territory Business Manager at Rupeek",
+      "employee_id": "Rup_083",
+      "skills": [
+        "Territory Management",
+        "Business Development",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_084",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_085",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_086",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Business Development",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Revenue Growth",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Pavan Pavan",
+      "position": "Sales at Rupeek",
+      "employee_id": "Rup_087",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_088",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_089",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Gold Loans"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_090",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_091",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_092",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_093",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management",
+        "Sales Team Leadership"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_094",
+      "skills": [
+        "Operations Management",
+        "Team Coordination",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_095",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Team Leadership",
+        "Sales Strategy",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_096",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_097",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_098",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_099",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Modeling",
+        "Risk Management",
+        "MBA"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_100",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "Requirements Gathering",
+        "Process Improvement",
+        "SQL",
+        "Microsoft Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_101",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Intelligence",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_102",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication Skills",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_103",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_104",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Khushboo Gadodia",
+      "position": "Technical Support Engineer at Rupeek Fintech Pvt. Ltd",
+      "employee_id": "Rup_105",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Problem Solving",
+        "Communication",
+        "Technical Documentation",
+        "Software Installation",
+        "System Configuration",
+        "Network Support",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_106",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_107",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_108",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_109",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_110",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_111",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Relationship Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_112",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_113",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_114",
+      "skills": [
+        "Human Resources Management",
+        "Executive Assistance",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Organizational Development",
+        "Leadership",
+        "Communication Skills",
+        "Conflict Resolution",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_115",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Bhavana Arya",
+      "position": "Recruitment Specialist at Rupeek",
+      "employee_id": "Rup_116",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Policies",
+        "Candidate Screening",
+        "Job Posting",
+        "Applicant Tracking Systems (ATS)",
+        "Communication Skills",
+        "Negotiation Skills",
+        "Team Collaboration",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_117",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Loan Processing"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_118",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Team Leadership",
+        "Credit Evaluation",
+        "Regulatory Compliance",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_119",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_120",
+      "skills": [
+        "Human Resources Management",
+        "Executive Assistance",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Organizational Development",
+        "Leadership",
+        "Communication Skills",
+        "Conflict Resolution",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Amit Kochhar",
+      "position": "Talent Acquisition Specialist at Rupeek",
+      "employee_id": "Rup_121",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources",
+        "Candidate Sourcing",
+        "Interviewing",
+        "Employee Onboarding",
+        "Employer Branding",
+        "HR Strategy",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_122",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_123",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Modeling",
+        "Risk Management",
+        "MBA"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_124",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "PowerPoint",
+        "Presentation Skills",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_125",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Presentation Skills",
+        "Stakeholder Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Mohammed Tanveer",
+      "position": "Business Head HR at Rupeek",
+      "employee_id": "Rup_126",
+      "skills": [
+        "Human Resources Management",
+        "Leadership",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Strategic Planning",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Compensation and Benefits",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_127",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_128",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_129",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Stakeholder Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_130",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_131",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_132",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Vidyasagar Hiremath",
+      "position": "Database Engineer I @ Rupeek",
+      "employee_id": "Rup_133",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Data Analysis",
+        "Performance Tuning",
+        "Database Design",
+        "Troubleshooting",
+        "Backup and Recovery",
+        "Database Security",
+        "Stored Procedures",
+        "Indexing"
+      ]
+    },
+    {
+      "name": "vinoth kumar",
+      "position": "IT Lead at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_134",
+      "skills": [
+        "IT Management",
+        "Team Leadership",
+        "Project Management",
+        "Fintech",
+        "Technical Support",
+        "System Administration",
+        "Network Security",
+        "Software Development",
+        "Troubleshooting",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_135",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Stakeholder Management",
+        "Market Research",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Shubhangini Verma",
+      "position": "Business Analyst @ Rupeek",
+      "employee_id": "Rup_136",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "SQL",
+        "Excel",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_137",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_138",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_139",
+      "skills": [
+        "Client Relationship Management",
+        "Customer Service",
+        "Financial Services",
+        "Sales",
+        "Communication Skills",
+        "Problem Solving",
+        "Teamwork",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_140",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_141",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Performance Analysis",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Nyruth Dodla",
+      "position": "Rupeek | ISB Class of 2020",
+      "employee_id": "Rup_142",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_143",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_144",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relations",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_145",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Performance Metrics",
+        "Financial Services",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_146",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Negotiation",
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_147",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_148",
+      "skills": [
+        "Human Resources",
+        "Executive Assistance",
+        "Leadership",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Management",
+        "Performance Management",
+        "Organizational Development",
+        "Strategic Planning",
+        "Communication Skills",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Mahesh Narra",
+      "position": "Product @ Rupeek || Product || Strategy || Driving Product Growth",
+      "employee_id": "Rup_149",
+      "skills": [
+        "Product Management",
+        "Strategy",
+        "Product Growth"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_150",
+      "skills": [
+        "Customer Relationship Management",
+        "Sales",
+        "Communication",
+        "Financial Services",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_151",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_152",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Mahesh Narra",
+      "position": "Product @ Rupeek || Product || Strategy || Driving Product Growth",
+      "employee_id": "Rup_153",
+      "skills": [
+        "Product Management",
+        "Strategy",
+        "Product Growth"
+      ]
+    },
+    {
+      "name": "Apala Gwalera",
+      "position": "Associate Product Manager",
+      "employee_id": "Rup_154",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Agile Methodologies",
+        "Project Management",
+        "Data Analysis",
+        "User Experience (UX) Design",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_155",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Mohammed Tanveer",
+      "position": "Business Head HR at Rupeek",
+      "employee_id": "Rup_156",
+      "skills": [
+        "Human Resources Management",
+        "Leadership",
+        "Strategic Planning",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Organizational Development",
+        "Team Building",
+        "Conflict Resolution",
+        "HR Policies",
+        "Recruitment",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Bhavana Arya",
+      "position": "Recruitment Specialist at Rupeek",
+      "employee_id": "Rup_157",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Candidate Screening",
+        "Employee Onboarding",
+        "HR Policies",
+        "Communication Skills",
+        "Negotiation",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_158",
+      "skills": [
+        "Human Resources Management",
+        "Executive Assistance",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "Talent Acquisition",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Strategic Planning",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_159",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Bhavana Arya",
+      "position": "Recruitment Specialist at Rupeek",
+      "employee_id": "Rup_160",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Onboarding",
+        "Employee Relations",
+        "HR Policies",
+        "Applicant Tracking Systems (ATS)",
+        "Candidate Sourcing",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_161",
+      "skills": [
+        "Customer Relationship Management",
+        "Sales",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Collaboration",
+        "Financial Services",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_162",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_163",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_164",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_165",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_166",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_167",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_168",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_169",
+      "skills": [
+        "Customer Relationship Management",
+        "Sales",
+        "Communication",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_170",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_171",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Financial Services",
+        "Gold Loans"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_172",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_173",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Communication Skills",
+        "Problem Solving",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Mahesh Narra",
+      "position": "Product @ Rupeek || Product || Strategy || Driving Product Growth",
+      "employee_id": "Rup_174",
+      "skills": [
+        "Product Management",
+        "Strategy",
+        "Product Growth"
+      ]
+    },
+    {
+      "name": "Apala Gwalera",
+      "position": "Associate Product Manager",
+      "employee_id": "Rup_175",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Communication",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_176",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Coordination",
+        "Communication Skills",
+        "Problem Solving",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_177",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_178",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_179",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_180",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_181",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_182",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vidyasagar Hiremath",
+      "position": "Database Engineer I @ Rupeek",
+      "employee_id": "Rup_183",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Data Warehousing",
+        "ETL Processes",
+        "Performance Tuning",
+        "Database Security",
+        "Backup and Recovery",
+        "Data Modeling"
+      ]
+    },
+    {
+      "name": "Aryaman Sarmah",
+      "position": "SDE-I @Cashfree | Rupeek | CS'22 @BITS Pilani, Goa Campus",
+      "employee_id": "Rup_184",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "Node.js",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Git",
+        "REST APIs",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_185",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_186",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_187",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_188",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_189",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_190",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Team Leadership",
+        "Credit Evaluation"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_191",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_192",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_193",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_194",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Budgeting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_195",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_196",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_197",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Loan Processing",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_198",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_199",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "AMIT TIWARI",
+      "position": "Territory Business Manager at Rupeek",
+      "employee_id": "Rup_200",
+      "skills": [
+        "Business Management",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Revenue Growth",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_201",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_202",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Forecasting",
+        "Investment Analysis"
+      ]
+    },
+    {
+      "name": "Ruchir Tandon",
+      "position": "General Manager Sales",
+      "employee_id": "Rup_203",
+      "skills": [
+        "Sales Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Bhavana Arya",
+      "position": "Recruitment Specialist at Rupeek",
+      "employee_id": "Rup_204",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Policies",
+        "Candidate Sourcing",
+        "Communication Skills",
+        "Team Collaboration",
+        "Negotiation",
+        "Applicant Tracking Systems (ATS)"
+      ]
+    },
+    {
+      "name": "Ronit S.",
+      "position": "",
+      "employee_id": "Rup_205",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohina Nayak",
+      "position": "",
+      "employee_id": "Rup_206",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Javid Syed",
+      "position": "Marketing Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_207",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Brand Development",
+        "Market Research",
+        "Campaign Management",
+        "Analytics",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_208",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Financial Services",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Ajit Kumar",
+      "position": "",
+      "employee_id": "Rup_209",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_210",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Assessment",
+        "Strategic Planning",
+        "Investment Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_211",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_212",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_213",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Bhavana Arya",
+      "position": "Recruitment Specialist at Rupeek",
+      "employee_id": "Rup_214",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Policies",
+        "Candidate Sourcing",
+        "Communication Skills",
+        "Negotiation",
+        "Team Collaboration",
+        "Applicant Tracking Systems (ATS)"
+      ]
+    },
+    {
+      "name": "Amit Kochhar",
+      "position": "Talent Acquisition Specialist at Rupeek",
+      "employee_id": "Rup_215",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "HR Management",
+        "Communication Skills",
+        "Negotiation Skills",
+        "Networking",
+        "Applicant Tracking Systems"
+      ]
+    },
+    {
+      "name": "Mohd Ilyas Akhter",
+      "position": "",
+      "employee_id": "Rup_216",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_217",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management"
+      ]
+    },
+    {
+      "name": "Pavan Pavan",
+      "position": "Sales at Rupeek",
+      "employee_id": "Rup_218",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_219",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_220",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_221",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anuja Jha",
+      "position": "Business Analyst @ Rupeek | Schneider Electric",
+      "employee_id": "Rup_222",
+      "skills": [
+        "Business Analysis",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Stakeholder Management",
+        "Requirement Gathering"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_223",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Team Leadership",
+        "Credit Evaluation",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_224",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Credit Evaluation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_225",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Financial Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_226",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_227",
+      "skills": [
+        "Customer Relationship Management",
+        "Sales",
+        "Communication",
+        "Financial Services",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Pavan Pavan",
+      "position": "Sales at Rupeek",
+      "employee_id": "Rup_228",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Lead Generation",
+        "Negotiation",
+        "Market Research",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_229",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ajay Yadav",
+      "position": "Relationship Trainee At Rupeek Fintech Pvt Ltd.",
+      "employee_id": "Rup_230",
+      "skills": [
+        "Customer Relationship Management",
+        "Communication",
+        "Problem Solving",
+        "Sales",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sonali Verma",
+      "position": "Senior HR and EA to CEO @Rupeek",
+      "employee_id": "Rup_231",
+      "skills": [
+        "Human Resources",
+        "Executive Assistance",
+        "Leadership",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Organizational Development",
+        "Communication Skills",
+        "Strategic Planning",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_232",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Forecasting",
+        "Investment Analysis",
+        "Mergers and Acquisitions",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Ajit Kumar",
+      "position": "",
+      "employee_id": "Rup_233",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_234",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Mahesh Narra",
+      "position": "Product @ Rupeek || Product || Strategy || Driving Product Growth",
+      "employee_id": "Rup_235",
+      "skills": [
+        "Product Management",
+        "Strategy",
+        "Product Growth"
+      ]
+    },
+    {
+      "name": "Apala Gwalera",
+      "position": "Associate Product Manager",
+      "employee_id": "Rup_236",
+      "skills": [
+        "Product Management",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Agile Methodologies",
+        "Communication Skills",
+        "Problem Solving",
+        "Stakeholder Management",
+        "User Experience (UX)"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_237",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ankita Kapadne",
+      "position": "Operations Team Member at Rupeek",
+      "employee_id": "Rup_238",
+      "skills": [
+        "Operations Management",
+        "Team Collaboration",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_239",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Process Improvement",
+        "Customer Relationship Management",
+        "Performance Analysis",
+        "Budgeting",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Nishat Alam",
+      "position": "Program Manager @ Rupeek | Sales Operations",
+      "employee_id": "Rup_240",
+      "skills": [
+        "Program Management",
+        "Sales Operations",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Communication Skills",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Deekshith Ram",
+      "position": "City head operations at Rupeek",
+      "employee_id": "Rup_241",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Client Relations",
+        "Performance Analysis",
+        "Budgeting",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_242",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Mehul Vaghasiya",
+      "position": "Senior Loan manager at Rupeek",
+      "employee_id": "Rup_243",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Team Leadership",
+        "Credit Evaluation",
+        "Market Research",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_244",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management",
+        "Sales Team Leadership"
+      ]
+    },
+    {
+      "name": "Mansi Doshi",
+      "position": "Corporate Finance Manager @ Rupeek | MBA in Financial Management",
+      "employee_id": "Rup_245",
+      "skills": [
+        "Corporate Finance",
+        "Financial Management",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Strategic Planning",
+        "Excel",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_246",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Regulatory Compliance",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_247",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Sagar Lm",
+      "position": "Sales Manager at Rupeek",
+      "employee_id": "Rup_248",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Sagar L M",
+      "position": "Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_249",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Arpan Sarkar",
+      "position": "Business Analyst Intern @ Rupeek | NIT Jamshedpur CE (2021-25) | SQL | Python | Power BI | Analyst | Data Enthusiast",
+      "employee_id": "Rup_250",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Analyst",
+        "Data Enthusiast"
+      ]
+    },
+    {
+      "name": "Ganesh Choudhary",
+      "position": "Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | Kafka | Fintech | Data Engineering || Apache Spark || Python II AI II LLM II AI Agents ll Docker || Kubernetes |l Distributed Systems",
+      "employee_id": "Rup_251",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Fintech",
+        "Data Engineering",
+        "Apache Spark",
+        "Python",
+        "AI",
+        "LLM",
+        "AI Agents",
+        "Docker",
+        "Kubernetes",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "KRISHNAPRASAD C",
+      "position": "Operation Asst Manager at Rupeek",
+      "employee_id": "Rup_252",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ramesh Rathore",
+      "position": "Sales Team Lead at Rupeek | Inside Sales, Customer Service Management",
+      "employee_id": "Rup_253",
+      "skills": [
+        "Inside Sales",
+        "Customer Service Management",
+        "Sales Team Leadership"
+      ]
+    },
+    {
+      "name": "Ather Khan",
+      "position": "Loan Manager at Rupeek Fintech Pvt Ltd",
+      "employee_id": "Rup_254",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Gulzar Sheikh",
+      "position": "Executive Sales Manager at Rupeek Gold Loans",
+      "employee_id": "Rup_255",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Performance Metrics",
+        "Financial Services",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  ]
+}

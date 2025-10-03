@@ -22,8 +22,8 @@ from bs4 import BeautifulSoup
 ###############################################
 # CONFIG
 ###############################################
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyBsa_JCmZy5cJANA3-ksT3sPvwYqhuUQ4s")
-GOOGLE_CX = os.getenv("GOOGLE_CX", "55d9d391fe2394876")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyAohBAGNUxv_QpPXoMjvAXRipIqdhb1DY4")
+GOOGLE_CX = os.getenv("GOOGLE_CX", "9539617f2a9e14131")
 
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY", "2be1544b3dc14327b60a870fe8b94f35")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT", "https://notedai.openai.azure.com")  
@@ -31,14 +31,14 @@ AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION", "2024-06-01")
 AZURE_OPENAI_DEPLOYMENT_ID = os.getenv("AZURE_OPENAI_DEPLOYMENT_ID", "gpt-4o")
 
 MAX_CONCURRENT_FETCHES = int(os.getenv("MAX_CONCURRENT_FETCHES", "3"))
-MAX_CONCURRENT_EMPLOYEES = int(os.getenv("MAX_CONCURRENT_EMPLOYEES", "3"))  # Process N employees in parallel
+MAX_CONCURRENT_EMPLOYEES = int(os.getenv("MAX_CONCURRENT_EMPLOYEES", "4"))  # Process N employees in parallel
 MAX_CONCURRENT_SKILLS = int(os.getenv("MAX_CONCURRENT_SKILLS", "2"))  # Process N skills per employee in parallel
 WEBSITES_PER_QUERY = int(os.getenv("WEBSITES_PER_QUERY", "5"))
 DELAY_BETWEEN_SEARCHES_MS = int(os.getenv("DELAY_BETWEEN_SEARCHES_MS", "800"))  # Reduced delay
 DELAY_BETWEEN_FETCH_BATCHES_MS = int(os.getenv("DELAY_BETWEEN_FETCH_BATCHES_MS", "400"))  # Reduced delay
 DELAY_BETWEEN_EMPLOYEES_MS = int(os.getenv("DELAY_BETWEEN_EMPLOYEES_MS", "1000"))  # Delay between employee batches
 
-PROCESS_LIMIT = int(os.getenv("PROCESS_LIMIT", ""))  # Limit number of courses to generate
+PROCESS_LIMIT = int(os.getenv("PROCESS_LIMIT", "4"))  # Limit number of courses to generate
 EMPLOYEE_SELECTION = os.getenv("EMPLOYEE_SELECTION", )  # Options: "random", "first", "specific", "interactive"
 # Robust env parsing (no crash when var is missing)
 SPECIFIC_EMPLOYEES = [

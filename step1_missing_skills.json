@@ -1,0 +1,1264 @@
+[
+  {
+    "employee_name": "GAURAV AGRAWAL",
+    "role": "Sales Manager",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 8 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Amit Gupta",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 4 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pallavi Jain",
+    "role": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "interviewing",
+      "recruitment",
+      "talent acquisition"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 5 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Mukesh Bhatia",
+    "role": "Manipal Fintech (The Manipal Group)",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 5 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "ABHISHEK KUMAR BAJAJ",
+    "role": "Regional Head",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 34,
+    "gap_reasoning": "Found 7 priority gaps from 34 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Sajeesh ko",
+    "role": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Yati Singal",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 7 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Jaya Shrivastava",
+    "role": "Data Analyst | Power BI| 6+ Years of QA & Banking Experience |",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "vinodreddy yaragudri",
+    "role": "Cluster Head Manipal Fintech Bagalkote",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Gaurav Srivastava",
+    "role": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "risk management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 9 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Joya Roy",
+    "role": "senior executive human resources",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "performance management",
+      "python",
+      "recruitment",
+      "risk management",
+      "talent acquisition"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 8 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Mahima Singh Chauhan",
+    "role": "Product Manager || Ex Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "market research",
+      "product management",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 35,
+    "gap_reasoning": "Found 9 priority gaps from 35 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "MAYYANK BHOTIKA",
+    "role": "Manipal Technologies Limited",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "team leadership"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 9 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Firoj khan",
+    "role": "Gold Loan manager at Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 6 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Puja Abhishek Singh",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 5 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Romi Rai",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 4 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Niranjan Bhat",
+    "role": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "forecasting",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 36,
+    "gap_reasoning": "Found 9 priority gaps from 36 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "kalyan Sharma",
+    "role": "Software professional",
+    "current_skills": [],
+    "missing_skills": [
+      "agile methodologies",
+      "java",
+      "javascript",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 8 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Manish Dhoundiyal",
+    "role": "Sr. Trainer at Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "conflict resolution",
+      "data analysis",
+      "employee relations",
+      "performance management",
+      "recruitment"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 5 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Vaishali Bhat",
+    "role": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "digital marketing",
+      "market research",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "CA Rahul Kabira",
+    "role": "Finance Manager at Manipal Fintech| EX-EY | EX-ICICI Bank",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 32,
+    "gap_reasoning": "Found 8 priority gaps from 32 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Harshit Singh Rajawat",
+    "role": "sales business officer in Gold loan Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 9 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Mukesh Das",
+    "role": "Executive Finance & accounts",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "strategic planning"
+    ],
+    "competitor_count": 35,
+    "gap_reasoning": "Found 11 priority gaps from 35 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Atul Aggarwal",
+    "role": "Head - Legal & Compliance",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "python",
+      "sql"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 3 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ajay Kapoor",
+    "role": "General Manager",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "leadership",
+      "operations management",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 7 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Avadhesh Verma",
+    "role": "Distribution & Channel Expansion Expert | Sales Leader | Tech-Driven Merchant Acquisition Specialist | 14+ Years of Market Growth",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 8 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pushpendra dangi",
+    "role": "Cluster Head at Manipal Fintech-Gold Loan | 11+ Years in Banking & Finance | Gold Loan, Branch Sales & Operations Expert",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "business development",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 9 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "akshay jain",
+    "role": "Regional Head at Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Saurabh Jha",
+    "role": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+    "current_skills": [],
+    "missing_skills": [
+      "conflict resolution",
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "performance management",
+      "python",
+      "recruitment",
+      "risk management",
+      "talent acquisition"
+    ],
+    "competitor_count": 35,
+    "gap_reasoning": "Found 9 priority gaps from 35 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rishabh Jain",
+    "role": "Cluster Head Gold loan",
+    "current_skills": [],
+    "missing_skills": [
+      "budgeting",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 36,
+    "gap_reasoning": "Found 6 priority gaps from 36 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Atul Shukla",
+    "role": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 5 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Anuj Arora",
+    "role": "Founding Member at Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "operations management",
+      "process improvement",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 9 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Sylvester Domingo",
+    "role": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 5 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Kishore Kondeti",
+    "role": "Zonal Head at SahiBandhu",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Palash Srivastava",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "project management",
+      "python"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 3 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Jyotika Satija",
+    "role": "Manipal Fintech Private Limited",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "team leadership"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 5 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ashish CHOUDHARY",
+    "role": "",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "problem solving",
+      "python",
+      "sql"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 4 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Animesh Kumar",
+    "role": "Sales & Operations Leader",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 7 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Kshitiz Agrawal",
+    "role": "Lead Full Stack Developer | Solution Architect | Java • Spring Boot • React • System Design • Microservices",
+    "current_skills": [],
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "java",
+      "javascript",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 8 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pooja Thakran",
+    "role": "Business analyst at Sahibandhu fintech pvt ltd II BFSI Domain I IRDA Certified | NISM Certified I Ex- AXIS BANK",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 7 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Allan Fernandes",
+    "role": "Head of Product - Fintech | Product Strategy & Growth | Agent Network Onboarding | GTM | Operational Efficiency | IIM B | Ex-PwC",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "product management",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Manish Baghel",
+    "role": "Tha Manipal Group",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "project management",
+      "python",
+      "risk management",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 5 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Jaya Yadav",
+    "role": "MBA in Digital Marketing with the help of Imarticus learning.",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "digital marketing",
+      "market research",
+      "project management",
+      "seo",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 36,
+    "gap_reasoning": "Found 7 priority gaps from 36 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Karishma Rajput",
+    "role": "customer support Executive at Manipal group of solutions",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "customer service",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 5 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rajesh Agrawal",
+    "role": "Regional Head at Manipal Fintech Private Limited",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 7 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ayushi Rai",
+    "role": "Fintech |Manipal Fintech| Ex- Per Annum by Lendbox",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rajnish Sah",
+    "role": "Strategic Sales & Business Development Leader | Team Performance Expert | Business Growth Specialist | All financial product",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "data analysis",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 9 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Vivekanand Jha",
+    "role": "Lead DBA at Manipal Fintech Pvt. Ltd.",
+    "current_skills": [],
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "financial modeling",
+      "machine learning",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 9 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pramod Naidu",
+    "role": "Regional Head Sales Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 35,
+    "gap_reasoning": "Found 8 priority gaps from 35 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ankur Mathur",
+    "role": "HR Leader | Strategy, Partnering & People Management | Stakeholder Management | IIM Lucknow",
+    "current_skills": [],
+    "missing_skills": [
+      "conflict resolution",
+      "employee relations",
+      "performance management",
+      "recruitment",
+      "talent acquisition"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 5 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Amarjeet singh",
+    "role": "Regional Head at Sahibandhu",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 7 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "niloy dutta",
+    "role": "Business Development Representative at SahiBandhu",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "market research",
+      "negotiation",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 8 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rushikesh Tate",
+    "role": "sahi bandhu gold loan (The manipal group)",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 6 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Amrit ViRk",
+    "role": "Assistant Manager Central Operations",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "customer service",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 9 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Akkama S.",
+    "role": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+    "current_skills": [],
+    "missing_skills": [
+      "compensation and benefits",
+      "conflict resolution",
+      "employee relations",
+      "hr policies",
+      "organizational development",
+      "performance management",
+      "recruitment",
+      "strategic planning",
+      "talent acquisition",
+      "training and development"
+    ],
+    "competitor_count": 33,
+    "gap_reasoning": "Found 10 priority gaps from 33 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Shivam Gupta",
+    "role": "Business Strategy | CEO's Office | Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 7 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Kapil Yadav",
+    "role": "HR Executive/Business analyst/Tableau/ Power BI/ MS Excel/IBM",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "employee relations",
+      "financial modeling",
+      "python",
+      "recruitment",
+      "risk management",
+      "sql",
+      "talent acquisition"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ravi Jadhav",
+    "role": "Manipal Fintech | Regional Head",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 35,
+    "gap_reasoning": "Found 8 priority gaps from 35 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Priyal Jadon",
+    "role": "Manipal Fintech || SDE || Flutter Developer || Android Developer",
+    "current_skills": [],
+    "missing_skills": [
+      "agile methodologies",
+      "aws",
+      "data analysis",
+      "docker",
+      "java",
+      "javascript",
+      "kubernetes",
+      "microservices",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 13 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pinaki Dasgupta 🇮🇳",
+    "role": "Area Head @ Manipal Fintech | Bachelor of Arts",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Himanshu .",
+    "role": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "financial modeling",
+      "market research",
+      "product management",
+      "project management",
+      "risk management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 8 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rahul Virmani",
+    "role": "National Sales Head - Financial Services at Nearby Technologies Private Limited",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "project management",
+      "sales management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Megha shree",
+    "role": "AVP OPERATIONS at Pranil Property Point Pvt. Ltd.",
+    "current_skills": [],
+    "missing_skills": [
+      "customer service",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 8 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rozi Bisht",
+    "role": "Manipal Fintech",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "problem solving",
+      "project management",
+      "python",
+      "sql"
+    ],
+    "competitor_count": 42,
+    "gap_reasoning": "Found 5 priority gaps from 42 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "RAMKUMAR SUBRAMONIAN",
+    "role": "Senior Banking Professional / IIM Calcutta / CBO/ Growth Leader",
+    "current_skills": [],
+    "missing_skills": [
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "project management",
+      "python",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 8 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Akshita Tyagi",
+    "role": "Software Developer at SahiBandhu Fintech Services Pvt Ltd",
+    "current_skills": [],
+    "missing_skills": [
+      "agile methodologies",
+      "data analysis",
+      "java",
+      "javascript",
+      "node.js",
+      "problem solving",
+      "python",
+      "react",
+      "sql",
+      "team collaboration"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 10 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Salman Ahmed",
+    "role": "Assistant Manager @ Manipal Fintech | Strategic Thinking, Team Building | Driving Sales | Project Management | PMP Basics | Customer Service Specialist | Insurance Expert | B2B & B2C | Direct Sales |",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 7 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Navanit Yadav",
+    "role": "Zonal Head 10 years of experience in Gold loan industries",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 7 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Hari Prasad",
+    "role": "Administration & Facilities Management | Driving Operational Excellence at EqualizeRCM",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "financial modeling",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "python",
+      "risk management",
+      "team leadership"
+    ],
+    "competitor_count": 40,
+    "gap_reasoning": "Found 10 priority gaps from 40 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Alokit Nath Mishra",
+    "role": "Assistant Manager MIS",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "excel",
+      "financial modeling",
+      "problem solving",
+      "project management",
+      "python",
+      "risk management",
+      "sql",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 38,
+    "gap_reasoning": "Found 11 priority gaps from 38 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Kavita Mitra",
+    "role": "Manipal Business Solutions",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "problem solving",
+      "project management"
+    ],
+    "competitor_count": 41,
+    "gap_reasoning": "Found 4 priority gaps from 41 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Tarun Singh",
+    "role": "senior sales officer at Reliance Retail",
+    "current_skills": [],
+    "missing_skills": [
+      "business development",
+      "communication skills",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "problem solving",
+      "project management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 37,
+    "gap_reasoning": "Found 9 priority gaps from 37 matched competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Prasanna Kumari",
+    "role": "Manipal Technologies Limited",
+    "current_skills": [],
+    "missing_skills": [
+      "communication skills",
+      "data analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "risk management",
+      "team leadership"
+    ],
+    "competitor_count": 39,
+    "gap_reasoning": "Found 8 priority gaps from 39 matched competitors",
+    "confidence_score": 0.95
+  }
+]

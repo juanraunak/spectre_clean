@@ -1,0 +1,2372 @@
+{
+  "company_name": "Indiagold",
+  "employees": [
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vibhay Sachan",
+      "position": "Hiring for multiple positions at indiagold",
+      "employee_id": "Ind_002",
+      "skills": [
+        "Hiring",
+        "Recruitment",
+        "Talent Acquisition"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_003",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Excel",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_004",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_005",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_006",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Development",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_007",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_008",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_009",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_010",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_011",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Sales Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_012",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_013",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Business Development",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_014",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_015",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_016",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_017",
+      "skills": [
+        "Loan Management",
+        "Risk Assessment",
+        "Customer Service",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Negotiation Skills",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_018",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_019",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Financial Reporting",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_020",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Performance Monitoring",
+        "Financial Reporting",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_021",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_022",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Regional Operations",
+        "Customer Service",
+        "Strategic Planning",
+        "Market Analysis",
+        "Sales Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_023",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Strategic Planning",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_024",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_025",
+      "skills": [
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_026",
+      "skills": [
+        "Gold Loan",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Customer Service",
+        "Sales",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_027",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_028",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_029",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_030",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Avdhesh Tripathi",
+      "position": "",
+      "employee_id": "Ind_031",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_032",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Service",
+        "Market Analysis",
+        "Business Development",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_033",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_034",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_035",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_036",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Leadership",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_037",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Financial Planning",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_038",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Problem Solving",
+        "Microsoft Office",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_039",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_040",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Strategic Planning",
+        "Performance Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_041",
+      "skills": [
+        "Gold Loan Industry",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Doorstep Services",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Expansion",
+        "Customer Service",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_042",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_043",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_044",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Vendor Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_045",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_046",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_047",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_048",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_049",
+      "skills": [
+        "Gold Loan Industry",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Service",
+        "Sales Management",
+        "Market Analysis",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_050",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Financial Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_051",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_052",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Expansion",
+        "Customer Service",
+        "Sales Management",
+        "Regional Operations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_053",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_054",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Expansion",
+        "Customer Service",
+        "Sales Management",
+        "Operational Efficiency",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_055",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_056",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_057",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_058",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_059",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Budgeting",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_060",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Performance Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_061",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_062",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Excel",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_063",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Sales Management",
+        "Market Analysis",
+        "Financial Reporting",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_064",
+      "skills": [
+        "Loan Management",
+        "Risk Assessment",
+        "Customer Service",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_065",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_066",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_067",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Resource Allocation",
+        "Performance Monitoring",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Avdhesh Tripathi",
+      "position": "",
+      "employee_id": "Ind_068",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_069",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_070",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_071",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_072",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Analysis",
+        "Team Leadership",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_073",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_074",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Strategic Planning",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_075",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Analysis",
+        "Team Leadership",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_076",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_077",
+      "skills": [
+        "Gold Loan",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Service",
+        "Sales Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_078",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Analysis",
+        "Loan Origination",
+        "Portfolio Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_079",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_080",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_081",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_082",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_083",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_084",
+      "skills": [
+        "Gold Loan Industry",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Customer Service",
+        "Sales Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_085",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_086",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Leadership",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_087",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_088",
+      "skills": [
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Performance Tracking",
+        "Financial Reporting",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_089",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_090",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Performance Monitoring",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_091",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_092",
+      "skills": [
+        "Gold Loan",
+        "Fintech",
+        "Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Customer Service",
+        "Sales",
+        "Marketing",
+        "Operations Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_093",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Project Management",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_094",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_095",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_096",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_097",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_098",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Data Analysis",
+        "Project Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_099",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_100",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_101",
+      "skills": [
+        "Cluster Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Performance Optimization",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_102",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_103",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Performance Tracking",
+        "Business Development",
+        "Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_104",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_105",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_106",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_107",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_108",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_109",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_110",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Performance Monitoring",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "RAJESH KUMAR",
+      "position": "",
+      "employee_id": "Ind_111",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Vendor Management",
+        "Contract Negotiation",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_112",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Service",
+        "Market Analysis",
+        "Business Development",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_113",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_114",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_115",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Operations Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_116",
+      "skills": [
+        "Gold Loan",
+        "Fintech",
+        "Management",
+        "Leadership",
+        "Strategic Planning",
+        "Team Building",
+        "Customer Service",
+        "Market Analysis",
+        "Sales",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_117",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_118",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_119",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Negotiation",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_120",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Regional Management",
+        "Customer Service",
+        "Strategic Planning",
+        "Business Development",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_121",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Service",
+        "Sales Management",
+        "Regional Operations",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_122",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Leadership",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_123",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_124",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Business Development",
+        "Project Management",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_125",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Strategic Planning",
+        "Data Analysis",
+        "Customer Service",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_126",
+      "skills": [
+        "Gold Loan Industry",
+        "Fintech",
+        "General Management",
+        "Regional Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Customer Service",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_127",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_128",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_129",
+      "skills": [
+        "Gold Loan",
+        "Fintech",
+        "General Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Expansion",
+        "Customer Service",
+        "Sales Management",
+        "Regional Operations",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_130",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Leadership",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Vibhay Sachan",
+      "position": "Hiring for multiple positions at indiagold",
+      "employee_id": "Ind_131",
+      "skills": [
+        "Hiring",
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Job Posting"
+      ]
+    },
+    {
+      "name": "Aditi Ramnani",
+      "position": "",
+      "employee_id": "Ind_132",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_133",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_134",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_135",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_136",
+      "skills": [
+        "Cluster Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Operational Efficiency",
+        "Customer Relationship Management",
+        "Sales Management",
+        "Market Analysis",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_137",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Regional Management",
+        "Customer Service",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_138",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_139",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_140",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Leadership",
+        "Business Development",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_141",
+      "skills": [
+        "Loan Management",
+        "Risk Assessment",
+        "Customer Service",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_142",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_143",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_144",
+      "skills": [
+        "Loan Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_145",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Regional Operations Management",
+        "Customer Service",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_146",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_147",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_148",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Performance Monitoring",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_149",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_150",
+      "skills": [
+        "Loan Management",
+        "Customer Service",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Anshul Kumar",
+      "position": "General Manager-RH at indiagold -Gold Loan & Door Step (Delhi NCR,UP,UK, Haryana,Raj, Gujarat,Indore,Pune) 16 years experience in Gold loan industry & Fintech",
+      "employee_id": "Ind_151",
+      "skills": [
+        "Gold Loan Management",
+        "Fintech",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Expansion",
+        "Customer Service",
+        "Operational Efficiency",
+        "Sales Management",
+        "Regional Management"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_152",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_153",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Negotiation",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Arun shukla",
+      "position": "indiagold",
+      "employee_id": "Ind_154",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vijaya Mahalakshmi",
+      "position": "Operations Team Lead at Indiagold",
+      "employee_id": "Ind_155",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_156",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring",
+        "Operational Efficiency",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Udhaya Chandran",
+      "position": "Loan manager at indiagold",
+      "employee_id": "Ind_157",
+      "skills": [
+        "Loan Management",
+        "Risk Assessment",
+        "Customer Service",
+        "Financial Analysis",
+        "Credit Evaluation",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohit Surve",
+      "position": "Cluster Manager at indiagold",
+      "employee_id": "Ind_158",
+      "skills": [
+        "Team Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Leadership",
+        "Financial Planning",
+        "Performance Monitoring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3597 @@
+{
+  "company_name": "Bharatpe",
+  "employees": [
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_001",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_002",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Recruitment",
+        "Employee Engagement",
+        "Conflict Resolution",
+        "Organizational Development",
+        "Leadership Development"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_003",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_004",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_005",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_006",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Richa Rai",
+      "position": "Assistant Manager at Bharatpe",
+      "employee_id": "Bha_007",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Microsoft Office",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_008",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Strategy",
+        "Organizational Development",
+        "Leadership",
+        "Training and Development",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_009",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Brand Management",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "IMMACULATE SWETHA L",
+      "position": "",
+      "employee_id": "Bha_010",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Richa Rai",
+      "position": "Assistant Manager at Bharatpe",
+      "employee_id": "Bha_011",
+      "skills": [
+        "Team Management",
+        "Customer Service",
+        "Financial Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Leadership",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_012",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Organizational Development",
+        "HR Policies",
+        "Recruitment",
+        "Training and Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_013",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_014",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Strategic Planning",
+        "Communication Skills",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Rohit Garg",
+      "position": "SDE2 @ BharatPe | Building Scalable Fintech Platforms | Java | Spring Boot | Kafka | Microservices | Redis | AWS | Data-Driven Engineering",
+      "employee_id": "Bha_015",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Microservices",
+        "Redis",
+        "AWS",
+        "Data-Driven Engineering"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_016",
+      "skills": [
+        "Fintech",
+        "Product Development",
+        "Software Development",
+        "Python",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Peeyush Bakolia",
+      "position": "SDE 2 @ Bharatpe | IIT BHU",
+      "employee_id": "Bha_017",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithms",
+        "Data Structures",
+        "Problem Solving",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Kushagra Chandra",
+      "position": "Software Technical Lead at BharatPe",
+      "employee_id": "Bha_018",
+      "skills": [
+        "Software Development",
+        "Technical Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Problem Solving",
+        "System Architecture",
+        "Agile Methodologies",
+        "Code Review",
+        "Mentoring",
+        "Java",
+        "Python",
+        "SQL",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Ravindra Kaushik",
+      "position": "Director of Engineering at BharatPe",
+      "employee_id": "Bha_019",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Team Building",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Management",
+        "Technical Architecture",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Rohit Garg",
+      "position": "SDE2 @ BharatPe | Building Scalable Fintech Platforms | Java | Spring Boot | Kafka | Microservices | Redis | AWS | Data-Driven Engineering",
+      "employee_id": "Bha_020",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Microservices",
+        "Redis",
+        "AWS",
+        "Data-Driven Engineering"
+      ]
+    },
+    {
+      "name": "Kushagra Chandra",
+      "position": "Software Technical Lead at BharatPe",
+      "employee_id": "Bha_021",
+      "skills": [
+        "Software Development",
+        "Technical Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Problem Solving",
+        "Agile Methodologies",
+        "Code Review",
+        "Mentoring",
+        "System Design",
+        "Java",
+        "Python",
+        "SQL",
+        "API Development",
+        "Microservices",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_022",
+      "skills": [
+        "Fintech",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Aman Kumar",
+      "position": "SDE I at BharatPe",
+      "employee_id": "Bha_023",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithm Design",
+        "Data Structures",
+        "Problem Solving",
+        "Version Control",
+        "Agile Methodologies",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rupak Lingwal",
+      "position": "Data Engineer @ BharatPe | MIT @ University of Auckland",
+      "employee_id": "Bha_024",
+      "skills": [
+        "Data Engineering",
+        "Python",
+        "Data Analysis",
+        "SQL",
+        "ETL",
+        "Big Data",
+        "Hadoop",
+        "Spark",
+        "Machine Learning",
+        "AWS",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_025",
+      "skills": [
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Abhinav Pratap Singh",
+      "position": "Data Scientist @ BharatPe | IIT KANPUR | AI-ML | GenAI",
+      "employee_id": "Bha_026",
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Riya Kumar",
+      "position": "SDE @ Bharatpe | NSUT’25",
+      "employee_id": "Bha_027",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithms",
+        "Data Structures",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_028",
+      "skills": [
+        "Fintech",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Swati Kumari Chaurasia",
+      "position": "SDE-I at BharatPe",
+      "employee_id": "Bha_029",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Manas Gautam",
+      "position": "Software Engineer at BharatPe | Next.js | ReactJS | Javascript",
+      "employee_id": "Bha_030",
+      "skills": [
+        "Next.js",
+        "ReactJS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Chirag Maini",
+      "position": "DevOps| BharatPe | NSUT",
+      "employee_id": "Bha_031",
+      "skills": [
+        "DevOps",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kushagra Chandra",
+      "position": "Software Technical Lead at BharatPe",
+      "employee_id": "Bha_032",
+      "skills": [
+        "Software Development",
+        "Technical Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Problem Solving",
+        "System Architecture",
+        "Code Review",
+        "Mentoring",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "name": "Rohit Garg",
+      "position": "SDE2 @ BharatPe | Building Scalable Fintech Platforms | Java | Spring Boot | Kafka | Microservices | Redis | AWS | Data-Driven Engineering",
+      "employee_id": "Bha_033",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Microservices",
+        "Redis",
+        "AWS",
+        "Data-Driven Engineering"
+      ]
+    },
+    {
+      "name": "Swati Kumari Chaurasia",
+      "position": "SDE-I at BharatPe",
+      "employee_id": "Bha_034",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Peeyush Bakolia",
+      "position": "SDE 2 @ Bharatpe | IIT BHU",
+      "employee_id": "Bha_035",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithms",
+        "Data Structures",
+        "Problem Solving",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Kushagra Chandra",
+      "position": "Software Technical Lead at BharatPe",
+      "employee_id": "Bha_036",
+      "skills": [
+        "Software Development",
+        "Technical Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Problem Solving",
+        "Agile Methodologies",
+        "Code Review",
+        "Mentoring",
+        "System Design",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "RAHUL BHUCHER",
+      "position": "Business Associate at BharatPe",
+      "employee_id": "Bha_037",
+      "skills": [
+        "Business Development",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Research",
+        "Data Analysis",
+        "Financial Analysis",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Bhavna Bhatt",
+      "position": "Data entry at BharatPe",
+      "employee_id": "Bha_038",
+      "skills": [
+        "Data Entry",
+        "Microsoft Excel",
+        "Attention to Detail",
+        "Time Management",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Seshdev Rath",
+      "position": "Software Engineer at BharatPe",
+      "employee_id": "Bha_039",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "API Development",
+        "Microservices",
+        "Agile Methodologies",
+        "Version Control",
+        "Unit Testing"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_040",
+      "skills": [
+        "Fintech",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Peeyush Bakolia",
+      "position": "SDE 2 @ Bharatpe | IIT BHU",
+      "employee_id": "Bha_041",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Software Development",
+        "Algorithm Design",
+        "Data Structures",
+        "System Design",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Peeyush Bakolia",
+      "position": "SDE 2 @ Bharatpe | IIT BHU",
+      "employee_id": "Bha_042",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Aman Kumar",
+      "position": "SDE I at BharatPe",
+      "employee_id": "Bha_043",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Pendyala Kaushik Kashyap",
+      "position": "Software Engineer @ BharatPe | JAVA SPRING BOOT MongoDB, Confluent Kafka",
+      "employee_id": "Bha_044",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "Confluent Kafka"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_045",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Manas Gautam",
+      "position": "Software Engineer at BharatPe | Next.js | ReactJS | Javascript",
+      "employee_id": "Bha_046",
+      "skills": [
+        "Next.js",
+        "ReactJS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Chirag Maini",
+      "position": "DevOps| BharatPe | NSUT",
+      "employee_id": "Bha_047",
+      "skills": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Shatrughan Singh",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_048",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Business Development",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Strategic Planning",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Praveen Modi",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_049",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth",
+        "Business Development",
+        "CRM Software",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Punith s",
+      "position": "area sales manager at BharatPe",
+      "employee_id": "Bha_050",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Business Development",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_051",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Financial Reporting",
+        "Compliance",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_052",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Aastha Srivastava",
+      "position": "Program Manager At BharatPe | Technical Project Manager | Certified Professional Scrum Master (PSM-1) | Driving Excellence in Execution & Delivery at BharatPe",
+      "employee_id": "Bha_053",
+      "skills": [
+        "Project Management",
+        "Scrum Master",
+        "Agile Methodologies",
+        "Execution Excellence",
+        "Delivery Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_054",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Sumeet Singh",
+      "position": "",
+      "employee_id": "Bha_055",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_056",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Staff Management",
+        "Curriculum Development",
+        "Student Enrollment",
+        "Budgeting",
+        "Conflict Resolution",
+        "Communication Skills",
+        "Organizational Skills",
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "SANJAY SHARMA",
+      "position": "",
+      "employee_id": "Bha_057",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_058",
+      "skills": [
+        "Finance operations",
+        "Financial analysis",
+        "Budgeting",
+        "Forecasting",
+        "Team management",
+        "Strategic planning",
+        "Risk management",
+        "Compliance",
+        "Financial reporting",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_059",
+      "skills": [
+        "Sales",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_060",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Supply Chain Management",
+        "Data Analysis",
+        "Financial Analysis",
+        "Vendor Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Arun Sharma",
+      "position": "Escalation Lead at BharatPe (swipe operations)",
+      "employee_id": "Bha_061",
+      "skills": [
+        "Escalation Management",
+        "Operations Management",
+        "Customer Service",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_062",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_063",
+      "skills": [
+        "Finance operations",
+        "Financial analysis",
+        "Risk management",
+        "Team leadership",
+        "Strategic planning",
+        "Budgeting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_064",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Supply Chain Management",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Data Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_065",
+      "skills": [
+        "Sales",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "IMMACULATE SWETHA L",
+      "position": "",
+      "employee_id": "Bha_066",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Tanmay Sagar",
+      "position": "Head Of Public Relations at BharatPe",
+      "employee_id": "Bha_067",
+      "skills": [
+        "Public Relations",
+        "Communication",
+        "Media Relations",
+        "Crisis Management",
+        "Strategic Planning",
+        "Leadership",
+        "Brand Management",
+        "Event Planning",
+        "Stakeholder Engagement",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_068",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Brand Management",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Lead Generation",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Rohit Garg",
+      "position": "SDE2 @ BharatPe | Building Scalable Fintech Platforms | Java | Spring Boot | Kafka | Microservices | Redis | AWS | Data-Driven Engineering",
+      "employee_id": "Bha_069",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Microservices",
+        "Redis",
+        "AWS",
+        "Data-Driven Engineering"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_070",
+      "skills": [
+        "Fintech",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Pendyala Kaushik Kashyap",
+      "position": "Software Engineer @ BharatPe | JAVA SPRING BOOT MongoDB, Confluent Kafka",
+      "employee_id": "Bha_071",
+      "skills": [
+        "JAVA",
+        "SPRING BOOT",
+        "MongoDB",
+        "Confluent Kafka"
+      ]
+    },
+    {
+      "name": "Ravindra Kaushik",
+      "position": "Director of Engineering at BharatPe",
+      "employee_id": "Bha_072",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Project Management",
+        "Software Development",
+        "Engineering Management",
+        "Strategic Planning",
+        "Technical Expertise",
+        "Problem Solving",
+        "Communication Skills",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Rohit Garg",
+      "position": "SDE2 @ BharatPe | Building Scalable Fintech Platforms | Java | Spring Boot | Kafka | Microservices | Redis | AWS | Data-Driven Engineering",
+      "employee_id": "Bha_073",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "Microservices",
+        "Redis",
+        "AWS",
+        "Data-Driven Engineering"
+      ]
+    },
+    {
+      "name": "Chirag Maini",
+      "position": "DevOps| BharatPe | NSUT",
+      "employee_id": "Bha_074",
+      "skills": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_075",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_076",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Field Sales",
+        "Market Research",
+        "Negotiation",
+        "Communication",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Gutti Sai Durga prasad",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_077",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Field Sales",
+        "Market Research",
+        "Negotiation",
+        "Communication",
+        "Product Promotion"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_078",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_079",
+      "skills": [
+        "Sales Strategy",
+        "Partnership Development",
+        "Team Leadership",
+        "Market Analysis",
+        "Business Development",
+        "Client Relationship Management",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_080",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_081",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Budgeting",
+        "Vendor Management",
+        "Customer Service",
+        "Data Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_082",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Financial Planning",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_083",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Revenue Growth",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_084",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_085",
+      "skills": [
+        "Sales",
+        "Partnerships",
+        "Business Development",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Revenue Growth",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_086",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_087",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_088",
+      "skills": [
+        "Partnerships",
+        "Sales",
+        "Business Development",
+        "Strategic Planning",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Shatrughan Singh",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_089",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Client Acquisition"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_090",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Abhinav Pratap Singh",
+      "position": "Data Scientist @ BharatPe | IIT KANPUR | AI-ML | GenAI",
+      "employee_id": "Bha_091",
+      "skills": [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "Data Analysis",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_092",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Tarun Kumar Sahoo",
+      "position": "Team Sales Manager at BharatPe",
+      "employee_id": "Bha_093",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Revenue Generation",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_094",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Management",
+        "Process Improvement",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Vendor Management",
+        "Budgeting",
+        "Customer Service",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_095",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Staff Management",
+        "Curriculum Development",
+        "Student Enrollment",
+        "Budget Management",
+        "Conflict Resolution",
+        "Communication Skills",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_096",
+      "skills": [
+        "Sales Strategy",
+        "Partnership Development",
+        "Business Development",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_097",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_098",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_099",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Bhavna Bhatt",
+      "position": "Data entry at BharatPe",
+      "employee_id": "Bha_100",
+      "skills": [
+        "Data Entry",
+        "Attention to Detail",
+        "Time Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Richa Rai",
+      "position": "Assistant Manager at Bharatpe",
+      "employee_id": "Bha_101",
+      "skills": [
+        "Team Management",
+        "Customer Service",
+        "Sales Strategy",
+        "Market Analysis",
+        "Project Coordination",
+        "Communication Skills",
+        "Problem Solving",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_102",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_103",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_104",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Lead Generation",
+        "Negotiation",
+        "Product Knowledge",
+        "Communication Skills",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Arun Sharma",
+      "position": "Escalation Lead at BharatPe (swipe operations)",
+      "employee_id": "Bha_105",
+      "skills": [
+        "Escalation Management",
+        "Operations Management",
+        "Customer Service",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_106",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Curriculum Development",
+        "Student Management",
+        "Staff Coordination",
+        "Conflict Resolution",
+        "Event Planning",
+        "Budget Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_107",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Manas Gautam",
+      "position": "Software Engineer at BharatPe | Next.js | ReactJS | Javascript",
+      "employee_id": "Bha_108",
+      "skills": [
+        "Next.js",
+        "ReactJS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Chirag Maini",
+      "position": "DevOps| BharatPe | NSUT",
+      "employee_id": "Bha_109",
+      "skills": [
+        "DevOps",
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kushagra Chandra",
+      "position": "Software Technical Lead at BharatPe",
+      "employee_id": "Bha_110",
+      "skills": [
+        "Software Development",
+        "Technical Leadership",
+        "Project Management",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_111",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Budgeting",
+        "Vendor Management",
+        "Performance Analysis",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_112",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_113",
+      "skills": [
+        "Finance Operations",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Budgeting",
+        "Forecasting",
+        "Compliance",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_114",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Organizational Development",
+        "HR Policies",
+        "Leadership",
+        "Strategic Planning",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_115",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Richa Rai",
+      "position": "Assistant Manager at Bharatpe",
+      "employee_id": "Bha_116",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Customer Service",
+        "Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_117",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication",
+        "Lead Generation",
+        "Product Knowledge",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Gutti Sai Durga prasad",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_118",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Field Sales",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Dipan Kapur",
+      "position": "Area Sales Manager at BharatPe | Driving Sales Growth",
+      "employee_id": "Bha_119",
+      "skills": [
+        "Sales Growth",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_120",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_121",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Richa Rai",
+      "position": "Assistant Manager at Bharatpe",
+      "employee_id": "Bha_122",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_123",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_124",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_125",
+      "skills": [
+        "MIS",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis",
+        "Excel",
+        "Reporting",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Rupak Lingwal",
+      "position": "Data Engineer @ BharatPe | MIT @ University of Auckland",
+      "employee_id": "Bha_126",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_127",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_128",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Anil Koli",
+      "position": "Data Analyst At Bharatpe | Excel | SQL | Power BI",
+      "employee_id": "Bha_129",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Kushagra Goel",
+      "position": "",
+      "employee_id": "Bha_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Abhinav Pratap Singh",
+      "position": "Data Scientist @ BharatPe | IIT KANPUR | AI-ML | GenAI",
+      "employee_id": "Bha_131",
+      "skills": [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "Data Analysis",
+        "GenAI"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_132",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_133",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Communication Skills",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_134",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Field Sales",
+        "Product Knowledge",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "RAHUL BHUCHER",
+      "position": "Business Associate at BharatPe",
+      "employee_id": "Bha_135",
+      "skills": [
+        "Business Analysis",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Project Management",
+        "Data Interpretation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_136",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashish Kumar",
+      "position": "State Head collections at Bharatpe",
+      "employee_id": "Bha_137",
+      "skills": [
+        "Collections Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_138",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Strategic Planning",
+        "Lead Generation",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_139",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_140",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Communication Skills",
+        "Team Collaboration",
+        "Product Knowledge",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_141",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_142",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_143",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Financial Analysis",
+        "Project Management",
+        "Strategic Planning",
+        "Vendor Management",
+        "Budgeting",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_144",
+      "skills": [
+        "Sales",
+        "Partnerships",
+        "Business Development",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_145",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_146",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_147",
+      "skills": [
+        "Finance operations",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "RAHUL BHUCHER",
+      "position": "Business Associate at BharatPe",
+      "employee_id": "Bha_148",
+      "skills": [
+        "Business Development",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Negotiation",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_149",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_150",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Product Knowledge",
+        "Communication Skills",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_151",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Brand Management",
+        "Negotiation",
+        "Communication Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_152",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Lead Generation",
+        "Account Management",
+        "Communication Skills",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashish Malhotra",
+      "position": "",
+      "employee_id": "Bha_153",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_154",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Prabudha Tiwari",
+      "position": "SDE-2 || BharatPe || Building Fintech Products",
+      "employee_id": "Bha_155",
+      "skills": [
+        "Python",
+        "Fintech",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_156",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development",
+        "Strategic Planning",
+        "Leadership",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Bhavna Bhatt",
+      "position": "Data entry at BharatPe",
+      "employee_id": "Bha_157",
+      "skills": [
+        "Data Entry",
+        "Attention to Detail",
+        "Microsoft Excel",
+        "Time Management",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_158",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Brand Management",
+        "Negotiation",
+        "Communication Skills",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_159",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_160",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Team Collaboration",
+        "Communication Skills",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_161",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Financial Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_162",
+      "skills": [
+        "Partnerships",
+        "Sales",
+        "Business Development",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_163",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_164",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Financial Analysis",
+        "Budgeting",
+        "Vendor Management",
+        "Customer Service",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_165",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_166",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_167",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Negotiation",
+        "Communication Skills",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_168",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_169",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Field Sales",
+        "Product Knowledge",
+        "Communication Skills",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_170",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Anjani Kumar Singh",
+      "position": "BharatPe Merchant || BharatPe Consumer || Invest BharatPe",
+      "employee_id": "Bha_171",
+      "skills": [
+        "Merchant Services",
+        "Consumer Services",
+        "Investment Management"
+      ]
+    },
+    {
+      "name": "Shamiya Malik",
+      "position": "Sales Specialist at BharatPe",
+      "employee_id": "Bha_172",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Research",
+        "Lead Generation",
+        "Sales Forecasting",
+        "CRM Software",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Ashish Malhotra",
+      "position": "",
+      "employee_id": "Bha_173",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_174",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_175",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_176",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_177",
+      "skills": [
+        "Partnerships",
+        "Sales",
+        "Business Development",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation",
+        "Market Analysis",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Abhishek kanade",
+      "position": "Asm - Bharatpe || Fintech || Intern @ Zepto || welingkar 24'",
+      "employee_id": "Bha_178",
+      "skills": [
+        "Fintech",
+        "Financial Analysis",
+        "Sales Management",
+        "Internship Experience"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_179",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_180",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Communication",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_181",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills",
+        "Lead Generation",
+        "Product Knowledge",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rupak Lingwal",
+      "position": "Data Engineer @ BharatPe | MIT @ University of Auckland",
+      "employee_id": "Bha_182",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "SQL",
+        "ETL",
+        "Big Data",
+        "Machine Learning",
+        "Data Warehousing",
+        "Cloud Computing",
+        "Apache Spark"
+      ]
+    },
+    {
+      "name": "Chirag Maini",
+      "position": "DevOps| BharatPe | NSUT",
+      "employee_id": "Bha_183",
+      "skills": [
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Ravi Ranjan Kumar",
+      "position": "",
+      "employee_id": "Bha_184",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_185",
+      "skills": [
+        "Partnerships",
+        "Sales",
+        "Business Development",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Market Analysis",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_186",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Financial Planning",
+        "Strategic Planning",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_187",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_188",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Sachin Hans",
+      "position": "Head of Collections | BharatPe | Digital Collections | Fintech",
+      "employee_id": "Bha_189",
+      "skills": [
+        "Digital Collections",
+        "Fintech",
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_190",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_191",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_192",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Performance Optimization",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_193",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Staff Management",
+        "Curriculum Development",
+        "Student Support",
+        "Event Planning",
+        "Communication Skills",
+        "Problem Solving",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_194",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_195",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_196",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Field Sales",
+        "Account Management",
+        "Communication Skills",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_197",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Revenue Growth",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_198",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Financial Management",
+        "Risk Management",
+        "Vendor Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_199",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Financial Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_200",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Mansoor Habib",
+      "position": "Area Sales Manager at BharatPe",
+      "employee_id": "Bha_201",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Punith s",
+      "position": "area sales manager at BharatPe",
+      "employee_id": "Bha_202",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_203",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_204",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arun Sharma",
+      "position": "Escalation Lead at BharatPe (swipe operations)",
+      "employee_id": "Bha_205",
+      "skills": [
+        "Escalation Management",
+        "Operations Management",
+        "Customer Service",
+        "Problem Solving",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_206",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_207",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_208",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Strategic Planning",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_209",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_210",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_211",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_212",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_213",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Abhishek kanade",
+      "position": "Asm - Bharatpe || Fintech || Intern @ Zepto || welingkar 24'",
+      "employee_id": "Bha_214",
+      "skills": [
+        "Fintech",
+        "Internship Experience",
+        "Financial Technology"
+      ]
+    },
+    {
+      "name": "Swati Asthana",
+      "position": "Senior Human Resources Manager at BharatPe",
+      "employee_id": "Bha_215",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies",
+        "Recruitment",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Garima Goel",
+      "position": "",
+      "employee_id": "Bha_216",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_217",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Shatrughan Singh",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_218",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Praveen Modi",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_219",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Revenue Growth",
+        "Negotiation",
+        "CRM Software",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_220",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Staff Management",
+        "Curriculum Development",
+        "Student Enrollment",
+        "Budget Management",
+        "Conflict Resolution",
+        "Event Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vishal Devarajan",
+      "position": "Operations manager at Bharatpe",
+      "employee_id": "Bha_221",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Project Management",
+        "Budgeting",
+        "Financial Analysis",
+        "Vendor Management",
+        "Supply Chain Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_222",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_223",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "SANJAY SHARMA",
+      "position": "",
+      "employee_id": "Bha_224",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_225",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_226",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_227",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Digital Marketing",
+        "Strategic Planning",
+        "Brand Management",
+        "Lead Generation",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_228",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_229",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Field Sales",
+        "Client Acquisition",
+        "Revenue Growth",
+        "Territory Management",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "RAHUL BHUCHER",
+      "position": "Business Associate at BharatPe",
+      "employee_id": "Bha_230",
+      "skills": [
+        "Business Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Bhavna Bhatt",
+      "position": "Data entry at BharatPe",
+      "employee_id": "Bha_231",
+      "skills": [
+        "Data entry",
+        "Attention to detail",
+        "Time management",
+        "Accuracy",
+        "Computer proficiency"
+      ]
+    },
+    {
+      "name": "Gutti Sai Durga prasad",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_232",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Field Sales",
+        "Market Analysis",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Chandan N.",
+      "position": "GM-Finance operations at BharatPe",
+      "employee_id": "Bha_233",
+      "skills": [
+        "Finance operations",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_234",
+      "skills": [
+        "Merchant Lending",
+        "Risk Management",
+        "Financial Analysis",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "SANJAY SHARMA",
+      "position": "",
+      "employee_id": "Bha_235",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Ashish Malhotra",
+      "position": "",
+      "employee_id": "Bha_236",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rakshit Bhat",
+      "position": "Manager- Payments and Partnerships @ Bharatpe | Product Manager at ICICI UPI and Digital Payments | Product Manager CBDC | VJTI'22",
+      "employee_id": "Bha_237",
+      "skills": [
+        "Payments",
+        "Partnerships",
+        "Product Management",
+        "UPI",
+        "Digital Payments",
+        "CBDC"
+      ]
+    },
+    {
+      "name": "Aastha Srivastava",
+      "position": "Program Manager At BharatPe | Technical Project Manager | Certified Professional Scrum Master (PSM-1) | Driving Excellence in Execution & Delivery at BharatPe",
+      "employee_id": "Bha_238",
+      "skills": [
+        "Program Management",
+        "Technical Project Management",
+        "Scrum Master",
+        "Execution Excellence",
+        "Delivery Management"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_239",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Project Management",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Sufia Sheikh",
+      "position": "School Administrator",
+      "employee_id": "Bha_240",
+      "skills": [
+        "School Administration",
+        "Educational Leadership",
+        "Student Management",
+        "Staff Coordination",
+        "Policy Implementation",
+        "Conflict Resolution",
+        "Budget Management",
+        "Event Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kamal sagar",
+      "position": "MIS Executive at BharatPe & || fintech Operations || operations specialist",
+      "employee_id": "Bha_241",
+      "skills": [
+        "MIS Reporting",
+        "Fintech Operations",
+        "Operations Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Saurav Kumar",
+      "position": "BharatPe, Senior Manager, Merchant Lending",
+      "employee_id": "Bha_242",
+      "skills": [
+        "Merchant Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Velayudham Kumaresan",
+      "position": "GM at BharatPe Of Sales & Operations",
+      "employee_id": "Bha_243",
+      "skills": [
+        "Sales Management",
+        "Operations Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Praveen Modi",
+      "position": "Sales Manager at BharatPe",
+      "employee_id": "Bha_244",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_245",
+      "skills": [
+        "Sales Strategy",
+        "Partnership Development",
+        "Team Leadership",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Client Relationship Management",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_246",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Abhishek kanade",
+      "position": "Asm - Bharatpe || Fintech || Intern @ Zepto || welingkar 24'",
+      "employee_id": "Bha_247",
+      "skills": [
+        "Fintech"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_248",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Sales Strategy",
+        "Business Development",
+        "Financial Services",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_249",
+      "skills": [
+        "Sales",
+        "Partnerships",
+        "Business Development",
+        "Team Leadership",
+        "Strategic Planning",
+        "Negotiation",
+        "Market Analysis",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Abhishek kanade",
+      "position": "Asm - Bharatpe || Fintech || Intern @ Zepto || welingkar 24'",
+      "employee_id": "Bha_250",
+      "skills": [
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Shaikh Anwar",
+      "position": "Sales And Marketing Specialist at BharatPe",
+      "employee_id": "Bha_251",
+      "skills": [
+        "Sales",
+        "Marketing",
+        "Customer Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Brand Management",
+        "Lead Generation",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Hari Prasanth",
+      "position": "Sales Professional at BharatPe",
+      "employee_id": "Bha_252",
+      "skills": [
+        "Sales",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amit Kumar Gupta",
+      "position": "Field Sales Executive at BharatPe",
+      "employee_id": "Bha_253",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Communication Skills",
+        "Product Knowledge",
+        "Time Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Sachin Dewan",
+      "position": "Head - Partnerships and Sales at BharatPe",
+      "employee_id": "Bha_254",
+      "skills": [
+        "Sales Management",
+        "Partnership Development",
+        "Business Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Negotiation",
+        "Customer Relationship Management (CRM)",
+        "Revenue Growth",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "BHUPENDRA SINGH SHEKHAWAT",
+      "position": "Area Sale Manager at BharatPe",
+      "employee_id": "Bha_255",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "NARESH V",
+      "position": "Zonal Head at BharatPe",
+      "employee_id": "Bha_256",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Sales",
+        "Business Development",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Financial Management",
+        "Operations Management"
+      ]
+    }
+  ]
+}

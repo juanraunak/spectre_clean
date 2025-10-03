@@ -1,0 +1,2209 @@
+{
+  "company_name": "Etmoney",
+  "employees": [
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_001",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_002",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_003",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Management",
+        "Customer Service",
+        "Communication Skills",
+        "Leadership",
+        "Problem Solving",
+        "Microsoft Excel",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_004",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Project Management",
+        "Strategic Planning",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_005",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_006",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_007",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Team Collaboration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vipin Garg",
+      "position": "Director of Engineering at ETMONEY",
+      "employee_id": "Etm_008",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Team Building",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Management",
+        "Technical Architecture",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Vipin Garg",
+      "position": "Director of Engineering at ETMONEY",
+      "employee_id": "Etm_009",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Team Building",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Management",
+        "Technical Architecture",
+        "Mentoring",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_010",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Software Development",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "Product Management",
+        "Technical Strategy",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_011",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_012",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_013",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Vipin Garg",
+      "position": "Director of Engineering at ETMONEY",
+      "employee_id": "Etm_014",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Team Building",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Management",
+        "Technical Architecture",
+        "Cross-functional Collaboration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_015",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_016",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_017",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_018",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "REST APIs",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_019",
+      "skills": [
+        "Engineering Management",
+        "Team Leadership",
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Technical Strategy",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_020",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_021",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Agile Methodologies",
+        "RESTful APIs",
+        "SQL",
+        "Git",
+        "Unit Testing",
+        "Debugging",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_022",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "REST APIs",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_023",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_024",
+      "skills": [
+        "Engineering Management",
+        "Team Leadership",
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "System Architecture",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_025",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Shyam yadav",
+      "position": "Developer at ETMONEY (Times Internet)#Times Of India",
+      "employee_id": "Etm_026",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_027",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control",
+        "Git",
+        "API Development",
+        "Unit Testing"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_028",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_029",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_030",
+      "skills": [
+        "Engineering Management",
+        "Team Leadership",
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Technical Strategy",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_031",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_032",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "RESTful APIs",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_033",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_034",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_035",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_036",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Project Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Analysis",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_037",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Conflict Resolution",
+        "Customer Satisfaction"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_038",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Customer Service",
+        "Project Management",
+        "Leadership",
+        "Strategic Planning",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_039",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_040",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Team Management",
+        "Problem Solving",
+        "Communication Skills",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_041",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Planning",
+        "Client Relationship Management",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_042",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_043",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_044",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Customer Relationship Management",
+        "Project Management",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Roshan Patil",
+      "position": "Market Research, Branding, Sale the Product with Excellent Service Support",
+      "employee_id": "Etm_045",
+      "skills": [
+        "Market Research",
+        "Branding",
+        "Sales",
+        "Service Support"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_046",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "CI/CD",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_047",
+      "skills": [
+        "Software Engineering",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git"
+      ]
+    },
+    {
+      "name": "Shyam yadav",
+      "position": "Developer at ETMONEY (Times Internet)#Times Of India",
+      "employee_id": "Etm_048",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Vipin Garg",
+      "position": "Director of Engineering at ETMONEY",
+      "employee_id": "Etm_049",
+      "skills": [
+        "Engineering Management",
+        "Software Development",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Development",
+        "Technical Architecture",
+        "Cross-functional Team Leadership"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_050",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Software Development",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "Product Management",
+        "Scrum",
+        "Technical Architecture",
+        "Cross-functional Team Leadership"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_051",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Unit Testing",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_052",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_053",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Shyam yadav",
+      "position": "Developer at ETMONEY (Times Internet)#Times Of India",
+      "employee_id": "Etm_054",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "API Development",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_055",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_056",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Strategic Planning",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_057",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Coordination",
+        "Client Relations",
+        "Budgeting",
+        "Strategic Planning",
+        "Market Research",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_058",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Budgeting",
+        "Client Relations",
+        "Market Research",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_059",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Roshan Patil",
+      "position": "Market Research, Branding, Sale the Product with Excellent Service Support",
+      "employee_id": "Etm_060",
+      "skills": [
+        "Market Research",
+        "Branding",
+        "Sales",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_061",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_062",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Planning",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_063",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Budgeting",
+        "Market Research",
+        "Performance Monitoring",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_064",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_065",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_066",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Management",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_067",
+      "skills": [
+        "Customer Experience",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_068",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_069",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_070",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_071",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_072",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_073",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Budgeting",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_074",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Market Analysis",
+        "Project Coordination",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_075",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Conflict Resolution",
+        "Project Management",
+        "Market Research",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Pushpendra Soni",
+      "position": "",
+      "employee_id": "Etm_076",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_077",
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Shyam yadav",
+      "position": "Developer at ETMONEY (Times Internet)#Times Of India",
+      "employee_id": "Etm_078",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "RESTful APIs",
+        "Unit Testing",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_079",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_080",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_081",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Planning",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_082",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_083",
+      "skills": [
+        "Software Development",
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_084",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Microsoft Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_085",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_086",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Microsoft Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_087",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_088",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)",
+        "Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_089",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Problem Solving",
+        "Communication",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_090",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_091",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Microsoft Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_092",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Vipin Garg",
+      "position": "Director of Engineering at ETMONEY",
+      "employee_id": "Etm_093",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "Team Building",
+        "Strategic Planning",
+        "Agile Methodologies",
+        "Product Management",
+        "Technical Architecture",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Raj Choudhary",
+      "position": "Engineering Manager at ETMONEY, Times Internet",
+      "employee_id": "Etm_094",
+      "skills": [
+        "Engineering Management",
+        "Team Leadership",
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Product Development",
+        "Technical Strategy",
+        "Cross-functional Collaboration",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_095",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Customer Relationship Management",
+        "Project Coordination",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_096",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_097",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Planning",
+        "Client Relations",
+        "Market Analysis",
+        "Strategic Planning",
+        "Budgeting",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_098",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_099",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_100",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_101",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Strategic Planning",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_102",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Customer Service",
+        "Project Management",
+        "Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_103",
+      "skills": [
+        "Customer Experience",
+        "Customer Service",
+        "Client Relations",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Akshay Sinha",
+      "position": "Restaurant Owner at Cha Thai",
+      "employee_id": "Etm_104",
+      "skills": [
+        "Restaurant Management",
+        "Business Operations",
+        "Customer Service",
+        "Team Leadership",
+        "Inventory Management",
+        "Financial Planning",
+        "Menu Development",
+        "Vendor Relations",
+        "Staff Training",
+        "Marketing Strategy"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_105",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Project Coordination",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_106",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Customer Service",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Pushpendra Soni",
+      "position": "",
+      "employee_id": "Etm_107",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_108",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "NoSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_109",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_110",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Roshan Patil",
+      "position": "Market Research, Branding, Sale the Product with Excellent Service Support",
+      "employee_id": "Etm_111",
+      "skills": [
+        "Market Research",
+        "Branding",
+        "Excellent Service Support"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_112",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_113",
+      "skills": [
+        "Team Management",
+        "Financial Analysis",
+        "Project Coordination",
+        "Client Communication",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_114",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_115",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_116",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Project Coordination",
+        "Customer Service",
+        "Market Analysis",
+        "Budgeting",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_117",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Budgeting",
+        "Strategic Planning",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_118",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research",
+        "Budgeting",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_119",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_120",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_121",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_122",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_123",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Communication Skills",
+        "Team Leadership",
+        "Problem Solving",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_124",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Planning",
+        "Budgeting",
+        "Data Analysis",
+        "Client Relations",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_125",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Client Relations",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_126",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Project Management",
+        "Client Relations",
+        "Data Analysis",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_127",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Budgeting",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Research",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_128",
+      "skills": [
+        "Team Management",
+        "Project Coordination",
+        "Financial Analysis",
+        "Client Communication",
+        "Problem Solving",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Akshay Sinha",
+      "position": "Restaurant Owner at Cha Thai",
+      "employee_id": "Etm_129",
+      "skills": [
+        "Restaurant Management",
+        "Customer Service",
+        "Team Leadership",
+        "Business Operations",
+        "Inventory Management",
+        "Marketing",
+        "Financial Planning",
+        "Vendor Relations",
+        "Quality Control"
+      ]
+    },
+    {
+      "name": "Pushpendra Soni",
+      "position": "",
+      "employee_id": "Etm_130",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_131",
+      "skills": [
+        "Customer Experience",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Client Relations",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_132",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Roshan Patil",
+      "position": "Market Research, Branding, Sale the Product with Excellent Service Support",
+      "employee_id": "Etm_133",
+      "skills": [
+        "Market Research",
+        "Branding",
+        "Sales",
+        "Service Support"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_134",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Project Coordination",
+        "Client Communication",
+        "Market Analysis",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_135",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_136",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Problem Solving",
+        "Communication Skills",
+        "Microsoft Office",
+        "Budgeting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Teekam Singh Kalyanwat",
+      "position": "SE2 at ETMoney | IIT Roorkee' 21",
+      "employee_id": "Etm_137",
+      "skills": [
+        "Python",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "SQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Prince Giri",
+      "position": "Software Engineer 3 at ETMONEY",
+      "employee_id": "Etm_138",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_139",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Customer Service",
+        "Project Management",
+        "Microsoft Excel",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manisha Baveja",
+      "position": "Assistant Manager at etmoney",
+      "employee_id": "Etm_140",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Budgeting",
+        "Client Relations",
+        "Project Management",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajinder Joshi",
+      "position": "Senior customer experience expert at ETMONEY",
+      "employee_id": "Etm_141",
+      "skills": [
+        "Customer Experience",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Leadership",
+        "Project Management"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3558 @@
+{
+  "company_name": "White Gold",
+  "employees": [
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_001",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Strategy",
+        "Conflict Resolution",
+        "Training and Development",
+        "Organizational Development",
+        "HR Compliance",
+        "Change Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_002",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Performance Management",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_003",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Communication Skills",
+        "Negotiation",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_005",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Performance Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_006",
+      "skills": [
+        "HR Consulting",
+        "Employee Relations",
+        "Talent Management",
+        "Recruitment",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "HR Policies",
+        "Compensation and Benefits",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_008",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Presentation Skills",
+        "Negotiation Skills"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_009",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Policies"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_010",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Onboarding",
+        "Interviewing",
+        "Strategic Planning",
+        "Communication Skills",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_011",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_012",
+      "skills": [
+        "HR Consulting",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "Training and Development",
+        "Conflict Resolution",
+        "HR Policies",
+        "Organizational Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_013",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Technical Support",
+        "Vendor Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nizam Khan",
+      "position": "Software Engineer",
+      "employee_id": "Whi_014",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_015",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Technical Support",
+        "Vendor Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Cloud Computing",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_016",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_017",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_018",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills",
+        "Strategic Planning",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_019",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_020",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_021",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Budget Management",
+        "Vendor Management",
+        "Quality Control",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_022",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_023",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_024",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_025",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_026",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Budget Management",
+        "Supply Chain Management",
+        "Quality Control",
+        "Risk Assessment",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Assessment",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_028",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Customer Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Communication Skills",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_029",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_030",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nizam Khan",
+      "position": "Software Engineer",
+      "employee_id": "Whi_031",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_032",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_033",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_034",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Research",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_035",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_036",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_037",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_038",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_039",
+      "skills": [
+        "Team Leadership",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Financial Planning",
+        "Market Analysis",
+        "Strategic Planning",
+        "Performance Monitoring",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_040",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relations",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_041",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Market Research",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_042",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Risk Assessment",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_043",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_044",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budgeting",
+        "Supply Chain Management",
+        "Quality Control",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_045",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_046",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_047",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_049",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Negotiation",
+        "Market Research",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_050",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_051",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations",
+        "Financial Reporting",
+        "Microsoft Excel",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Market Research",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_053",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills",
+        "Strategic Planning",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Keith Jenkin",
+      "position": "EVP at White Gold Cotton Marketing LLC",
+      "employee_id": "Whi_054",
+      "skills": [
+        "Marketing Strategy",
+        "Cotton Industry Expertise",
+        "Business Development",
+        "Sales Management",
+        "Client Relations",
+        "Market Analysis",
+        "Negotiation",
+        "Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_055",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_056",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_057",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_058",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_059",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "IT Strategy",
+        "Network Security",
+        "System Administration",
+        "Vendor Management",
+        "Budgeting",
+        "Technical Support",
+        "Software Development",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_060",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_061",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_062",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software",
+        "Communication Skills",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_063",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Research",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_064",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_065",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Client Relations",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_066",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Communication",
+        "Lead Generation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_067",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Budgeting",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_068",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_069",
+      "skills": [
+        "Financial Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Risk Assessment",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Project Management",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_070",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_071",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_072",
+      "skills": [
+        "Team Management",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Research",
+        "Leadership",
+        "Budgeting",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_073",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Communication Skills",
+        "Lead Generation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_074",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills",
+        "Strategic Planning",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_075",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_076",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Technical Support",
+        "Vendor Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Cloud Computing",
+        "Disaster Recovery",
+        "IT Infrastructure",
+        "Software Development",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_077",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_078",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_079",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_080",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Sales Training"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_081",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Client Relationship Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Communication Skills",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_082",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_083",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Client Relations",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_084",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_085",
+      "skills": [
+        "Financial Analysis",
+        "Consulting",
+        "Client Relations",
+        "Risk Assessment",
+        "Investment Strategies",
+        "Market Research",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_086",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_087",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Budgeting",
+        "Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_088",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_089",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Project Management",
+        "Excel",
+        "Statistics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_090",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software",
+        "Telemarketing",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_091",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_092",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Management",
+        "Team Collaboration",
+        "Market Research",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_093",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_094",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Lead Generation",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_095",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Development",
+        "Negotiation",
+        "Market Research",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_096",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_097",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_098",
+      "skills": [
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Strategy",
+        "Conflict Resolution",
+        "Training and Development",
+        "Organizational Development",
+        "HR Policies",
+        "Recruitment",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_099",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Negotiation",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_100",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Machine Learning",
+        "Excel",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_101",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_102",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_103",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Onboarding",
+        "HR Policies",
+        "Interviewing",
+        "Staffing Services",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_104",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Market Research",
+        "Client Relations",
+        "Negotiation",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_105",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Team Leadership",
+        "Project Management",
+        "Communication Skills",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_106",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_107",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_108",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Market Research",
+        "Project Coordination",
+        "Team Collaboration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_109",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_110",
+      "skills": [
+        "HR Consulting",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "Training and Development",
+        "Conflict Resolution",
+        "HR Strategy",
+        "Organizational Development",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_111",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Client Relations",
+        "Risk Assessment",
+        "Report Generation",
+        "Microsoft Excel",
+        "Financial Planning",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_112",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Market Research",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_113",
+      "skills": [
+        "Financial Analysis",
+        "Consulting",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Investment Strategies",
+        "Financial Planning",
+        "Market Research",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_114",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_115",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Statistical Analysis",
+        "Excel",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_116",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Strategic Planning",
+        "Communication Skills",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Aishwarya sm",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_117",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Client Relations",
+        "Market Research",
+        "Financial Planning",
+        "Wealth Management"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_118",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Client Relations",
+        "Market Research",
+        "Portfolio Management",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_119",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_120",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_121",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Market Research",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_122",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Client Relations",
+        "Risk Assessment",
+        "Budgeting",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_123",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Onboarding",
+        "HR Policies",
+        "Interviewing",
+        "Staffing Services",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_124",
+      "skills": [
+        "Financial Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_125",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Budget Management",
+        "Strategic Planning",
+        "Supply Chain Management",
+        "Quality Control",
+        "Resource Allocation",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_126",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Onboarding",
+        "HR Policies",
+        "Interviewing",
+        "Team Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_127",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_128",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_129",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_130",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations",
+        "Risk Assessment",
+        "Sales"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_131",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Management",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budgeting",
+        "Resource Allocation",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_132",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_133",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software",
+        "Telemarketing"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_134",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Sales Strategy",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_135",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Assessment",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_136",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Praveen Vedamanickam",
+      "position": "General Manager Process at White Gold Agro Product, Assam- 30 Years of Experience in Production and Operation of Sugar Industry",
+      "employee_id": "Whi_137",
+      "skills": [
+        "Production Management",
+        "Operational Management",
+        "Sugar Industry Expertise",
+        "Process Optimization",
+        "Team Leadership",
+        "Strategic Planning",
+        "Quality Control",
+        "Project Management",
+        "Supply Chain Management",
+        "Budgeting",
+        "Safety Compliance"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_138",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Communication",
+        "Market Analysis",
+        "Sales Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_139",
+      "skills": [
+        "Talent Acquisition",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "Performance Management",
+        "HR Strategy",
+        "Team Leadership",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_140",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Resource Allocation",
+        "Problem Solving",
+        "Communication Skills",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_141",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Budgeting",
+        "Strategic Planning",
+        "Supply Chain Management",
+        "Quality Control",
+        "Vendor Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_142",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_143",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Financial Planning",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_144",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Forecasting",
+        "Revenue Growth",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_145",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_146",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_147",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_148",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_149",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Vendor Management",
+        "Budgeting",
+        "Technical Support",
+        "Cloud Computing",
+        "Disaster Recovery",
+        "IT Infrastructure",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_150",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Management",
+        "Sales Strategy",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_151",
+      "skills": [
+        "Tele Sales",
+        "White gold",
+        "Money"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_152",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Strategy",
+        "Performance Management",
+        "Conflict Resolution",
+        "HR Compliance"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_153",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_154",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Customer Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Strategic Planning",
+        "Communication Skills",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_155",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_156",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_157",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Supply Chain Management",
+        "Quality Control",
+        "Risk Assessment",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_158",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_159",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_160",
+      "skills": [
+        "Team Management",
+        "Financial Planning",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Budgeting",
+        "Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_161",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Performance Management",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_162",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_163",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_164",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_165",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Vendor Management",
+        "Budgeting",
+        "Technical Support",
+        "Strategic Planning",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_166",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_167",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_168",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_169",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Risk Assessment",
+        "Operational Efficiency",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_170",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Assessment",
+        "Client Relations",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_171",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_172",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_173",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_174",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Vendor Management",
+        "Budgeting",
+        "Technical Support",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_175",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Performance Metrics",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_176",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_177",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Praveen Vedamanickam",
+      "position": "General Manager Process at White Gold Agro Product, Assam- 30 Years of Experience in Production and Operation of Sugar Industry",
+      "employee_id": "Whi_178",
+      "skills": [
+        "Production Management",
+        "Operations Management",
+        "Sugar Industry Expertise",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Quality Control",
+        "Supply Chain Management",
+        "Budgeting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_179",
+      "skills": [
+        "Financial Analysis",
+        "Market Research",
+        "Investment Strategies",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Ly Visal",
+      "position": "General Manager at White Gold Import Export Co., Ltd",
+      "employee_id": "Whi_180",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Team Management",
+        "Business Development",
+        "Negotiation",
+        "Financial Management",
+        "Market Analysis",
+        "Project Management",
+        "Supply Chain Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_181",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Customer Service",
+        "Sales Strategy",
+        "Risk Assessment",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_182",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Product Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_183",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_184",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Onboarding",
+        "Interviewing",
+        "HR Policies",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Christopher Marinin",
+      "position": "HR Consultant Lead",
+      "employee_id": "Whi_185",
+      "skills": [
+        "HR Consulting",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Conflict Resolution",
+        "Training and Development",
+        "HR Strategy",
+        "Organizational Development",
+        "Compliance Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_186",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Market Research",
+        "Investment Strategies",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_187",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills",
+        "Strategic Planning",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Keith Jenkin",
+      "position": "EVP at White Gold Cotton Marketing LLC",
+      "employee_id": "Whi_188",
+      "skills": [
+        "Marketing Strategy",
+        "Cotton Industry Expertise",
+        "Leadership",
+        "Business Development",
+        "Sales Management",
+        "Negotiation",
+        "Market Research",
+        "Client Relations",
+        "Strategic Planning",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_189",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_190",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Market Research",
+        "Negotiation",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Kiran Kumar G",
+      "position": "Cluster manager at White Gold Money",
+      "employee_id": "Whi_191",
+      "skills": [
+        "Team Leadership",
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Budgeting",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Mark Malambo Kaiba",
+      "position": "Stock Feed Coordinator at White Gold Milling Limited",
+      "employee_id": "Whi_192",
+      "skills": [
+        "Inventory Management",
+        "Supply Chain Coordination",
+        "Quality Control",
+        "Team Leadership",
+        "Logistics Management",
+        "Stock Feed Production",
+        "Vendor Relations",
+        "Process Improvement",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_193",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Performance Metrics",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_194",
+      "skills": [
+        "Sales Management",
+        "Real Estate Investment",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_195",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_196",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Onboarding",
+        "Interviewing",
+        "HR Policies",
+        "Performance Management",
+        "Conflict Resolution",
+        "Team Building"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_197",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_198",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Brian Fernandez",
+      "position": "",
+      "employee_id": "Whi_199",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Machine Learning",
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_200",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_201",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Risk Assessment",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_202",
+      "skills": [
+        "Operations Management",
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Supply Chain Management",
+        "Quality Control",
+        "Vendor Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_203",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Vendor Management",
+        "Budgeting",
+        "Technical Support",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_204",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Budgeting",
+        "Forecasting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_205",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_206",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_207",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Negotiation",
+        "Lead Generation",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_208",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Business Development",
+        "Presentation Skills",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Shaziya Tasneem",
+      "position": "Senior - Talent Acquisition HR at white gold",
+      "employee_id": "Whi_209",
+      "skills": [
+        "Talent Acquisition",
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Interviewing",
+        "Onboarding",
+        "HR Policies",
+        "Performance Management",
+        "Talent Management"
+      ]
+    },
+    {
+      "name": "Tele Sales",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_210",
+      "skills": [
+        "Sales",
+        "Customer Service",
+        "Communication",
+        "Lead Generation",
+        "Negotiation",
+        "CRM Software",
+        "Telemarketing"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_211",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Strategic Planning",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_212",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy",
+        "Negotiation",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_213",
+      "skills": [
+        "Financial Analysis",
+        "Consulting",
+        "Risk Management",
+        "Client Relations",
+        "Market Research",
+        "Financial Planning",
+        "Investment Strategies",
+        "Budgeting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_214",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Market Research",
+        "Business Development",
+        "Negotiation",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ly Visal",
+      "position": "General Manager at White Gold Import Export Co., Ltd",
+      "employee_id": "Whi_215",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Operations Management",
+        "Team Management",
+        "Sales",
+        "Marketing",
+        "Negotiation",
+        "Financial Management",
+        "Import Export Regulations"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_216",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Market Research",
+        "Project Coordination",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_217",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_218",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Sales Training"
+      ]
+    },
+    {
+      "name": "Thanga raja",
+      "position": "White Gold Bullion Pvt Ltd",
+      "employee_id": "Whi_219",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Client Relations",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Rajesh R Kanna",
+      "position": "IT Manager at White Gold",
+      "employee_id": "Whi_220",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Team Leadership",
+        "Network Security",
+        "System Administration",
+        "Technical Support",
+        "Vendor Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "otine cyipirano",
+      "position": "operation maneger at white gold engineering",
+      "employee_id": "Whi_221",
+      "skills": [
+        "Operations Management",
+        "Team Leadership",
+        "Project Management",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Performance Analysis",
+        "Resource Allocation",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nick Anderson",
+      "position": "Financial Services Consultant at White Gold Consulting",
+      "employee_id": "Whi_222",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Market Research",
+        "Portfolio Management",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_223",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Client Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jinu Prakash",
+      "position": "Assistant General Manager at WHITE GOLD BULLION PVT LTD",
+      "employee_id": "Whi_224",
+      "skills": [
+        "Financial Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Risk Assessment",
+        "Market Analysis",
+        "Business Development",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Pallavi Naik",
+      "position": "Team Lead - Pre Sales at White Gold Money",
+      "employee_id": "Whi_225",
+      "skills": [
+        "Pre Sales",
+        "Team Leadership",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_226",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Strategic Planning",
+        "Communication Skills",
+        "Lead Generation"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_227",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Client Relations",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_228",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Forecasting",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Ly Visal",
+      "position": "General Manager at White Gold Import Export Co., Ltd",
+      "employee_id": "Whi_229",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Operations Management",
+        "Financial Management",
+        "Team Building",
+        "Negotiation",
+        "Sales Management",
+        "Market Analysis",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_230",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Gunjan Gupta",
+      "position": "Product Associate - White Gold • Computer Science, BE",
+      "employee_id": "Whi_231",
+      "skills": [
+        "Product Management",
+        "Computer Science",
+        "Data Analysis",
+        "Project Coordination",
+        "Market Research",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Pradeep Bn",
+      "position": "BDE at White Gold Money",
+      "employee_id": "Whi_232",
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Client Relationship Management",
+        "Market Research",
+        "Negotiation",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Aishwarya sm",
+      "position": "White gold at White Gold Money",
+      "employee_id": "Whi_233",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Client Relations",
+        "Financial Planning",
+        "Wealth Management"
+      ]
+    },
+    {
+      "name": "Venkatesh Manne",
+      "position": "Sales Manager at White Gold Real Estate & Investment",
+      "employee_id": "Whi_234",
+      "skills": [
+        "Sales Management",
+        "Real Estate",
+        "Investment Strategies",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Market Analysis",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rana Muhammad kashif saeed",
+      "position": "Head Of Sales Department at White Gold International",
+      "employee_id": "Whi_235",
+      "skills": [
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Garud Choudhary",
+      "position": "Buisness Development Manager at White Gold Technologies",
+      "employee_id": "Whi_236",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Research",
+        "Client Relationship Management",
+        "Negotiation",
+        "Project Management",
+        "Team Leadership",
+        "Communication Skills",
+        "Strategic Planning",
+        "CRM Software"
+      ]
+    }
+  ]
+}
